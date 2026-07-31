@@ -1,0 +1,3 @@
+Source file: SpeechAudioFile_0.wav
+Batch: Recordings-root batch10 -- transcribed via Deepgram STT (2026-07-31)
+
