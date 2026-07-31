@@ -1,0 +1,5 @@
+Source file: 1ABzGgzj9GKqJu6WtzhUhbjs9Ne6TRAKX_20200930 141829-24D733A1.m4a
+Batch: Recordings-root batch6 -- Whisper hallucinated non-English text over noise/silence; not a real transcript
+Transcribed: 2026-07-31 (Whisper)
+
+[NOTE: Whisper produced Japanese-language text (apparent cooking-video narration style) over what is almost certainly background noise, TV audio, or silence -- a known hallucination artifact, not an actual recorded conversation. Flagged as low/no value; original audio file retained if re-check ever needed.]
