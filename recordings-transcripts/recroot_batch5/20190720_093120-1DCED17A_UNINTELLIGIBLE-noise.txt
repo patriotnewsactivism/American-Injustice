@@ -1,0 +1,5 @@
+Source file: 1d_BEH217UvbxaAP8cwsxpDzzqM4Y_I_o_20190720 093120-1DCED17A.m4a
+Batch: Recordings-root batch5 -- Whisper hallucinated non-English text over noise/silence; not a real transcript
+Transcribed: 2026-07-31 (Whisper)
+
+[NOTE: Whisper produced Korean-language text over what is almost certainly background noise or silence -- a known hallucination artifact, not an actual recorded conversation. Flagged as low/no value; original audio file retained if re-check ever needed.]
