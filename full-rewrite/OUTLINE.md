@@ -23,7 +23,7 @@ PART II: THE CROWDER YEARS (2018–2021)
 12. The Oxford U.S. Attorney's Office Confrontation [ ]
 13. The Drone and Growing Tensions [ ]
 14. The November 2021 Trial [ ]
-15. Chancery Court Chess Game [ ]
+15. Circuit Court Chess Game [ ] (the Smith-Luther swap, twice per Reardon)
 16. Commitment [ ]
 
 PART III: THE SECOND CASE (2022)
