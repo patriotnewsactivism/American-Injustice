@@ -15,11 +15,11 @@ PART I: THE ORIGIN (2016–2017)
 6. Six Weeks — the FBI 302 That Vanished [x]
 
 PART II: THE CROWDER YEARS (2018–2021)
-7. A False Accusation Weaponized [ ]
-8. Conviction and Contempt [ ]
-9. The Battle for Evidence [ ] (PCR, judge swap, notary-fraud theory)
-10. Three Years Running — the Pattern [ ] (CPS, recurring accusations)
-11. The February 2021 DUI Setup [ ]
+7. A False Accusation Weaponized [x]
+8. Conviction and Contempt [x]
+9. The Battle for Evidence [x] (PCR, judge swap, notary-fraud theory)
+10. Three Years Running — the Pattern [x] (CPS, recurring accusations)
+11. The February 2021 DUI Setup [x]
 12. The Oxford U.S. Attorney's Office Confrontation [ ]
 13. The Drone and Growing Tensions [ ]
 14. The November 2021 Trial [ ]
@@ -69,3 +69,13 @@ start of Part II: The Crowder Years. Continue chapter-by-chapter in this same st
 (~900-1300 words each), pushing to GitHub each session. At current pace (~6-7 chapters per
 work session), full 37-chapter draft is a multi-session project, not a multi-turn one within
 a single session -- budget accordingly across future sessions.
+
+2026-07-31 session 2: Chapters 6-10 drafted and pushed (~4,300 more words, running total ~10,560).
+Covers: Nov 2018 Crowder false report + Det. Holladay's investigation (Ch6) -> Sept 2020
+conviction + irregular non-enforcement + Reardon's own $500 contempt arrest/$10M pro se suit
+(Ch7) -> 2020 PCR/Smith-Luther judge swap/notary-fraud theory flagged [CLAIM] (Ch8) -> CPS
+"three years running" pattern from the July 2020 home-visit recording (Ch9) -> Feb 2021 Beavers
+DUI stop + East's contradictory "gone forever" vs "selectively preserved" testimony, seeding
+the Ch21 perjury payoff (Ch10).
+NEXT UP: Chapter 11 "The Oxford U.S. Attorney's Office Confrontation" (July 2021) through
+Chapter 16 "Commitment" to close out Part II. Same continuation protocol as before.
