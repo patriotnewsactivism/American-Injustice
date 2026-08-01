@@ -30,12 +30,12 @@ PART II: THE CROWDER YEARS (2018–2021)
 15. Commitment (Dec 2021, Judge Little) [x]
 
 PART III: THE SECOND CASE (2022)
-16. The Federal Lawsuit (April 2022, matter #2) [ ]
-17. A Son Born in Confinement (Feb 2022) [ ]
-18. The June 2022 Arrest — Case B, the Tannehill Case [ ]
-19. The Guilty Plea and Banishment (Sept 30 2022) [ ]
-20. Revocation — Beavers's Testimony (Nov 3 2022, Judge Tollison) [ ]
-21. A Year in Mississippi Custody [ ]
+16. A Second Commitment and A Son Born in Confinement (Feb 2022) [x]
+17. The Federal Lawsuit (April 2022, matter #2) [x]
+18. The June 2022 Arrest — Case B, the Tannehill Case [x]
+19. The Guilty Plea and Banishment (Sept 30 2022) [x]
+20. Revocation — Beavers's Testimony (Nov 3 2022, Judge Tollison) [x]
+21. A Year in Mississippi Custody [x]
 
 PART IV: VINDICATION (2023–2025)
 22. Release, and Galveston (Aug 2023 — six days after the Mills complaint) [ ]
@@ -81,3 +81,19 @@ Judge Little, closing Part II on the "escalation reflex" pattern thesis (Ch15).
 RUNNING TOTAL: ~21,500 words across 15 chapters + prologue (of 80k target).
 NEXT UP: Part III (Ch16-21) -- the second/Tannehill stalking case, 2022. Start with Ch16
 "The Federal Lawsuit" (April 2022, matter #2).
+
+
+2026-07-31 session 4: PART III NOW COMPLETE (Ch16-21, ~4,150 words). Reordered chronologically
+(Feb 2022 commitment/birth before the April 2022 federal filing). Covers: Susan Beard's 2nd
+commitment affidavit + son born via emergency C-section while Reardon confined (Ch16); the
+April 2022 pro se federal suit vs Lafayette County, dismissed w/ prejudice June 2023 -- honest
+about its likely doctrinal weakness (Ch17); the June 28 2022 arrest on the duress-signed
+2017-CV-217 order finally catching up via MS's stalking-enhancement lookback (Ch18); the
+Sept 30 2022 guilty plea, 5yr suspended probation, 5yr county banishment, 45-day vacate window
+(Ch19); the Nov 3 2022 revocation hearing built on Beavers's testimony this book treats as
+perjured given the recorded prior-notice call, plus the Aug 4 2023 Mills complaint attempt and
+the "institutional coverup followed by institutional retaliation" framing per Don's own words
+(Ch20); the ~1yr MS custody closing on the note that it was later vacated (Ch21).
+RUNNING TOTAL: ~29,800 words across prologue + 21 chapters (of 80k target).
+NEXT UP: Part IV (Ch22-26), Vindication 2023-2025 -- starts with Ch22 "Release, and Galveston"
+(the Aug 11 2023 arrest, six days after the Beavers perjury complaint attempt).
