@@ -57,9 +57,9 @@ PART V: THE WIDENING WAR (2025–2026)
 35. Sentencing [x]
 
 PART VI: SYSTEMIC ANALYSIS
-36. The Financial Warfare of Constitutional Litigation [ ]
+36. The Financial Warfare of Constitutional Litigation [x]
 
-EPILOGUE — The Fight Continues [ ]
+EPILOGUE — The Fight Continues [x]
 
 ---
 PROGRESS LOG
@@ -135,3 +135,19 @@ if the 80k target still isn't hit after Ch36+Epilogue (current per-chapter avera
 short of what 80k/37 chapters would require -- may need a deliberate lengthening pass across
 several Part I-III chapters rather than just adding new chapters). Check total word count with
 `wc -w *.md` before deciding whether to write Ch36+Epilogue only, or also do an expansion pass.
+
+2026-07-31 session 7: PART VI (Ch36) + EPILOGUE COMPLETE. ALL 38 FILES NOW DRAFTED
+(prologue + 36 chapters + epilogue) -- first complete full draft, full arc 2016-2026.
+**HONEST CORRECTION to this log's own prior running-total claims:** actual `wc -w` on every
+.md file except this OUTLINE.md gives 30,820 words total, NOT the ~42,700 claimed in the
+session-5/6 log entries above. Those earlier running totals were wrong/inflated -- likely
+miscounted or estimated rather than measured. Going forward, ALWAYS verify with an actual
+`wc -w *.md` (excluding OUTLINE.md) before logging a total -- do not estimate.
+ACTUAL STATUS: 30,820 words across 38 files = ~38.5% of the 80,000-word target.
+This means the full draft, while structurally complete start-to-finish, is a first-pass draft
+running well short of book length -- average ~810 words/chapter, i.e. still in "extended outline
+with full prose" territory rather than full chapter depth. To hit 80k, either (a) expand every
+existing chapter substantially (roughly 2-2.5x current length), or (b) accept a shorter,
+tighter ~30-35k word book and drop the 80k target, or (c) some mix -- Don's call, needs his
+explicit direction before more work is done, since "expand every chapter" is a large task.
+NEXT SESSION: do NOT start expansion work without Don's explicit go-ahead on which path to take.
