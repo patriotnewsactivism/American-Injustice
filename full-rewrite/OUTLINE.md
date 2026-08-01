@@ -2,80 +2,82 @@
 Target: 80,000+ words. Layered thesis throughout: real institutional misconduct AND
 Reardon's own escalating conduct both belong, presented honestly.
 
-STATUS KEY: [ ] not started  [~] drafted this pass  [x] done/pushed
+RENUMBERED 2026-07-31 to match actual written chapters (Part I compressed to 5 chapters
+since "Frank & Marlee's" folded into Ch2/Ch3 rather than standing alone). This numbering
+is now canonical -- use it going forward, ignore any earlier draft numbering.
 
-PROLOGUE — The First Domino [ ]
+STATUS KEY: [ ] not started  [x] done/pushed
+
+PROLOGUE — The First Domino [x]
 
 PART I: THE ORIGIN (2016–2017)
 1. The Flag Petition [x]
-2. A City Hall Suppressed [x]
-3. Frank & Marlee's and the Boycott [x] (folded into Ch2/Ch3, see note)
-4. The Setup — Twelve Days [x] (AR-15 bill of sale vs. May 8 allegation)
-5. Judge Bell, $150K, and the Order Signed Under Duress [x]
-6. Six Weeks — the FBI 302 That Vanished [x]
+2. A City Hall Suppressed (incl. Frank & Marlee's boycott, May 20 rifle purchase) [x]
+3. The Setup — Twelve Days (the 12-day impossibility, May 26 ambush arrest) [x]
+4. $150,000, and an Order Signed Under Duress (Judge Bell, Horan, 2017-CV-217) [x]
+5. Six Weeks, and the Form That Vanished (FBI 302, Bell complaint, Dr Morris eval) [x]
 
 PART II: THE CROWDER YEARS (2018–2021)
-7. A False Accusation Weaponized [x]
-8. Conviction and Contempt [x]
-9. The Battle for Evidence [x] (PCR, judge swap, notary-fraud theory)
-10. Three Years Running — the Pattern [x] (CPS, recurring accusations)
-11. The February 2021 DUI Setup [x]
-12. The Oxford U.S. Attorney's Office Confrontation [ ]
-13. The Drone and Growing Tensions [ ]
-14. The November 2021 Trial [ ]
-15. Circuit Court Chess Game [ ] (the Smith-Luther swap, twice per Reardon)
-16. Commitment [ ]
+6. A False Accusation Weaponized (Nov 2018, Det. Holladay) [x]
+7. Conviction and Contempt (Sept 2020 conviction, non-enforcement, Reardon's own arrest) [x]
+8. The Battle for Evidence (2020 PCR, Smith-Luther circuit judge swap x2, notary-fraud theory) [x]
+9. Three Years Running (CPS pattern, July 2020 home-visit recording) [x]
+10. The February 2021 DUI Setup (Beavers stop, East's contradictory testimony) [x]
+11. The Oxford U.S. Attorney's Office Confrontation (July 2021) [x]
+12. The Drone and Growing Tensions (Sept 2021) [x]
+13. The November 2021 Trial (9 charges/3 events) [x]
+14. Circuit Court Chess Game (judge-swap discovery, East blocks his car) [x]
+15. Commitment (Dec 2021, Judge Little) [x]
 
 PART III: THE SECOND CASE (2022)
-17. The Federal Lawsuit [ ]
-18. A Son Born in Confinement [ ]
-19. The June 2022 Arrest — Case B [ ]
-20. The Guilty Plea and Banishment [ ]
-21. Revocation — Beavers's Testimony [ ]
-22. A Year in Mississippi Custody [ ]
+16. The Federal Lawsuit (April 2022, matter #2) [ ]
+17. A Son Born in Confinement (Feb 2022) [ ]
+18. The June 2022 Arrest — Case B, the Tannehill Case [ ]
+19. The Guilty Plea and Banishment (Sept 30 2022) [ ]
+20. Revocation — Beavers's Testimony (Nov 3 2022, Judge Tollison) [ ]
+21. A Year in Mississippi Custody [ ]
 
 PART IV: VINDICATION (2023–2025)
-23. Release, and Galveston [ ] (six days after the Mills complaint)
-24. Osteen Lied Under Oath [ ]
-25. The Long Fight for Vacatur [ ]
-26. Full Vacatur [ ]
-27. Reardon v. State — The Reversal [ ]
+22. Release, and Galveston (Aug 2023 — six days after the Mills complaint) [ ]
+23. Osteen Lied Under Oath [ ]
+24. The Long Fight for Vacatur (2024) [ ]
+25. Full Vacatur (Jan 21 2025) [ ]
+26. Reardon v. State — The Reversal (Feb 2026) [ ]
 
 PART V: THE WIDENING WAR (2025–2026)
-28. The BOLO — Two Months Before [ ]
-29. Lafayette — August 25 [ ]
-30. The New Orleans Assault [ ]
-31. The Records Cover-Up [ ]
-32. Retaliatory Arrest in an Ice Storm [ ]
-33. The Union County Thread [ ]
-34. Trial and Verdict [ ]
-35. Reardon v. Osteen — The Objections [ ]
-36. Sentencing [ ]
+27. The BOLO — Two Months Before [ ]
+28. Lafayette — August 25 [ ]
+29. The New Orleans Assault [ ]
+30. The Records Cover-Up [ ]
+31. Retaliatory Arrest in an Ice Storm [ ]
+32. The Union County Thread [ ]
+33. Trial and Verdict [ ]
+34. Reardon v. Osteen — The Objections [ ]
+35. Sentencing [ ]
 
 PART VI: SYSTEMIC ANALYSIS
-37. The Financial Warfare of Constitutional Litigation [ ]
+36. The Financial Warfare of Constitutional Litigation [ ]
 
 EPILOGUE — The Fight Continues [ ]
 
 ---
 PROGRESS LOG
-2026-07-31 session: PROLOGUE + Chapters 1-5 drafted and pushed (~6,250 words).
-Covers: flag petition (Ch1) -> May 16 city hall block + Frank & Marlee's boycott + May 20
-rifle purchase (Ch2) -> the 12-day impossibility / May 26 ambush arrest (Ch3) -> Judge Bell/
-$150K bond/duress-signed 2017-CV-217 order (Ch4) -> missing FBI 302 / dismissed Bell complaint /
-Dr. Morris psych eval (Ch5).
-NEXT UP: Chapter 6 "A False Accusation Weaponized" (Nov 2018 Crowder encounter forward) —
-start of Part II: The Crowder Years. Continue chapter-by-chapter in this same style/length
-(~900-1300 words each), pushing to GitHub each session. At current pace (~6-7 chapters per
-work session), full 37-chapter draft is a multi-session project, not a multi-turn one within
-a single session -- budget accordingly across future sessions.
+2026-07-31 session 1: PROLOGUE + Ch1-5 drafted and pushed (~6,250 words).
+2026-07-31 session 2: Ch6-10 drafted and pushed (~4,300 more words, running total ~10,560).
+2026-07-31 correction: Ch8 fixed -- Circuit Court (not Chancery) judge swap, full name
+John Kelly Luther, happened TWICE per Don, no explanation either time.
+2026-07-31 session 3 (in progress): renumbered outline to match actual written chapters;
+continuing Ch11-15 to close out Part II.
+NEXT UP AFTER THIS SESSION: Part III (Ch16-21), the second/Tannehill stalking case.
+Same continuation protocol: check this log first, don't duplicate [x] chapters, push each
+new file to github.com/patriotnewsactivism/American-Injustice/full-rewrite/.
 
-2026-07-31 session 2: Chapters 6-10 drafted and pushed (~4,300 more words, running total ~10,560).
-Covers: Nov 2018 Crowder false report + Det. Holladay's investigation (Ch6) -> Sept 2020
-conviction + irregular non-enforcement + Reardon's own $500 contempt arrest/$10M pro se suit
-(Ch7) -> 2020 PCR/Smith-Luther judge swap/notary-fraud theory flagged [CLAIM] (Ch8) -> CPS
-"three years running" pattern from the July 2020 home-visit recording (Ch9) -> Feb 2021 Beavers
-DUI stop + East's contradictory "gone forever" vs "selectively preserved" testimony, seeding
-the Ch21 perjury payoff (Ch10).
-NEXT UP: Chapter 11 "The Oxford U.S. Attorney's Office Confrontation" (July 2021) through
-Chapter 16 "Commitment" to close out Part II. Same continuation protocol as before.
+2026-07-31 session 3 complete: Ch11-15 drafted and pushed (~5,000 more words). PART II NOW
+COMPLETE (Ch6-15, ~15,500 words for the Part). Covers Oxford USAO confrontation/"blowhard Bob"
+(Ch11), drone crash w/ minor present -- honest counterweight chapter (Ch12), the Nov 2021 trial
++ LCSD-guilty/Crowder-not-guilty split + East's "gone forever" sworn testimony (Ch13), the
+Dec 6 Busby confrontation + East blocking Reardon's car (Ch14), the Dec 7-23 commitment under
+Judge Little, closing Part II on the "escalation reflex" pattern thesis (Ch15).
+RUNNING TOTAL: ~21,500 words across 15 chapters + prologue (of 80k target).
+NEXT UP: Part III (Ch16-21) -- the second/Tannehill stalking case, 2022. Start with Ch16
+"The Federal Lawsuit" (April 2022, matter #2).
