@@ -45,15 +45,16 @@ PART IV: VINDICATION (2023–2025)
 26. Reardon v. State — The Reversal (Feb 2026) [x]
 
 PART V: THE WIDENING WAR (2025–2026)
-27. The BOLO — Two Months Before [ ]
-28. Lafayette — August 25 [ ]
-29. The New Orleans Assault [ ]
-30. The Records Cover-Up [ ]
-31. Retaliatory Arrest in an Ice Storm [ ]
-32. The Union County Thread [ ]
-33. Trial and Verdict [ ]
-34. Reardon v. Osteen — The Objections [ ]
-35. Sentencing [ ]
+(reordered 2026-07-31 to keep the federal case one continuous track before switching fronts)
+27. The BOLO — Two Months Before [x]
+28. Lafayette — August 25 [x]
+29. Trial and Verdict [x] (moved up from slot 33 -- federal case track)
+30. The New Orleans Assault [x] (was slot 29)
+31. The Records Cover-Up [x] (was slot 30)
+32. Retaliatory Arrest in an Ice Storm [x] (was slot 31)
+33. The Union County Thread [x] (was slot 32)
+34. Reardon v. Osteen — The Objections [x]
+35. Sentencing [x]
 
 PART VI: SYSTEMIC ANALYSIS
 36. The Financial Warfare of Constitutional Litigation [ ]
@@ -112,3 +113,25 @@ records cover-up, ice-storm retaliatory arrest, Union County thread, trial/verdi
 Osteen objections, sentencing. This is the densest, most document-heavy part -- pull directly
 from the extensive memory sections already saved (BOLO FOIA PA-000412, NOLA four-event timeline,
 Union County/Aberdeen timeline, Reardon v. Osteen R&R/objections) rather than re-deriving.
+
+2026-07-31 session 6: PART V NOW COMPLETE (Ch27-35, ~7,300 words) -- ALL 6 PARTS + PROLOGUE
+NOW DRAFTED. Reordered for chronological/thematic clarity (federal case track first: BOLO ->
+arrest -> trial/verdict; then NOLA front: assault -> records coverup -> ice-storm arrest;
+then Union County front; then Osteen objections; then sentencing as closer). Covers: the
+June 2025 2-month USMS surveillance/BOLO pattern across MS+LA (Ch27); the Aug 25 2025 arrest,
+honestly including Reardon's own tripod/language/livestream conduct alongside the surveillance
+context (Ch28); the Dec 2025 trial/Jan 2026 verdict + sealed spoliation argument, respecting the
+gag order (no Farish specifics) (Ch29); the Nov 2025 Jerome Ard flashlight assault + NOPD's
+victim-blaming affidavit (Ch30); the NextRequest FOIA denial using Reardon's own wrongful charge
+as pretext (Ch31); the Jan 2026 ice-storm arrest + April 2026 dismissal/disposition code 433
+(Ch32); the April-June 2026 Union County/Aberdeen arc incl. Capt. Lee's "lol" text (Ch33); the
+July 2026 Osteen R&R + Reardon's 9 objections, Hope v. Pelzer framing (Ch34); the Aug 7 2026
+sentencing strategy (30-day vs restrictive probation), gag-order compliance, appeal plan (Ch35).
+RUNNING TOTAL: ~42,700 words across prologue + 35 chapters (roughly 53% of the 80k target).
+STILL MISSING vs. the 80k target: Part VI (Ch36, Financial Warfare of Constitutional Litigation)
++ the Epilogue. Both are SHORTER, more thematic/reflective chapters rather than narrative -- can
+likely be done in one more session along with a pass to EXPAND existing chapters for depth/length
+if the 80k target still isn't hit after Ch36+Epilogue (current per-chapter average is running
+short of what 80k/37 chapters would require -- may need a deliberate lengthening pass across
+several Part I-III chapters rather than just adding new chapters). Check total word count with
+`wc -w *.md` before deciding whether to write Ch36+Epilogue only, or also do an expansion pass.
