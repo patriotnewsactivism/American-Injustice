@@ -38,11 +38,11 @@ PART III: THE SECOND CASE (2022)
 21. A Year in Mississippi Custody [x]
 
 PART IV: VINDICATION (2023–2025)
-22. Release, and Galveston (Aug 2023 — six days after the Mills complaint) [ ]
-23. Osteen Lied Under Oath [ ]
-24. The Long Fight for Vacatur (2024) [ ]
-25. Full Vacatur (Jan 21 2025) [ ]
-26. Reardon v. State — The Reversal (Feb 2026) [ ]
+22. Release, and Galveston (Aug 2023 — six days after the Mills complaint) [x]
+23. Osteen Lied Under Oath [x]
+24. The Long Fight for Vacatur (2024) [x]
+25. Full Vacatur (Jan 21 2025) [x]
+26. Reardon v. State — The Reversal (Feb 2026) [x]
 
 PART V: THE WIDENING WAR (2025–2026)
 27. The BOLO — Two Months Before [ ]
@@ -97,3 +97,18 @@ the "institutional coverup followed by institutional retaliation" framing per Do
 RUNNING TOTAL: ~29,800 words across prologue + 21 chapters (of 80k target).
 NEXT UP: Part IV (Ch22-26), Vindication 2023-2025 -- starts with Ch22 "Release, and Galveston"
 (the Aug 11 2023 arrest, six days after the Beavers perjury complaint attempt).
+
+2026-07-31 session 5: PART IV NOW COMPLETE (Ch22-26, ~5,600 words). Covers: Aug 1 2023 release
++ Aug 4 Mills complaint attempt + Aug 11 Galveston arrest, "coverup then retaliation" framing
+flagged [CLAIM] (Ch22); Osteen's on-camera no-alcohol admission vs his affidavit, Dkt.79 ¶14,
+0.00 BAC blood draw, felony dismissed to dodge a Franks hearing (Ch23); June 2024 revocation
+vacatur + Nov 2024 Jacob Howard/MacArthur PCR filing, pro-se-vs-counsel thesis (Ch24); the full
+Jan 21 2025 vacatur + Feb 1 2025 move to Layton UT (Ch25); the Feb 24 2026 Reardon v. State COA
+reversal completing the Busby 3-way contradiction (2024 letter / 2025 affidavit / 2026 reversal)
+(Ch26).
+RUNNING TOTAL: ~35,400 words across prologue + 26 chapters (of 80k target).
+NEXT UP: Part V (Ch27-35), The Widening War 2025-2026 -- the BOLO, Lafayette Aug 25, New Orleans,
+records cover-up, ice-storm retaliatory arrest, Union County thread, trial/verdict, Reardon v.
+Osteen objections, sentencing. This is the densest, most document-heavy part -- pull directly
+from the extensive memory sections already saved (BOLO FOIA PA-000412, NOLA four-event timeline,
+Union County/Aberdeen timeline, Reardon v. Osteen R&R/objections) rather than re-deriving.
