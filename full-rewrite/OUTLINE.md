@@ -151,3 +151,23 @@ existing chapter substantially (roughly 2-2.5x current length), or (b) accept a 
 tighter ~30-35k word book and drop the 80k target, or (c) some mix -- Don's call, needs his
 explicit direction before more work is done, since "expand every chapter" is a large task.
 NEXT SESSION: do NOT start expansion work without Don's explicit go-ahead on which path to take.
+
+2026-07-31 session 8: EXPANSION PASS STARTED (factual density, not padding). Verified actual
+word count now 31,996 (up from 30,820), +1,176 words across 5 chapters:
+- Ch6: added July 7 2020 CPS-visit "multiple personality disorder"/3-years-running quote (foreshadow)
+- Ch7: added Oct 30 2020 DeSoto Clerk Allison quote ("nothing filed by that name") re: Crowder appeal
+- Ch9: added Christi McCoy car-argument recording claim re: "two recordings" of CPS admitting Crowder
+  lied -- flagged as unverified/not located, per standing evidentiary-limits discipline
+- Ch27: expanded June 26 2025 USMS incident with full quotes (alcohol question, DEA agent mixup)
+- Ch29: added Oct 15 2025 govt protective-order motion + Nov 12 2025 Magistrate Judge Carol B.
+  Whitehurst recusal (appearance of bias) -- both previously only in memory, never in the manuscript
+REMAINING FACTS STILL SITTING IN MEMORY UNUSED (candidates for next expansion pass): Osteen dispatch-
+zip details (breathalyzer offered, PD warning hospital "an auditor" coming, Sgt Hoby James livestream
+call-in, "17 police reports over 5 years" rebuttal); Tupelo Crisis Center incident (date unconfirmed,
+needs Don); notary-fraud theory deeper detail in Ch8; Reardon's own 2020 judicial-misconduct complaint
+against Judge Bell + the $10K-bond-for-accused-rapist comparison (flag as his claim); Metro Narcotics
+$34K scandal full detail in whichever chapter covers Busby/East corruption; "Reardon Watch" YouTube
+hostile-coverage detail; Wilburn/Oxford Eagle libel lead. 31 of 36 chapters not yet touched in this
+pass -- this is a large multi-session undertaking like the original draft was; work through remaining
+chapters in batches of ~5 per session, always re-verify word count with `wc -w` (never estimate) and
+push each batch to GitHub before ending a session.
