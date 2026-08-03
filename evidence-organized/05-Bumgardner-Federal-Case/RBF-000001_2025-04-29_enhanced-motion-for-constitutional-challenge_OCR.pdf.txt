@@ -1,0 +1,245 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF UTAH
+MATTHEW OLIVER REARDON, )
+)
+Plaintiff, )
+)
+v. ) Civil Action No. 1:25-cv-00041-JCB
+)
+CITY OF LAYTON, UTAH; LAYTON )
+POLICE DEPARTMENT; CITY OF )
+OXFORD, MISSISSIPPI; OXFORD )
+POLICE DEPARTMENT; CAPTAIN )
+HILDON SESSUMS, in his individual )
+and official capacities; CHIEF JEFF)
+MCCUTCHEN, in his individual and )
+official capacities; LIEUTENANT )
+RILEY RICHINS, in his individual )
+and official capacity; MARK )
+ARRINGTON, in his individual and )
+official capacity; JOHN DOES 1-139,)
+)
+Defendants. )
+___________________________ )
+PLAINTIFF'S MOTION FOR DECLARATORY RELIEF CHALLENGING
+28 U.S.C. § 1915(e)(2) SCREENINGAS UNCONSTITUTIONALAS
+APPLIED AND FOR IMMEDIATE ISSUANCE OF SUMMONS
+INTRODUCTION
+Plaintiff Matthew Oliver Reardon respectfully moves this Court for declaratory relief and an immediate
+order directing that summons be issued and service be effectuated without further unlawful delay.
+Plaintiff challenges the constitutionality of the 28 U.S.C. § 1915(e)(2) screening process as applied to
+indigent pro se litigants, asserting that it violates the First Amendment, the Due Process Clause, and the
+Equal Protection guarantee embedded in the Fifth Amendment.
+On March 31, 2025, this Court stayed all proceedings pending review of Plaintiff's in forma pauperis
+application and initial complaint. This stay has prevented Plaintiff from submitting crucial evidence of
+ongoing constitutional violations occurring after the initial filing, as documented in Plaintiff's Motion to
+Lift Stay and Proffered Sworn Declaration. The procedural catch-22 created by this stay—wherein Plaintiff
+cannot supplement the record with evidence of continuing retaliation directly related to the original
+allegations—vividly illustrates the constitutional harm that § 1915(e)(2) screening inflicts.
+The bifurcated judicial access system, whereby indigent plaintiffs are subjected to discriminatory pre­
+service screening, while paying litigants are not, is fundamentally incompatible with the Constitution's
+guarantees of equal justice, due process, and the right to petition for redress of grievances. As the
+Supreme Court has repeatedly affirmed, "there can be no equal justice where the kind of trial a man gets
+depends on the amount of money he has." Griffin v. Illinois, 351 U.S. 12, 19 (1956).
+The time has come for the federal judiciary to reckon with the injustice its administrative practices have
+entrenched.
+LEGAL BACKGROUND
+28 U.S.C. § 1915 permits indigent parties to proceed in forma pauperis, waiving filing fees. Subsection (e)
+(2) authorizes courts to dismiss claims that are frivolous, malicious, fail to state a claim, or seek monetary
+relief from immune defendants. Courts have used this provision to impose mandatory pre-service
+"screening" of indigent complaints.
+The current version of § 1915(e)(2) derives from the Prison Litigation Reform Act of 1996 ("PLRA"), Pub. L.
+No. 104-134, 110 Stat. 1321. While the PLRA's legislative history focuses primarily on prisoner litigation,
+courts have expanded its application to all indigent civil litigants, despite the absence of congressional
+findings justifying such a broad application to non-prisoners. See Lister v. Dep't of Treasury, 408 F.3d
+1309, 1312 (10th Cir. 2005) (applying § 1915(e)(2) to non-prisoner cases without addressing constitutional
+concerns).
+This judicial practice has created an unconstitutional two-tiered system:
+• Paying litigants face no pre-service judicial review absent a defendant's motion.
+• Indigent litigants must survive secretive, unilateral review by the Court without adversarial
+participation.
+Unlike the Rule 12(b)(6) standard applied to fee-paying plaintiffs, indigent plaintiffs face a heightened risk
+of dismissal through a non-adversarial process that lacks the procedural safeguards guaranteed to those
+with financial means. This divergence burdens indigent plaintiffs' constitutional rights in violation of well-
+settled law.
+ARGUMENT
+I. The 1915(e)(2) Screening Process Violates the First Amendment Right to Petition for Redress
+The First Amendment guarantees not only the right to speak freely, but the right to petition the
+government for redress of grievances—including through access to the courts. The Supreme Court has
+consistently recognized this right as fundamental to our constitutional structure:
+"The right of petition is one of the freedoms protected by the Bill of Rights, and we cannot... close our
+eyes to the fact that the effective exercise of this right is the most likely way to obtain a peaceful redress
+of grievances."
+— NAACP v. Button, 371 U.S. 415, 429-31 (1963).
+"The right of access to the courts is indeed but one aspect of the right of petition."
+— California Motor Transport Co. v. Trucking Unlimited, 404 U.S. 508, 510 (1972).
+"The First Amendment right to petition Government for redress of grievances includes a right of access to
+the courts."
+— Borough of Duryea v. Guarnieri, 564 U.S. 379, 387 (2011).
+Courts must be particularly vigilant when procedural barriers disproportionately impact those seeking to
+vindicate constitutional rights. See NAACP v. Button, 371 U.S. at 438 ("[l]n the context of NAACP
+objectives, litigation is not a technique of resolving private differences; it is a means for... obtaining the
+vindication of legal rights."). When First Amendment rights are at stake, "the Court has emphasized that
+standards of permissible statutory vagueness are strict." Button, 371 U.S. at 432.
+The government may not impose burdens on the right to petition that are discriminatory, chilling, or
+based on wealth status. Yet that is precisely what § 1915(e)(2) screening does. It imposes a second-class
+procedure on indigent litigants, subjecting them to delays, stays, and dismissals before their grievances
+even reach an adversarial process. This creates what the Supreme Court has termed "inequitable
+treatment under the law." M.L.B. v. S.L.J., 519 U.S. 102, 120 (1996).
+The harm is not merely theoretical. In this case, the screening process has prevented Plaintiff from
+documenting ongoing retaliation by government officials directly connected to his original claims. This
+demonstrates what the Supreme Court has described as "the real risk of 'cutting off... access to events or
+information which we would know if free to... inquire.'" Branzburg v. Hayes, 408 U.S. 665, 728 (1972)
+(Stewart, J., dissenting).
+By treating the right to access courts as conditional upon surviving an ex parte screening based solely on
+economic status, the current practice infringes the First Amendment right to petition for redress—a right
+that "extends to all departments of the Government," including courts. California Motor Transport, 404
+U.S. at 510.
+II. The 1915(e)(2) Screening Regime Violates the Fifth Amendment's Due Process Clause
+Procedural due process imposes constraints on governmental decisions that deprive individuals of
+"liberty" or "property" interests. Mathews v. Eldridge, 424 U.S. 319, 332 (1976). The Supreme Court has
+consistently held that:
+"The fundamental requisite of due process of law is the opportunity to be heard... at a meaningful time
+and in a meaningful manner."
+— Goldberg v. Kelly, 397 U.S. 254, 267 (1970) (citations omitted).
+Before government action deprives an individual of a protected right—such as access to the courts—the
+individual must receive notice and an opportunity to be heard. Mullane v. Central Hanover Bank & Trust
+Co., 339 U.S. 306, 313 (1950). The Court has specifically recognized that "access to the courts is a
+constitutionally protected component of the due process right." Boddie v. Connecticut, 401 U.S. 371, 376
+(1971).
+The § 1915(e)(2) screening process violates these bedrock principles in multiple ways:
+• No Notice: Plaintiffs are not formally notified of the specific deficiencies being considered before
+dismissal.
+• No Opportunity to be Heard: Plaintiffs are denied a chance to amend, argue, or correct alleged
+deficiencies before dismissal.
+• No Adversarial Testing: The entire screening process occurs ex parte, without the truth-testing
+function of adversarial presentation.
+This contrasts sharply with the process afforded to fee-paying litigants. In all other civil actions, dismissal
+for failure to state a claim occurs only after the defendant moves under Rule 12(b)(6), the plaintiff has an
+opportunity to respond, and both sides present their arguments. The Supreme Court has emphasized
+that "fairness can rarely be obtained by secret, one-sided determination of facts decisive of rights." Joint
+Anti-Fascist Refugee Comm. v. McGrath, 341 U.S. 123, 170 (1951) (Frankfurter, J., concurring).
+In Mathews v. Eldridge, 424 U.S. 319 (1976), the Court established a three-part test for procedural due
+process claims:
+1. The private interest affected by the official action;
+2. The risk of erroneous deprivation through the procedures used, and the probable value of additional
+procedural safeguards; and
+3. The Government's interest, including the function involved and fiscal and administrative burdens.
+Applied here:
+1. The private interest is substantial—access to courts to vindicate constitutional rights.
+2. The risk of erroneous deprivation is high—non-adversarial, secretive screening without notice or
+opportunity to respond.
+3. The government interest is minimal—judicial resources are not significantly conserved by pre-service
+screening when compared to standard Rule 12 practice.
+As Justice Frankfurter observed, "The validity and moral authority of a conclusion largely depend on the
+mode by which it was reached." Joint Anti-Fascist Refugee Comm., 341 U.S. at 171 (Frankfurter, J.,
+concurring). By subjecting indigent plaintiffs to a procedurally deficient screening process, § 1915(e)(2)
+violates fundamental due process principles.
+III. The 1915(e)(2) Screening Violates Equal Protection Under the Fifth Amendment
+Though the Equal Protection Clause explicitly applies to the States via the Fourteenth Amendment, the
+Supreme Court has recognized an analogous equal protection guarantee under the Fifth Amendment's
+Due Process Clause that constrains federal action. Bolling v. Sharpe, 347 U.S. 497 (1954).
+"[T]he concepts of equal protection and due process, both stemming from our American ideal of fairness,
+are not mutually exclusive."
+— Bolling, 347 U.S. at 499.
+The Court has specifically recognized that discrimination based on wealth in the context of court access
+triggers heightened scrutiny, not mere rational basis review:
+"The equal protection concern relates to the legitimacy of fencing out would-be appellants based solely
+on their inability to pay core costs... [This] classification, which turns on the ability to pay, [is] examined
+with heightened scrutiny."
+— M.L.B. v. S.L.J., 519 U.S. 102, 120-24 (1996).
+In Griffin v. Illinois, 351 U.S. 12 (1956), the Court established the principle that states may not condition
+access to courts on ability to pay, declaring that "there can be no equal justice where the kind of trial a
+man gets depends on the amount of money he has." Id. at 19.
+This principle has been consistently reaffirmed:
+"The State cannot adopt procedures which leave an indigent defendant entirely cut off from any appeal
+at all, by virtue of his indigency."
+— Lane v. Brown, 372 U.S. 477, 481 (1963).
+"[O]nce the Government chooses to provide such protections [as court access], it may not discriminate
+against the indigent in affording them."
+— Britt v. North Carolina, 404 U.S. 226, 227 (1971).
+Under the § 1915(e)(2) screening regime:
+• Indigent plaintiffs are segregated into a less favorable procedural system.
+• The sole basis for differential treatment is poverty.
+• No compelling (or even rational) justification exists for this discrimination.
+This classification is particularly suspect because it both discriminates based on wealth status and burdens
+a fundamental right—access to courts. The Supreme Court has repeatedly held that such dual-nature
+classifications trigger the most stringent judicial scrutiny. See Harper v. Virginia State Bd. of Elections, 383
+U.S. 663, 670 (1966) ("[W]here fundamental rights and liberties are asserted under the Equal Protection
+Clause, classifications which might invade or restrain them must be closely scrutinized.").
+The § 1915(e)(2) screening regime cannot survive such scrutiny. As Justice Douglas observed, "The Equal
+Protection Clause requires that these appellate procedures be administered with an even hand." Rinaldi v.
+Yeager, 384 U.S. 305, 309-10 (1966).
+IV. Heightened Scrutiny Must Apply to These Constitutional Violations
+The constitutional violations described above trigger heightened scrutiny for multiple reasons:
+1. Fundamental Right: Access to courts is a fundamental right. Tennessee v. Lane, 541 U.S. 509, 533-34
+(2004) (describing "the right of access to the courts" as "a fundamental right protected by the
+Constitution").
+2. Suspect Classification: Wealth-based classifications that affect fundamental rights are inherently
+suspect. Harper, 383 U.S. at 668 ("Lines drawn on the basis of wealth or property, like those of race,
+are traditionally disfavored.").
+3. First Amendment Rights: Burdens on First Amendment rights trigger strict scrutiny. Button, 371 U.S. at
+438 ("The decisions of this Court have consistently held that only a compelling state interest... can
+justify limiting First Amendment freedoms.").
+Under heightened scrutiny, the government must demonstrate that the challenged practice is narrowly
+tailored to serve a compelling governmental interest. See Washington v. Glucksberg, 521 U.S. 702, 721
+(1997).
+The § 1915(e)(2) screening process fails this test:
+• Any legitimate interest in filtering frivolous claims can be served through the ordinary adversarial
+process under Rule 12—the same process used for fee-paying litigants.
+• The current screening procedure is not narrowly tailored, as it subjects all indigent complaints to pre­
+service review regardless of the nature or merit of the claims.
+• Less restrictive alternatives exist, such as applying the same post-service review standards to all
+litigants regardless of economic status.
+As the Supreme Court has stated, "The Constitution cannot confer the right to proceed in forma pauperis
+and then make its exercise frustrating and futile." Lane, 372 U.S. at 484-85.
+V . The Court Should Immediately Issue Summons and Allow the Case to Proceed Like Any Other
+Federal Rule of Civil Procedure 4(b) provides that "[o]n or after filing the complaint, the plaintiff may
+present a summons to the clerk for signature and seal." The rule contains no exception for IFP plaintiffs.
+Given the constitutional infirmities described above, Plaintiff respectfully demands that the Court:
+• Immediately issue summonses pursuant to Rule 4(c).
+• Lift the stay imposed on March 31, 2025, to allow supplementation of the record with evidence of
+ongoing retaliation.
+• Allow the case to proceed under standard civil procedure rules, including any defendant-initiated
+Rule 12 motions.
+• Provide Plaintiff the same procedural protections as a paying litigant.
+Anything less perpetuates an unconstitutional denial of access. As the Supreme Court emphasized in
+Lewis v. Casey, 518 U.S. 343, 351 (1996), meaningful access to the courts requires that litigants have the
+capability of bringing contemplated challenges to the attention of the judiciary without undue hindrance.
+The appropriate analysis of the § 1915(e)(2) screening procedure was outlined by Justice Souter in Jones
+v. Bock, 549 U.S. 199, 214 (2007): "Given that the PLRA does not—explicitly or implicitly—include" special
+screening procedures that disadvantage certain litigants, courts should "follow the usual procedural
+practice." That usual practice is adversarial testing of claims through the Federal Rules of Civil Procedure.
+CONCLUSION
+The architecture of justice must rest upon the unshakable principle that the poor stand equal before the
+law as the wealthy. As Chief Justice John Marshall wrote in Marbury v. Madison: "The very essence of civil
+liberty certainly consists in the right of every individual to claim the protection of the laws, whenever he
+receives an injury." 5 U.S. (1 Cranch) 137, 163 (1803).
+By subjecting indigent plaintiffs to burdens that wealthier plaintiffs are spared, the judiciary erects
+unconstitutional barriers to the courthouse door. These barriers cannot be reconciled with our
+constitutional traditions or the Supreme Court's repeated affirmation that "the right of access to the
+courts draws sustenance from more than one constitutional source." M.L.B., 519 U.S. at 120.
+Plaintiff's case involves serious allegations of coordinated surveillance and retaliation by government
+officials spanning multiple jurisdictions. The constitutional violations continue to this day, as evidenced by
+the FBI's conduct on March 31, 2025. The indefinite stay pending IFP screening exacerbates these harms
+and prevents timely documentation of ongoing constitutional injuries.
+Plaintiff respectfully asks this Court to:
+1. Declare that the application of 28 U.S.C. § 1915(e)(2) screening procedures, as currently practiced,
+violates the First and Fifth Amendments as applied;
+2. Immediately order the Clerk to issue summons to the named defendants without further delay;
+3. Lift the stay to allow filing of Plaintiff's Second Sworn Declaration; and
+4. Allow the case to proceed according to the standard Federal Rules of Civil Procedure.
+Respectfully submitted,
+Matthew Oliver Reardon
+Plaintiff, Pro Se
+P.O. Box 160144
+Clearfield, UT 84016
+mreardon@wtpnews.org
+(385) 350-3998
+Dated: April 29, 2025
+CERTIFICATE OF SERVICE
+I hereby certify that a copy of the foregoing was filed with the Clerk of Court via hand delivery, and
+service upon Defendants will be completed according to the Federal Rules of Civil Procedure upon
+issuance of summons.
+Dated: April 29, 2025
+Matthew Oliver Reardon

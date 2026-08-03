@@ -1,0 +1,321 @@
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 1 of 11
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+GALVESTON DIVISION
+ROBERT HARVEY §
+Plaintiff §
+§ CIVIL ACTION NO. 3:25-CV-00058
+v. §
+§
+WILLIAM ROY, in his individual capacity; §
+and § (“JURY REQUESTED”)
+CITY OF GALVESTON §
+aka §
+GALVESTON FIRE DEPARTMENT §
+Defendants §
+JOINT DISCOVERY/CASE MANAGEMENT PLAN UNDER RULE 26(f)
+FEDERAL RULES OF CIVIL PROCEDURE
+1. State where and when the conference among the parties required by Rule 26(f) of
+the Federal Rules of Civil Procedure was held, and identify the counsel who
+attended for each party.
+The Rule 26(f) conference was held on May 30, 2025, and was attended by Benjamin S.
+Campagna on behalf of Plaintiff, and Lamisa Chowdhury on behalf of all Defendants.
+2. List the cases related to this one that are pending in any state or federal court with
+the case number and court.
+None.
+3. Briefly describe what this case is about.
+Plaintiff alleges that a high-ranking City of Galveston firefighter and policymaker used
+excessive force in violation of Plaintiff’s Fourth and Fourteenth Amendment rights by
+intentionally striking him with a fire truck mirror, causing injury. Alternatively, Plaintiff
+alleges that a City of Galveston firefighter recklessly struck Plaintiff with a fire truck mirror
+without lawful excuse, causing injury.
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 2 of 11
+Defendants deny Plaintiff’s claims and allegations. Defendants contend a recording
+establishes the fire vehicle did not strike the Plaintiff, so he was not seized and did not
+sustain any cognizable injury. Alternatively, even if the fire vehicle struck the Plaintiff, the
+individual Defendant’s actions were objectively reasonable and did not violate clearly
+established federal law. Defendants further contend that Plaintiff’s claims asserted under
+Texas law are barred by official and governmental immunities.
+4. Identify any issues as to service of process, personal jurisdiction, or venue.
+None.
+5. Federal Jurisdiction.
+a. Specify the allegation of federal jurisdiction.
+This Court has subject matter jurisdiction under 28 U.S.C. §1331, and 42 U.S.C.
+§1983. The Court also has supplemental jurisdiction over the state-law claims under
+28 U.S.C. §1367.
+b. Identify parties who disagree with the plaintiff’s jurisdictional
+allegations and state their reasons.
+Not applicable.
+c. If federal jurisdiction is based on diversity of citizenship and any of the
+parties is a limited liability entity, please state the citizenship of each of
+the members of the limited liability entity.
+Not applicable.
+6. List anticipated additional parties that should be included, when they can be
+added, and by whom they are wanted.
+None at this time.
+7. List anticipated interventions.
+None.
+8. Describe class-action or collective-action issues.
+None.
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 3 of 11
+9. State whether each party represents that it has made the initial disclosures
+required by Rule 26(a). If not, describe the arrangements that have been made to
+complete the disclosures.
+The parties have not yet made initial disclosures. The parties agree to exchange initial
+disclosures by June 21, 2025.
+10. If the case includes a claim for attorneys’ fees, state whether the parties agree to
+submit the fees issue to the court for resolution on affidavits or declarations, after
+the other issues are resolved.
+The parties agree to submit the fees issue to the court for resolution on affidavits or
+declarations after the other issues are resolved.
+11. Describe the proposed discovery plan, including:
+Plaintiff:
+Plaintiff anticipates sending requests for admissions, interrogatories, and requests for
+production to Defendants shortly after initial disclosures, assuming a ruling has been made
+on Defendants’ pending 12(b)(6) Motion to Dismiss. Plaintiff anticipates taking the
+depositions of Chief Roy and other City officials involved in the investigation or response
+after receiving written discovery responses.
+Plaintiff anticipates designating expert witnesses by the deadline for the party with the
+burden of proof, and the Defendant will designate responsive experts thereafter. Plaintiff
+may use attending physicians and an expert on firefighting protocols and supervision.
+Expert depositions will be scheduled after expert designations and reports are exchanged.
+The cases which the Defendants cite below claiming that a “careful procedure” is
+appropriate have been overruled by the Fifth Circuit. See Carswell v. Camp, 37 F.4th 1062,
+1067 (5th Cir. 2022) (“Iqbal squarely repudiated our ‘careful procedure’ for allowing
+tailored discovery before a district court rules on an official’s motion to dismiss. When
+defendants assert qualified immunity in a motion to dismiss, the district court may not defer
+ruling on that assertion. It may not permit discovery—“cabined or otherwise”—against
+immunity-asserting defendants before it has determined plaintiffs have pleaded facts
+sufficient to overcome the defense.”).
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 4 of 11
+Therefore, Plaintiff joins with Defendants’ proposal that the Court defer establishing any
+discovery deadlines until after the Court resolves the issues in Defendants’ 12(b)(6) Motion
+to Dismiss. Once a ruling is made, Plaintiff proposes that discovery proceed without any
+of the additional restrictions proposed by the Defendants.
+Plaintiff disagrees with the need to limit or bifurcate discovery because the issue of qualified
+immunity, if established at summary judgment, would not shield the City of Galveston from
+Plaintiff’s claims under Monell or the TTCA. Therefore, unless the Court grants
+Defendants’ 12(b)(6) Motion to Dismiss in its entirety, Chief Roy will continue to be a key
+witness concerning Plaintiff’s claims against the City of Galveston, and he is a government
+official whose office would be at least partially responsible for responding to Plaintiff’s
+discovery requests directed to the City of Galveston. Even if Chief Roy were to win a
+dispositive motion regarding his own qualified immunity, he and his office will be subject
+to discovery requests and depositions as part of Plaintiff’s continuing claims against the
+City of Galveston. Therefore, limiting, delaying, or bifurcating discovery would not solve
+Defendants’ chief complaint that qualified immunity should shield Chief Roy from the
+burdens of discovery. It would, however, unnecessarily delay the discovery process and
+invite discovery disputes concerning whether specific requests are within or outside the
+scope necessary to address only qualified immunity. Such discovery restrictions would tax
+judicial resources without solving any of the problems presented by Defendants.
+Defendants:
+Chief William Roy is a governmental official who has asserted, through a motion to dismiss
+under Fed. R. Civ. P. 12(b)(6), his qualified immunity from liability and burdens of
+unnecessary discovery.
+The Fifth Circuit Court of Appeals has established a “careful procedure” in accord with
+Supreme Court precedent that protects public officials from burdens of discovery unless a
+plaintiff has alleged facts which show a plausible claim for relief that is not barred by
+qualified immunity. See Converse v. City of Kemah, 961 F.3d 771, 780 n.8 (5th Cir. 2020).
+Under the governing procedure, all discovery is stayed unless the Court denies Chief Roy’s
+motion to dismiss.
+Thereafter, discovery is further controlled by the procedure reinforced in Converse supra
+and the authorities cited in this report. Under controlling precedent, discovery is entirely
+stayed until after the Court rules on the sufficiency of Plaintiff’s pleading allegations to
+state a claim that overcomes Chief Roy’s qualified immunity. See Ashcroft v. Iqbal, 556
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 5 of 11
+U.S. 662, 684-686 (2009); Carswell v. Camp, 54 F.4th 307, 310 (5th Cir. 2022); Backe v.
+LeBlanc, 691 F.3d 645, 648 (5th Cir. 2012); Zapata v. Melson, 750 F.3d 481, 485 (5th Cir.
+2014); Bustillos v. El Paso County Hospital District, 891 F.3d 214, 223 (5th Cir. 2018).
+If, after evaluating the sufficiency of Plaintiff’s pleading allegations, the Court denies Chief
+Roy’s claim to immunity through Rule 12, and the Court further finds that specific, narrowly
+tailored discovery is necessary for the Court to rule on Chief Roy’s claim to qualified
+immunity at the earliest possible stage in the litigation through a motion for summary
+judgment, the Court then has discretion to authorize specific limited discovery the Court
+finds necessary to rule on the claim to immunity made under Fed. R. Civ. P. 56. See Lion
+Boulos v. Wilson, 834 F.2d 504, 506 (5th Cir. 1987).
+Defendants propose that any initial (qualified immunity) discovery period the Court
+authorizes after ruling on motions to dismiss based on qualified immunity should begin 15
+days after the Court rules on immunity through the motion to dismiss and the Court
+identifies the scope of discovery necessary to provide the Court with sufficient information
+to rule on qualified immunity.
+Defendants anticipate the need for seventy-five (75) days of discovery regarding issues
+relevant to resolution of qualified immunity may be necessary, if the Court denies the claim
+to immunity through the motion to dismiss.
+Defendants anticipate that following any initial discovery period limited to immunity the
+Court authorizes; Chief Roy will likely file a potentially dispositive motion for summary
+judgment based on qualified immunity.
+After resolution of Chief Roy’s pre-trial claim to immunity through Rules 12 and 56, a
+second abbreviated discovery period of no more than ninety (90) days for remaining
+discovery regarding issues unrelated to qualified immunity may be necessary if a claim
+remains at that point.
+In light of this “careful procedure” mandated by controlling precedent, Backe supra,
+Defendants recommend the Court not now enter a docket control order that addresses
+discovery or motions dependent on completion of discovery, but instead ask the Court to
+set further deadlines after pre-trial motions based on qualified immunity are resolved.
+The Supreme Court also unequivocally rejected a case management approach to proceed
+with discovery related to other defendants, while deferring discovery related to a
+governmental defendant who has asserted qualified immunity. See Ashcroft v. Iqbal, 556
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 6 of 11
+U.S. 662, 684-686 (2009). The Supreme Court explained its rationale for doing so at 685-
+686,
+It is no answer to these concerns to say that discovery for [a governmental
+defendant who has asserted qualified immunity from burdens of litigation]
+can be deferred while pretrial proceedings continue for other defendants. It is
+quite likely that, when discovery as to the other parties proceeds, it would
+prove necessary for [potentially immune public servants] and their counsel to
+participate in the process to ensure the case does not develop in a misleading
+or slanted way that causes prejudice to their position. Even if [the potentially
+immune public officials] are not yet themselves subject to discovery orders,
+then, they would not be free from the burdens of discovery.
+Following Iqbal, the Fifth Circuit Court has held in accord prohibiting “cabin[ed]
+discovery.” See Carswell, 54 F.4th at 311. Controlling Fifth Circuit precedent holds that,
+“Iqbal squarely prohibits interpreting [the Fifth Circuit]’s ‘careful procedure’ as allowing
+tailored discovery before a district court rules on an official’s motion to dismiss.’” Id. at
+312.
+This Court lacks discretion to order the impermissible discovery Plaintiff proposes that
+would invite an interlocutory appeal. See Backe, 691 F.3d at 649.
+Defendants propose the Court defer establishing any discovery deadline until after the Court
+resolves whether Plaintiff has alleged facts which support a claim that overcomes Chief
+Roy’s qualified immunity.
+a. Responses to the matters raised in Rule 26(f), including any agreements
+(and disputes) concerning electronic and other discovery.
+None at this time.
+b. Any threshold issues−such as limitations, jurisdiction, or immunity−that
+should be scheduled for early resolution, what discovery targeted to those
+issues may need to occur early, and how long this targeted discovery will
+take.
+None at this time.
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 7 of 11
+12. Experts
+a. Are experts needed on issues other than attorneys’ fees?
+Yes. Plaintiff’s medical providers will serve as medical experts, and it is likely that
+one or more firefighting experts will be needed to opine as to the reasonableness of
+Chief Roy’s actions and the subsequent response from the City of Galveston.
+Defendants will designate controverting experts, if the case is not otherwise
+dismissed.
+b. If medical experts are needed, identify whether they are only treating
+physicians or also designated on other issues.
+Plaintiff only intends to designate his treating physicians as medical experts at this
+time.
+Defendants may designate controverting medical experts, if the case is not otherwise
+dismissed.
+c. The date the party with the burden of proof on an issue will be able to
+designate experts and provide the reports required by Rule 26(a)(2)(B).
+Plaintiff will be able to designate his treating physicians immediately upon filing his
+initial disclosures, and will supplement as necessary due to ongoing treatment.
+Plaintiff can designate and provide the required reports for his firefighting expert(s)
+within 90 days of the receipt of discovery responses from Defendants.
+Defendants do not waive their objections to the Court entering an order authorizing
+any discovery, including designating expert witnesses, before ruling on Chief Roy’s
+motion to dismiss. Defendants propose the Court defer establishing any discovery
+deadline until after the Court resolves whether Plaintiff has alleged facts which
+support a claim that overcomes Chief Roy’s qualified immunity.
+d. The date the opposing party will be able to designate responsive experts
+and provide the reports required by Rule 26(a)(2)(B).
+Defendants do not waive their objections to the Court entering an order authorizing
+any discovery, including designating expert witnesses, before ruling on Chief Roy’s
+motion to dismiss. Defendants propose the Court defer establishing any discovery
+deadline until after the Court resolves whether Plaintiff has alleged facts which
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 8 of 11
+support a claim that overcomes Chief Roy’s qualified immunity.
+13. State the date discovery can reasonably be completed.
+Plaintiff:
+Plaintiff joins with Defendants’ proposal that the Court defer establishing any discovery
+deadlines until after the Court resolves the Defendants’ 12(b)(6) Motion to Dismiss. Upon
+such a ruling, Plaintiff expects discovery to take nine months to be complete.
+Defendant:
+Defendants propose the Court defer establishing any discovery deadline until after the Court
+resolves whether Plaintiff has alleged facts which support a claim that overcomes Chief
+Roy’s qualified immunity.
+14. If the parties are not agreed on a part of the discovery plan, describe the separate
+views and proposals of each party.
+The parties jointly propose the Court defer establishing any discovery deadline until after
+the Court resolves whether Plaintiff has alleged facts which support a claim that overcomes
+Chief Roy’s qualified immunity. The parties disagree on the scope of the discovery plan
+after the qualified immunity issue is resolved, as described in Section 11 above.
+15. Specify the discovery beyond initial disclosures that has been undertaken to date.
+No discovery has been undertaken to date.
+16. Describe the possibilities for a prompt settlement or resolution of the case that were
+discussed in your Rule 26(f) meeting or have emerged since then.
+The parties’ counsel discussed at the Rule 26(f) conference the possibility of resolving the
+litigation by agreement and plan to maintain that dialogue.
+17. From the attorneys’ discussion with the clients, state the alternative dispute
+resolution techniques that are reasonably suitable and when they are likely to be
+effective in this case.
+Plaintiff believes that a mediation, either court-sponsored or by private mediator, would be
+fruitful and could be undertaken immediately. Defendants believe that a Magistrate Judge
+mediated settlement conference may be an alternative dispute resolution technique suitable
+for this case after the Court resolves all dispositive motions.
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 9 of 11
+18. With the consent of all parties, United States Magistrate Judge Andrew Edison
+may preside and hear jury and nonjury trials. Indicate the parties’ joint position
+on a trial before Judge Edison.
+The parties do not agree to a magistrate judge presiding over the jury trial.
+19. State whether a jury demand has been made and if it was made on time.
+A jury demand was timely made by Plaintiff.
+20. Specify the number of hours it will likely take to present the evidence.
+Plaintiff estimates approximately 30 hours of evidence presentation, assuming no issues are
+resolved prior to trial.
+Defendants estimate 20 hours of evidence presentation.
+21. List pending motions that may be ruled on at the initial pretrial and scheduling
+conference.
+Defendants’ 12(b)(6) motion to dismiss [Dkt. 8] is currently pending and may be resolved
+at the initial pretrial and scheduling conference.
+22. List other pending motions.
+There are no other pending motions at this time.
+23. List issues or matters, including discovery, that should be addressed at the
+conference.
+None known at this time.
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 10 of 11
+24. Certify that all parties have filed Disclosure of Interested Parties as directed in the
+Order for Conference and Disclosure of Interested Parties, listing the date of filing
+for original and any amendments.
+Plaintiff filed his Disclosure of Interested Parties on March 17, 2025 [Dkt. 7].
+Defendants filed their Disclosure of Interested Parties on May 2, 2025 [Dkt. 13].
+Respectfully submitted,
+/s/ Benjamin S. Campagna *by permission
+BENJAMIN S. CAMPAGNA
+Federal ID No. 3822709
+Texas Bar No. 24078302
+TX Attorney Group, PLLC
+405 Main Street, Suite 1000
+Houston, TX 77002
+Telephone: (281) 815-0387
+Facsimile: (281) 612-3006
+Email: ben@txattorneygroup.com
+e-Service Email: e-service@txattorneygroup.com
+ATTORNEYS FOR PLAINTIFF
+/s/ Lamisa I. Chowdhury
+William S. Helfand
+Attorney-in-Charge
+State Bar of Texas No. 09388250
+S.D. Texas No. 8791
+Bill.Helfand@lewisbrisbois.com
+Norman Ray Giles
+State Bar of Texas No. 24014084
+S.D. Texas No. 26966
+Norman.Giles@lewisbrisbois.com
+Lamisa I. Chowdhury
+State Bar of Texas No. 24110033
+S.D. Texas. No. 3580571
+Lamisa.Chowdhury@lewisbrisbois.com
+LEWIS BRISBOIS BISGAARD & SMITH, LLP
+24 Greenway Plaza, Suite 1400
+Houston, Texas 77046
+ATTORNEYS FOR DEFENDANTS
+157996368.1
+Case 3:25-cv-00058 Document 14 Filed on 05/30/25 in TXSD Page 11 of 11
+CERTIFICATE OF SERVICE
+A true and correct copy of the foregoing has been forwarded to the following counsel
+of record via e-mail on May 30, 2025, in accordance with the District's ECF service rules.
+/s/ Lamisa Chowdhury
+Lamisa I. Chowdhury
+157996368.1

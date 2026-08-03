@@ -1,0 +1,623 @@
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 1 of 26 PageID #: 65
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF LOUISIANA
+LAFAYETTE DIVISION
+UNITED STATES OF AMERICA * CRIMINAL NO.: 6:25-CR-00227-01
+*
+VERSUS *
+*
+MATTHEW REARDON * MAGISTRATE WHITEHURST
+UNITED STATES’ RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION TO DISMISS BILL OF INFORMATION (REC. DOC.16)
+Respectfully submitted,
+ZACHARY A. KELLER
+United States Attorney
+/s/LaDonte A. Murphy
+LADONTE A. MURPHY, La. Bar No. 31272
+Assistant United States Attorney
+800 Lafayette Street, Suite 2200
+Lafayette, Louisiana 70501
+Telephone: (337) 262-6618
+1
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 2 of 26 PageID #: 66
+TABLE OF CONTENTS
+I. INTRODUCTION ................................................................................................... 1
+II. QUESTION PRESENTED ..................................................................................... 1
+III. STATEMENT OF THE CASE ............................................................................ 2
+IV. STATEMENT OF FACTS ................................................................................... 4
+V. ARGUMENT ........................................................................................................... 8
+A. Only the Facial Challenge is ripe for adjudication pre-trial. ............................ 8
+B. 41 C.F.R. § 102-74.390 Is Constitutional on Its Face ...................................... 10
+1. Framework: Traditional, Designated, and Nonpublic Forums .................... 10
+2. Courthouse Interiors Are Nonpublic Forums ............................................... 11
+3. Section 102-74.390 Is Content- and Viewpoint-Neutral ............................... 15
+C. The Regulation Is Constitutional as Applied to Defendant ............................ 16
+1. The Government’s Compelling Interests in Courthouse Security
+and Order .. ..................................................................................................... 16
+2. Defendant’s Conduct Directly Interfered with Those Interests ................... 18
+D. Defendant’s Selective and Vindictive Prosecution Claims Fail ...................... 18
+1. Legal Standards for Selective Prosecution .................................................... 19
+2. Legal Standards for Vindictive Prosecution ................................................. 20
+3. Defendant Cannot Meet Either Burden ........................................................ 20
+VI. CONCLUSION .................................................................................................. 21
+i
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 3 of 26 PageID #: 67
+Table of Authorities
+Federal Cases
+Adderley v. Florida,
+385 U.S. 39 (1966) ..................................................................................... 11, 15, 17
+Blackledge v. Perry,
+417 U.S. 21 (1974) ................................................................................................. 20
+Branzburg v. Hayes,
+408 U.S. 665 (1972) ............................................................................................... 21
+Christian Legal Soc'y Chapter of the Univ. of Cal., Hastings Coll. of the Law v.
+Martinez,
+561 U.S. 661, 130 S.Ct. 2971, 177 L.Ed.2d 838 (2010) ........................................ 15
+Cornelius v. NAACP Legal Def. & Educ. Fund,
+Inc., 473 U.S. 788 (1985) ........................................................................... 11, 12, 14
+Cox v. Louisiana,
+379 U.S. 559 (1965) ............................................................................................... 17
+Grayned v. City of Rockford,
+408 U.S. 104 (1972) ............................................................................................... 16
+Greer v. Spock,
+424 U.S. 828 .......................................................................................................... 11
+Hodge v. Talkin,
+799 F.3d 1145, (D.C. Cir. 2015) ...................................................................... 13, 14
+Huminski v. Corsones,
+396 F.3d 53 (2d Cir. 2005) .............................................................................. 12, 17
+Initiative & Referendum Inst. v. U.S. Postal Serv.,
+685 F.3d 1066 (D.C.Cir.2012) ............................................................................... 14
+Perry Educ. Ass’n v. Perry Local Educators’ Ass’n,
+460 U.S. 37 (1983) ........................................................................................... 10, 11
+Rosenberger v. Rector & Visitors of Univ. of Va.,
+515 U.S. 819 (1995) ............................................................................................... 16
+Sefick v. Gardner,
+164 F.3d 370 (7th Cir. 1998) ................................................................................. 12
+United States v. Armstrong,
+517 U.S. 456 (1996) .................................................................................... 18-19, 19
+ii
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 4 of 26 PageID #: 68
+United States v. Cruscial,
+2019 WL 1087150 .................................................................................................... 3
+United States v. Fontenot,
+665 F.3d 640 (5th Cir. 2011) ............................................................................... 2, 8
+United States v. Goodwin,
+457 U.S. 368 (1982) ............................................................................................... 20
+United States v. Grace,
+461 U.S. 171 (1983) ................................................................................... 12, 14, 15
+United States v. Johnson,
+577 F.2d 1304 (5th Cir.1978) .................................................................................. 9
+United States v. Kokinda,
+497 U.S. 720, 110 S.Ct. 3115, 111 L.Ed.2d 571 (1990) (plurality opinion) ......... 14
+United States v. Lawrence,
+2018 WL 934858 ...................................................................................................... 3
+United States v. Pope,
+613 F.3d 1255 (10th Cir. 2010) ............................................................................... 8
+United States v. Marcavage,
+609 F.3d 264 (3d Cir. 2010) .................................................................................... 9
+United States v. Zagorovskaya,
+628 F. App’x 503 (9th Cir. 2015) ............................................................................. 3
+Ward v. Rock Against Racism,
+491 U.S. 781 (1989) ............................................................................................... 15
+Wayte v. United States,
+470 U.S. 598 (1985) ............................................................................................... 19
+iii
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 5 of 26 PageID #: 69
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF LOUISIANA
+LAFAYETTE DIVISION
+UNITED STATES OF AMERICA * CRIMINAL NO.: 6:25-CR-00227-01
+*
+VERSUS *
+*
+MATTHEW REARDON * MAGISTRATE WHITEHURST
+UNITED STATES’ RESPONSE IN OPPOSITION TO DEFENDANT’S
+MOTION TO DISMISS BILL OF INFORMATION (REC. DOC.16)
+I. INTRODUCTION
+NOW COMES the United States of America, by and through counsel, Zachary A.
+Keller, United States Attorney for the Western District of Louisiana, and LaDonte A.
+Murphy, Assistant United States Attorney, in opposition to the defendant’s Motion
+to Dismiss the Bill of Information filed into the record as (Rec. Doc. 16).
+II. QUESTION PRESENTED
+While the defendant frames his objections to the Bill of Information filed against
+him under an overarching umbrella of generalized First Amendment violations, his
+actual claims amount to three underlying legal questions:
+1. Whether 41 C.F.R. § 102-74.390, which makes it unlawful for any person who
+enters in or on the Federal property, including a Federal Courthouse, from
+loitering, the making loud or abusive noise, obstructing entrances and exits,
+foyers, lobbies, corridors, offices, elevators, stairways, or parking lots, or
+engaging in disorderly conduct within federal facility, is facially
+unconstitutional under the First Amendment of the United States
+Constitution?
+2. Whether 41 C.F.R. § 102-74.390 is unconstitutional as applied to the
+defendant.
+1
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 6 of 26 PageID #: 70
+3. Whether the government’s enforcement of 41 C.F.R. § 102-74.390 is an
+improper act of vindictive or selective prosecution aimed at suppressing the
+defendant’s speech?
+Though the defendant seeks dismissal on all three grounds, only his facial
+challenge may be addressed before a trial on the merits. That is because whether an
+indictment may be dismissed prior to trial “is by-and-large contingent upon whether
+the infirmity in the prosecution is essentially one of law or involves determinations
+of fact.” United States v. Fontenot, 665 F.3d 640, 644 (5th Cir. 2011) (cleaned up). If
+the claim is fact dependent the court would have to hold an evidentiary hearing or
+more efficiently hold the trial on the merits. Here the last two claims are heavily fact
+dependent and are therefore premature for adjudication pretrial.
+III. STATEMENT OF THE CASE
+The United States has charged the defendant by Bill of Information with violating
+41 C.F.R. § 102-74.390, a regulation promulgated by the General Services
+Administration (“GSA”) to ensure safety, order, and accessibility in federally owned
+and managed properties. Section 102-74.390 prohibits, among other things, loitering,
+the making of loud or abusive noise, obstructing entrances and exits, and engaging
+in disorderly conduct within federal facilities. The defendant now moves to dismiss
+the bill of information, asserting that § 102-74.390 is unconstitutional both on its face
+and as applied to him. He also contends that this prosecution represents
+impermissible selective or vindictive enforcement of the law.
+The government opposes the motion to dismiss the Bill of Information. Section
+102-74.390 is a content-neutral, viewpoint-neutral regulation that addresses conduct,
+2
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 7 of 26 PageID #: 71
+not speech. It is consistent with the First Amendment as applied to the nonpublic
+forum of a Federal Courthouse lobby and related areas. The regulation is narrowly
+tailored to advance the government’s compelling interest in ensuring the security,
+order, and functioning of judicial proceedings, and the provision has withstood
+constitutional challenges. See United States v. Cruscial, 2019 WL 1087150, p. 4 (D.
+Or. Mar. 7, 2019) (noting, with regard to a constitutional challenge of Section 102-
+74.390(b), that a “person of ordinary intelligence would understand that significant
+and persistent interference with the ingress and egress of human and vehicle traffic
+on federal property constitutes an unreasonable obstruction of the usual use of
+government entrances, offices, and parking lots. Defendants are free to contest the
+application of these regulations to their actions at trial; this does not alter the fact
+that § 102-74.390(b) clearly prohibits the conduct alleged in this case. As such,
+defendants' overbreadth, and facial and as applied void for vagueness challenges,
+fail.); see also United States v. Lawrence, 2018 WL 934858, p. 3-5 (D. Nev. Feb. 16,
+2018) (upholding the constitutionality of § 102-74.390(b) on facial constitutional
+challenges of being overbroad and void for vagueness); see also United States v.
+Zagorovskaya, 628 F. App’x 503, 504 (9th Cir. 2015) (holding that the “nuisance
+prohibition in 41 C.F.R. § 102–74.390(a), which applies only to persons ‘entering in
+or on [f]ederal property,’ is not overbroad in violation of the First Amendment).
+Moreover, defendant’s claims of selective/vindictive prosecution lack
+evidentiary support and fail under controlling Supreme Court precedent. For these
+reasons, the motion to dismiss should be denied.
+3
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 8 of 26 PageID #: 72
+IV. STATEMENT OF FACTS
+The trial evidence will show that the Federal Courthouse at issue in this case
+is the John M. Shaw Federal Courthouse building located in Lafayette, Louisiana.
+The property, including the building itself, its interior spaces, and adjacent parking
+lots and sidewalks, constitute federal property owned and managed by the General
+Services Administration (GSA) under the authority of the Department of Homeland
+Security.
+Signage and Standing Orders. Prominent signs are posted at multiple entry
+points, including parking lots, sidewalks, and exterior doors, notifying visitors that
+certain activities are prohibited on federal property. These include filming,
+photography, use of recording devices, loitering, and the creation of loud or offensive
+noise. In addition, the judges of this district have adopted a standing order
+prohibiting the use or possession of cell phones, cameras, or other recording devices
+within the courthouse. [See Standing Order 1.93 of the WDLA]. The order is posted
+on the court’s website and enforced by courthouse security officers and the United
+States Marshals Service.
+Courthouse Layout. The courthouse is surrounded by several surface
+parking lots and bordered by sidewalks. A prominent series of stairs lead to the main
+entrance. Two concrete statues depicting Lady Justice flank the stairs, which rise to
+a portico. This portico serves as a transitional space to the interior, where multiple
+glass doors function as both public entryways and emergency exits. Inside, the lobby
+connects to a general atrium leading to administrative offices of the United States
+4
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 9 of 26 PageID #: 73
+Bankruptcy Court, the United States Marshal Office, the United States Attorney’s
+Office, the United States Probation Office, and the Clerk of Court’s Office, as well as
+the main elevators leading to the courtrooms. The lobby is regularly traversed by
+judges, attorneys, jurors, litigants, witnesses, and members of the public, and thus
+serves as a critical passageway for the functioning of the courts.
+First Incident: On June 23, 2025, defendant arrived at the John M. Shaw
+Federal Courthouse carrying both a cell phone and a camcorder. Security officers
+advised him that recording devices were not permitted on federal property and
+directed him to stop recording and return the devices to his vehicle. Defendant
+refused, insisting he had the right to record. Officers explained the prohibition again,
+referencing posted signage and the standing order. Defendant stated he was at the
+courthouse to “stress test the system,” a phrase the meaning of which was unclear to
+officers. Because of his refusal to comply and his cryptic comments, the Marshals
+Service identified him as a person of concern and began reviewing his background to
+assess potential risks to courthouse safety.
+Second Incident: On June 26, 2025, defendant returned to the courthouse with
+recording devices again. He was once more advised of the prohibition. He refused
+compliance and recorded security personnel during the exchange. He was told
+explicitly that loitering in the lobby, recording on federal property, and creating
+disturbances were prohibited and that further violations could result in enforcement
+action.
+5
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 10 of 26 PageID #: 74
+Third Incident: On August 25, 2025, defendant returned a third time. The
+defendant began his protesting on the sidewalk and beyond the barricades, and while
+climbing on the concrete around the building. This did not pose a risk, and therefore
+the United States Marshals Service or Court Security Officers did not interfere with
+this protest. The Marshals Service and Court Security Officers were conversing
+inside and watching the defendant protest when the defendant interpreted a hand
+motion or signal to mean that he was being called into the building. The defendant
+came in filming, and he was admonished by the Marshal’s Service to stop filming
+inside the courthouse. The defendant realized there was no need to be inside the
+building, and he returned outside to continue his protest. It is important to note an
+arrest was not made at this point, and the defendant was allowed to continue to
+protest outside the courthouse.
+On this third visit and at this point, the defendant stood directly in front of an
+entrance doorway, physically blocking ingress and egress, and held a protest sign
+against the glass of the door as indicated in Defense Exhibit 2. At this point on this
+third visit, the defendant then moved a tripod and camera, set it up directly in front
+of one of the available emergency exits, and began recording as indicated in
+Government Exhibit 3. This camera or recording device was pointed inside the
+courthouse and was filming activity inside the courthouse, despite numerous
+previous admonishments to not record inside the courthouse.
+During this third visit, the defendant continued to display hand-written signs
+and attempted to picket, parade, and protest his prior encounters with the Marshals
+6
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 11 of 26 PageID #: 75
+Service within the portico and lobby areas, all while filming. He directed loud,
+profane, and abusive language toward Deputy Marshals and courthouse staff,
+drawing attention from employees of one of the courthouse tenants and members of
+the public. He continued to point a camera inside the courthouse and film activity
+inside the courthouse, despite previous warnings not to do so.
+Ultimately, the Marshal’s Service could not allow the defendant to obstruct the
+entrance way, or the emergency exit, and could not allow the continued recording of
+activity inside the courthouse by the camera and tripod set up and blocking the
+emergency exit. The Marshal Service exited the building to advise the defendant that
+he had to move the camera and tripod. The defendant’s motion indicates he complied
+immediately, but this is not accurate as illustrated by the video linked within the
+defendant’s own motion. Rec. Doc. 16-1, FN 4. Rather than comply immediately as
+indicated, when initially asked to move the tripod and camera, the defendant told the
+Marshals Service “you need to suck my dick,” and continued to yell profanities and
+refused to move the tripod and camera.
+After further verbal commands, the defendant eventually moved the cameral
+back slightly, but the camera and tripod were still close enough to continue to film
+inside the courthouse and would have obstructed foot traffic into or out of the
+courthouse if left recording at that location. The Marshals Service gave repeated
+warning to move the camera and tripod or it would be seized. The defendant
+continued to yell profanity, and the Marshal Service began to count down and let the
+defendant know the camera and tripod would be seized if not moved beyond the
+7
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 12 of 26 PageID #: 76
+barricade at the end of the final countdown or grace period. The defendant still
+refused, and the Marshal Service went to seize the camera and tripod, and the
+defendant intervened and contact was made between the parties. It was at this point
+defendant was placed under arrest by the Marshals Service for violating § 102-
+74.390’s prohibitions on loitering, making loud and offensive noise, obstructing
+entrances, and engaging in disorderly conduct on federal property.
+Throughout this process the defendant claims to be an “independent
+journalist” testing the limits of government authority. Regardless of that self-
+characterization, his conduct interfered directly with the safe and orderly operations
+of the Federal Courthouse, including obstructing emergency exits, disregarding
+security orders, filming or live streaming the interior of the courthouse, and creating
+disturbances in a space where court business must proceed undisturbed.
+V. ARGUMENT
+A. Only the Facial Challenge is ripe for adjudication pre-trial.
+As noted above, though the defendant seeks dismissal on three grounds, only his
+facial challenge may be addressed before a trial on the merits. The government
+contends whether an indictment may be dismissed prior to trial “is by-and-large
+contingent upon whether the infirmity in the prosecution is essentially one of law or
+involves determinations of fact.” United States v. Fontenot, 665 F.3d 640, 644 (5th
+Cir. 2011) (cleaned up). If the ground for dismissal concerns a pure question of law,
+“then consideration of the motion is generally proper.” Id.; compare, United States v.
+Pope, 613 F.3d 1255, 1261-63 (10th Cir. 2010) (Gorsuch, J.) (finding an as-applied
+8
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 13 of 26 PageID #: 77
+Second Amendment challenge could not be considered pretrial where, to prevail,
+“disputed facts outside the indictment must be found in [defendant’s] favor”).
+Unquestionably, the defendant’s as-applied challenge involves an analysis of
+the statute in the light of the particular facts of this case. See United States v.
+Marcavage, 609 F.3d 264, 273 (3d Cir. 2010) (“A facial attack tests a law’s
+constitutionality based on its text alone and does not consider the facts or
+circumstances of a particular case. An as-applied attack, in contrast, does not contend
+that a law is unconstitutional as written but that its application to a particular person
+under particular circumstances deprived that person of a constitutional right.”
+(cleaned up)). A comparison of the facts set forth in the United States’ and the
+defendant’s instant filings confirms the two parties’ versions vary substantially and
+materially. The only alternative in resolving that dispute—an evidentiary hearing—
+is not efficient, as it would essentially duplicate a trial on the merits. This Court
+should decline to consider the defendant’s as-applied challenge until after the trier of
+fact has resolved the relevant factual disputes.
+Similarly, the defendant’s selective or vindictive prosecution claim turns on the
+facts of his particular case. United States v. Johnson, 577 F.2d 1304, 1308 (5th
+Cir.1978) (requiring the court to consider, among other things, whether the
+prosecution was motivated by improper considerations including the desire to prevent
+the execution of a constitutional right). Once more, the parties’ versions of the facts
+relevant to this claim vary widely, and the defendant could use a trial on the merits
+to (at least partially) attempt to develop a record on that claim. And again, the
+9
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 14 of 26 PageID #: 78
+alternative—a time-consuming and at least partially duplicative evidentiary
+hearing—would be far from judicially efficient.
+Thus, this Court should decline to consider any issue at this time except the
+facial validity of the statute at issue, subject to the defendant’s later right to litigate
+the issue in the light of facts as found by the Court at trial.
+B. 41 C.F.R. § 102-74.390 Is Constitutional on Its Face
+Defendant contends that § 102-74.390 is facially unconstitutional under the
+First Amendment. That contention is mistaken. The regulation is a permissible
+exercise of the government’s authority to regulate conduct in nonpublic forums. It is
+neutral as to content and viewpoint, narrowly tailored to protect significant
+governmental interests, and leaves open ample alternative channels of
+communication. As an example, the defendant did in fact picket and protest outside
+the courthouse for an extended period of time without violating the regulation.
+1. Framework: Traditional, Designated, and Nonpublic Forums
+It should be noted that chief among disputes between defense and the
+government is the defendant’s faulty premise that the federal courthouse is a
+“traditional public forum. The Supreme Court has long held that the First
+Amendment’s protections for expressive activity vary depending on the forum in
+which the activity occurs. See Perry Educ. Ass’n v. Perry Local Educators’ Ass’n, 460
+U.S. 37, 44–46 (1983). Three categories of forums exist:
+1. Traditional public forums—such as streets, parks, and sidewalks traditionally
+open to expressive activity. Regulations of speech in these areas must be
+narrowly tailored to serve a compelling governmental interest if content-based,
+10
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 15 of 26 PageID #: 79
+or must be reasonable time, place, and manner restrictions if content-neutral.
+Id.
+2. Designated public forums—government property that the government has
+opened for expressive activity. Regulations are subject to the same scrutiny as
+traditional public forums while the designation remains in effect. Id.
+3. Nonpublic forums—all remaining government property not traditionally or by
+designation opened to public expression. In these spaces, restrictions need only
+be reasonable and not an effort to suppress expression merely because public
+officials oppose the speaker’s view. Id. at 46; Cornelius v. NAACP Legal Def. &
+Educ. Fund, Inc., 473 U.S. 788, 800 (1985).
+This framework acknowledges that “[t]he State, no less than a private owner of
+property, has power to preserve the property under its control for the use to which it
+is lawfully dedicated.” Adderley v. Florida, 385 U.S. 39, 47 (1966).
+2. Courthouse Interiors Are Nonpublic Forums
+Courthouse lobbies, foyers, entrances, elevators, and office spaces are
+paradigmatic nonpublic forums. These spaces exist to facilitate judicial proceedings
+and the orderly conduct of government business, not to provide an open platform for
+expressive activity.
+The Supreme Court has consistently recognized that not all government
+property is open to the public for expressive purposes. In Adderley, the Court upheld
+trespass convictions of students who protested on jail grounds, reasoning that the jail
+was not a public forum, and officials could regulate access to preserve order. 385 U.S.
+at 47–48. Similarly, in Greer v. Spock, 424 U.S. 828 (1976), the Court upheld
+restrictions on political speeches and distribution of literature at a military base,
+underscoring that the base was not a public forum.
+11
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 16 of 26 PageID #: 80
+Courthouses, like jails and military installations, are quintessential nonpublic
+forums. Multiple courts of appeals have so held. See, e.g., Huminski v. Corsones, 396
+F.3d 53, 90–91 (2d Cir. 2005) (recognizing courthouse grounds are nonpublic forums
+where restrictions may be imposed to protect judicial functions); Sefick v. Gardner,
+164 F.3d 370, 372 (7th Cir. 1998) (“Courthouses are not public forums; they are
+dedicated to the administration of justice.”).
+Indeed, even United States v. Grace, 461 U.S. 171 (1983), which invalidated a
+broad ban on demonstrations on sidewalks surrounding the Supreme Court,
+distinguished the building’s interior, which was not a public forum. Id. at 178. The
+Court emphasized that while exterior sidewalks shared characteristics of traditional
+public forums, the interior of the Supreme Court “is not such a forum.” Id.
+Relevant to our inquiry is whether the entrances, foyers, lobbies, corridors,
+offices, elevators, stairways, or parking lots of the John M. Shaw Federal Courthouse
+are public forums or a nonpublic forum. If they are not public forums then, we apply
+the less stringent standard for First Amendment constitutional challenges applicable
+to nonpublic forums. Cornelius v. NAACP Legal Def. & Educ. Fund, Inc., 473 U.S.
+788, 800 (1985).
+12
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 17 of 26 PageID #: 81
+This exact issue came up in Hodge v. Talkin, 799 F.3d 1145, (D.C. Cir. 2015)
+where the plaintiff sought to picket, leaflet, and make speeches in the United States
+Supreme Court Plaza, with the aim of conveying to the Court and the public what he
+describes as “political messages” about the Court's decisions. The plaza contains two
+fountains, two flagpoles, and six marble benches. Another thirty-six steps lead from
+the plaza to the building's portico and “the magnificent bronze doors that are the
+main entrance into the building.” Id. at 38. A low marble wall surrounds the plaza
+and also encircles the rest of the building. And the plaza's white marble matches the
+marble that makes up the low wall, the two staircases, the fountains, and the
+building's façade and columns.
+See description by Pamela Scott & Antoinette J. Lee, Buildings of the District of
+Columbia 138 (1993). Supreme Court Building, Architect of the Capitol,
+http://www.aoc.gov/capitol-buildings/supreme-court-building (last visited Aug. 20,
+2015).
+13
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 18 of 26 PageID #: 82
+In Hodge, the D.C. court of appeal said, “We find the Supreme Court Plaza to
+be a nonpublic forum.” Id. The Court's analysis in Grace directly points the way to
+that conclusion. Certain sidewalks might constitute nonpublic forums if they serve
+specific purposes for particular public sites, such as providing solely for internal
+passage within those sites. See United States v. Kokinda, 497 U.S. 720, 727–30, 110
+S.Ct. 3115, 111 L.Ed.2d 571 (1990) (plurality opinion); Initiative & Referendum Inst.
+v. U.S. Postal Serv., 685 F.3d 1066, 1071 (D.C.Cir.2012)). The plaza's features convey
+in many distinctive ways that a person has “entered some special type of enclave.” Id.
+at 180, 103 S.Ct. 1702. And in serving as what amounts to the elevated front porch of
+the Supreme Court building (complete with a surrounding railing), the plaza—like
+the building from which it extends, and to which it leads—is a nonpublic forum.
+Therefore, under those relaxed standards with respect to a nonpublic forum,
+the government contends that the statute at bar meets the burden and is
+“reasonable,” and furthers the government's interests in maintaining decorum and
+order in the entryway to Federal Courthouse. See Cornelius v. NAACP Legal Def. &
+Educ. Fund, Inc., 473 U.S. 788, 800 (1985). While the defendant’s desired activities
+in the entrances, foyers, lobbies, corridors, of the John M. Shaw Federal Courthouse
+— picketing, displaying inflammatory signs, and speechmaking—lie at the core of the
+First Amendment's protections, he does not have an automatic entitlement to engage
+in that conduct wherever (and whenever) he would like.
+Rather, the “Government, ‘no less than a private owner of property, has the
+power to preserve the property under its control for the use to which it is lawfully
+14
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 19 of 26 PageID #: 83
+dedicated.’” Grace, 461 U.S. at 178, 103 S.Ct. 1702 (quoting Adderley v. Florida, 385
+U.S. 39, 47, 87 S.Ct. 242, 17 L.Ed.2d 149 (1966)). That principle finds voice in the
+Supreme Court's “forum analysis,” which “determine[s] when a governmental entity,
+in regulating property in its charge, may place limitations on speech.” Christian Legal
+Soc'y Chapter of the Univ. of Cal., Hastings Coll. of the Law v. Martinez, 561 U.S.
+661, 679, 130 S.Ct. 2971, 177 L.Ed.2d 838 (2010).
+3. Section 102-74.390 Is Content- and Viewpoint-Neutral
+Defendant suggests that § 102-74.390 impermissibly restricts speech. That
+suggestion mischaracterizes the regulation. The text of the rule makes clear that it
+addresses conduct—loitering, making loud or abusive noise, obstructing entrances,
+or otherwise engaging in disorderly or disruptive behavior on federal property. See
+41 C.F.R. § 102-74.390.
+The Supreme Court has long upheld content-neutral regulations of conduct in
+government-controlled spaces. In Ward v. Rock Against Racism, 491 U.S. 781, 791
+(1989), the Court explained that a regulation is content-neutral if it is “justified
+without reference to the content of the regulated speech.” Section 102-74.390 fits
+squarely within this principle. It does not single out any subject matter, message, or
+viewpoint. Rather, it applies equally to all persons, regardless of the content of their
+expression.
+Moreover, the regulation is plainly viewpoint neutral. A person who obstructs
+an entrance while praising the government is treated no differently than a person
+obstructing an entrance while criticizing the government. Both violate the rule
+15
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 20 of 26 PageID #: 84
+because of the manner of their conduct, not the message conveyed. Cf. Rosenberger v.
+Rector & Visitors of Univ. of Va., 515 U.S. 819, 828–29 (1995) (government may not
+discriminate against speech based on viewpoint).
+Nor does the rule confer unbridled discretion on government officials. Its
+prohibitions—on loitering, making loud or abusive noise, or blocking entrances—are
+sufficiently clear and objective to guide enforcement and prevent arbitrary
+application. Cf. Grayned v. City of Rockford, 408 U.S. 104, 114 (1972) (upholding anti-
+noise ordinance that gave “fair notice” of prohibited conduct). Therefore, because §
+102-74.390 regulates conduct, not ideas, and does so in a content- and viewpoint-
+neutral manner, it is facially consistent with the First Amendment.
+C. The Regulation Is Constitutional as Applied to Defendant
+While the government contends that ruling on the defendant’s “as applied”
+challenge is improper at this time, even if the Court were to scrutinize the
+regulation’s application here, following a full evidentiary hearing, defendant’s
+challenge would fail. His conduct—repeatedly defying posted rules and officers’
+warnings, setting up recording equipment to record inside the courthouse,
+obstructing emergency exits, and shouting profanities—falls squarely within the
+regulation’s prohibitions.
+1. The Government’s Compelling Interests in Courthouse Security and
+Order
+As previously established, under the standard of reasonableness, as noted
+supra, in Cornelius v. NAACP Legal Defense Fund, the government only need
+demonstrate a reasonable interest in regulating the conduct regulated in the statute.
+16
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 21 of 26 PageID #: 85
+Indeed, some cases have recognized that the government’s interest in courthouse
+security is substantial. See Cox v. Louisiana, 379 U.S. 559, 562 (1965). We contend
+that this interest extends to maintaining access to entrances and exits, preventing
+disruptions to judicial proceedings, and protecting judges, jurors, litigants, and the
+public.
+Federal Courthouses present unique vulnerabilities. Unlike parks or
+sidewalks, courthouses house sensitive proceedings and often involve parties in
+adversarial conflict. Maintaining a secure and orderly environment is critical to the
+administration of justice. See Huminski, 396 F.3d at 90 (recognizing that restrictions
+on courthouse grounds are justified by need to ensure security and fair
+administration of justice).
+Regulating loud or abusive noise directly serves these interests by preventing
+disruptions that could distract court staff, intimidate litigants, or impede judicial
+work. Likewise, prohibiting loitering and blocking entrances ensures that litigants,
+witnesses, and the public may enter and exit freely and safely. Again, due to the
+areas of a courthouse lobby, foyer, portico, and entrance and exit being classified as
+a nonpublic forum, restrictions need only be “reasonable.” Supra, p. 9.
+The Supreme Court has repeatedly affirmed that such regulations are
+legitimate and necessary. See, e.g., Cox, 379 U.S. at 562 (upholding restrictions on
+picketing near courthouse to protect judicial process); Adderley, 385 U.S. at 47
+(government may preserve its facilities for their intended purposes).
+17
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 22 of 26 PageID #: 86
+2. Defendant’s Conduct Directly Interfered with Those Interests
+The facts that can be established at trial will show the defendant’s conduct
+directly contravened the government’s interests, and the regulatory restrictions
+applied to these nonpublic spaces are reasonable.
+1. Repeated Defiance of Posted Rules and Orders. Defendant was twice warned
+that recording devices and loitering were prohibited within the courthouse. His
+refusal to comply—under the guise of “stress testing the system”—
+demonstrated an intent to provoke confrontation rather than to lawfully
+exercise speech rights.
+2. Obstruction of Entrances and Emergency Exits. By setting up a tripod camera
+in front of a designated emergency exit, defendant created a physical
+obstruction that threatened public safety and interfered with access to the
+building.
+3. Disruptive Noise and Profane Language. Defendant shouted profanities and
+directed loud, abusive language toward Marshals and staff in a public lobby,
+disturbing both courthouse employees and members of the public conducting
+official business. Such conduct falls squarely within the prohibition on loud
+and offensive noise.
+4. Escalating Conduct Despite Prior Warnings. Defendant’s escalation from
+handheld recording devices to a tripod and camera setup, signs pressed against
+entrance doors and parading in and around the entrance and the lobby shows
+deliberate disregard for lawful orders and for the rights of others to access the
+courthouse.
+An as-applied challenge will eventually fail after a trial of the matter. The
+defendant’s arrest and prosecution are based not on the content of his message, but
+on his disruptive, unsafe, and unlawful conduct.
+D. Defendant’s Selective and Vindictive Prosecution Claims Fail
+Defendant also asserts that this case represents either selective or vindictive
+prosecution. Those claims collapse under settled Supreme Court precedent.
+Prosecutorial charging decisions are entitled to a “presumption of regularity.” United
+18
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 23 of 26 PageID #: 87
+States v. Armstrong, 517 U.S. 456, 464 (1996). To overcome that presumption, a
+defendant must meet a “demanding” evidentiary burden. Id. at 463. Defendant falls
+far short.
+1. Legal Standards for Selective Prosecution
+A selective prosecution claim is not a defense to the merits of the charge but an
+assertion that the prosecution itself is constitutionally infirm. See, e.g., Wayte v.
+United States, 470 U.S. 598, 607 (1985). To prevail, a defendant must show:
+1. Discriminatory Effect—that others similarly situated have not been
+prosecuted for similar conduct; and
+2. Discriminatory Purpose—that the prosecution was motivated by
+impermissible considerations such as race, religion, or the exercise of protected
+rights. Id.; Armstrong, 517 U.S. at 465.
+The burden is “a demanding one.” Armstrong, 517 U.S. at 463. Courts require
+“clear evidence” before finding that prosecutorial discretion has been abused. Id. at
+464 (citation omitted).
+Here, defendant cannot establish either prong. He proffers no evidence that
+other individuals who engaged in comparable conduct—repeatedly bringing
+prohibited recording devices, obstructing courthouse exits and creating loud
+disturbances—were not prosecuted. Nor does he provide evidence that the decision to
+prosecute him was based on his message, viewpoint, or any impermissible factor.
+Instead, the record demonstrates that the government responded to his repeated
+violations of posted rules and warnings, his obstruction of emergency exits, and his
+disruptive and abusive behavior. Without proof of both discriminatory effect and
+purpose, his claim fails as a matter of law.
+19
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 24 of 26 PageID #: 88
+2. Legal Standards for Vindictive Prosecution
+Vindictive prosecution is a related but distinct claim. It arises when a
+prosecutor retaliates against a defendant for exercising a legal right. See Blackledge
+v. Perry, 417 U.S. 21, 27–28 (1974). To prevail, a defendant must show either (1)
+actual vindictiveness—that the prosecutor acted with genuine animus—or (2)
+circumstances giving rise to a presumption of vindictiveness. United States v.
+Goodwin, 457 U.S. 368, 374 (1982).
+Courts are reluctant to find vindictiveness in the pretrial charging context. In
+Goodwin, the Court held that no presumption arises merely because the government
+chooses to bring charges after a defendant asserts a procedural or constitutional
+right. Id. at 384. Only in the “post-conviction setting” do courts sometimes presume
+vindictiveness. Id. at 376–78.
+Defendant has proffered no facts either actual or presumptive vindictiveness.
+The government’s decision to prosecute arose not from retaliation but from
+defendant’s escalating pattern of disruptive and unlawful conduct after multiple
+warnings. Far from punishing him for exercising rights, the government acted to
+protect courthouse safety and ensure compliance with law.
+3. Defendant Cannot Meet Either Burden
+The record makes plain that defendant’s prosecution stems from his conduct,
+not his viewpoint. He was prosecuted because he repeatedly violated clear rules
+governing federal property, obstructed access to emergency exits, and created loud
+20
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 25 of 26 PageID #: 89
+and abusive disturbances inside a courthouse lobby, and in and around an entrance
+and exit.
+The defendant offers no evidence that similarly situated individuals were
+treated differently, nor any proof that prosecutors acted with discriminatory or
+retaliatory animus. The mere fact that defendant styled himself as an “independent
+journalist” does not immunize him from neutral rules regulating conduct in nonpublic
+forums. See Branzburg v. Hayes, 408 U.S. 665, 683 (1972) (First Amendment does not
+exempt journalists from generally applicable laws). Because defendant cannot satisfy
+the rigorous standards for selective or vindictive prosecution, these claims provide no
+basis to dismiss the information.
+VI. CONCLUSION
+Only a fact-based facial challenge is properly before the court prior to trial.
+Section 102-74.390 is a facially valid, content-neutral and viewpoint-neutral
+regulation governing conduct on federal property. Its application here was
+reasonable, narrowly tailored, and necessary to preserve the safety, order, and
+functioning of a Federal Courthouse. Defendant’s prosecution was not selective or
+vindictive but the predictable result of his repeated, willful violations of lawful
+regulations and warnings.
+21
+Case 6:25-cr-00227-CBW Document 20 Filed 09/30/25 Page 26 of 26 PageID #: 90
+For the foregoing reasons, the Court should deny defendant’s Motion to
+Dismiss the Bill of Information.
+Respectfully submitted,
+ZACHARY A. KELLER
+United States Attorney
+/s/ LaDonte A. Murphy
+LADONTE A. MURPHY, La. Bar No. 31272
+Assistant United States Attorney
+800 Lafayette Street, Suite 2200
+Lafayette, Louisiana 70501
+Telephone: (337) 262-6618
+22

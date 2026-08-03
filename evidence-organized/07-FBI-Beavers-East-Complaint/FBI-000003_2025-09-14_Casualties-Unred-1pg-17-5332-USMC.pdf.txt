@@ -1,0 +1,139 @@
+ï»¿SOI East (Perm Pers), Camp Lejeune, NC 
+5th Bn, 10th Mar, 2d Mar Div, Camp Lejeune, NC 
+2d AA Bn, 2d Mar Div, Camp Lejeune, NC 
+VMAT-203, MAG-14 (Stud Pers), 2d MAW, MCAS Cherry Point, NC 
+A Btry, 2d LAAD Bn, MACG-28, 2d MAW, Cherry Point, NC 
+B Co, MSOAG, Camp Lejeune, NC 
+RANK LAST 
+FIRST 
+SGT 
+Adkins 
+Cory 
+GYSGT Bachus 
+MIDDLE Allen Christopher Scott 
+SFX UNIT 
+PFC 
+Barr 
+CAPT 
+John Bencosme Alberto 
+LCPL 
+Bishop 
+Thomas 
+SGT 
+Brake 
+Travis 
+Richard Noel Michael Francis 
+Jr. 
+PVT 
+Drakos 
+Kirk 
+Westley 
+PVT 
+Foust 
+Bradley 
+Adam 
+CLB-22, (22d MEU), CLR-27, 2d MLG, Camp Lejeune, NC SOI East (Stud Pers), MCB Camp Lejeune, NC 
+PFC 
+Gonzales 
+Anthony 
+Norman 
+ATC Det C, MACS-2, MACG 28, 2d MAW, Cherry Point, NC 
+PFC 
+Groomes 
+CPL 
+Hudson 
+Shane David 
+Dante Lee 
+SGT Lopez 
+Quintin 
+James 
+LCPL McNeal 
+Daniel 
+Ray 
+LCPL 
+Mosteller 
+Jerry 
+Lewis 
+Jr. 
+LCPL 
+Newcomb David 
+Craig 
+LCPL 
+Outz 
+Jonathan 
+Mathew 
+CPL 
+Price 
+John 
+CPL 
+Stewart 
+SGT 
+Thomas 
+Clayton Brandon Mackenzie Christopher Scott 
+LCPL 
+Ulrich 
+Scott 
+Winter 
+LCPL 
+Wilber 
+Bradlee 
+James 
+LCPL 
+Wilsey 
+Barry 
+Lee 
+PFC 
+Zorn 
+Kirby 
+Lanier 
+8TH ENGINEER SUPPORT <BR>BATTALION 2D MARINE LOGISTICS GROUP MWSS-274, MWSG-27, 2d MAW, MCAS Cherry Point, NC CLB-22, (22d MEU), CLR-27, 2d MLG, Camp Lejeune, NC Wounded Warrior Bn (East), Camp Lejeune, NC HMM-264, MAG-26, 2d MAW, MCAS New River, NC 
+A Co, 8th ESB, 2d MLG, Camp Lejeune, NC 
+Hq Co, 8th Mar, 2d Mar Div, Camp Lejeune, NC 2d LAR Bn, 2d Mar Div, Camp Lejeune, NC Wpns Training Bn, Camp Lejeune, NC 
+3d Bn, 6th Mar, 2d Mar Div, Camp Lejeune, NC 2d Radio Bn, II MHG, II MEF, Camp Lejeune, NC 
+2d Bn, 6th Mar, (BLT 2/6, 26th MEU), 2d Mar Div, Camp Lejeune, NC Det 2, 2d Bn, 10th Mar Regt, 2d Mar Div, Camp Lejeune, NC Wpns Co, 2d Bn, 8th Mar, 2d Mar Div, Camp Lejeune, NC 
+DEATH DT CAS_TYPE PERS MILAFL 
+2008-01-31 Nonhostile 2008-03-10 Nonhostile 2008 10 13 Nonhostile 
+Active Duty 
+Active Duty Active Duty 2008-12-29 Nonhostile Active Duty 2008-07-09 Nonhostite Active Duty 2008-06-30 Nonhostile Active Duty 2008-06-08 Nonhostile Active Duty 2008-05-10 Nonhostile Active Duty 2008-09-14 Nonhostile Active Duty 2008-07-26 Nonhostile Active Duty 2008-02-10 Nonhostile Active Duty Active Duty 2008-11-12 Nonhostile 2008-06-16 Nonhostile Active Duty 2008-03-07 Nonhostile Active Duty 2008-03-24 Nonhostile Active Duty 2008-01-22 Nonhostile Active Duty 2008-02-17 Nonhostile Active Duty 2008-08-27 Nonhostile Active Duty 2008-12-15 Nonhostile Active Duty 2008-01-23 Nonhostile Active Duty 2008-06-24 Nonhostile Active Duty 2008-11-02 Nonhostile Active Duty 2008-08-08 Nonhostile Active Duty 
+Jacksonville 
+Richlands Jacksonville 
+INC_CITY_NM 
+INCIDENT_STATE 
+North Carolina 
+Jacksonville 
+North Carolina 
+Camp Lejeune 
+North Carolina 
+Havelock 
+North Carolina 
+Havelock 
+North Carolina 
+North Carolina 
+North Carolina 
+Camp Lejeune New Bern Jacksonville New Bern Hubert 
+North Carolina 
+North Carolina 
+North Carolina 
+North Carolina 
+North Carolina 
+Camp Lejeune 
+North Carolina 
+Jacksonville 
+North Carolina 
+Jacksonville 
+North Carolina 
+Jacksonville 
+North Carolina 
+Hubert 
+North Carolina 
+Onslow County 
+North Carolina 
+Jacksonville 
+North Carolina 
+Jacksonville 
+North Carolina 
+Holly Ridge 
+North Carolina 
+Jacksonville Jacksonville 
+North Carolina 
+North Carolina

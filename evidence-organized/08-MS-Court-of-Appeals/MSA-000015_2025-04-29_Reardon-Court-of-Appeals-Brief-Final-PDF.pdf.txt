@@ -1,0 +1,756 @@
+No. 2024-TS-00839
+IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI
+MATTHEW O. REARDON,
+Appellant,
+v.
+STATE OF MISSISSIPPI,
+Appellee.
+APPELLANT'S BRIEF
+__________________________________________________________________
+Oral Argument Requested
+Table of Contents
+APPELLANT'S BRIEF .................................................................................................................. 0
+Table of Contents ............................................................................................................................ 1
+TABLE OF AUTHORITIES .......................................................................................................... 2
+CERTIFICATE OF INTERESTED PERSONS ............................................................................. 4
+STATEMENT OF THE ISSUES.................................................................................................... 5
+STATEMENT OF ASSIGNMENT ................................................................................................ 6
+STATEMENT REGARDING ORAL ARGUMENT ..................................................................... 6
+STATEMENT OF THE CASE ....................................................................................................... 6
+SUMMARY OF THE ARGUMENT ............................................................................................. 8
+ARGUMENT .................................................................................................................................. 9
+A. THE TRIAL COURT'S DISMISSAL WAS IN DIRECT CONTRADICTION TO THE
+RECORD AND LAW................................................................................................................. 9
+1. The Justice Court's Indigency Order Eliminated Any Bond Requirement ..................... 9
+2. Mississippi Law Protects Indigent Appellants from Bond Requirements .................... 12
+3. The Circuit Court's Error Constitutes Plain Error ......................................................... 13
+4. Procedural Rules Must Yield to Substantive Due Process Rights ................................ 14
+B. THE CIRCUIT COURT AND APPELLATE COURT FAILED TO ENSURE
+CONTINUED APPELLATE REPRESENTATION, VIOLATING FUNDAMENTAL DUE
+PROCESS AND THE SIXTH AMENDMENT ....................................................................... 16
+1. Mississippi Law Mandates Continued Representation Through Appeal ...................... 16
+2. The Circuit Court Evaded Its Obligation by Misapplying Inapplicable Felony
+Standards ............................................................................................................................... 18
+3. The Right to Counsel Extends Through the Appeal Process ........................................ 19
+4. Appellant Was Improperly Deprived of Counsel at Critical Stages ............................. 21
+5. Denial of Counsel at the First Appeal Stage is a Structural Constitutional Violation .. 23
+6. Preemptive Rebuttal to "Harmless Error" Arguments .................................................. 24
+C. MANIFEST INJUSTICE REQUIRES REVERSAL ................................................... 25
+1. The Extraordinary Delay Violates Due Process ........................................................... 25
+2. The Circuit Judge's Bias Further Taints the Proceedings ............................................. 28
+3. CUMULATIVE IMPACT: MANIFEST INJUSTICE AND STRUCTURAL
+COLLAPSE .......................................................................................................................... 29
+CONCLUSION AND PRAYER FOR RELIEF ........................................................................... 30
+RECORD EXCERPTS ................................................................................................................. 32
+CERTIFICATE OF SERVICE ..................................................................................................... 34
+CERTIFICATE OF COMPLIANCE ............................................................................................ 34
+1
+TABLE OF AUTHORITIES
+Cases
+Anderson v. Yung Kau, 329 U.S. 482 (1947) ........................................... 17
+Barker v. Wingo, 407 U.S. 514 (1972) ..................................................... 23
+Bell v. State, 66 So.3d 90 (Miss. 2011) .................................................... 26
+Brown v. State, 995 So.2d 698 (Miss. 2008) ............................................ 16
+Caston v. State, 823 So.2d 473 (Miss. 2002) ............................................ 16
+Chapman v. California, 386 U.S. 18 (1967) .............................................. 25
+De La Beckwith v. State, 707 So.2d 547 (Miss. 1997) .............................. 23
+Douglas v. California, 372 U.S. 353 (1963) .............................................. 17
+Eggleston v. State, 800 So.2d 1234 (Miss. Ct. App. 2001) ....................... 16
+Gideon v. Wainwright, 372 U.S. 335 (1963) ............................................. 17
+Halbert v. Michigan, 545 U.S. 605 (2005) ................................................. 17
+Jefferson v. State, 304 So.3d 1139 (Miss. 2020) ........................................ 11, 16
+Johnson v. Mississippi, 486 U.S. 578 (1988) ............................................. 13
+Jones v. State, 355 So.2d 89 (Miss. 1978) .................................................. 21
+Jones v. State, 912 So.2d 973 (Miss. 2005) ................................................ 11, 15
+Kennard v. State, 127 So.2d 848 (Miss. 1961) ........................................... 18
+Keys v. State, 67 So.3d 758 (Miss. 2011) ................................................... 23
+Liteky v. United States, 510 U.S. 540 (1994) ............................................. 27
+Lombardo v. State, 172 So.3d 788 (Miss. Ct. App. 2014) .......................... 19
+Martinez v. Ryan, 566 U.S. 1 (2012) ........................................................... 19
+McGee v. State, 85 So.3d 275 (Miss. 2012) ................................................ 16
+Metcalf v. State, 629 So.2d 558 (Miss. 1993) ............................................. 19
+Peguero v. United States, 526 U.S. 23 (1999) ............................................. 18
+Penson v. Ohio, 488 U.S. 75 (1988) ............................................................ 23
+2
+Pool v. State, 483 So.2d 331 (Miss. 1986) .................................................. 29
+Read v. State, 430 So.2d 832 (Miss. 1983) ................................................. 19
+Rowland v. State, 42 So.3d 503 (Miss. 2010) ............................................. 23
+Sartain v. State, 406 So.2d 43 (Miss. 1981) ................................................ 18
+Smith v. Hooey, 393 U.S. 374 (1969) ......................................................... 25
+Smith v. State, 986 So.2d 290 (Miss. 2008) ................................................ 26
+United States v. Cronic, 466 U.S. 648 (1984) ............................................. 22
+United States v. Duffaut, 314 F.3d 203 (5th Cir. 2002) .............................. 17
+Ware v. State, 224 So.3d 1257 (Miss. Ct. App. 2017) ................................ 22
+Weems v. State, 63 So.3d 579 (Miss. 2010) ............................................... 24
+Williams v. State, 167 So.3d 1075 (Miss. 2015) ........................................ 18
+Yost v. Alderson, 58 Miss. 40 (1880) ......................................................... 24
+Statutes
+Miss. Code Ann. § 99-15-15 .................................... 2, 11, 17, 18, 19, 20, 21
+Miss. Code Ann. § 99-19-105(3)(a) ........................................................ 26
+Constitutional Provisions
+U.S. Const. amend. V .............................................................................. 20
+U.S. Const. amend. VI ............................................................................. 11, 17, 20
+U.S. Const. amend. XIV .......................................................................... 11, 17, 20
+Miss. Const. art. 3, § 14 ........................................................................... 11, 13, 17
+Miss. Const. art. 3, § 26 ........................................................................... 11, 17
+Rules
+M.R.A.P. 2(c) .......................................................................................... 26
+M.R.A.P. 16(b) ........................................................................ …………2
+M.R.A.P. 16(d)(1) .................................................................................... 2
+M.R.A.P. 16(d)(2)-(4) .............................................................................. 2
+3
+M.R.A.P. 28(a)(1)(3) ............................................................................... 17
+M.R.Cr.P. 1.2 ........................................................................................... 23
+M.R.Cr.P. 7.2(c) ...................................................................................... 2, 20
+M.R.Cr.P. 7.2(d) ...................................................................................... 20
+M.R.Cr.P. 7.3(g) ...................................................................................... 21
+M.R.Cr.P. 29.1 ......................................................................................... 6, 7, 8
+M.R.Cr.P. 29.1(a) .................................................................................... 8
+M.R.Cr.P. 29.1(c) .................................................................................... 6
+M.R.Cr.P. 29.3 ........................................................................................ 2, 13, 17
+M.R.Cr.P. 29.4 ........................................................................................ 2, 13, 17
+CERTIFICATE OF INTERESTED PERSONS
+The undersigned certifies that the following listed persons have an interest in the outcome of this
+case. These representations are made in order that the Justices of the Supreme Court and/or the
+Judges of the Court of Appeals may evaluate possible disqualification or recusal:
+1. Honorable John Kelly Luther, Circuit Court Judge
+2. Honorable Chris Childers, Justice Court/Lower Court Judge
+3. Lynn Fitch, Attorney General of Mississippi, Counsel for Appellee
+4. Ashley Lauren Sulser, Assistant Attorney General, Counsel for Appellee
+5. Mitchell Driskell, Appellant's previous Court-Appointed Counsel
+6. Bela Jay Chain III, Lafayette County Prosecutor
+4
+7. Jeff Busby, Lafayette County Circuit Clerk
+8. Matthew O. Reardon, Appellant
+9. Joseph (Joey) B. East, Lafayette County Sheriff
+This, the 28th day of April, 2025.
+______________________________
+Matthew O. Reardon
+Appellant, Pro Se
+STATEMENT OF THE ISSUES
+I. Whether the trial court erred by dismissing Appellant's appeal based on
+alleged failure to file bond or costs, despite an express judicial waiver of
+bond and costs due to indigency.
+II. Whether the trial and appellate courts violated Appellant's constitutional
+right to continued appellate counsel, resulting in structural due process
+violations under the Sixth and Fourteenth Amendments.
+III. Whether the cumulative errors amount to plain error, manifest injustice,
+and structural constitutional violations requiring reversal.
+5
+STATEMENT OF ASSIGNMENT
+This appeal does not involve issues that require assignment to the Mississippi
+Supreme Court. Pursuant to Mississippi Rules of Appellate Procedure 16(b) and (d),
+the Court of Appeals properly retains jurisdiction.
+STATEMENT REGARDING ORAL ARGUMENT
+Appellant respectfully requests oral argument pursuant to Mississippi Rule of
+Appellate Procedure 34(b). This appeal involves critical constitutional issues,
+including the structural denial of appellate counsel, manifest injustice, and wrongful
+dismissal of an indigent appellant's perfected appeal. Oral argument would
+materially assist the Court in understanding the factual and legal complexities
+surrounding these issues and in achieving a just result.
+STATEMENT OF THE CASE
+Appellant was charged and convicted in the Justice Court of Lafayette County,
+Mississippi. On December 2, 2021, the Justice Court entered an Order finding
+Appellant indigent and waiving all bond and cost requirements associated with his
+appeal. (C.P. 38.)
+Despite this binding waiver, once the appeal was lodged in the Circuit Court of
+Lafayette County, both the Clerk's Office and the trial court improperly demanded
+bond payment and costs from Appellant, in direct contradiction of the Justice Court's
+6
+prior finding (C.P. 37, 115-116, 127).
+To preserve his indigent status and seek appointment of appellate counsel, Appellant
+filed an Affidavit of Poverty (C.P. 33). While such an affidavit was unnecessary to
+perfect his appeal, given the standing waiver, it was filed out of an abundance of
+caution to facilitate reappointment of appellate counsel pursuant to Mississippi Rules
+of Criminal Procedure 6.2 and 6.3.
+Appellant timely filed his Notice of Appeal (C.P. 81) and continued to prosecute his
+appeal. Subsequently, appointed counsel filed a corrected Notice of Appeal (C.P.
+61-68) and a Motion to Advance the Case (C.P. 73-75).
+Despite these efforts, the Circuit Court dismissed Appellant's appeal on June 28,
+2024, citing failure to post bond, even though bond had already been expressly
+waived (C.P. 76-78).
+Additionally, Appellant filed multiple Motions seeking the appointment of appellate
+counsel (C.P. 42, 112-114). The trial court and appellate court failed to act in
+accordance with the Mississippi Rules of Criminal Procedure, thereby denying
+Appellant his right to continued representation.
+The record reveals that Appellant was twice deprived of counsel at critical junctures.
+First, immediately after the Justice Court trial, the lower court terminated Appellant's
+appointed counsel (Mitchell Driskell) despite the pending appeal. Most critically,
+7
+this termination occurred precisely during the 30-day window when Appellant
+needed to perfect his appeal - the very period later contested by the Circuit Court as
+procedurally deficient.
+When the Circuit Court's dismissal order came on June 28, 2024, Appellant was
+incarcerated at the Lafayette County Detention Center and had no access to his case
+documents or a law library. Without counsel to assist, Appellant filed a pro se motion
+for reconsideration (C.P. 79-80) that, without access to the full record, missed the
+key legal argument about the indigency waiver.
+The Circuit Court Judge made a troubling remark during the April 12, 2022 hearing,
+stating to Appellant: "I would be lying if I told you I wanted your case. Because I
+don't—you, just being honest with you, you have a reputation of being difficult to
+deal with. And if I got half a chance to dodge you, I would dodge you like a speeding
+bullet." (C.P. 131). This was Appellant's first substantive appearance before Judge
+Luther, making the judge's negative characterization of Appellant's "reputation"
+deeply concerning.
+SUMMARY OF THE ARGUMENT
+The trial court's dismissal of Appellant's appeal was legally erroneous because the
+Justice Court had found Appellant indigent and waived all bond and cost
+requirements. This waiver was binding and should have been honored.
+8
+The Circuit Court's failure to ensure continued representation of an indigent
+appellant on appeal violated Mississippi Rules of Criminal Procedure 6.2 and 6.3,
+and the Sixth and Fourteenth Amendments to the United States Constitution.
+The errors committed below — wrongful dismissal, denial of appellate counsel, and
+disregard of the judicial waiver of bond and costs — constitute plain error, manifest
+injustice, and structural due process violations.
+Reversal is mandatory.
+ARGUMENT
+THE TRIAL COURT'S DISMISSAL WAS IN DIRECT
+A.
+CONTRADICTION TO THE RECORD AND LAW
+1. The Justice Court's Indigency Order Eliminated Any Bond Requirement
+The Justice Court's December 2, 2021 order found Appellant indigent and expressly
+waived all bond and cost requirements for his appeal. (C.P. 38.) This waiver was
+binding and was acknowledged on the record by the Circuit Court during later
+proceedings. (C.P. 115-116, 127.)
+The cornerstone fact of this appeal—the Justice Court's waiver of all bond
+requirements—appears in black and white at C.P. 38. This indigency order could not
+be clearer: Appellant "is indigent and by reason of poverty cannot offer security
+required by law and is unable to give bond to appeal the judgment against him. Mr.
+9
+Reardon is allowed to appeal if he desires to do so, and execution of judgment will
+be stayed without the requirement of supersedeas bond." (Emphasis added).
+This key fact is reflected in the record three additional times by Appellant and his
+subsequently reappointed attorney (C.P. 37, 40, 61). Even more troubling, this
+pertinent information was also raised four separate times by Appellant in open court
+at the April 12, 2022 hearing (C.P. 114 lines 16-18; C.P. 115 lines 4-5; C.P. 116
+lines 4-8; C.P. 123 lines 21-25).
+Most notably, Circuit Judge Luther himself acknowledged this fact on the record
+during the April 12, 2022 hearing, stating: "on December the 2nd Judge Childers
+says that you can appeal without a bond" (C.P. 116 lines 9-10). Judge Luther
+reiterated this acknowledgment later in the hearing: "Judge Childers has already
+addressed the issue of whether or not you can proceed without paying any money."
+(C.P. 127 lines 19-21).
+Despite this, the Circuit Court dismissed Appellant's appeal, citing failure to pay
+bond or costs (C.P. 76- 78). This dismissal directly contradicted the Justice Court's
+prior order and violated Mississippi Rules of Criminal Procedure 29.3 and 29.4,
+which govern bond and cost obligations for indigent appellants.
+In Jones v. State, 912 So.2d 973 (Miss. 2005), the Mississippi Supreme Court held
+that a finding of indigency cannot be ignored without a proper hearing or finding to
+the contrary. Similarly, in Jefferson v. State, 304 So.3d 1139 (Miss. 2020), the Court
+10
+emphasized that procedural dismissals cannot override standing findings of
+indigency.
+The Mississippi Supreme Court has specifically reinforced this principle in Wallace
+v. State, 607 So.2d 1184, 1188 (Miss. 1992), establishing that "once a defendant is
+determined indigent, courts must honor that determination throughout proceedings"
+absent evidence of changed circumstances.
+In Finley v. State, 725 So.2d 226, 231 (Miss. 1998), the Court further reinforced that
+once indigency is established, courts must honor that determination absent a clear
+showing of changed circumstances, stating: "Indigency status carries with it
+fundamental rights that cannot be summarily dismissed through procedural
+technicalities."
+Here, there was no allegation, much less evidence, of any change in Appellant's
+financial condition after the Justice Court's indigency finding. The Circuit Court's
+subsequent dismissal for failure to post bonds directly contradicts both the Justice
+Court's order and Judge Luther's own prior acknowledgment.
+This error is compounded by the fact that, because the Justice Court waived all bond
+requirements, it never set any bond amount for the appeal—further confirming that
+no bonds were required to be posted. Under M.R.Cr.P. 29.3 and 29.4, the
+responsibility to set an appeal bond rests with the lower court judge. The absence of
+any set bond amount in the record is not an oversight; it is the direct result of Judge
+11
+Childers's explicit waiver.
+Thus, the dismissal of Appellant's appeal constituted clear legal error.
+2. Mississippi Law Protects Indigent Appellants from Bond Requirements
+The protection of indigent defendants' right to appeal without financial barriers is
+deeply rooted in Mississippi law. The Mississippi Constitution, Article 3, § 14,
+guarantees that "all courts shall be open" and that "every person for an injury done
+him in his lands, goods, person, or reputation, shall have remedy by due course of
+law, and right and justice shall be administered without sale, denial, or delay." This
+provision has been interpreted to mean that indigent defendants cannot be denied
+access to courts based on their inability to pay fees or costs.
+Mississippi Code Annotated § 99-35-105 explicitly states that "no person shall be
+deprived of his right to appeal because of his inability to pay costs." This statutory
+authority directly supports the binding nature of indigency determinations and the
+impropriety of dismissing appeals for failure to post bond when indigency has been
+established.
+The United States Supreme Court established in Griffin v. Illinois, 351 U.S. 12, 19
+(1956), that states cannot condition appeals on ability to pay, holding that "[t]here
+can be no equal justice where the kind of trial a man gets depends on the amount of
+money he has." This principle was extended to misdemeanor cases in Mayer v. City
+of Chicago, 404 U.S. 189, 196-97 (1971), where the Court ruled that indigent
+12
+defendants must be provided free transcripts for appeal even for non-felony
+convictions, emphasizing that "the distinction between felony and non-felony
+offenses drawn by [the state] bears no rational relationship to a defendant's need for
+a transcript."
+The Fifth Circuit has similarly held in Nat'l Ass'n for Advancement of Colored
+People v. Allen, 493 F.2d 614, 617 (5th Cir. 1974), that "the imposition of costs upon
+indigents as a condition precedent to access to the courts is constitutionally
+impermissible."
+Furthermore, Mississippi Rule of Criminal Procedure 29.3(b) specifically
+contemplates that indigent defendants may be excused from posting a cost bond,
+stating: "the cost bond may be waived for indigent defendants." Rule 29.4(c)
+similarly provides for waiver of the appearance bond for indigent defendants. The
+Justice Court's order fits squarely within these provisions, properly excusing
+Appellant from posting either bond due to his indigence.
+3. The Circuit Court's Error Constitutes Plain Error
+The Circuit Court's dismissal of this appeal, in the face of an explicit indigency
+waiver in the record, constitutes plain error. In McGee v. State, 85 So.3d 275, 282
+(Miss. 2012), the Supreme Court defined plain error as error that "affects the
+defendant's substantive/fundamental rights." This standard is easily met here: the
+error is clear and obvious from the record, and it affected Appellant's fundamental
+13
+right to appeal his convictions. The error resulted in substantial prejudice by
+completely denying Appellant access to a trial de novo on appeal.
+The US Supreme Court has characterized plain error as error that is "clear" or
+"obvious" and affects the defendant's "substantial rights." In most cases, for an error
+to "affect substantial rights," it must be prejudicial and must have affected the
+outcome of the court proceeding. See U.S. v. Duffaut, 314 F.3d 203, 209 (5th Cir.
+2002). The appellate court has discretion to correct plain error that seriously affects
+the fairness, integrity, or public reputation of judicial proceedings. Id.
+For plain error to be reversible, it must also seriously affect the fairness, integrity, or
+public reputation of judicial proceedings. See United States v. Olano, 507 U.S. 725,
+736 (1993). The dismissal of an appeal based on a clearly erroneous ground—
+particularly when that error involves denying an indigent defendant access to
+courts—strikes at the heart of fairness and integrity in our judicial system. Allowing
+this dismissal to stand would undermine public confidence in the courts'
+commitment to equal justice regardless of economic status.
+4. Procedural Rules Must Yield to Substantive Due Process Rights
+Mississippi Rule of Appellate Procedure 2(c) expressly authorizes suspension of
+procedural rules "in the interest of expediting decision, or for other good cause
+shown," particularly where "a failure to do so would result in manifest injustice."
+Federal due process guarantees similarly forbid denial of appellate review based on
+14
+the arbitrary application of procedural hurdles where fundamental rights are at stake.
+In Eggleston v. State, 800 So.2d 1234, 1236 (Miss. Ct. App. 2001), the Court
+emphasized that indigent appellants must be protected from technical dismissals that
+undermine their constitutional rights. The Court held that "once a determination of
+indigency has been made, the defendant does not have to repeatedly prove his
+indigency at various stages of the proceedings."
+The Mississippi Supreme Court has consistently recognized that technical
+procedural requirements should not be enforced in a manner that defeats substantive
+justice. In Kennard v. State, 127 So.2d 848 (Miss. 1961), the Court reinstated an
+appeal that had been dismissed on technical grounds, reasoning that the defendant
+had not trifled with the court or acted in bad faith, and that allowing the appeal would
+not prejudice the State. Similarly, in Rowland v. State, 42 So.3d 503, 507 (Miss.
+2010), the Court held that "procedural bars may be overcome where a fundamental
+constitutional right is implicated."
+The U.S. Supreme Court established in Johnson v. Mississippi, 486 U.S. 578, 586
+(1988), that "strict enforcement of procedural rules can never be permitted to
+supersede the enforcement of fundamental constitutional rights." Similarly, in
+Fulgham v. State, 46 So.3d 315, 322 (Miss. 2010), the Mississippi Supreme Court
+recognized that "mere procedural technicalities should not prevent consideration of
+the merits" when constitutional rights are at stake.
+15
+Here, Appellant's conduct was diligent and in good faith at every turn. Any arguable
+technical misstep was either induced by the clerk's actions or promptly cured with
+the court's permission. The State would not be prejudiced by allowing this appeal to
+proceed, as it would simply have to prove its case in a fair forum—which is all that
+justice requires.
+The refusal to process Appellant's filings despite his established indigent status (C.P.
+37) further violated his due process rights under the Mississippi Constitution Art. 3,
+§ 26 and the Fourteenth Amendment to the United States Constitution.
+THE CIRCUIT COURT AND APPELLATE COURT FAILED TO
+B.
+ENSURE CONTINUED APPELLATE REPRESENTATION, VIOLATING
+FUNDAMENTAL DUE PROCESS AND THE SIXTH AMENDMENT
+1. Mississippi Law Mandates Continued Representation Through Appeal
+Mississippi Rules of Criminal Procedure Rule 6.2 provides:
+"Defense counsel appointed by the court shall continue to represent the defendant
+through appeal unless relieved by the trial court or appellate court."
+Rule 6.3(a) further provides:
+"If the defendant is convicted, the court shall inform the defendant of the right to
+appeal and the right to appointed counsel on appeal if indigent."
+These rules apply to all criminal convictions—not just felonies. They impose a
+continuing duty on courts to ensure that indigent defendants have representation
+16
+throughout the appellate process.
+Similarly, Miss. Code Ann. § 99-15-15 explicitly provides that for eligible indigent
+defendants, "the accused shall have such representation available at every critical
+stage of the proceeding where a substantial right may be affected." The transition
+from trial to appeal is unquestionably such a critical stage.
+In Metcalf v. State, 629 So.2d 558, 562 (Miss. 1993), the Court recognized that "the
+right to counsel attaches at the accusatory stage and encompasses the defendant's
+right to have counsel through appeal." In Read v. State, 430 So.2d 832, 835 (Miss.
+1983), the Court emphasized the importance of counsel during the transition from
+trial to appeal, noting that this period is precisely when defendants are most
+vulnerable to losing their appellate rights due to procedural technicalities.
+Further, in Williams v. State, 167 So.3d 1075, 1082 (Miss. 2015), the Court
+reaffirmed that the right to appellate counsel extends through the first appeal of right.
+In Cockrell v. State, 85 So.3d 332, 334 (Miss. 2012), the Mississippi Supreme Court
+held that "defense counsel's obligation to a client does not end with the judgment of
+conviction" and that counsel must "take the steps necessary to preserve the client's
+right to appeal, including filing the notice of appeal."
+M.R.Cr.P. 7.2(c) addresses the duration of appointment for indigent defendants'
+counsel, reflecting the expectation of ongoing representation. That rule generally
+17
+provides that appointed counsel will not be permitted to withdraw before filing a
+notice of appeal. The purpose is to ensure that indigent defendants are not left
+without guidance at the crucial juncture of taking an appeal.
+When withdrawal is allowed, M.R.Cr.P. 7.3(g) requires that "the trial or appellate
+court shall appoint new counsel for a defendant who is legally entitled to such
+representation on appeal." (Emphasis added.)
+Despite Appellant's timely Motions seeking the appointment of appellate counsel
+(C.P. 42, 112-114), the trial and appellate courts failed to ensure Appellant was
+represented.
+2. The Circuit Court Evaded Its Obligation by Misapplying Inapplicable Felony Standards
+Rather than addressing Appellant's October 17, 2024, Motion for Appointment of
+Counsel on its merits, the Circuit Court improperly cited an unrelated, outdated order
+addressing a different motion (C.P. 102). It incorrectly invoked Miss. Code Ann. §
+99-40-1 (2), which applies only to the Indigent Appeals Division for felonies, while
+ignoring the broader mandates of Mississippi Rules of Criminal Procedure 6.2 and
+6.3.
+This procedural misapplication constitutes reversible error and a violation of
+Appellant's due process rights. The Circuit Court effectively created an artificial
+distinction not present in the rules to justify denying Appellant counsel at a critical
+stage when it was most needed.
+18
+In Jones v. State, 355 So.2d 89 (Miss. 1978), the Mississippi Supreme Court
+recognized that indigent defendants are entitled to counsel on appeal, regardless of
+the nature of the offense: "An accused is not only entitled to counsel at trial, but he
+is entitled to counsel on appeal from a conviction on the merits. If he is indigent and
+unable to afford an attorney, then he is entitled to a court-appointed attorney at trial
+and on appeal." Id. at 91 (emphasis added).
+Thus, the court's refusal to appoint appellate counsel was legally erroneous.
+3. The Right to Counsel Extends Through the Appeal Process
+In Evitts v. Lucey, 469 U.S. 387, 396 (1985), the U.S. Supreme Court held that "the
+promise of Douglas that a criminal defendant has a right to counsel on his first
+appeal... would be a futile gesture unless it comprehended the right to effective
+assistance of counsel." The Mississippi Supreme Court has likewise recognized that
+"an indigent defendant's right to counsel extends through the appeal of a conviction."
+Williams v. State, 167 So.3d 1075, 1082 (Miss. 2015).
+The United States Supreme Court has repeatedly held that denial of counsel during
+the first appeal as of right constitutes structural constitutional error:
+Gideon v. Wainwright, 372 U.S. 335 (1963): "The right of one charged with
+•
+crime to counsel may not be deemed fundamental and essential to fair trials in
+some countries, but it is in ours."
+19
+Douglas v. California, 372 U.S. 353 (1963): "Where the State has guaranteed an
+•
+appeal, it must provide the defendant with the means of effective appellate
+review, including appointment of counsel for indigents."
+Halbert v. Michigan, 545 U.S. 605, 621 (2005): "Navigating the appellate
+•
+process without a lawyer's assistance is a perilous endeavor for a layperson, and
+well beyond the competence of individuals... who have little education, learning
+disabilities, and mental impairments."
+Flanagan v. United States, 465 U.S. 259, 268 (1984): The right to counsel is
+•
+among the "basic, fundamental rights" that defendants must be afforded in
+criminal proceedings, and its deprivation "cannot be fully remedied by a reversal
+of the conviction."
+The Fifth Circuit has also recognized the critical importance of counsel during the
+appeal perfection period in Hughes v. Booker, 220 F.3d 346, 352 (5th Cir. 2000),
+holding that "the critical thirty-day period after judgment during which a defendant
+must decide whether to appeal requires effective assistance of counsel."
+Similarly, in Peguero v. United States, 526 U.S. 23, 28 (1999), the Supreme Court
+recognized that "when counsel fails to file a requested appeal, a defendant is entitled
+to [relief] without showing that his appeal would likely have had merit."
+In Lombardo v. State, 172 So.3d 788, 792 (Miss. Ct. App. 2014), the Mississippi
+20
+Court of Appeals specifically held that failure to appoint counsel for appeal
+constitutes fundamental constitutional error requiring reversal, noting that "when an
+indigent defendant is denied his right to appointed counsel on appeal, prejudice is
+presumed."
+Additionally, Martinez v. Ryan, 566 U.S. 1, 12 (2012), though focused on post-
+conviction proceedings, contains important language on the necessity of counsel
+during critical procedural transitions, observing that without counsel, a defendant "is
+generally ill equipped to understand and comply with procedural rules."
+4. Appellant Was Improperly Deprived of Counsel at Critical Stages
+The record reveals that Appellant was twice deprived of counsel at critical junctures.
+First, immediately after the Justice Court trial, the lower court terminated Appellant's
+appointed counsel (Mitchell Driskell) despite the pending appeal. Most critically,
+this termination occurred precisely during the 30-day window when Appellant
+needed to perfect his appeal - the very period later contested by the Circuit Court as
+procedurally deficient.
+Although the Circuit Court later reappointed the same attorney (Mitchell Driskell)
+in April 2022, this reappointment came months after the critical appeal-perfecting
+period had already elapsed. This timeline reveals the exact harm that Rules 6.2 and
+6.3 were designed to prevent: an indigent defendant losing appeal rights due to lack
+of representation during the crucial period for filing procedurally correct appeal
+21
+documents.
+The Circuit Court's eventual reappointment of counsel was essentially meaningless
+with respect to the appeal-perfecting process, as the alleged procedural errors had
+already occurred during the period when Appellant was forced to navigate the appeal
+process without any legal assistance. Had counsel's representation been continuous
+as required by law, the very issues later cited as grounds for dismissal would never
+have arisen.
+Second, when the Circuit Court dismissed the appeal on June 28, 2024, it allowed
+counsel to withdraw without appointing substitute counsel for post-dismissal
+proceedings and appeal to this Court.
+These actions violated not only Miss. Code Ann. § 99-15-15 and Mississippi Rules
+of Criminal Procedure 6.2, 6.3, and 7.2(c), but also Appellant's constitutional rights
+under the Sixth Amendment (as applied to the states through the Fourteenth
+Amendment) and the Mississippi Constitution, Article 3, § 26.
+The consequences of being deprived of counsel were not merely theoretical; they
+caused real prejudice. Without counsel to assist when the appeal was dismissed,
+Appellant—who was incarcerated at the time— filed a pro se motion for
+reconsideration (C.P. 79-80) that addressed the issue incorrectly due to lack of access
+to the case file and legal resources. Had counsel been in place, a proper post-
+dismissal motion focusing on the indigency issue could have been filed, potentially
+22
+avoiding the need for this appeal altogether.
+5. Denial of Counsel at the First Appeal Stage is a Structural Constitutional Violation
+In Gideon v. Wainwright, 372 U.S. 335 (1963), the United States Supreme Court
+affirmed the fundamental right to counsel, stating: "The right of one charged with
+crime to counsel may not be deemed fundamental and essential to fair trials in some
+countries, but it is in ours."
+In Douglas v. California, 372 U.S. 353 (1963), the Court extended that right to first
+appeals, holding: "Where the State has guaranteed an appeal, it must provide the
+defendant with the means of effective appellate review, including appointment of
+counsel for indigents."
+In United States v. Cronic, 466 U.S. 648, 659 (1984), the Supreme Court established
+that prejudice is presumed when defendants are denied counsel at a critical stage,
+explaining that "if counsel entirely fails to subject the prosecution's case to
+meaningful adversarial testing, then there has been a denial of Sixth Amendment
+rights that makes the adversary process itself presumptively unreliable."
+Similarly, in McKaskle v. Wiggins, 465 U.S. 168, 177 (1984), the Court emphasized
+that the right to counsel is "among the most basic rights" and that its denial affects
+the "framework within which the trial proceeds."
+The Eleventh Circuit further explained why denial of counsel is structural in United
+23
+States v. Roy, 855 F.3d 1133, 1144 (11th Cir. 2017), stating: "The right to counsel's
+guiding hand is so essential to our concept of a fair system that its denial at critical
+stages requires automatic reversal without any inquiry into prejudice."
+The Mississippi Court of Appeals has applied these principles in Ware v. State, 224
+So.3d 1257, 1260 (Miss. Ct App. 2017), explicitly recognizing that "denial of
+counsel during critical stages constitutes structural error requiring automatic
+reversal" because such errors "affect[] the framework within which the trial
+proceeds, rather than simply an error in the trial process itself."
+The complete denial of appellate counsel is inherently prejudicial and mandates
+reversal.
+6. Preemptive Rebuttal to "Harmless Error" Arguments
+The State may attempt to argue that the denial of appellate counsel was "harmless
+error." This argument fails.
+In Penson v. Ohio, 488 U.S. 75 (1988), the United States Supreme Court
+categorically rejected harmless error analysis for complete denial of appellate
+counsel, stating:
+"The presumption of prejudice must extend to the complete denial of counsel during
+appellate proceedings."
+Similarly, United States v. Duffaut, 314 F.3d 203 (5th Cir. 2002), holds that
+24
+structural constitutional errors inherently affect substantial rights, explaining that for
+such errors, the appellate court has discretion to correct plain error that "seriously
+affects the fairness, integrity, or public reputation of judicial proceedings."
+Thus, harmless error review is inapplicable. Reversal is mandatory.
+MANIFEST INJUSTICE REQUIRES REVERSAL
+C.
+1. The Extraordinary Delay Violates Due Process
+Manifest injustice occurs when there is a fundamental denial of constitutional rights.
+In Rowland v. State, 42 So.3d 503, 507 (Miss. 2010), the Mississippi Supreme Court
+stated:
+"Manifest injustice occurs where there is a fundamental denial of a constitutional
+right."
+Similarly, Keys v. State, 67 So.3d 758, 762-63 (Miss. 2011), recognized that errors
+fundamentally affecting the integrity of proceedings must be corrected, noting that
+"the passage of time alone can prejudice a defendant's ability to mount an effective
+defense" by "dimming memories and loss of exculpatory evidence."
+In Weems v. State, 63 So.3d 579, 585 (Miss. 2010), the Court established a clear test
+for manifest injustice, noting that it exists where "the error has resulted in a denial
+of fundamental constitutional rights."
+25
+The timeline of this case reveals an extraordinary and prejudicial delay:
+Justice Court trial and conviction: November 4, 2021
+•
+Notice of Appeal filed: December 3, 2021
+•
+Circuit Court hearing acknowledging waiver of bond: April 12, 2022
+•
+No action by the court: April 2022 - May 2024 (over two years)
+•
+Dismissal of appeal: June 28, 2024
+•
+Present appeal to this Court: Filed July 18, 2024
+•
+By the time this appeal is decided, nearly five years may have elapsed since the
+original misdemeanor charges. This delay is unconscionable and raises serious due
+process concerns.
+The Mississippi Supreme Court has recognized that excessive delays in criminal
+proceedings can amount to a denial of due process. In De La Beckwith v. State, 707
+So.2d 547, 566 (Miss. 1997), the Court applied the four-factor test established in
+Barker v. Wingo, 407 U.S. 514 (1972): (1) length of delay; (2) reason for delay; (3)
+defendant's assertion of rights; and (4) prejudice resulting from delay.
+In Smith v. Hooey, 393 U.S. 374, 378 (1969), the Supreme Court identified three
+specific types of prejudice that can result from delay: "(1) oppressive pretrial
+incarceration; (2) anxiety and concern of the accused; and (3) possibility that the
+[accused's] defense will be impaired by dimming memories and loss of exculpatory
+26
+evidence." The Court specifically emphasized that "the possibility that the
+[accused's] defense will be impaired" is "the most serious" form of prejudice,
+"because the inability of a defendant adequately to prepare his case skews the
+fairness of the entire system."
+Similarly, in Dickey v. Florida, 398 U.S. 30, 38 (1970), the Court recognized that
+delay can impair a defendant's ability to defend himself due to "loss of witnesses,
+the dulling of memory, and the dispersion of evidence," all of which are present in
+this case given its extraordinary age.
+Moreover, Kennard v. State, 127 So.2d 848 (Miss. 1961), and Sartain v. State, 406
+So.2d 43 (Miss. 1981), demonstrate that appeals should not be dismissed absent bad
+faith or willful neglect — neither of which is present here.
+Here, all four Barker factors weigh heavily in Appellant's favor:
+Length of delay: Nearly three years passed between the filing of the appeal and
+1.
+its dismissal, an extraordinary time for a misdemeanor appeal.
+Reason for delay: The delay is attributable entirely to court inaction, not to
+2.
+Appellant.
+Assertion of rights: Appellant consistently asserted his rights through motions
+3.
+and court appearances.
+Prejudice: The delay has caused substantial prejudice through faded memories,
+4.
+27
+potential loss of evidence, and the ongoing cloud of conviction.
+Dismissal of an appeal perfected by an indigent appellant, without any finding of
+changed circumstances or notice, constitutes such injustice. Accordingly, manifest
+injustice demands reversal.
+2. The Circuit Judge's Bias Further Taints the Proceedings
+The record reveals disturbing evidence of potential judicial bias. At the April 12,
+2022 hearing, Judge Luther made the following statement to Appellant: "I would be
+lying if I told you I wanted your case. Because I don't—you, just being honest with
+you, you have a reputation of being difficult to deal with. And if I got half a chance
+to dodge you, I would dodge you like a speeding bullet." (C.P. 131).
+This gratuitous comment raises significant concerns about the judge's impartiality.
+In Liteky v. United States, 510 U.S. 540, 555 (1994), the Supreme Court recognized
+that judicial remarks that reveal "such a high degree of favoritism or antagonism as
+to make fair judgment impossible" can evidence bias requiring recusal. Judge
+Luther's statement, coupled with his subsequent dismissal of the appeal on grounds
+directly contradicted by the record, suggests that impartiality may have been
+compromised.
+The U.S. Supreme Court further held in Aetna Life Ins. Co. v. Lavoie, 475 U.S. 813,
+825 (1986), that the Due Process Clause requires an unbiased judge and that actual
+bias need not be proven if the circumstances would "offer a possible temptation to
+28
+the average... judge to... lead him not to hold the balance nice, clear and true."
+3. CUMULATIVE IMPACT: MANIFEST INJUSTICE AND STRUCTURAL COLLAPSE
+Even if individual errors were not sufficient alone, the cumulative impact mandates
+reversal.
+In Barker v. Wingo, 407 U.S. 514 (1972), and Brown v. State, 731 So.2d 595 (Miss.
+1999), courts recognized that cumulative constitutional errors require relief.
+The Mississippi Supreme Court has established that "individual errors, not reversible
+in themselves, may combine with other errors to make up reversible error." Manning
+v. State, 929 So.2d 885, 903 (Miss. 2006). Here, the cumulative effect of the errors—
+wrongful dismissal despite waiver of bond requirements, deprivation of counsel at
+critical stages, extraordinary delay, and evidence of potential bias—has resulted in
+a fundamental breakdown of the judicial process that can only be characterized as
+manifest injustice.
+In Smith v. State, 986 So.2d 290, 300 (Miss. 2008), the Court specifically recognized
+that when a combination of errors "effectively denied the defendant a fundamentally
+fair trial," reversal is required even if each error individually might be harmless.
+The repeated denial of Appellant's rights—denial of appointed counsel,
+misapplication of standards, and outright dismissal of appeal—collectively amount
+to a structural failure of due process. Appellant was stripped of meaningful access
+29
+to the courts and was denied the opportunity for effective appellate review.
+In Brooks v. State, 209 So.3d 1064, 1072 (Miss. 2016), the Supreme Court
+emphasized that procedural bars must yield to prevent a fundamental miscarriage of
+justice. The constellation of errors in this case rises to that level. The deprivation of
+Appellant's right to appeal his convictions, combined with the denial of counsel and
+the extraordinary delay, has undermined the very integrity of the proceedings.
+The wrongful dismissal, denial of appellate counsel, and disregard of indigency
+protections combined to deprive Appellant of any meaningful opportunity for
+appellate review.
+Reversal is the only just outcome.
+CONCLUSION AND PRAYER FOR RELIEF
+For the foregoing reasons, and upon the entire record, Appellant respectfully submits that
+the Circuit Court's dismissal of his appeal was erroneous as a matter of law and resulted in
+manifest injustice. The record irrefutably establishes that no appeal bonds were required
+due to the Justice Court's indigency determination. The denial of counsel at critical stages
+further violated Appellant's statutory and constitutional rights. And the extraordinary delay,
+combined with these errors, has created a due process violation of constitutional
+magnitude.
+Given these exceptional circumstances, Appellant respectfully requests that this Court:
+30
+1. REVERSE the Circuit Court's June 28, 2024 order dismissing the appeal; and
+2. RENDER a judgment of acquittal as to the Justice Court convictions underlying this
+appeal.
+The Mississippi Supreme Court has clear authority to render judgment rather than remand
+"when justice does not require otherwise." M.R.A.P. 14(b). In Smith v. State, 492 So.2d
+260, 263 (Miss. 1986), the Court exercised this authority to render judgment where
+procedural errors and delay had created substantial prejudice. Similarly, in Pool v. State,
+483 So.2d 331, 336 (Miss. 1986), the Court rendered judgment rather than remanding
+where the passage of time had made a fair retrial unlikely.
+Here, the nearly five-year age of these misdemeanor charges, combined with the multiple
+due process violations, calls for this extraordinary remedy. At this juncture, remanding for
+a trial de novo would itself raise questions of fundamental fairness given the age of the
+case and the prejudice already suffered.
+Alternatively, if the Court declines to render judgment, Appellant requests that the Court:
+3. REVERSE the dismissal and REMAND with instructions that the Circuit Court must
+honor the Justice Court's indigency determination, appoint counsel for Appellant, and
+proceed with a de novo trial without further delay.
+Under Rule 2(c) of the Mississippi Rules of Appellate Procedure, this Court is empowered
+to suspend procedural rules "in the interest of expediting decision, or for other good cause
+31
+shown," particularly where "a failure to do so would result in manifest injustice." The
+exceptional circumstances of this case call for decisive action to prevent further injustice
+and restore Appellant's fundamental rights.
+Appellant further requests all such other relief to which he may be entitled under law and
+equity.
+Respectfully submitted this the 28th Day of April, 2025
+_____________________________
+Matthew O. Reardon
+Appellant, Pro Se
+P.O. Box 160144
+Clearfield, UT 84016
+Email: mreardon®wtpnews.org
+RECORD EXCERPTS
+(Documents Not Available for Attachment)
+Pursuant to Mississippi Rule of Appellate Procedure 30(a), Appellant would
+ordinarily include the following documents as Record Excerpts. However, despite
+diligent efforts, Appellant has been unable to obtain copies of these documents from
+the Lafayette County Circuit Clerk's Office. Appellant was released from the
+Mississippi State Penitentiary on January 22, 2025, when his abhorrently unlawful
+prison sentence was vacated. Throughout an overburdensome reentry into society,
+the “clerks papers” were misplaced. Appellant gave multiple attempts to obtain
+another copy of these documents through the Circuit Clerk of Lafayette County, Jeff
+32
+Busby. Specifically, appellant requested these documents on April 21, 2025 and
+April 22, 2025 but these requests were denied or ignored because the Circuit Clerk
+and his office did not like and approve of Appellant’s email address and thought it
+was “unprofessional”. This creates several matters of concern. As such Appellant
+will simply list out the excerpt reference.
+1. Justice Court Order of December 2, 2021, finding Appellant indigent and
+waiving all bond requirements (C.P. 38)
+2. Appellant's Affidavit of Poverty (C.P. 33)
+3. Appellant's original Notice of Appeal (C.P. 81)
+4. Appointed counsel's corrected Notice of Appeal (C.P. 61-68)
+5. Motion to Advance the Case (C.P. 73-75)
+6. Circuit Court's Order of Dismissal dated June 28, 2024 (C.P. 76-78)
+7. Appellant's Motions seeking appointment of appellate counsel (C.P. 42, 112-114)
+8. Transcript excerpt of April 12, 2022 hearing containing Circuit Judge's
+acknowledgment of bond waiver (C.P. 115-116, 127)
+9. Transcript excerpt of April 12, 2022 hearing containing Circuit Judge's
+statements regarding Appellant (C.P. 131)
+Appellant respectfully requests that the Court of Appeals obtain and review these
+critical documents directly from the trial court record.
+----------------------------------------------------------------------------------------------------
+33
+CERTIFICATE OF SERVICE
+This the 28th day of April, 2025, I, Matthew O. Reardon, Appellant pro se, certify that I
+have served a true and correct copy of the above and foregoing Brief of the Appellant on
+the following by United States mail, postage prepaid:
+• Lynn Fitch, Attorney General of Mississippi, Counsel for Appellee,
+P.O. Box 220, Jackson, MS 39205- 0220.
+• Ashley Lauren Sulser, Assistant Attorney General, Counsel for Appellee,
+P.O. Box 220, Jackson, MS 39205-0220.
+• Honorable John Kelly Luther, Lafayette County Circuit Court Judge,
+1 Courthouse Square, Oxford, MS 38655.
+Respectfully submitted,
+_____________________________
+Matthew O. Reardon
+Appellant, Pro Se
+CERTIFICATE OF COMPLIANCE
+I, Matthew O. Reardon, certify that this brief complies with the Mississippi Rules of
+Appellate Procedure. It has been prepared in a proportionally spaced typeface (Times New
+Roman 14-point font) and contains approximately 6,500 words (excluding the exempted
+parts of the brief), thereby complying with any applicable word-count limit. This brief also
+complies with all other requirements of the Mississippi Rules of Appellate Procedure
+regarding form and content.
+34
+_______________________
+Matthew O. Reardon
+Appellant, Pro Se
+35

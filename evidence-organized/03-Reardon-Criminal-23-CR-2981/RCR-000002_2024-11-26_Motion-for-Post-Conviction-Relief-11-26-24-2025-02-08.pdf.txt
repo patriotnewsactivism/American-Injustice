@@ -1,0 +1,711 @@
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 1 of 26
+IN THE CIRCUIT COURT OF LAFAYETTE COUNTY, MISSISSIPPI
+LAFAYETTE COUNTY
+FILED
+MATTHEW REARDON PETITIONER
+~l- ~~4_-~3_88_
+NOV 2 6 2024
+vs. CAUSE NO.
+STATE OF MISSISSIPPI RESPONDENT
+MOTION FOR POST-CONVICTION RELIEF
+COMES NOW the petitioner, Matthew Reardon, pursuant to Miss. Code Ann.§ 99-39-1,
+et seq., respectfully requesting that this Court grant him post-conviction relief from the July 18,
+2024 order revoking his unsupervised probation and imposing two (2) years of the suspended
+sentence in criminal cause number LK.22-358. See 2nd Revoc. Order (Ex. A). The Court purported
+to find that Mr. Reardon committed a "felony DUI" offense in Galveston, Texas, and thereby
+violated the conditions of his probation. 2nd Revoc. Tr. (Ex. B) 43. See also 2nd Revoc. Order.
+(Ex. A). But even assuming the State proved by a preponderance of the evidence that Mr. Reardon
+violated the law by driving under the influence, the offense allegedly proven by the State is a
+misdemeanor under both Texas and Mississippi law. A misdemeanor is a "technical violation" of
+the conditions of probation. See Miss. Code Ann. § 4 7-7-2( q). 1 Moreover, this was just the
+1 See also Henderson v. State, 24-CV-204-PH, Order & Judgment, 1 (Marion Cir. Ct. May 15, 2024) (Ex.
+Z) (The court's finding that "Ms. Henderson ... committed a misdemeanor offense ... is a finding that she
+committed a '"technical violation' of post-release supervision"); Holmes v. State, 23-CV-286-BT, Order
+Reinstating Post-Release Supervision (Marion Cir. Ct. Sept. 13, 2023) (Ex. AA) (finding that Mr. Holmes's
+challenge to the revocation of his probation for a misdemeanor DUI offense was "well taken" and directing
+the Department of Corrections to "reinstate" him to "Post-Release Supervision status"); Rogers v. State,
+CV 23-031(F)(L), Agreed Order & Judgment, 1-2 (Lee Cir. Ct. May 16, 2023) (Ex. BB) (The "finding that
+[Mr. Rogers] ... committed two misdemeanor offenses" was a finding that he "committ[ed] technical
+violations of his post-release supervision."); Dancy v. State, 22-CV-121-JM(T), Order & Judgment, 1 (Tate
+Cir. Ct. Sept. 8, 2022) (Ex. CC) (The "finding that [Mr. Dancy] committed three traffic offenses-all
+misdemeanors-was a finding that he committed technical violations of his post-release supervision.");
+State v. Rudisill, Cause Nos. 10-663, 11-51, Revoc. Transcript, 29-30 (Harrison Cir. Ct. Sept. 8, 2022) (Ex.
+DD) (acknowledging that a misdemeanor is a technical violation); Brumley v. State, 16-CV-273-AM, Order
+& Judgment, 6 (ii 14) (Pearl River Cir. Ct. Jan. 24, 2017) (Ex. EE) (Mr. Brunley's "alleged misdemeanor
+offense is also a 'technical violation.'); Wilborn v. State, 2016-0162-CVK, Order & Judgment, 3 (ii 8)
+(Oktibbeha Cir. Ct., Oct. 13, 2016) (Ex. FF) ("[T]his Court's finding by a preponderance of the evidence
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 2 of 26
+"second revocation" of Mr. Reardon's probation "for one or more technical violations." Miss.
+Code Ann. § 4 7-7-3 7 ( 5)( a). Thus, the maximum "period of imprisonment" authorized by the
+revocation statute is "one hundred twenty (120) days." Id. For these reasons, the revocation order
+should be vacated and Mr. Reardon should be re-sentenced to one hundred twenty (120) days (time
+served), given credit for all additional time spent incarcerated, released from prison, and re-instated
+to probation. See, e.g., Knight v. State, 301 So.3d 50, 55 (Miss. Ct. App. 2020) (finding that the
+petitioner was "improperly sentenced" to ten years for "technical violations," reversing the
+sentence, and "remand[ing] for sentencing under [Section 47-7-37(5)(a)]").
+JURISDICTION
+This Court has jurisdiction over this motion for post-conviction relief pursuant to Miss.
+Code Ann. § 99-39-7, which provides that such a motion "shall be filed as an original civil action
+in the trial court, except in cases in which the petitioner's conviction and sentence have been
+appealed to the Supreme Court of Mississippi and there affirmed or the appeal dismissed." See
+also Beasley v. State, 795 So.2d 539, 540 (Miss. 2001) ("[A]n order revoking probation and
+suspended sentence is not appealable," and thus a challenge to such an order should be "pursue[d]
+... under the Mississippi Uniform Post-Conviction Collateral Relief Act.").2
+that Mr. Wilborn committed a misdemeanor offense ... is a finding that Mr. Wilborn committed a technical
+violation of his probation.").
+2 See also Miss. Code Ann. § 99-39-5(1) ("Any person sentenced by a court of record of the State of
+Mississippi ... may file a motion to vacate, set aside or correct the judgment or sentence ... if the person
+claims (a) That the conviction or the sentence was imposed in violation of the ... laws of Mississippi; ...
+(d) That the sentence exceeds the maximum authorized by law [or] ... (h) That his sentence expired; his
+probation, parole or conditional release [was] unlawfully revoked; or he is otherwise unlawfully held in
+custody[.]").
+2
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 3 of 26
+FACTUAL & PROCEDURAL BACKGROUND
+Given the basis for the revocation of Mr. Reardon's unsupervised probation, it is useful to
+provide background for two cases. First, the underlying criminal case: Lafayette County Circuit
+Court cause number LK.22-358. Second, Mr. Reardon's ongoing appeal of a November 24, 2021
+conviction for a misdemeanor DUI in Lafayette County Justice Court cause number 9291202.
+The Underlying Criminal Case
+On September 30, 2022, Mr. Reardon pled guilty to one count of aggravated stalking in
+Lafayette County Circuit Court cause number LK.22-358. Sent. Order (Ex. C). The Circuit Court
+sentenced him to five (5) years in prison, but suspended that sentence and placed him on
+"Unsupervised Probation" for a period of five (5) years. Id. at 1. The Court also ordered him to
+comply with a number of conditions of probation. See id. at 2-3. These conditions include, but
+are not limited to: (1) banishment from Lafayette County for five (5) years (with exceptions
+discussed below), and (2) a requirement that he "commit no offense against the laws of this state
+or any state of the United States." Id. at 2.
+On November 1, 2022, the State filed a motion to revoke Mr. Reardon's unsupervised
+probation. See 1st Revoc. Pet. (Ex. D). The State noted that "as a condition of his unsupervised
+term of Five Years probation," Mr. Reardon was "banished from Lafayette County with two
+exceptions: that he (1) be allowed to enter and exit Lafayette County and go directly to the
+residence where he was then lodged until November 15, 2022, and (2) to attend court proceedings
+or scheduled court business for which he would provide one day notice to the Lafayette County
+Sheriffs Department." Id. at 1. The State alleged that Mr. Reardon violated this condition by
+visiting "the City of Oxford on Friday, October 28, 2022, and Monday, October 31, 2022, for
+unauthorized and unscheduled purposes." Id. at 1-2. Specifically, the State alleged that he visited
+3
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 4 of 26
+"the local Federal Bureau of Investigation office on Friday, October 28, 2022," and was seen in
+"Shelbi's Place, a residential neighborhood, on the evening of October 31, 2022." Id. at 2.3
+On November 3, 2022, the Court held a hearing on the State's motion to revoke. See l51
+Revoc. Tr. (Ex. E). At the conclusion of the hearing, the Court found the State had proven "by a
+preponderance of the evidence" that Mr. Reardon "violated the terms and conditions of [his]
+probation" as alleged in the State's motion. Id. at 20. The Court "revoked" his "probation," id.,
+and imposed "one year" of his suspended sentence, leaving "four years suspended." id. at 22. The
+Court further ordered that "upon [his] release" from prison, he would be "placed on four years of
+unsupervised probation" with the same terms and conditions. Id. The Court subsequently issued
+a written order revoking Mr. Reardon' s unsupervised probation and imposing one ( 1) year of his
+suspended sentence. 1st Revoc. Order (Ex. F).4
+On August 17, 2023, the State filed a second petition to revoke Mr. Reardon' s unsupervised
+probation. See 2nd Revoc. Pet. (Ex. G). In the petition, the State alleged that Mr. Reardon "violated
+the good behavior conditions of [his] probationary sentence" by being "charged with the felony
+crime of Driving Under the Influence, Third or more offense, by the Galveston, Texas Police
+Department in Case #2023-005559 for an offense that occurred on August 11, 2023." Id. On the
+3 The State also alleged that Mr. Reardon violated the banishment condition on September 30, 2022 and
+October 3, 2022, but noted that "[n]o revocation proceedings were initiated" for those alleged violations.
+1s 1 Revoc. Pet. (Ex. D) 1.
+4 As should be clear from the remainder of this motion, the November 3, 2022 revocation order also imposed
+an illegal sentence. Mr. Reardon's violation of the banishment condition was a "technical violation" of his
+unsupervised probation. Miss. Code Ann. § 47-7-2(q). The November 3, 2022 revocation was the "first
+revocation" of his probation for "one or more technical violations." Miss. Code Ann. § 47-7-37(5)(a).
+Thus, the maximum "period of imprisonment" authorized by the revocation statute was "ninety (90) days."
+Id. However, Mr. Reardon has served that illegal sentence. This motion challenges only the July 18, 2024
+revocation order. See 2nd Revoc. Order (Ex. A).
+4
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 5 of 26
+same date-August 17, 2023-a warrant issued for Mr. Reardon's arrest. Warrant (Ex. H).
+However, the warrant was not executed until ten (10) months later, on June 25, 2024. Id.
+On July 18, 2024, the Court held a hearing on the State's petition. 2nd Revoc. Tr. (Ex. B).
+The State presented two witnesses: Katreena Thompson and William Osteen. Ms. Thompson
+"an investigator for the district attorney's office"-testified that Mr. Reardon was charged "at one
+time" with a "felony" driving under the influence ("DUI") offense in Texas. Id. at 10 ( emphasis
+added). She claimed that the felony charge was based on "two prior DUis": "[o ]ne out of Georgia
+and one out of Mississippi." Id. 10. Court documents from each of those prior convictions were
+admitted into evidence without objection. Id. 11-12. The Mississippi abstract-admitted as
+State's Ex. 1-shows that Mr. Reardon was convicted of a misdemeanor "D.U.I. 1st Offense" in
+Lafayette County Justice Court on November 24, 2021. See Revoc. Exs. (Ex. I) 6.5 According to
+the abstract, the alleged offense took place on February 21, 2021. Id. The Georgia documents
+admitted as State's Ex. 2-show that Mr. Reardon was convicted of a misdemeanor DUI offense
+in Cobb County, Georgia on November 3, 2014. Id. 10. According to the Georgia documents, the
+offense took place on December 25, 2012. Id. at 8.6
+On cross-examination, Ms. Thompson conceded that the "felony DUI" charge in Texas
+had been "dismissed." 2nd Revoc. Tr. (Ex. B) 16. In addition to Ms. Thompson's concession, an
+"order from the trial court in Galveston, Texas dismissing the felony DUI referenced in the motion
+to revoke Mr. Reardon's probation" was admitted into evidence-without objection-as Defense
+5 The five exhibits from the revocation hearing are a composite exhibit (Ex. I) to this motion. Citations are
+to the hand-written page numbers in the lower right-hand comer of the documents.
+6 As discussed in more detail below, the offense underlying the Georgia conviction preceded the alleged
+offense underlying the Lafayette County conviction by more than "five (5) years," and thus the alleged
+Lafayette County offense was properly charged as a "First Offense DUI." Miss. Code Ann. §§ 63-11-
+30(2)(a) & (b).
+5
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 6 of 26
+Ex. 4. Id. at 16-17. The "Order of Dismissal" indicates that the charge was dismissed on May 24,
+2024. Revoc. Exs. (Ex. I) 5. Ms. Thompson indicated that it was her "understanding from
+speaking with the investigator with the DA's office" in Texas that the felony DUI charge-which
+requires two prior DUI convictions-was dismissed because "they were uncertain whether" the
+prior misdemeanor DUI conviction from Lafayette County Justice Court "was on appeal or not."
+2nd Revoc. Tr. (Ex. B) 20.7 The State also offered an order from the Lafayette County Circuit
+Court-admitted as State's Exhibit 5, id. at 19- dismissing Mr. Reardon's appeal of the November
+24, 2021 DUI conviction for purportedly "fail[ing] to timely perfect [the] appeal." Revoc. Exs.
+(Ex. I) 4. According to the order, Mr. Reardon "initiated" the appeal "on December 3, 2021." Id.
+at 2. It was not dismissed until June 28, 2024. Id. at 4.8
+William Osteen-"an officer with the Galveston Police Department"-testified about the
+alleged Texas DUI. 2nd Revoc. Tr. (Ex. B) 21. According to Officer Osteen, he "came into contact
+with Mr. Reardon" when he was asked to "assist a traffic stop." Id. at 22. He testified that the
+officer who stopped Mr. Reardon claimed that Mr. Reardon "was speeding" and "failed to maintain
+a single marked lane." Id. Officer Osteen testified that he "made contact with Mr. Reardon" and
+"smelled the odor of an unknown alcoholic beverage in the vehicle." Id. at 23. Thus, he "asked
+Mr. Reardon to step out of the vehicle." Id.
+Officer Osteen testified that once Mr. Reardon "stepped out" and moved to "the rear of his
+vehicle," he could not "detect an odor of an unknown alcoholic beverage emitting from him" and
+therefore his "opinion was that [Mr. Reardon] was probably under the influence of another
+1 See also Mot. to Dismiss (Ex. J) (indicating that the State of Texas moved to dismiss the felony charge
+because it "cannot prove up jurisdictional enhance[ e ]ments." ).
+8 Additional information about Mr. Reardon's ongoing appeal of the Lafayette County misdemeanor DUI
+conviction is provided below.
+6
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 7 of 26
+substance." 2nd Revoc. Tr. (Ex. B) 24. In support of this opinion, Officer Osteen claimed that Mr.
+Reardon's "eyes were watery and glossy," "his pupils were very small," id, and he was "looking
+around" and "talking extremely fast," id. at 35. However, Officer Osteen did not claim that Mr.
+Reardon was slurring his words or unsteady on his feet. See generally 2nd Revoc. Tr. (Ex. B). Nor
+did Officer Osteen claim to have administered any field sobriety tests. See generally id. Moreover,
+Officer Osteen conceded that he is "not a drug recognition expert nor was [he] one during the
+arrest." Id. at 35.
+Officer Osteen acknowledged that Mr. Reardon "state[ d] that he would do a breathalyzer
+over and over again," but since "[t]he only thing a breathalyzer can test for is alcohol," Officer
+Osteen chose to request a blood test. 2nd Revoc. Tr. (Ex. B) 24. As a result, Mr. Reardon was
+transported to the hospital "where a registered nurse drew his blood." Id. at 26. The State and
+Officer Osteen engaged in the follow exchange about the blood test results:
+Q. Do you recall the toxicology report that came back from the blood submission?
+A. So, I see two, one for alcohol and one for another substance.
+Q. Okay. Do you recall the result? Was there a positive result for alcohol or a
+negative?
+A. There was alcohol detected.
+Q. Was there a positive result for any other substance?
+A. Yes, sir.
+Q. And do you recall what substance and what quantity that was?
+A. The substance that came back for - besides alcohol was methamphetamine and
+the results were .13 milligrams per liter.
+Id. at 27 (emphasis added). The toxicology reports were admitted into evidence as State's Exhibit
+3. Id. at 13. Directly contradicting Officer Osteen's testimony, the toxicology report states: "No
+7
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 8 of 26
+alcohol detected." Revoc. Exs. (Ex. I) 15 ( emphasis added). The other toxicology report does
+indicate that "0.13 milligrams per liter" of methamphetamine were detected. Id. at 18. However,
+the State did not present any evidence that this level of methamphetamine would impair a person's
+ability to operate a motor vehicle. See generally 2nd Revoc. Tr. (Ex. B).
+On cross-examination, Officer Osteen was asked whether the "felony driving while
+intoxicated charge" had been dismissed, and he responded that he had "not seen the dismissal
+personally." 2nd Revoc. Tr. (Ex. B) 39. Nonetheless, he confirmed that "the charge is [now]
+pending as a misdemeanor," rather than a felony. Id. at 39.
+In closing argument, the State argued that Mr. Reardon "violat[ ed] the terms and conditions
+that the Court imposed upon him by breaking the law as evidenced by a toxicology report that
+shows that he had methamphetamine in his system while he was driving down the road in Texas."
+2nd Revoc. Tr. (Ex. B) 42. Despite the Texas court's order dismissing the felony DUI charge, the
+State also insisted that, "based on [the] proof," Mr. Reardon committed "a felony DUI." Id. at 42.
+The State, however, offered no citation to Texas or Mississippi law to support the conclusion that
+it had established that Mr. Reardon committed felony. See generally 2nd Revoc. Tr. (Ex. B).
+At the end of the hearing, the Court found it "more probable than not" that Mr. Reardon
+"violated the terms and condition[s] of [his] unsupervised probation." 2nd Revoc. Tr. (Ex. B) 43.
+The Court based this finding "on the testimony presented to the Court," the evidence "showing .13
+level methamphetamine" in Mr. Reardon's system, and the fact he was "charged with a felony
+DUI." Id. Thus, the Court "revoked" Mr. Reardon's "unsupervised probation." Id. Moreover,
+the Court sentenced him "to four years in the custody of the Mississippi Department of Corrections,
+with execution of two years suspended, leaving two years to serve." Id. at 44. The Court further
+ordered that upon his "release from MDOC custody," Mr. Reardon would "be placed on two years
+8
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 9 of 26
+of post-release supervision." Id. The Court subsequently entered a written order- styled as an
+Order Revoking Post-Release Supervision- revoking Mr. Reardon's probation, imposing two (2)
+years of his suspended sentence, and suspending the remaining two (2) years. 2nd Revoc. Order
+(Ex. A).
+The Ongoing Appeal of the Lafayette County Misdemeanor DUI Conviction
+As noted above, on November 24, 2021, the Lafayette County Justice Court found Mr.
+Reardon guilty of one count of "D.U.I. l51 Offense" in cause number 9291202. Revoc. Exs. (Ex.
+I) 6. Nine (9) days later, on December 3, 2021, Mr. Reardon filed in the Lafayette County Circuit
+Court a pro se "Motion to Alter or Amend [the] Judgment." See Mot. (Ex. K) 1. See also Revoc.
+Exs. (Ex. I) 2. In the motion, Mr. Reardon argued, among other things, "that the State of
+Mississippi has failed in proving every fact necessary to constitute the crime of DUI[.]" Id. at 4.
+( emphasis in original). At the conclusion of the motion, he stated: "[P]lease take Judicial Notice
+of this Motion to serve as Defendant's Notice oflntent to Appeal the Judgement (sic) / Order." Id.
+at 12. Mr. Reardon also completed a Civil Cover Sheet in which he indicated that the "nature of
+suit" was an "appeal[]" from "Justice Court." Cover Sheet (Ex. L). The Lafayette County Circuit
+Court Clerk docketed the action as civil cause number 21-cv-494. Id.
+Approximately one month later, on January 7, 2022, Mr. Reardon filed a prose "Motion
+to Schedule Hearing for De Novo Appeal," Mot. (Ex. M), and an Affidavit of Poverty, Aff. (Ex.
+N). In the motion, Mr. Reardon asked the Court to "take Judicial Notice that he provided notice
+of his intent to appeal the Justice Court Judgement (sic) which was notated in the final sentence of
+the final paragraph of his motion submitted on December 3rd , 2021." Id. 2. Mr. Reardon also
+alleged that:
+On December 27th in an effort to play things safe, [he] brought a separate formal
+notice of intent to appeal de novo both to the Justice Court and to put on file in
+9
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 10 of 26
+Circuit Court. However, upon trying to file a copy of a formal notice of appeal,
+[he] was told that his IFP status was being revoked for other matters and that it
+would cost nearly $150 to file his formal stamped notice despite being given an
+order from the trial judge approving [him] to proceed on appeal with IFP status.
+Id. Attached to the motion is a December 2, 2021 order from the Lafayette County Justice Court
+finding that "Matthew Reardon is indigent and by reason of poverty he cannot offer security
+required by and is unable to give bond to appeal the judgment against him." Id. at 3. The order
+further states: "Mr. Reardon is allowed to appeal, ifhe desires to do so, and execution of judgment
+will be stayed without the requirement of supersedeas bond .... Mr. Reardon shall have an
+additional ten ( 10) days beyond the current appeal deadline to file an appeal should he desire to do
+so." Id.
+On March 30, 2022, Mr. Reardon filed a Petition to Appoint Counsel. Pet. (Ex. 0). On
+April 7, 2022, he filed a "Notice of Hearing" on, among other things, his Motion to Alter or Amend
+Judgment, Motion to Schedule a Hearing for De Novo Appeal, and Petition to Appoint Counsel.
+Notice (Ex. P). On April 12, 2022, the County Attorney filed a response to Mr. Reardon's notice
+of hearing arguing, inter alia, that Mr. Reardon' s notice of appeal did not comply with Mississippi
+Rule of Criminal Procedure 29.1. Resp. (Ex. Q) 1-2.
+On April 14, 2022, the Circuit Court entered an order granting Mr. Reardon's Petition to
+Appoint Counsel. Order (Ex. R). Specifically, the Court ordered that "Mitchell Driskell, a
+qualified member of the bar, be and he is hereby appointed by the Court to defend and represent
+the defendant in this appeal of convictions of misdemeanors by [the] Justice Court of Lafayette
+County." Id. On the same date, appointed counsel filed a Corrected Notice of Appeal and Demand
+for Jury Trial. Corr. Not. (Ex. S). According to the Notice, it was "filed pursuant to M.R.Cr.P.
+29. l(c) to preemptively correct any deficiencies in [Mr. Reardon's prose] Notice of Appeal and
+10
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 11 of 26
+to alleviate the necessity of the Court directing the Clerk to issue a written notice of deficiency."
+Id. at 1-2.9
+On May 20, 2022, the County Attorney filed a Response to the Notice of Appeal and Jury
+Trial Demand. Resp. (Ex. T). The County Attorney argued that the notice improperly sought to
+appeal "two separate matters": "resisting arrest and disorderly conduct" charges from December
+28, 2020 and "DUI first offense and related traffic citations" from February 21, 2021. Id. at 1.
+Moreover, the County Attorney argued that the "Judgment of the Justice Court of Lafayette
+County, Mississippi, was entered on November 24, 2021," and Mr. Reardon "did not file and
+perfect his appeal on the two separate matter[ s] within the 3 0 days as is allowed under Rule 29 .1
+of the [Mississippi Rules of Criminal Procedure]." Id. Thus, the County Attorney argued that Mr.
+Reardon's appeal "should be dismissed as being untimely filed and perfected." Id. at 2.
+Mr. Reardon's appeal lingered on the Circuit Court's docket for over two years. On May
+31, 2024, the Circuit Court Clerk filed a motion to dismiss for want of prosecution. Clerk's Mot.
+(Ex. U). On June 11, 2024, Mr. Reardon's appointed counsel responded to the clerk's motion with
+a Motion to Reinstate Case. Mot. (Ex. V). In the motion, appointed counsel argued, inter alia,
+that "the issues before the Court remain ( 1) whether the original pro se Motion perfected an appeal
+of the Justice Court convictions; if not (2) whether the Corrected Notice of Appeal perfected an
+appeal of the Justice Court convictions." Id. at 2. Counsel further insisted that "[n]o actions of
+record have been taken because the pleadings are ripe for ruling by th[e] court." Id.
+9 MRCrP 29. l(c) states: "Upon a failure of a party to comply with the requirements of this rule as to content
+of the written notice of appeal, the court, on its own motion or on motion of a party, shall direct the clerk
+of the court to give written notice to the party in default, apprising the party of the nature of the deficiency.
+If the party in default fails to correct the deficiency within fourteen (14) days after notification, the appeal
+shall be dismissed by the clerk of the court. The county or circuit court shall promptly notify the lower
+court of any such dismissal."
+11
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 12 of 26
+On June 28, 2024, the Circuit Court granted the County Attorney's request to dismiss Mr.
+Reardon's appeal. Revoc. Exs. (Ex. I) 2-4. The Court noted that "[a]n appeal from the Justice
+Court to Circuit Court is perfected by simultaneously filing a written notice of appeal, a cost bond,
+and an appearance bond ( or cash deposit) with the clerk of the circuit court having jurisdiction
+, within thirty (30) days of the judgment." Id. at 2 (citing MRCrP 29. l(a)). The Court found that
+"Mr. Reardon never timely perfected an appeal." Id. at 3. According to the Court, even if
+appointed counsel's corrected notice of appeal "cured" deficiencies in Mr. Reardon's initial
+pleading, Mr. Reardon failed to "timely submit either: (1) an affidavit of poverty; or (2) a cost
+bond and appearance bond." Id. The Court found that "[t]he affidavit of poverty Mr. Reardon
+submitted on January 7 was well outside the thirty (30) day period." Id. Thus, the Court found
+that it was "without jurisdiction." Id. at 4.
+On July 18, 2024--the same date this Court revoked his unsupervised probation in cause
+number LK.22-358- Mr. Reardon timely filed a notice of appeal from the Circuit Court's June 28,
+2024 order dismissing his appeal of the Lafayette County misdemeanor DUI conviction. See
+Notice (Ex. W). Mr. Reardon's appeal is pending in Mississippi's appellate courts and has been
+assigned cause number 2024-TS-00839.10
+PROCEDURAL BARS
+There are no procedural bars to Mr. Reardon's motion for post-conviction relief. This
+motion is timely filed "within three (3) years after entry of the judgment of conviction." Miss.
+Code Ann. § 99-39-5(2). In any event, "those cases in which the petitioner claims that his ...
+probation, parole or conditional release has been unlawfully revoked" are expressly "[e ]xcepted
+10 The docket for Mr. Reardon's appeal is available at:
+https://courts.ms.gov/index.php?cn=98285#dispArea.
+12
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 13 of 26
+from th[e] three-year statute of limitations." Miss. Code Ann. § 99-39-5(2)(b). Moreover, this is
+Mr. Reardon's first post-conviction challenge to the July 18, 2024 revocation order. Regardless,
+"those cases in which the petitioner claims that ... his probation, parole or conditional release has
+been unlawfully revoked" are "[l]ikewise excepted" from the successive writ bar. Miss. Code
+Ann. § 99-39-23(6).11
+ARGUMENT
+The July 18, 2024 revocation of Petitioner Matthew Reardon's probation and suspended
+sentence is governed by the revocation statute, Section 4 7-7-3 7, which requires graduated penalties
+when a court revokes probation for "one or more technical violations." Miss. Code Ann.§ 47-7-
+37(5)(a). Even assuming the State proved by a preponderance of the evidence that Mr. Reardon
+violated the law by driving under the influence in Galveston, Texas, the offense allegedly proven
+by the State is a misdemeanor under both Texas and Mississippi law. A misdemeanor is a technical
+violation of the conditions of probation. See, e.g., Miss. Code Ann.§ 47-7-2(q). And the July 18,
+2024 revocation was just the "second revocation" of Mr. Reardon's probation for "one or more
+technical violations." Miss. Code Ann. § 47-7-37(5)(a). Thus, the maximum "period of
+imprisonment" authorized by the revocation statute is "one hundred twenty (120) days." Id. For
+these reasons, the revocation order should be vacated and Mr. Reardon should be re-sentenced to
+one hundred twenty (120) days (time served), given credit for all additional time spent
+incarcerated, released from prison, and re-instated to probation.
+11 See also Fluker v. State, 170 So.3d 4 71, 4 74 (Miss. 2015) ("Section 99-39-23(6) contains an exception
+to the successive-pleadings bar for 'those cases in which the petitioner claims that his sentence has expired
+or his probation, parole, or conditional release has been unlawfully revoked."').
+13
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 14 of 26
+A. The revocation of Mr. Reardon's probation and suspended sentence is governed by
+Section 47-7-37.
+As an initial matter, there should be no question that the revocation of Mr. Reardon's
+"unsupervised probation" and the imposition of any portion of his "suspended sentence" is
+governed by the revocation statute, Section 4 7-7-37. "Circuit courts do not have inherent power
+to suspend a sentence or to impose a term of [probation], nor do they have inherent power to revoke
+a term of [probation] and impose a period of imprisonment." Atwood v. State, 183 So.3d 843, 846
+(Miss. 2016).12 Instead, the "discretion" to suspend a sentence in a felony case is granted to the
+circuit courts through Section 47-7-33 (probation) and Section 47-7-34 (post-release supervision).
+Johnson v. State, 925 So.2d 86, 105 (Miss. 2006).13 The authority to revoke a term of probation
+or post-release supervision-and to impose all or part of the sentence suspended pursuant to
+Section 47-7-33 or 47-7-34-is granted to the circuit courts through Section 47-7-37. See, e.g.,
+Miss. Code Ann. § 47-7-37(5)(a) (authorizing a circuit court to "revoke all or any part of the
+probation or the suspension of sentence"); Moore v. State, 585 So.2d 738, 741 (Miss. 1991) ("Miss.
+Code Ann.§ 47-7-37 grants to the circuit and county courts the authority to revoke probation.");
+12 Indeed, "[b ]efore 1956 the circuit ... courts had no statutory authority to suspend sentences in felony
+cases." Id. (quoting Johnson v. State, 925 So.2d 86, 96 (Miss. 2006)) (emphasis added). However, one
+"result of the Probation Act [o f 1965] was to expand a criminal court's ability to suspend sentences ... by
+allowing it to suspend felony sentences." Id.
+13 Section 4 7-7-33 authorizes the sentence imposed in this case (i.e. "the imposition of a suspended sentence
+... [that] does not involve a period of supervised probation"). Johnson, 925 So.2d at 105. See also id. at
+92, n.5 (emphasis added) ("'Unsupervised probation' is the functional equivalent to 'a straight suspended
+sentence' to the extent that the sentence is not under the supervision of the Department of Corrections, but
+under the watchful eye of the sentencing judge. Therefore, when we endorse 'unsupervised probation' or
+'non-reporting post-release supervision' under Miss. Code Ann. Section 47-7-34, we are merely
+sanctioning a straight suspended sentence under Miss. Code Ann. Section 47-7-33(1)."). A separate
+statute-Section 99-19-25-also authorizes "suspension of sentences," but it applies "in misdemeanor
+cases only." Id. at 96 (citation omitted). See also Miss. Code Ann. § 99-19-25 ("The circuit courts and the
+county courts, in misdemeanor cases, are hereby authorized to suspend a sentence and to suspend the
+execution of a sentence, or any part thereof, on such terms as may be imposed by the judge of the court.")
+(e mphasis added).
+14
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 15 of 26
+Atwood, 183 So.3d at 847 ("[T]he procedures for the revocation of post-release supervision are
+prescribed exclusively in Section 47-7-37.").
+B. Section 47-7-37 requires graduated penalties when a court revokes probation for one
+or more technical violations.
+In 2014, the Mississippi legislature enacted House Bill 585, a comprehensive criminal
+justice reform bill.14 Among other things, House Bill 585 amended Section 47-7-37 to require
+"graduated penalties for 'technical violations'" of probation. Atwood, 183 So.3d at 846 (footnote
+omitted). The current version of Section 47-7-37 states, in pertinent part:
+(2) At any time during the period of probation, the court, or judge in vacation, may
+issue a warrant for violation of any of the conditions of probation or suspension of
+sentence and cause the probationer to be arrested ....
+(5)(a) ... Within twenty-one (21) days of arrest and detention by warrant as herein
+provided, the court shall cause the probationer to be brought before it and may
+continue or revoke all or any part of the probation or the suspension of sentence. If
+the court revokes probation for one or more technical violations, the court
+shall impose a period of imprisonment to be served in either a technical
+violation center or a restitution center not to exceed ninety (90) days for the first
+revocation and not to exceed one hundred twenty (120) days for the second
+revocation. For the third revocation, the court may impose a period of
+imprisonment to be served in either a technical violation center or a restitution
+center for up to one hundred eighty ( 180) days or the court may impose the
+remainder of the suspended portion of the sentence. For the fourth and any
+subsequent revocation, the court may impose up to the remainder of the suspended
+portion of the sentence.
+Miss. Code Ann. § 47-7-37(2) & (5)(a) (emphasis added).15 Thus, the maximum "period of
+imprisonment" a court may impose "for the second revocation" of probation for "one or more
+14 The text of House Bill 585 is available at:
+https:// billstatus. ls. state.ms.u s/ documents/20 l 4/pdf/HB/0500-05 99/HB0585 SG .pdf
+15 As noted above, the graduated penalty scheme was implemented in 2014 through House Bill 585. It was
+amended in 2018, through House Bill 387, to clarify that the penalty is based on the number ofrevocations
+for technical violations, not the number of technical violations found at a single revocation. See H.B. 387,
+2018 Leg. Reg. Sess., § 11 (Miss. 2018). The text of HB 387 is available at:
+https://billstatus.ls.state.ms.us/documents/2018/pdf/HB/0300-0399/HB0387SG.pdf. See also, Knight v.
+State, 301 So.3d 50, 54 (Miss. Ct. App. 2020) ("With the 2018 revisions, the number of individual technical
+15
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 16 of 26
+technical violations" is "one hundred twenty (120) days." Id. A court is not authorized to "impose
+the remainder of the suspended portion of the sentence" unless and until there is a "third
+revocation" of probation for "one or more technical violations." Id.
+There are just two exceptions to Section 4 7-7-3 7 's graduated penalty scheme. Section 4 7-
+7-37 .1-which was added to the Mississippi Code in 201516-states:
+Notwithstanding any other provision of law to the contrary, if a court finds by a
+preponderance of the evidence, that a probationer or a person under post-release
+supervision has committed a felony or absconded, the court may revoke his
+probation and impose any or all of the sentence. For purposes of this section,
+'absconding from supervision' means the failure of a probationer to report to his
+supervising officer for six (6) or more consecutive months.
+Miss. Code Ann. § 47-7-37.1. Thus, "notwithstanding" Section 47-7-37's graduated penalty
+scheme, a court is authorized to impose "any or all" of a suspended sentence if it finds that the
+probationer "committed a felony" or "absconded" from supervision by failing to report to his
+probation officer "for six (6) or more consecutive months." Id.
+C. Unlike a felony, a misdemeanor is a "technical violation" that is subject to Section 47-
+7-37's graduated penalty scheme.
+In addition to requiring graduated penalties for technical violations of probation, House
+Bill 585 provided a statutory definition of "technical violation." See H.B. 585, 2014 Leg. Reg.
+Sess., § 47 (Miss. 2014). The term is very broadly defined:
+'Technical violation' means an act or omission by the probationer that violates a
+condition or conditions of probation placed on the probationer by the court or the
+probation officer.
+violations does not determine the length [o f imprisonment] or where the imprisonment will be served.
+Rather, with the 2018 revisions, the length and manner of imprisonment for technical violations depends
+instead upon whether or not this is the defendant's first revocation verses the second, third or fourth.").
+16 More on this below.
+16
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 17 of 26
+Miss. Code Ann. § 4 7-7-2( q). Under this broad definition, every violation of "a condition or
+conditions of probation"-including (in this case) a violation of the requirement that the
+probationer "commit no offense against the laws of this state or any state of the United States,"
+Sent. Order (Ex. C) 2-is a "technical violation."
+In 2015, then-Representative Andy Gipson- the primary sponsor of House Bill 585-
+apparently concluded that the statutory definition of "technical violation" was too broad. During
+the legislature's regular session, he introduced House Bill 1051, which would have amended the
+definition of "technical violation" as follows:
+'Technical violation' means an act or omission by the probationer that violates a
+condition or conditions of probation placed on the probationer by the court or the
+probation officer. A technical violation shall not include the commission of a new
+crime or the absconding from supervision by the probationer. For purposes of this
+subsection, 'absconding from supervision' means the failure of a probationer to
+report to his supervising officer for six (6) or more consecutive months.
+H.B. 1051, 2015 Leg. Reg. Sess. (Miss. 2015) (proposed amendment underlined, bold emphasis
+added) (Ex. X). If HB 1051 had become law, the commission of any new crime- including a
+misdemeanor- would not have been a technical violation. Thus, if a court found that a person
+violated the conditions of his probation by committing a misdemeanor, the court's authority to
+impose any or all of the probationer's suspended sentence would not have been limited by Section
+47-7-37's graduated penalty scheme. However, HB 1051 did not become law. See id.
+Instead, the legislature enacted House Bill 1267, which also was sponsored by then
+Representative Gipson. See H.B. 1267, 2015 Leg. Reg. Sess. (Miss. 2015) (Ex. Y). Rather than
+amending the definition of "technical violation," Section 3 of HB 1267- which is now codified at
+Section 47-7-37.1- excepted the commission of a felony and absconding from supervision from
+Section 47-7-37's graduated penalty scheme for technical violations. There is no analogous
+provision excepting the commission of a misdemeanor from Section 47-7-37's graduated penalty
+17
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 18 of 26
+scheme. Thus, the commission of a misdemeanor is a "technical violation" that is subject to
+Section 4 7-7-37's graduated penalty scheme. See, e.g., Harper v. Banks, Finley, White & Co., 167
+So.3d 1155, 1162 (Miss. 2015) ( citation omitted) ('" Where a statute enumerates and specifies the
+subject or things upon which it is to operate, it is to be construed as excluding from its effect all
+those not expressly mentioned or under a general clause."'). See also Lindley v. FD.I. C., 733 F.3d
+1043, 1056 (11th Cir. 2013) (citation omitted) (When the legislature '"knows how to say
+something but chooses not to, it's silence is controlling."').
+Even if there were some ambiguity regarding the scope of the term "technical violation" or
+the application of Section 47-7-37's graduated penalty scheme, there is a "long standing rule that
+penal statutes are to be interpreted strictly against the state and construed liberally in favor of the
+accused." Mclamb v. State, 456 So.2d 743, 745 (Miss. 1984).17 This "rule of lenity" is "'not
+merely a convenient maxim of statutory construction."' Hollie v. State, 174 So.3d 824, 836 (Miss.
+2015) ( citation omitted). "'Rather, it is rooted in fundamental principles of due process."' Id.
+(citation omitted). Pursuant to this rule, this Court is obligated to resolve any possible ambiguity
+by applying "the statute which imposes the lesser punishment." Mclamb, 456 So.2d at 745. In
+other words, this Court is obligated to resolve any perceived ambiguity in the statutes by
+concluding that the commission of a misdemeanor is "teclmical violation" that is subject to Section
+47-7-37's graduated penalty scheme.
+Notably, this Court is not writing on a blank slate. As far as undersigned counsel is aware,
+every court to address the question has concluded that the commission of a misdemeanor is a
+"technical violation" that is subject to Section 47-7-37's graduated penalty scheme. See, e.g.,
+17 See also McGlasten v. State, 328 So.3d IO I, I 07 (Miss. 2021) ("[F]or more than a century, [the
+Mississippi Supreme Court] ha[s] held that 'penal statutes must be strictly construed' against the State and
+in favor of the accused.") (citation omitted).
+18
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 19 of 26
+Henderson v. State, 24-CV-204-PH, Order & Judgment, 1 (Marion Cnty. Cir. Ct. May 15, 2024)
+(Ex. Z) (The court's finding that "Ms. Henderson ... committed a misdemeanor offense ... is a
+finding that she committed a '"technical violation' of post-release supervision"); Holmes v. State,
+23-CV-286-BT, Order Reinstating Post-Release Supervision (Marion Cir. Ct. Sept. 13, 2023) (Ex.
+AA) (finding that Mr. Holmes's challenge to the revocation of his probation for a misdemeanor
+DUI offense was "well taken" and directing the Department of Corrections to "reinstate" him to
+"Post-Release Supervision status"); Rogers v. State, CV 23-03 l(F)(L), Agreed Order & Judgment,
+1 (Lee Cir. Ct. May 16, 2023) (Ex. BB) (The "finding that [Mr. Rogers] ... committed two
+misdemeanor offenses" was a finding that he "committ[ ed] technical violations of his post-release
+supervision."); Dancy v. State, 22-CV-121-JM(T), Order & Judgment, 1 (Tate Cir. Ct. Sept. 8,
+2022) (Ex. CC) (The "finding that [Mr. Dancy] committed three traffic offenses- all
+misdemeanors- was a finding that he committed technical violations of his post-release
+supervision."); State v. Rudisill, Cause Nos. 10-663, 11-51, Revoc. Transcript, 29 (Harrison Cir.
+Ct. Sept. 8, 2022) (Ex. DD) (acknowledging that a misdemeanor is a technical violation); Brumley
+v. State, 16-CV-273-AM, Order & Judgment, 6 (114) (Pearl River Cir. Ct. Jan. 24, 2017) (Ex. EE)
+(Mr. Brunley's "alleged misdemeanor offense is also a 'technical violation.'); Wilborn v. State,
+2016-0162-CVK, Order & Judgment, 3 (19) (Oktibbeha Cir. Ct., Oct. 13, 2016) (Ex. FF) ("[T]his
+Court's finding by a preponderance of the evidence that Mr. Wilborn committed a misdemeanor
+offense ... is a finding that Mr. Wilborn committed a technical violation of his probation.").
+D. Even assuming the State proved by a preponderance of the evidence that Mr.
+Reardon violated the law by driving under the influence, the offense allegedly proven
+by the State is a misdemeanor under both Texas and Mississippi law.
+It is firmly established that "[t]he mere arrest of a probationer is not a violation of
+probation." Brown v. State, 864 So.2d 1058, 1060 (Miss. Ct. App. 2004). Instead, "[w]here the
+19
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 20 of 26
+State seeks to revoke one's probation based upon an allegation of criminal activity, it must show
+proof of an actual conviction, or that a crime has been committed and that it is more likely than
+not that the probationer committed the offense." Id. In this case, the State alleged-and the Court
+purported to find-that Mr. Reardon committed the "felony crime of Driving Under the Influence;
+Third or more offense" in Galveston, Texas. 2nd Revoc. Pet. (Ex. G). See also 2nd Revoc. Order
+(Ex. A). While it is true that a Third Offense DUI is a felony in both Texas and Mississippi, the
+evidence offered by the State at Mr. Reardon's revocation hearing was (at best) only sufficient to
+establish that he committed a Second Offense DUI. A Second Offense DUI is a misdemeanor in
+both Texas and Mississippi. As explained below, the November 24, 2021 conviction in Lafayette
+County Justice Court does not count as a prior conviction for purposes of Texas law because it
+was not "final" on the date of the alleged Texas offense. Moreover, the November 3, 2014
+conviction in Cobb County, Georgia does not count as a prior conviction for purposes of
+Mississippi law because the underlying offense was not committed within five years of the alleged
+Texas offense or the alleged Lafayette County offense.
+Texas Law
+In Texas, a person commits the crime of "Driving While Intoxicated" ("DWI") if "the
+person is intoxicated while operating a motor vehicle in a public place." TX Penal Code §
+49.04(a).18 A first offense DWI is a misdemeanor. See TX Penal Code§ 49.04(b)-(d). A second
+offense DWI also is a misdemeanor. See TX Penal Code § 49.09(a). A third offense DWI is a
+"felony of the third degree." TX Penal Code§ 49.09(b)(2). However, in Texas "[i]t is well-settled
+18 For purposes of Texas's statute, '"Intoxicated' means: (A) not having the normal use of mental or physical
+faculties by reason of the introduction of alcohol, a controlled substance, a drug, a dangerous drug, a
+combination of two or more of those substances, or any other substance into the body; or (8) having an
+alcohol concentration of 0.08 or more." TX Penal Code § 49.0 I (2).
+20
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 21 of 26
+law that '[b ]efore a prior conviction may be relied on to enhance the punishment in a subsequent
+case such prior conviction must be final."' Lundgren v. State, 436 S. W.3d 399, 401 (Tex. App.
+Fort Worth, 2014) (citation omitted). Under Texas law, "[a]n appealed prior conviction ... does
+not become final until the appellate court issues its mandate affirming the conviction." Id. ( citation
+omitted).19 Thus, in Texas, a prior conviction for a DWI may "'not be used to elevate a subsequent
+DWI to ... a third-degree felony"' if "'an appeal w[as] still pending from that [prior] conviction"'
+when the subsequent DWI was committed. Id. (citation omitted).
+In Mr. Reardon's case, the Texas authorities-who presumably are experts in Texas law
+correctly dismissed the felony charge against him because his appeal of the November 24, 2021
+DUI conviction was still pending in the Lafayette County Circuit Court on the date the Texas DWI
+was allegedly committed. See Mot. to Dismss (Ex. J); Revoc. Exs. (Ex. I) 2-5. The date of the
+alleged Texas offense was August 11, 2023. 2nd Revoc. Tr. (Ex. B) 26. According to the Lafayette
+County Circuit Court's order-which was admitted into evidence at the July 18, 2024 revocation
+hearing as State's Ex. 5 .-Mr. Reardon' s appeal was pending from December 3, 2021 until the
+Court dismissed it on June 28, 2024. See Revoc. Exs. (Ex. I) 2-4.20 Indeed, Mr. Reardon's
+19 See Beal v. State, 91 S.W.3d 794, 794-95 (Tex. Ct. Crim. App. 2002) ("Today we settle the question of
+which date should be used in determining the finality of a prior conviction alleged in an indictment for
+enhancement purposes. We hold that it becomes final when the appellate court issues its mandate affirming
+the conviction.").
+20 It is irrelevant that the Circuit Court ultimately concluded that Mr. Reardon "failed to timely perfect
+[his] appeal," and therefore that the Court lacked "jurisdiction" over the appeal. Revoc. Exs. (Ex. I) 4. In
+Lundgren v. State, 436 S.W.3d at 400, Mr. Lundgren was convicted of a misdemeanor DWI on January 7,
+2011. Seven (7) days later-on January 14, 20 I I- he "was again arrested for DWI." Id. Five (5) days
+after that-on January 19, 2011- he "filed a notice of appeal" of the January 7, 2011 conviction. Id. He
+was later "charged by indictment with felony DWI" for the January 14, 201 1 arrest. Id. In the indictment,
+the State relied upon a 2009 misdemeanor DWI conviction and the January 7, 201 I misdemeanor
+conviction "to enhance the charged January 14, 2011 offense to felony DWI." Id. Mr. Lundgren filed a
+motion to quash the indictment because the January 7, 2011 conviction was not "final" at the time the
+January 14, 2011 offense was committed. Id. The trial court denied the motion and Mr. Lundgren pied
+guilty to felony DWI, but "preserved the right to appeal the denial of his motion to quash." Id. (footnote
+continued on next page).
+21
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 22 of 26
+November 24, 2021 conviction still is not "final" for purposes of Texas law, as he has appealed
+the Lafayette Circuit Court's judgment to the Mississippi Supreme Court. See Reardon v. State,
+2024-TS-00839 (Miss. 2024).21 Thus, as matter of Texas law, the State failed to prove a felony
+DWI offense. At best, the offense allegedly proven by the State is a misdemeanor second offense
+DWI.
+Mississippi Law
+In Mississippi, a person commits the offense of Driving Under the Influence ("DUI") if he
+"operate[s] a vehicle" while (a) "under the influence of intoxicating liquor," (b) "under the
+influence of any other substance that has impaired the person's ability to operate a motor vehicle,"
+or ( c) "while under the influence of any drug or controlled substance, the possession of which is
+unlawful under the Mississippi Controlled Substances Law." Miss. Code Ann. § 63-11-30(1)(a)
+(c). As in Texas, both a first offense DUI and a second offense DUI is a "misdemeanor." Miss.
+Code Ann. § 63-11-30(2)(a)-(b). A third offense DUI is a "felony." Miss. Code Ann. § 63-l 1-
+30(2)(c). However, a third offense DUI is defined as "a third conviction" for DUI, "the offenses
+being committed within a period of five (5) years." Id. (emphasis added). In other words, "[t]he
+On appeal, the Texas appellate court noted that it ultimately "dismissed" Mr. Lundgren's appeal of
+the January 7, 2011 conviction "for lack of jurisdiction." Id. Indeed, the court dismissed the appeal of the
+January 7, 2011 conviction because it was a "'plea-bargain case"' and thus Mr. Lundgren "'ha[d] NO right
+of appeal."' Lundgren v. State, 2011 WL 754344, * 1 (Tex. App., Fort Worth, Mar. 3, 2011) (capitalization
+in original, emphasis added). Nonetheless, the appellate court ruled that the January 7, 2011 conviction
+could not be used to enhance the January 14, 2011 offense because "[a]n appealed prior conviction alleged
+in an indictment for enhancement purposes does not become final until the appellate court issues its
+mandate affirming the conviction." Id. at 401 (emphasis added). With respect to Mr. Lundgren's January
+7, 2011 conviction, the appellate court's mandate did not issue until May 12, 2011. Id. at 400. See also In
+re S.F.L., 2005 WL 95794, *2 (Tex. App., Texarkana, Apr. 27, 2005) (finding sufficient proof that a
+"conviction [was] final" where the "record contains the judgment finding [the defendant] guilty ( on his plea
+of guilty) ... , the negotiated plea agreement, the September 5, 2002, opinion by the Eastland Court of
+Appeals that dismissed his appeal as untimely, and the mandate from that court.") ( emphasis added).
+21 Available at: https://courts.ms.gov/index.php?cn=98285#dispArea.
+22
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 23 of 26
+statute requires that [ all three] offenses must have been committed within a period of five years."
+Smith v. State, 950 So.2d 1056, 1058 (Miss. Ct. App. 2007) ( emphasis added).
+In Mr. Reardon's case, the abstract for the Lafayette County conviction shows an offense
+date of February 21, 2021, which is within five (5) years of his August 11, 2023 arrest in Galveston,
+Texas. However, the Georgia documents show an offense date of December 25, 2012, which is
+not within five (5) years of the alleged Texas offense or the alleged Lafayette County offense.
+Indeed, the Georgia offense was committed nearly eleven years before the alleged Texas offense
+and more than eight years before the alleged Lafayette County offense. Thus, as a matter of
+Mississippi law, the State failed to prove a felony DUI offense. At best, the offense allegedly
+proven by the State is a misdemeanor second offense DUI.
+***
+In sum: Even assuming the State proved by a preponderance of the evidence that Mr.
+Reardon violated the law by driving under the influence on August 11, 2023 in Galveston, Texas,
+the offense allegedly proven by the State is a misdemeanor under both Texas and Mississippi law.
+A misdemeanor is a technical violation of the conditions of probation. See, e.g., Miss. Code Ann.
+§ 47-7-2(q). And the July 18, 2024 revocation was just the "second revocation" of Mr. Reardon's
+probation for "one or more technical violations." Miss. Code Ann. § 47-7-37(5)(a). Thus, the
+maximum "period of imprisonment" authorized by the revocation statute is "one hundred twenty
+(120) days." Id. The two (2) year sentence imposed by the Court exceeds the statutory maximum
+period of imprisonment by one (1) year and two hundred forty-five (245) days. It is an "illegal"
+sentence and must be "vacate[d]." Foreman v. State, 51 So.3d 957,962 (Miss. 2011). Mr. Reardon
+has already served more than one hundred twenty ( 120) days in the custody of the Department of
+Corrections. Therefore, he should be resentenced to one hundred twenty (120) days (time served),
+23
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 24 of 26
+given credit for all additional time spent incarcerated, released from prison, and re-instated to
+probation. See, e.g., Knight v. State, 301 So.3d 50, 55 (Miss. Ct. App. 2020) (finding that the
+petitioner was "improperly sentenced" to ten years for "technical violations," reversing the
+sentence, and "remand[ing] for sentencing under [Section 47-7-37(5)(a)]").
+CONCLUSION
+For the foregoing reasons, and any others apparent to the Court, Petitioner Matthew
+Reardon respectfully requests that this Honorable Court grant his motion for post-conviction relief,
+vacate the July 18, 2024 revocation order, resentence him to one hundred twenty (120) days (time
+served), give him credit for all additional time spent incarcerated, release him from prison, and re
+instate him to probation.
+ox 1447
+Cleveland, MS 38732
+769-233-7538 (office)
+662-655-1305 (fax)
+jake.howard@macarthurjustice.org
+Counsel for the Petitioner
+24
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 25 of 26
+VERIFICATION BY PETITIONER
+I, MATTHEW REARDON, the petitioner in the foregoing Motion for Post-Conviction
+Relief do hereby verify and affirm that:
+1. I am currently incarcerated in the Mississippi Department of Corrections. My inmate
+number is 210988.
+2. To the best of my knowledge, all the facts alleged in the foregoing motion are true. I
+acknowledge that I was convicted of misdemeanor driving under the influence in Lafayette
+County Justice Court on November 24, 2021 and was arrested for driving while intoxicated
+in Galveston, Texas on August 11, 2023. However, I do not concede that I committed the
+alleged offenses.
+3. To the best of my knowledge, there are no relevant facts that are not within my personal
+knowledge.
+4. I believe I am entitled to the relief requested in the foregoing motion.
+- -·
+PETITIONER
+ST ATE OF MISSISSIPPI
+COUNTY OF SUNFLOWER
+d
+&
+SUBSCRIBED AND SWORN TO BEFORE ME THIS DAY OF NOVEMBER, 2024.
+•••••••••
+MY COMMISSION EXPIRE~.::•o.!.!~!~.sj;_• .
+••'\~•:\~P.Y Pr.'/••~-.S-••
+A.~·~o ~<ic..'fo•.
+.•• ·--.
+:~.: ID# 380015 ·.~~
+: OUORTISHA WATERS. :
+-~:
+•.),.•
+\1<\Commlssion Explres/J...l
+•.<;;.
+•• -.,, .t:•
+N
+.
+o
+.
+v. 14, 202.7. ··o.- ~•~••
+-
+••'-4 -,.······•·.; C ••
+••• ···C··H··\y· ••••
+25
+Case: 36CI1:24­cv­00388­JKL Document #: 2 Filed: 11/26/2024 Page 26 of 26
+CERTIFICATE OF SERVICE
+I hereby certify that a copy of the foregoing Motion for Post-Conviction Relief and two (2)
+volumes of exhibits have been deposited with the United States Postal Service for delivery to the
+following:
+District Attorney Ben Creekmore
+111 E. Main St.
+New Albany, MS 38652
+f:
+This the {){; day of November, 2024.
+26

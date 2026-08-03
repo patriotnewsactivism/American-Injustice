@@ -1,0 +1,875 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+GALVESTON DIVISION
+ROBERT HARVEY §
+Plaintiff §
+§ CIVIL ACTION NO. 3:25-CV-00058
+v. §
+§
+WILLIAM ROY, in his individual capacity; §
+and § (“JURY REQUESTED”)
+CITY OF GALVESTON §
+aka §
+GALVESTON FIRE DEPARTMENT §
+Defendants §
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION
+TO: All Defendants, by ad through their attorneys of record, William S. Helfand of
+LEWIS BRISBOIS BISGAAD & SMITH, LLP.
+PLAINTIFF, ROBERT HARVEY serves these responses and objections to
+Defendants’ Request for Production to Plaintiff.
+Respectfully submitted,
+/s/ Benjamin S. Campagna
+BENJAMIN S. CAMPAGNA
+Federal ID No. 3822709
+Texas Bar No. 24078302
+TX Attorney Group, PLLC
+405 Main Street, Suite 1000
+Houston, TX 77002
+Telephone: (281) 815-0387
+Facsimile: (281) 612-3006
+Email: ben@txattorneygroup.com
+e-Service Email: e-service@txattorneygroup.com
+ATTORNEYS FOR PLAINTIFF
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 1
+CERTIFICATE OF SERVICE
+A true and correct copy of the foregoing has been served via electronic mail on
+September 24, 2025, to all counsel of record, including but not limited to the following:
+William S. Helfand
+Attorney-in-Charge
+State Bar of Texas No. 09388250
+S.D. Texas No. 8791
+Bill.Helfand@lewisbrisbois.com
+Norman Ray Giles
+State Bar of Texas No. 24014084
+S.D. Texas No. 26966
+Norman.Giles@lewisbrisbois.com
+Lamisa I. Chowdhury
+State Bar of Texas No. 24110033
+S.D. Texas. No. 3580571
+Lamisa.Chowdhury@lewisbrisbois.com
+LEWIS BRISBOIS BISGAARD & SMITH, LLP
+24 Greenway Plaza, Suite 1400
+Houston, Texas 77046
+ATTORNEYS FOR DEFENDANTS
+/s/ Benjamin S. Campagna
+BENJAMIN S. CAMPAGNA
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 2
+DEFINITIONS AND INSTRUCTIONS
+A. As used herein, the terms “you” and “your” shall mean a Plaintiff in this lawsuit and
+all attorneys, agents, and other persons, businesses or legal entities acting or purporting to
+act for, or on the behalf of, the Plaintiff.
+B. As used herein, the terms “documents and tangible things” shall include, but not be
+limited to, all writings of every kind, source and authorship, both originals and all
+nonidentical copies thereof, in your possession, care, custody, or control, or known by you
+to exist, irrespective of whether the writing is one intended for or transmitted internally by
+you, or intended for or transmitted to any other person or entity.
+The terms “documents and tangible things” shall also include, but not be limited to,
+handwritten, typewritten, printed, photocopied, photographic, or recorded matter. It shall
+include communications in words, symbols, pictures, sound recordings, films, tapes, and
+information stored in, or accessible through, computer or other information storage or
+retrieval systems, together with the codes and/or programming instructions and other
+materials necessary to understand and use such systems.
+For purposes of illustration and not limitation, the term shall include: affidavits; agendas;
+agreements; analyses; announcements; bills, statements, and other records of obligations
+and expenditures; books; brochures; bulletins; calendars; canceled checks, vouchers,
+receipts and other records of payments; charts, drawings; check registers; checkbooks;
+circulars; collateral files and contents; contracts; corporate bylaws; corporate charters;
+correspondence; credit files and contents; deeds of trust; deposit slips; diaries, drafts; files;
+instructions; invoices; ledgers, journals, balance sheets, profit and loss statements, and
+other sources of financial data; letters; logs, notes, or memoranda of telephonic or face-to-
+face conversations; manuals; memoranda of all kinds, to and from any persons, agencies,
+or entities; minutes; minute books; notes; notices; parts lists; papers; press releases; printed
+matter (including books, articles, speeches, and newspaper clippings); purchase orders;
+records; records of administrative, technical, and financial actions taken or recommended;
+reports; safety deposit boxes and contents and records of entry; schedules; security
+agreements; specifications; statement of bank accounts; statements, interviews; stock
+transfer ledger; technical and engineering reports, evaluations, advice, recommendations,
+commentaries, conclusions, studies, test plans, manuals, procedures, data, reports, results,
+and conclusions; summaries, notes, and other records and recordings of any conferences,
+meetings, visits, statements, interviews or telephone conversations; telegrams; teletypes
+and other communications sent or received; transcripts of testimony; UCC instruments;
+work papers; and all other writings, the contents of which relate to, discuss, consider, or
+otherwise refer to the subject matter of the particular discovery requested. Any and all data
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 3
+or information which is in electronic or magnetic form should be produced in a reasonable
+manner.
+C. A document or tangible thing is deemed to be in your possession, custody or control
+if you either have physical possession of the item or have a right to possession of the item
+that is equal or superior to the person who has physical control of the item.
+D. “Person” or “persons” means any natural person, firm, partnership, association, joint
+venture, corporation and any other form of business organization or arrangement, as well
+as any government or quasi-governmental agency. If other than a natural person, include
+all natural persons associated with such entity.
+USE OF DEFINITIONS
+E. The use of any particular gender in the plural or singular number of the words defined
+under paragraph “A.”, “Definitions” is intended to include the appropriate gender or
+number as the text of any particular request for production of documents may require.
+TIME PERIOD
+F. Unless stated differently in a specific request for production, each document,
+electronically stored information, or tangible thing herein requested is for the entire time
+period from the date of the occurrence which forms the basis of this lawsuit through the
+date of final disposition of the case.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 4
+GENERAL OBJECTIONS
+1. Scope and Relevance: Plaintiff objects to each request to the extent it seeks information
+that is not relevant to any party’s claim or defense or is not proportional to the needs of the
+case under Federal Rule of Civil Procedure 26(b)(1). Plaintiff further objects to the
+instructions and definitions in Defendants’ Requests for Production to the extent they
+purport to impose obligations broader than or inconsistent with those set forth in the
+Federal Rules of Civil Procedure.
+2. Overbreadth and Burden: Plaintiff objects to each request that is phrased in an overly
+broad manner (including requests for “each and every” document or “any and all”
+documents without reasonable limitation) or that is unduly burdensome. Where
+appropriate, Plaintiff will construe each request as limited to materials within his
+possession, custody, or control, and reasonably related in scope and time to the incident at
+issue.
+3. Privilege and Work Product: Plaintiff objects to each request to the extent it seeks
+information protected by the attorney-client privilege, work-product doctrine, or any other
+applicable privilege or immunity. Any inadvertent disclosure of privileged information is
+not intended to waive and shall not constitute a waiver of any privilege. Plaintiff will not
+produce privileged or work-product materials and will provide an appropriate privilege log
+for any responsive documents withheld on that basis, as required by the Federal Rules.
+4. Confidential or Private Information: Plaintiff objects to each request to the extent it
+seeks private or confidential information not relevant to the claims, including but not
+limited to personal identifying information and private medical or employment information
+that is not reasonably calculated to lead to admissible evidence. Where requests seek such
+information beyond what is at issue in this lawsuit, they are overly intrusive and not
+proportional. Subject to and without waiving this objection, Plaintiff will produce relevant,
+non-privileged records (such as medical or employment records) related to the injuries and
+damages claimed in this case, while reserving all rights to redact or withhold information
+that is private, irrelevant, or privileged.
+5. Documents Equally Available to Defendants: Plaintiff objects to any request that calls
+for documents or information already in Defendants’ possession or control, or equally
+available to Defendants through their own records or public sources (including Defendants’
+internal records, policies, or publicly available documents). To the extent a request seeks
+such materials, it is unduly burdensome and duplicative. Plaintiff’s responses are made
+with the understanding that he need not produce documents that Defendants already have
+or can obtain from more convenient sources.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 5
+6. Continuing Duty and Supplemental Responses: These responses are made based on the
+information reasonably known and available to Plaintiff at this time. Plaintiff reserves the
+right to supplement or amend these responses in accordance with Rule 26(e) of the Federal
+Rules of Civil Procedure if additional responsive information is discovered. By responding
+to these requests, Plaintiff does not admit the existence of any particular documents, nor
+concede the relevance or admissibility of any documents produced. All objections as to
+relevance, materiality, and admissibility are expressly reserved.
+Subject to and without waiving the foregoing General Objections, which are incorporated
+by reference into each specific response below, Plaintiff responds to Defendants’ Requests
+for Production as follows:
+RESPONSES AND OBJECTIONS TO SEPECIFIC REQUESTS
+1. Each written or recorded statement, including prior testimony, made by any person
+that is relevant to any claim or defense.
+OBJECTION: Plaintiff objects that this request is overly broad, unduly burdensome, and
+vague insofar as it seeks “each written or recorded statement … made by any person …
+relevant to any claim or defense,” without any subject-matter limitation or identification of
+specific statements. The phrase “relevant to any claim or defense” is vague and unlimited
+in scope, potentially encompassing statements unrelated to the incident at issue. Plaintiff
+further objects to the extent this request calls for documents not in Plaintiff’s possession,
+custody, or control (for example, statements by third parties of which Plaintiff is unaware).
+Plaintiff also objects to the extent the request seeks statements protected by the attorney–
+client privilege or attorney work-product (such as witness interview notes or statements
+taken by Plaintiff’s counsel in anticipation of litigation).
+RESPONSE: Subject to and without waiving these objections, Plaintiff is currently
+unaware of any written or recorded statements which are not publicly and equally available,
+were not given to Plaintiff by Defendants, or were not already otherwise filed in this case.
+See Bates numbers CITY 1-527.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 6
+2. Each document, electronically stored information, or tangible thing, including
+letters authored by Plaintiff, prepared for, or sent to a governmental agency or entity, public
+agency, newspaper, social media outlet, or any other third party that is relevant to any claim
+or defense.
+OBJECTION: Plaintiff objects to this request as overly broad and not proportional to the
+needs of the case, in that it seeks “each document” sent to “any … third party” that is
+relevant to any claim or defense, without describing any particular subject matter. The
+request is vague and unlimited as to time and scope, and could encompass communications
+that are not reasonably calculated to lead to admissible evidence. Plaintiff further objects
+to the extent this request seeks documents in the possession of third parties or documents
+equally available to Defendants (for example, publications or social media posts that are
+public). Plaintiff also objects to any portion of this request that seeks communications
+protected by privilege or work-product (such as letters prepared at counsel’s direction).
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDD000001 through PDD000007.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+3. Each document, electronically stored information, or tangible thing evidencing any
+photograph or recording regarding the occurrence which forms the basis of the lawsuit.
+OBJECTION: Plaintiff objects to this request to the extent that the phrase “each document
+… evidencing any photograph or recording” is vague and confusing. It is unclear whether
+Defendants seek the photographs and recordings themselves or documents about such
+photographs or recordings. To avoid confusion, Plaintiff will interpret this request as
+seeking production of any photographs or video/audio recordings of the incident or its
+aftermath in Plaintiff’s possession. Plaintiff further objects to the extent the request calls
+for materials not in Plaintiff’s possession or control (for example, recordings made by third
+parties that Plaintiff does not possess).
+RESPONSE: Subject to and without waiving these objections, Plaintiff is currently
+unaware of any written or recorded statements which are not publicly and equally available,
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 7
+were not given to Plaintiff by Defendants, or were not already otherwise filed in this case.
+See Bates numbers CITY 1-527.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+4. Each document, electronically stored information, or tangible thing Plaintiff
+identifies in his disclosures as a document, electronically stored information, or tangible
+thing Plaintiff may use to support a claim or refute Defendants’ defense.
+OBJECTION: Plaintiff objects that this request is duplicative and unduly burdensome to
+the extent it requests documents already identified or produced in Plaintiff’s Federal Rule
+26(a)(1) initial disclosures. This request essentially asks for all documents Plaintiff “may
+use to support a claim or refute Defendants’ defense,” which overlaps substantially with
+Plaintiff’s disclosure obligations. To the extent any such documents exist, they have likely
+been or will be produced in response to other specific requests herein. Plaintiff also objects
+to the extent this request seeks documents not in Plaintiff’s possession (to the extent any
+were listed in disclosures but actually originated from Defendants or third parties).
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDD000001 through PDD000???, PDM000001 through PDM000099, and CITY 1 through
+CITY 527.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+5. Each document, electronically stored information, or tangible thing which shows
+that Chief William Roy violated clearly established law during his interaction with
+Plaintiff.
+OBJECTION: Plaintiff objects to this request as improper and vague, in that it calls for
+documents “which show[] that Chief William Roy violated clearly established law.”
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 8
+Whether Chief Roy’s conduct violated “clearly established law” is a legal conclusion and
+a question of law for the Court (particularly in the context of qualified immunity), not a
+fact that can be proven by a document. The request is thus vague and ambiguous because
+it is unclear what category of documents would “show” a violation of clearly established
+law. To the extent Defendants seek evidence supporting Plaintiff’s contention that Chief
+Roy’s conduct was unlawful, Plaintiff notes that this will be determined by applying the
+law to the facts of the case, rather than by any standalone “document” in Plaintiff’s
+possession. Plaintiff further objects to this request as overly broad and not proportional, as
+it is not limited to any specific type of document or subject matter other than the
+aforementioned legal conclusion. Additionally, to the extent this request implicitly seeks
+legal research, case law, statutes, or other legal authorities (which are not factual evidence),
+Plaintiff objects that it seeks materials outside the scope of Rule 34.
+RESPONSE: Subject to and without waiving these objections, see Bates number CITY
+107 and related reports. Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+6. Each document, electronically stored information, or tangible thing evidencing
+conduct legally required of Chief Roy under clearly established law during his interaction
+with Plaintiff.
+OBJECTION: Plaintiff objects to this request on the grounds that it is vague, ambiguous,
+and calls for a legal conclusion. The request seeks documents “evidencing conduct legally
+required of Chief Roy under clearly established law” during the incident. The phrase
+“conduct legally required … under clearly established law” is unclear and subject to
+interpretation, effectively asking Plaintiff to identify what Chief Roy should have done
+according to the law. Determining what conduct was “legally required” of Chief Roy
+involves legal analysis (e.g. referencing statutes, case law, or policies) rather than the
+production of existing documents in Plaintiff’s possession. Plaintiff further objects to this
+request as overly broad and not proportional to the needs of the case. It is not confined to
+any particular document type or source; to the extent it seeks law enforcement policies,
+training manuals, or legal standards, those would be documents more appropriately
+obtained from Defendants or public sources. Plaintiff also objects to the extent this request
+seeks documents not in Plaintiff’s possession, custody, or control.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 9
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+7. Each document, electronically stored information, or tangible thing evidencing any
+standards or standard applicable to Chief Roy’s conduct that is relevant to a claim or
+defense at issue in this litigation.
+OBJECTION: Plaintiff objects that this request is vague, overbroad, and not reasonably
+specific. It asks for any document evidencing “any standards or standard applicable to
+Chief Roy’s conduct” relevant to any claim or defense. The term “standards or standard”
+is ambiguous, as it could refer to official policies, departmental standards, legal standards,
+industry standards, or other guidelines. Moreover, this request is not limited to a particular
+source or type of standard, time frame, or subject, making it overly broad. Plaintiff further
+objects to the extent this request seeks documents that are properly within Defendants’
+possession or public domain, for example, if referring to police or fire department policies,
+training materials, city ordinances, or state laws that govern Chief Roy’s conduct, such
+materials are either in Defendants’ custody or publicly available (and not unique documents
+that Plaintiff must produce). To the extent the request seeks legal authorities or published
+standards, those are not the proper subject of a Rule 34 request for production. Plaintiff
+also objects to the extent this request calls for documents not in Plaintiff’s possession or
+control.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+8. Each document, electronically stored information, or tangible thing evidencing
+Plaintiff’s loss of Fourteenth Amendment rights due to the conduct of Chief Roy.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 10
+OBJECTION: Plaintiff objects to this request as vague and argumentative, insofar as it
+seeks documents evidencing “Plaintiff’s loss of Fourteenth Amendment rights” due to
+Chief Roy’s conduct. The phrase “loss of Fourteenth Amendment rights” is not a factual
+description but rather a characterization of the legal violation Plaintiff alleges (a
+deprivation of rights under the Fourteenth Amendment). As such, the request effectively
+calls for evidence of a constitutional violation, which is a legal conclusion derived from
+the facts of the case. Plaintiff further objects that this request is overly broad, as it does not
+specify any particular type of document or subject matter, and it appears to encompass any
+evidence of injury or harm related to the alleged constitutional violation. To the extent the
+request seeks “each document” that might support Plaintiff’s claim, it overlaps with other
+requests for evidence of the incident and Plaintiff’s injuries.
+RESPONSE: Subject to and without waiving these objections, see Bates number CITY
+107, and PDM000001 through PDM000099. Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+9. Each document, electronically stored information, or tangible thing evidencing
+information Plaintiff published through social media regarding the occurrence which forms
+the basis of this lawsuit.
+OBJECTION: Plaintiff objects that this request is overbroad, unduly burdensome, vague,
+and not proportional to the needs of the case. Phrases like “each document … evidencing
+information Plaintiff published through social media” are not reasonably particular and
+appear to demand a wholesale export and review of Plaintiff’s social media histories across
+unspecified platforms, timeframes, accounts, formats, and features (e.g., posts, edits,
+reposts, shares, stories, reels, live-stream artifacts, “likes,” reactions, comments, tags,
+metadata, analytics, and private messages). The request also seeks publicly available
+information equally accessible to Defendants and sweeps in materials outside Plaintiff’s
+possession, custody, or control, including third-party posts, comments, and platform-native
+metadata. Plaintiff further objects to the extent the request seeks private/direct messages or
+communications with non-parties that would intrude upon privacy interests and the rights
+of third parties, and to the extent it seeks account credentials, comprehensive data exports,
+or forensic collections, which are not proportional and not required under Rule 34. Plaintiff
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 11
+also objects to producing duplicative material already produced or in Defendants’
+possession (e.g., the incident video produced by the City at CITY 107).
+RESPONSE: Subject to and without waiving these objections, Plaintiff will construe this
+request narrowly to cover Plaintiff-authored, public-facing social media posts that
+specifically reference the June 21, 2024 incident within a reasonable window (June 15,
+2024–August 31, 2024). On that narrowed basis, Plaintiff will either: 1) identify any such
+post(s) by platform, handle, date/time, and URL (given that they are publicly accessible),
+or 2) produce targeted screenshots/PDFs of those specific Plaintiff-authored posts (not
+including third-party comments, reactions, shares, or platform metadata), if and to the
+extent they exist and are located after a reasonable search. Plaintiff will not produce:
+account credentials; comprehensive account exports; platform analytics or metadata;
+private/direct messages; third-party content (including others’ comments, shares, or
+reposts); or materials unrelated to the incident. If Defendants contend that additional
+categories (e.g., private messages with a specifically identified person about the incident
+during a defined timeframe) are actually necessary and proportional, Plaintiff is willing to
+meet and confer to discuss a narrow, targeted search protocol that protects privacy and
+avoids burdensome or duplicative collection.
+At present, after a reasonable search, Plaintiff has identified no additional non-duplicative,
+Plaintiff-authored posts beyond materials already produced or in Defendants’ possession.
+Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+10. Each document, electronically stored information, or tangible thing evidencing
+information relevant to any damage Plaintiff claims in this lawsuit.
+OBJECTION: Plaintiff objects that this request is overly broad and lacking specificity, as
+it seeks “each document … evidencing information relevant to any damage Plaintiff
+claims.” This could encompass a wide range of materials, potentially including all medical,
+financial, or personal records related to Plaintiff’s damages. The request is not limited to a
+particular category of damages (such as medical expenses, lost income, pain and suffering,
+etc.), nor to a time frame, and thus is not proportional to the needs of the case without
+further clarification. To the extent this request overlaps with more specific requests (for
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 12
+example, those seeking medical records, records of disability, or mitigation of damages),
+Plaintiff will address those subjects in the corresponding responses below.
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDM000001 through PDM000099. Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+11. Each document, electronically stored information, or tangible thing evidencing that
+Chief Roy blasted a siren multiple times for no discernable reason.
+OBJECTION: Plaintiff objects to this request as vague and ambiguous, particularly with
+respect to the phrase “no discernable reason.” The request seeks documents evidencing that
+Chief Roy “blasted a siren multiple times for no discernable reason.” The incident in
+question involves Chief Roy’s conduct with a vehicle siren, but whether there was “no
+discernible reason” for using the siren is a matter of interpretation and argument. It is
+unclear what would constitute a document evidencing a lack of reason or justification. To
+the extent the request is attempting to obtain evidence that Chief Roy activated his siren
+multiple times in circumstances not warranting its use, Plaintiff notes that this is primarily
+a factual issue demonstrated by the incident itself (e.g., video/audio recordings or
+eyewitness testimony) rather than by separate documents. Plaintiff further objects that the
+request is overly broad to the extent it does not specify any particular type of document;
+presumably, the most direct evidence would be the audio/video recording of the incident
+capturing the siren blasts, which is already in Defendants’ possession.
+RESPONSE: Subject to and without waiving these objections, see Bates number CITY
+107.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 13
+12. Each document, electronically stored information, or tangible thing evidencing that
+Chief Roy injured Plaintiff’s eardrums.
+OBJECTION: Plaintiff objects that this request is somewhat vague in scope, but interprets
+it as seeking evidence that Plaintiff suffered injury to his eardrums (or hearing) as a result
+of Chief Roy’s conduct (presumably the loud siren blasts at close range). To the extent the
+request asks for “each document … evidencing” that injury, it is potentially overbroad, but
+Plaintiff will focus on relevant medical evidence of ear injuries.
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDM000001 through PDM000007, PDM000015 through PDM000020, and PDM000040
+through PDM000042.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+13. Each document, electronically stored information, or tangible thing evidencing that
+the vehicle Chief Roy drove struck Plaintiff.
+OBJECTION: Plaintiff objects to the extent this request is vague or duplicative, as it seeks
+evidence that Chief Roy’s vehicle made physical contact with Plaintiff during the incident.
+This is a key factual contention of Plaintiff’s case (Plaintiff alleges that Chief Roy’s vehicle
+hit him), and the evidence of it overlaps with general evidence of the incident.
+RESPONSE: Subject to and without waiving these objections, see Bates number CITY
+107, and PDM000001 through PDM000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+14. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff attempted to back out of the way of the vehicle Chief Roy drove.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 14
+OBJECTION: Plaintiff objects to the extent the request is argumentative (implying
+something about Plaintiff’s actions) or vague.
+RESPONSE: Subject to and without waiving these objections, see Bates number CITY
+107.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+15. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff needed medical attention for any injury Plaintiff claims to have sustained during
+the occurrence which forms the basis of this lawsuit.
+OBJECTION: Plaintiff objects that this request is duplicative of requests for medical
+records and evidence of injury.
+RESPONSE: Subject to and without waiving these objections, see Bates number CITY
+107, and PDM000001 through PDM000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+16. Each document, electronically stored information, or tangible thing evidencing that
+Chief Roy was intoxicated during the occurrences which form the basis of this lawsuit.
+OBJECTION: Plaintiff objects to this request as overly broad and not within Plaintiff’s
+personal knowledge or records. The request seeks evidence that Chief Roy was intoxicated
+during the incident. Plaintiff has alleged that Chief Roy may have been intoxicated, but any
+direct evidence of Chief Roy’s intoxication (such as breathalyzer results, blood tests, or
+internal reports) would be in the possession of Defendants (specifically, the City or its
+departments). Plaintiff himself does not have access to, for example, Chief Roy’s blood
+alcohol content or other tests, unless obtained through discovery from Defendants. Plaintiff
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 15
+further objects to the extent this request may call for speculation or opinion rather than
+documents (e.g., a lay observation that Roy seemed intoxicated is not a “document”).
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+17. Each document, electronically stored information, or tangible thing evidencing that
+Chief Roy was not tested for the presence of alcohol during the occurrence which forms
+the basis of this lawsuit.
+OBJECTION: Plaintiff objects that this request seeks information that is primarily within
+the knowledge and records of Defendants. Whether Chief Roy was or was not tested for
+alcohol presence is a fact that would be documented (if at all) in Defendants’ own records
+(for example, police or fire department procedural records, incident reports, or internal
+communications). Plaintiff himself was not the person responsible for testing Chief Roy,
+nor would he have been provided any documentation about such testing (or lack thereof)
+in the ordinary course. Therefore, Plaintiff objects to this request to the extent it seeks
+documents not in Plaintiff’s possession, custody, or control. It is effectively asking Plaintiff
+to confirm the absence of a document (a test result) in Defendants’ files, which Plaintiff
+cannot do. In practice, the absence of a record of a test, would serve as evidence that he
+was not tested.
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDD000008 through PDD000010.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 16
+18. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff presented a complaint to the Galveston Police Department regarding the
+occurrence which forms the basis of this lawsuit.
+RESPONSE: See Bates numbers PDD000001 through PDD000036.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+19. Each document, electronically stored information, or tangible thing evidencing that
+the City did not discipline Chief Roy regarding the occurrence, as alleged in paragraph 20
+of Plaintiff’s complaint.
+OBJECTION: Plaintiff objects to this request on the grounds that evidence of the City’s
+(non)disciplinary action would primarily lie in the City’s own records, not Plaintiff’s.
+Whether or not the City disciplined Chief Roy is a fact that the City is in the best position
+to know and document (through internal affairs files, personnel records, etc.). Plaintiff, as
+a private party, would not ordinarily have direct access to such records unless obtained via
+discovery. Plaintiff further objects that the phrase “each document evidencing that the City
+did not discipline Chief Roy” is essentially asking for proof of a negative; typically, one
+would evidence a lack of discipline by the absence of such a document.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+20. Each document, electronically stored information, or tangible thing evidencing that
+during the occurrence which forms the basis of the lawsuit Plaintiff sustained bodily injury
+consistent with being struck by a vehicle.
+RESPONSE: See Bates numbers PDM000001-PDM000099.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 17
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+21. Each document, electronically stored information, or tangible thing evidencing that
+Detective A. Rogers did not review a surveillance video from Zendeh Del and Associates.
+OBJECTION: Plaintiff objects in that the information about what Detective Rogers did
+or did not do is largely within Defendants’ knowledge and records and would not be in the
+care, custody, or control of Plaintiff.
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDD000037 through PDD000038.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+22. Each document, electronically stored information, or tangible thing evidencing that
+any recording from Detective A. Rogers’ investigation is lost.
+OBJECTION: Plaintiff objects that to the extent this request seeks documents about
+internal evidence handling (lost recordings), such documents would be in Defendants’
+custody (e.g., internal memos or emails about lost evidence) and not in Plaintiff’s
+possession.
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDD000027 through PDD000038.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 18
+23. Each document, electronically stored information, or tangible thing evidencing that
+the City lost or destroyed relevant recorded evidence in its investigation.
+OBJECTION: Plaintiff objects that to the extent this request seeks documents about
+internal evidence handling (lost recordings), such documents would be in Defendants’
+custody (e.g., internal memos or emails about lost evidence) and not in Plaintiff’s
+possession.
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDD000027 through PDD000038.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+24. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff sustained injuries to his ears, arms, shoulder, and back during the occurrence
+which forms the basis of the lawsuit.
+RESPONSE: See Bates numbers PDM00001 through PDD000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+25. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff will require future medical care for any claimed injury Plaintiff sustained during
+the occurrence which forms the basis of the lawsuit.
+OBJECTION: Plaintiff objects that to the extent this request is asking for expert opinions
+or prognoses, it may call for materials not yet in existence or for expert disclosures. Plaintiff
+has not yet designated medical experts to opine on future medical needs (those will be
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 19
+provided at the appropriate time under Rule 26(a)(2) if applicable). However, Plaintiff will
+construe this request as asking for existing medical records or documentation that show
+anticipated future care or lingering injury requiring further treatment.
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDM00001 through PDD000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+26. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff was ever disabled as a result of the occurrence which forms the basis of the lawsuit.
+OBJECTION: Plaintiff objects that whether he “was ever disabled” is vague and calls for
+a legal conclusion or a medical opinion (for example, determining a disability status).
+Plaintiff has not yet designated medical experts to opine on Plaintiff’s medical status (those
+will be provided at the appropriate time under Rule 26(a)(2) if applicable).
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDM00001 through PDD000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+27. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff continues to be disabled as a result of the occurrence which forms the basis of the
+lawsuit.
+OBJECTION: Plaintiff objects that whether he “continues to be disabled” is vague and
+calls for a legal conclusion or a medical opinion (for example, determining a disability
+status). Plaintiff has not yet designated medical experts to opine on Plaintiff’s medical
+status (those will be provided at the appropriate time under Rule 26(a)(2) if applicable).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 20
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDM00001 through PDD000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+28. Each document, electronically stored information, or tangible thing evidencing a
+disability Plaintiff claims he sustained as a result of the occurrence subject of this lawsuit.
+OBJECTION: Plaintiff objects that whether he sustained a “disability” is vague and calls
+for a legal conclusion or a medical opinion (for example, determining a disability status).
+Plaintiff has not yet designated medical experts to opine on Plaintiff’s medical status (those
+will be provided at the appropriate time under Rule 26(a)(2) if applicable).
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDM00001 through PDM000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+29. Each document, electronically stored information, or tangible thing evidencing that
+the City has not supervised Chief Roy in compliance with constitutional requirements.
+OBJECTION: Plaintiff objects that this request is vague, overbroad, and seeks a legal
+conclusion. “In compliance with constitutional requirements” is a legal standard. Plaintiff
+further objects to the extent this request seeks documents not in his possession but rather
+in the City’s possession (like internal supervision policies, records of supervisory actions
+regarding Roy, etc.). It’s effectively asking Plaintiff to produce the City’s own evidence of
+its failure.
+RESPONSE: Subject to and without waiving these objections, see Bates numbers CITY 1
+through CITY 527, and Plaintiff will supplement.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 21
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+30. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff was not at the scene of an emergency during the occurrence which forms the basis
+of the lawsuit.
+OBJECTION: Plaintiff objects that this request is vague, overbroad, and seeks a legal
+conclusion. Plaintiff further objects to the extent this request seeks documents not in his
+possession but rather in the City’s possession.
+RESPONSE: Subject to and without waiving these objections, see Bates numbers CITY
+107, and Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+31. A signed release authorizing Defendants to obtain employment records pertaining
+to Plaintiff from January 1, 2018, through the date of trial.
+OBJECTION: Plaintiff objects to this request in its entirety. This is not a request for an
+existing document or tangible thing, but rather a demand that Plaintiff create a new
+document (a signed release) to allow Defendants to directly obtain his employment records.
+Such a request is improper under Federal Rule of Civil Procedure 34, which only requires
+a party to produce documents in their possession, custody, or control, not to create new
+documents or authorizations. Plaintiff further objects that the request for employment
+records from January 1, 2018 to present is overbroad in time and scope, and not narrowly
+tailored to relevant issues. To the extent that some of Plaintiff’s employment information
+might be relevant, such relevance would likely be limited to post-incident records or
+specific aspects of his employment. Plaintiff also objects to this request as an invasion of
+privacy and not proportional to the needs of the case. Employment files often contain
+sensitive personal information and records of job performance irrelevant to the case.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 22
+Defendants have not shown a specific need for the entirety of Plaintiff’s employment
+records across this broad timeframe. Furthermore, Plaintiff objects that Defendants can
+obtain relevant employment information through less intrusive means, such as tailored
+discovery requests or subpoenas to employers with notice and opportunity to object, rather
+than a blanket release. Indeed, if necessary, Defendants may directly subpoena Plaintiff’s
+employer(s) for specific relevant documents (with appropriate protections for Plaintiff’s
+privacy), without requiring Plaintiff to sign a blanket release.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will not provide a
+signed release as requested.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+32. A signed release authorizing Defendants to obtain records of all health care
+professionals, including physicians, substance abuse counselors, and/or other mental
+healthcare providers who have consulted with, or examined Plaintiff from January 1, 2018,
+through the date of trial.
+OBJECTION: Plaintiff objects to this request in its entirety. This is not a request for an
+existing document, but a demand that Plaintiff create and sign a broad authorization.
+Defendants seek a release to obtain medical, mental health, and substance abuse records
+from every provider who has consulted with or examined Plaintiff over more than an eight-
+year span (2018 to trial). This request is overbroad, irrelevant, and invasive of Plaintiff’s
+privacy and physician-patient privilege. Plaintiff’s health history unrelated to the incident
+is not fair game in discovery absent a specific showing of relevance. Plaintiff has placed at
+issue only those medical conditions that are related to the injuries he claims from this
+incident (e.g., ear injury, shoulder/back injury, etc., and perhaps general pain and suffering).
+The blanket request for “all health care professionals,” including sensitive areas like
+substance abuse counseling or mental health providers, goes far beyond the scope of this
+case. This request is not proportional to the needs of the case. It would potentially sweep
+in every medical consultation (annual physicals, unrelated ailments, private counseling
+sessions) which have nothing to do with the incident. It also infringes on protections for
+mental health records and substance abuse treatment records, which are highly confidential
+under federal and state law (e.g., HIPAA and 42 C.F.R. Part 2 for substance abuse records).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 23
+Plaintiff has not waived those privileges or privacy rights by filing this lawsuit about
+physical injuries inflicted by Chief Roy.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will not provide a
+signed release as requested.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+33. Each document, electronically stored information, or tangible thing evidencing that
+Plaintiff used reasonable diligence to mitigate damages Plaintiff claims in this lawsuit.
+OBJECTION: Plaintiff objects that this request is vague and overbroad. “Each document
+evidencing… reasonable diligence” encompasses a broad range of materials without clear
+definition. It is not tied to a specific type of damage. It also calls for a legal conclusion of
+whether actions constitute “reasonable diligence.”
+RESPONSE: Subject to and without waiving these objections, see Bates numbers
+PDM00001 through PDM000099.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+34. Each document, electronically stored information, or tangible thing evidencing the
+City deprived Plaintiff of Plaintiff’s Fourteenth Amendment Rights.
+OBJECTION: Plaintiff objects that this request is vague, calls for a legal conclusion, is
+duplicative, and is overly broad. Whether “the City deprived Plaintiff of his Fourteenth
+Amendment rights” is not something typically proven by a single document. All documents
+produced in this case by all parties will tend to show that the City deprived Plaintiff of his
+Fourteenth Amendment Rights.
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 24
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDD000001 through PDD000???, PDM000001 through PDM000099, and CITY 1 through
+CITY 527.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+35. Each document, electronically stored information, or tangible thing evidencing
+Chief Roy’s actions were arbitrary and shocking to the conscience.
+OBJECTION: Plaintiff objects to this request as vague and calling for a legal standard
+determination. The phrase “arbitrary and shocking to the conscience” is a legal term of art.
+Whether Chief Roy’s actions meet that threshold is a conclusion that will be drawn from
+the facts; it’s not something a particular document will state outright. To the extent this
+overlaps with requests for evidence of what Roy did and the impact, those are addressed
+by the incident video and Plaintiff’s injuries. Plaintiff further objects that the request is
+overly broad insofar as it asks for “each document” without limitation.
+RESPONSE: Subject to and without waiving these objections, see Bates number
+PDM000001 through PDM000099 and CITY 107.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+36. Each document, electronically stored information, or tangible thing evidencing the
+City adopted a policy statement, ordinance, regulation, or decision adopted and
+promulgated by the City’s policymaker that deprived Plaintiff of Plaintiff’s Fourteenth
+Amendment Rights.
+OBJECTION: Plaintiff objects to this request as it calls for a legal conclusion. It is overly
+broad (seeking “each document” of a broad category) and not limited to Plaintiff’s
+possession (since policies and ordinances are City documents). Moreover, it calls for
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 25
+identification of the City’s “policymaker” and any policy they “adopted and promulgated”
+that resulted in the violation. Determining the City’s policymaker under Texas law is a legal
+determination. Plaintiff further objects to the extent this request seeks documents that are
+properly within Defendants’ possession or public domain, for example, if referring to police
+or fire department policies, city ordinances, or state laws. Such materials are either in
+Defendants’ custody or publicly available (and not unique documents that Plaintiff must
+produce). To the extent the request seeks legal authorities or published standards, those are
+not the proper subject of a Rule 34 request for production. Plaintiff also objects to the extent
+this request calls for documents not in Plaintiff’s possession or control.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+37. Each document, electronically stored information, or tangible thing evidencing the
+City failed to adopt a policy statement, ordinance, regulation, or decision adopted and
+promulgated by the City’s policymaker that was required under the Fourteenth
+Amendment.
+OBJECTION: Plaintiff objects to this request on the grounds that evidence of the City’s
+inaction would primarily lie in the City’s own records, not Plaintiff’s. Whether or not the
+City enacted or failed to enact specific policies or ordinances is a fact that the City is in the
+best position to know and document (through internal affairs files, personnel records, etc.).
+Plaintiff, as a private party, would not ordinarily have direct access to such records unless
+obtained via discovery. Plaintiff further objects that the phrase “each document . . .
+evidencing that the City failed to adopt” a policy is essentially asking for proof of a
+negative; typically, one would evidence a lack of discipline by the absence of such a
+document.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 26
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+38. Each document, electronically stored information, or tangible thing evidencing that
+Chief Roy is a City policymaker under Texas law.
+OBJECTION: Plaintiff objects to this request as it calls for a legal conclusion. It is overly
+broad (seeking “each document” of a broad category) and not limited to Plaintiff’s
+possession (since policies and ordinances are City documents). Moreover, it calls for
+identification of the City’s “policymaker.”. Determining the City’s policymaker under
+Texas law is a legal determination. Plaintiff further objects to the extent this request seeks
+documents that are properly within Defendants’ possession or public domain, for example,
+if referring to police or fire department policies, city ordinances, or state laws. Such
+materials are either in Defendants’ custody or publicly available (and not unique documents
+that Plaintiff must produce). To the extent the request seeks legal authorities or published
+standards, those are not the proper subject of a Rule 34 request for production. Plaintiff
+also objects to the extent this request calls for documents not in Plaintiff’s possession or
+control.
+RESPONSE: Subject to and without waiving these objections, Plaintiff will supplement.
+Plaintiff’s investigation and development of facts relating to this action are ongoing. This
+response is made without prejudice to, and are not a waiver of, Plaintiff’s right to rely on
+other facts or documents at trial. Plaintiff reserves the right to supplement, clarify, revise,
+or correct any or all of the responses and objections herein, and to assert additional
+objections or privileges, in one or more subsequent supplemental response(s).
+PLAINTIFF ROBERT HARVEY’S RESPONSES AND OBJECTIONS TO
+DEFENDANTS’ REQUEST FOR PRODUCTION PAGE 27

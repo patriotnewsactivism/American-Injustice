@@ -1,0 +1,1407 @@
+User: WBROUGHTON CITY OF GALVESTON POLICE DEPARTMENT 03/17/25 11:51:34
+Event Report
+Event ID: 2024-333725 Call Ref #: 609 Date/Time Received: 06/22/24 00:33:17
+Prime 1973 Services Involved
+Rpt #: 24-003697 Call Source: PHONE I I I I I
+Unit: WATSON, DAWSON SAMUEL LAW EMS I
+Location: 6100 HEARDS LN (S)OFFATS (N)774W
+61ST ST Jur: CAD Service: LAW Agency: GVPD
+X-ST:
+GROVER AVE St/Beat: District: GVM RA: G001
+Business: Phone: ( ) - GP:
+Nature: WELFARE CONCERN Alarm Lvl: 1 Priority: 3 Medical Priority:
+Caller: Alarm:
+Addr: 6100 HEARDS LN Phone: ( ) - Alarm Type:
+Vehicle #: 1577122 St: TX Report Only: No Race: Sex: Age:
+Call Taker:: HBOUDREAUX Console: GVCAD1
+Geo-Verified Addr.: YesNature Summary Code: Disposition: RT Close Comments:
+Notes: {2046} CONT CHF OLSEN CONT CELL [06/22/24 01:44:56 CAGONZALES]
+CIGAR LOUNGE IS SUITE 104 [06/22/24 01:39:02 CAGONZALES]
+{1973} ZANDEH DEL & ASSOCIATES, 1813 61ST SUITE 101 [06/22/24 01:38:13 CAGONZALES]
+{1973} GALV CIGAR LOUNGE 1813 61ST [06/22/24 01:36:53 CAGONZALES]
+{1973} FREEWAY INS , 1813 61ST SUITE 106 [06/22/24 01:31:27 CAGONZALES]
+BC-4 is unit 2346 [06/22/24 01:05:40 Unit:1973]
+BC-4 Fire Veh Insurance:
+TML Intergovernmental Risk Pool (800)-537-6655
+Entity ID: 6459
+10/01/23 to 10/01/24 [06/22/24 01:02:50 Unit:1973]
+CORRECTION STRUCK [06/22/24 00:35:23 NGONZALES]
+Event spawned from INJURIES. [06/22/2024 00:33:17 HBOUDREAUX]
+{GM3} RECVD [06/22/24 00:30:52 SAPENA]
+50 SOMETING YO MALE (AUDITOR) ADV HE WAS TRUCK BY A VEH [06/22/24 00:29:31 NGONZALES]
+Times
+Call Received: 06/22/24 00:33:17 Time From Call Received
+Call Routed: 06/22/24 00:33:17 : : Unit Reaction: 000:11:52 (1st Dispatch to 1st Arrive)
+Call Take Finished: 06/22/24 00:33:17 : : En-Route: : : (1st Dispatch to 1st En-Route)
+1st Dispatch: 06/22/24 00:33:27 000:00:10 (Time Held) On-Scene: 006:43:22 (1st Arrive to Last Clear)
+1st En-Route: 06/22/24 00:33:27 000:00:10
+1st Arrive: 06/22/24 00:45:19 000:12:02 (Reaction Time)
+Last Clear: 06/22/24 07:28:41 006:55:24
+Radio Log Close
+Unit Empl ID Type Description Time Stamp Comments Code User
+1941 441273 DXY DispatchXY 06/22/24 00:33:27 3297514.67,13677868.01 HBOUDR
+1941 441273 D Dispatched 06/22/24 00:33:27 Out Srv: [OFFD] at FERRY LANDING;609 HBOUDR
+1941 441273 E En-Route 06/22/24 00:33:27 Out Srv: [OFFD] at FERRY LANDING;609 HBOUDR
+1973 526803 D Dispatched 06/22/24 00:37:59 Stat/Beat: GVMT;1941 HBOUDR
+1973 526803 E En-Route 06/22/24 00:37:59 Stat/Beat: GVMT;1941 HBOUDR
+r_inci Page 1
+CITY 00001
+Event ID: 2024-333725 Call Ref #: 609 WELFARE CONCERN at 6100 HEARDS LN
+Radio Log Close
+Unit Empl ID Type Description Time Stamp Comments Code User
+-
+1973 526803 A Arrived 06/22/24 00:45:19 Unit:1973
+1941 441273 A Arrived 06/22/24 00:52:36 HBOUDR
+1973 526803 ENT Entered Related Name 06/22/24 00:59:18 [LastName:] ROY [OLN:] [State:] DSWATS
+2046 350286 D Dispatched 06/22/24 01:04:23 Stat/Beat: WC;1973 HBOUDR
+2046 350286 E En-Route 06/22/24 01:04:23 Stat/Beat: WC;1973 HBOUDR
+2046 350286 A Arrived 06/22/24 01:04:23 Stat/Beat: WC;1973 HBOUDR
+1973 526803 ENT Entered Related Name 06/22/24 01:31:24 [LastName:] REBMANN [OLN:] DSWATS
+1973 526803 ENT Entered Related Name 06/22/24 01:31:54 [LastName:] HARVEY [OLN:] DSWATS
+2057 389110 D Dispatched 06/22/24 01:39:14 Stat/Beat: ID;1973 HBOUDR
+2057 389110 E En-Route 06/22/24 01:39:14 Stat/Beat: ID;1973 HBOUDR
+2057 389110 A Arrived 06/22/24 01:39:14 Stat/Beat: ID;1973 HBOUDR
+2057 389110 C Cleared 06/22/24 01:39:19 S S HBOUDR
+1973 526803 L Location Change 06/22/24 02:15:47 RT/JC HBOUDR
+1941 441273 C Cleared 06/22/24 07:28:41 BU KMASO
+1973 526803 C Cleared 06/22/24 07:28:41 RT KMASO
+2046 350286 C Cleared 06/22/24 07:28:41 BU KMASO
+Event Log Close
+Unit Empl ID Type Description Time Stamp Comments Code User
+TS Time Spawned 06/22/24 00:33:17 Initial call received at 06/22/2024 00:28:49 HBOUDR
+VEV Viewed Event 06/22/24 00:33:22 User First Viewed Event CAD NGONZA
+ARM Added Remarks 06/22/24 00:35:23 NGONZA
+CHG Changed PrimeUnit 06/22/24 00:38:05 1941 --> 1973 HBOUDR
+VEV Viewed Event 06/22/24 00:38:38 User First Viewed Event CAD CAGONZ
+VEV Viewed Event 06/22/24 00:57:04 User First Viewed Event CAD SAPENA
+VEV Viewed Event 06/22/24 00:58:11 User First Viewed Event CAD HBOUDR
+ENT Entered VehicleID 06/22/24 00:58:18 [ID: 4082711] 1577122 HBOUDR
+ENT Entered VehicleState 06/22/24 00:58:18 [ID: 4082711] TX HBOUDR
+ENT Entered LicenseType 06/22/24 00:58:18 [ID: 4082711] PC HBOUDR
+1973 ENT Added Related Vehicle 06/22/24 00:58:18 UNIT:1973 TAG: 1577122,TX,2025 HBOUDR
+VHQ Vehicle Query 06/22/24 00:58:18 Tag:1577122 State: TX Type: PC HBOUDR
+1973 NCICQRY: 06/22/24 00:58:18 1) UNIT:1973 Control=1973, State=TX, HBOUDR
+1973 ... QRY:... 06/22/24 00:58:18 2) Tag=1577122, HBOUDR
+1973 CHG Changed Related Name 06/22/24 00:59:20 1) DOB: 2/21/1965 12:00:00 DSWATS
+1973 ... Changed Related Name 06/22/24 00:59:20 2) Weight: 240-->240, Race: WH-->WHIT DSWATS
+1973 CHG Changed Related Veh 06/22/24 01:00:20 1) VIN: -->3C6UR5HJ7PG567403, Make: DSWATS
+1973 ... Changed Related Veh 06/22/24 01:00:20 2) VehYear: 0-->2023, Color1: -->WHI, DSWATS
+1973 ... Changed Related Veh 06/22/24 01:00:20 3) -->PK DSWATS
+-
+ARM Added Remarks 06/22/24 01:02:50 Unit:1973
+ARM Added Remarks 06/22/24 01:05:40 Unit:1973
+1973 CHG Changed Related Name 06/22/24 01:31:25 1) DOB: 12:00:00 DSWATS
+-
+1973 ... Changed Related Name 06/22/24 01:31:25 2) Weight: 265-->265, Race: WH-->WHIT DSWATS
+ARM Added Remarks 06/22/24 01:31:27 CAGONZ
+1973 CHG Changed Related Name 06/22/24 01:31:56 1) DOB: 12:00:00 DSWATS
+1973 ... Changed Related Name 06/22/24 01:31:56 2) 220-->220, Race: WH-->WHIT DSWATS
+RPT Requested Report# 06/22/24 01:33:48 GVPD Report #24-003697 CAGONZ
+ARM Added Remarks 06/22/24 01:36:53 CAGONZ
+ARM Added Remarks 06/22/24 01:38:13 CAGONZ
+ARM Added Remarks 06/22/24 01:39:02 CAGONZ
+ARM Added Remarks 06/22/24 01:44:56 CAGONZ
+VEV Viewed Event 06/22/24 06:23:45 User First Viewed Event CAD RBOULE
+VEV Viewed Event 06/22/24 07:27:38 User First Viewed Event CAD KMASO
+REPORT Page 2
+CITY 00002
+Event ID: 2024-333725 Call Ref #: 609 WELFARE CONCERN at 6100 HEARDS LN
+REPORT Page 3
+CITY 00003
+ul
+INCIDENT
+Incident Number Incident Date NFIRS Number Incident Type
+2404074 06/22/2024 0003964 (151) - Outside rubbish, trash or waste fire
+FDID Station Shift District
+HA707 STATION 5 B-SHIFT District 5
+Initial Dispatch Code
+STRUCTURE FIRE
+Alarms Working Fire? COVID-19 was a factor Critical Incident Critical Incident Team
+Yes
+Temporary Resident Involvement
+None
+Hazardous Materials Released
+(N) - None
+Action Taken 1
+(11) - Extinguishment by fire service personnel
+AID
+Aid Given/Received
+(N) - None
+LOCATION
+Location Type
+(1) - Street address
+Address
+1817 61ST Street, , GALVESTON, Texas, 77551
+Cross Street, USNG, or Directions Latitude Longitude Census Tract
+29.28018000 -94.83370000 7258
+Detector Alerted Occupant
+(2) - Detector did not alert occupants
+Property Use Mixed Use
+(580) - General retail, other (NN) - Not mixed use
+TIMES
+PSAP Received Dispatch Notified Time Alarm Time
+00:11:21, 06/22/2024 00:11:21, 06/22/2024 00:11:21, 06/22/2024
+Arrival Time Water on Fire Time At Patient Time
+00:20:07, 06/22/2024
+Loss Stop Time Controlled Time Last Unit Cleared Time
+00:42:11, 06/22/2024
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 1 OF 12
+CITY 00004
+ul
+TIMES
+Total On Scene Time Total Incident Time
+0 hrs 22 mins 4 sec 0 hrs 30 mins 50 sec
+COUNTS
+Counts Include Aid Received?
+No
+Suppression: EMS: Other:
+Apparatus Personnel Apparatus Personnel Apparatus Personnel
+6 20 0 0 2 2
+$!
+LOSS
+Property: Content:
+Estimated Property Losses Estimated Content Losses
+$None $None
+Estimated Property Value Estimated Content Value
+$None $None
+PERSON/OWNER
+AUTHORIZATION
+Report Writer:
+Name Employee Number Assignment Authorization Date
+SANTUCCI, PAUL 1083 E5A 06/22/2024
+Officer in Charge:
+Name Employee Number Assignment Authorization Date
+SANTUCCI, PAUL 1083 E5A 06/22/2024
+Quality Control:
+Name Authorization Date
+JOHNSON, TIM 06/22/2024
+INCIDENT NARRATIVE
+E5 responded to 1817 61st from 5's for a possible structure fire.
+E5 on location to a small campfire made by homeless. Not near any structures.
+E5 returned all responding fire units and extinguished the fire from water from natural source via a 5-gallon bucket.
+No more hazards, E5 released by BC1, back in service, returning.
+Created By: SANTUCCI, PAUL
+Unit Reports
+GBC1
+Use Responding From Priority
+(0) - Other
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 2 OF 12
+CITY 00005
+ul
+GBC1
+Response Delays
+Dispatch Time Enroute Time Arrival Time
+00:12:32, 06/22/2024 00:14:45, 06/22/2024
+At Patient Time Clear Time In District Time
+00:25:32, 06/22/2024
+Actions Taken:
+Cancelled en route
+Personnel
+TIM JOHNSON
+Unit Narrative
+Run # 2404074 6-22-24
+1817 61st street possible one alarm, responded from station 1. Upon arrival I staged until E5 advised that it was a small campfire behind the building
+and returned all units.
+Created By: JOHNSON, TIM
+GE1
+Use Responding From Priority
+(1) - Suppression Emergent
+Response Delays
+None/No Delay
+Dispatch Time Enroute Time Arrival Time
+00:12:32, 06/22/2024 00:14:13, 06/22/2024 00:20:07, 06/22/2024
+At Patient Time Clear Time In District Time
+00:24:36, 06/22/2024
+Actions Taken:
+Standby
+Personnel
+MASON HEALY, STEWART JACKSON, JAMES TEMPLE, KEVIN WRIGHT
+Unit Narrative
+Dispatched to a reported structure fire, E1 responded from St. 1 and arrived to stage.
+E1 staged until released by Command and then returned to St. 1.
+Created By: WRIGHT, KEVIN
+GE2
+Use Responding From Priority
+(1) - Suppression Non-Emergent
+Response Delays
+None/No Delay
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 3 OF 12
+CITY 00006
+ul
+GE2
+Dispatch Time Enroute Time Arrival Time
+00:12:32, 06/22/2024 00:15:19, 06/22/2024
+At Patient Time Clear Time In District Time
+00:21:18, 06/22/2024
+Actions Taken:
+Cancelled en route
+Person 1: BILBREY, SARAH
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Person 2: JONES, DUSTIN
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Person 3: KENNY, SHEA
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 4 OF 12
+CITY 00007
+ul
+Person 4: RILEY, GREGORY
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Unit Narrative
+E2 went enroute to possible structure fire.
+E2 diverted to a fire alarm on 33rd.
+Created By: RILEY, GREGORY
+GT1
+Use Responding From Priority
+(1) - Suppression Emergent
+Response Delays
+None/No Delay
+Dispatch Time Enroute Time Arrival Time
+00:12:31, 06/22/2024 00:15:13, 06/22/2024 00:22:00, 06/22/2024
+At Patient Time Clear Time In District Time
+00:25:32, 06/22/2024
+Actions Taken:
+Standby
+Person 1: ANDERSON, CHRISTOPHER
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 5 OF 12
+CITY 00008
+ul
+Person 2: STUART, MICHAEL
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Unit Narrative
+Tower 1 was dispatched from quarters, by radio, as part of a multi company response to a reported fire threatening a structure.
+Upon arrival Tower 1 staged and awaited orders.
+Command determined no additional resources were needed.
+Tower 1 returned to service.
+Created By: STUART, MICHAEL
+GBC4
+Use Responding From Priority
+(0) - Other
+Response Delays
+Dispatch Time Enroute Time Arrival Time
+00:12:31, 06/22/2024 00:15:27, 06/22/2024 00:20:45, 06/22/2024
+At Patient Time Clear Time In District Time
+00:25:32, 06/22/2024
+Actions Taken:
+Incident command
+Personnel
+WILLIAM ROY
+Unit Narrative
+Responded for station 4 to the reported fire, arrived on location, crews located the fire outside the structure in the back and extinguished. All crews
+were released.
+Supplemental statement was submitted to Administration for Fleet investigation by GPD.
+Created By: ROY, WILLIAM
+GE5
+Use Responding From Priority
+(1) - Suppression Emergent
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 6 OF 12
+CITY 00009
+ul
+GE5
+Response Delays
+None/No Delay
+Dispatch Time Enroute Time Arrival Time
+00:12:31, 06/22/2024 00:18:14, 06/22/2024 00:20:31, 06/22/2024
+At Patient Time Clear Time In District Time
+00:32:46, 06/22/2024
+Actions Taken:
+Extinguishment by fire service personnel
+Person 1: DOBSON, DONALD
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+Smoke, Fire
+PPE Worn During Incident
+Coat, Boots, Hood, Mask, SCBA, Structure Firefighting Helmet, Pant, Firefighting Gloves
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+No No Nose Mouth
+No
+Decontamination Procedures Completed
+Person 2: MORRIS, JEREMY
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+Smoke, Fire
+PPE Worn During Incident
+Boots, Structure Firefighting Helmet, Firefighting Gloves, Mask, Coat, Pant, Hood, SCBA
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+No No Nose Mouth
+No
+Decontamination Procedures Completed
+Person 3: SANTUCCI, PAUL
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+Smoke, Fire
+PPE Worn During Incident
+SCBA, Firefighting Gloves, Mask, Hood, Structure Firefighting Helmet, Boots, Pant, Coat
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+No No Nose Mouth
+No
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 7 OF 12
+CITY 00010
+ul
+Person 3: SANTUCCI, PAUL
+Decontamination Procedures Completed
+Person 4: SCOTT, JORDAN
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+None
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Unit Narrative
+E5 responded to 1817 61st from 5's for a possible structure fire.
+E5 on location to a small campfire made by homeless. Not near any structures.
+E5 returned all responding fire units and extinguished the fire from water from natural source via a 5-gallon bucket.
+No more hazards, E5 released by BC1, back in service, returning.
+Created By: SANTUCCI, PAUL
+GL4
+Use Responding From Priority
+(1) - Suppression Emergent
+Response Delays
+None/No Delay
+Dispatch Time Enroute Time Arrival Time
+00:12:30, 06/22/2024 00:16:16, 06/22/2024 00:20:20, 06/22/2024
+At Patient Time Clear Time In District Time
+00:25:32, 06/22/2024
+Actions Taken:
+Standby
+Personnel
+ROGELIO DIAZ JR, MARTIN MOSES
+Unit Narrative
+L4 dispatched to structure fire located at 1817 61st.
+L4 responded emergency traffic to location.
+L4 arrived on location and staged on 61St and Heards Ln.
+E5 advised that there was no structure fire and returned all companies. L4 returned to service.
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 8 OF 12
+CITY 00011
+ul
+Unit Narrative
+Created By: DIAZ JR, ROGELIO
+GE4
+Use Responding From Priority
+(1) - Suppression Emergent
+Response Delays
+None/No Delay
+Dispatch Time Enroute Time Arrival Time
+00:12:32, 06/22/2024 00:16:16, 06/22/2024 00:20:28, 06/22/2024
+At Patient Time Clear Time In District Time
+00:42:11, 06/22/2024
+Actions Taken:
+Standby
+Person 1: ADDISON, CODY
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Person 2: FLANAGAN, MARK
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Person 3: HUBBELL, CARL
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 9 OF 12
+CITY 00012
+ul
+Person 3: HUBBELL, CARL
+PPE Worn During Incident
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Person 4: WATSON, PATRICK
+Patient Contact? Medical PPE Worn
+No None
+Fire Products Exposed To
+None
+PPE Worn During Incident
+PPE Malfunction? Barrier Breach Black Soot Around Black Soot Around
+Nose Mouth
+Decontamination Procedures Completed
+Unit Narrative
+Engine 4 responded from 6315 Central City Blvd to 1817 61St for report of a structure fire.
+Engine 4 arrived on location and staged until released by command.
+Engine 4 returned to service.
+Created By: HUBBELL, CARL
+a
+Fire Module
+CD
+SITE INFO
+Alarms Acres Burned Resident Units In Bldg Buildings Involved
+0 acres Not residential None
+Hydrant Identifier Estimated Water Usage
+ON-SITE MATERIALS
+Material ID 1 Storage Use ID 1
+(311) - Lumber, sawn wood (U) - Undetermined
+IGNITION
+Area of Origin
+(94) - Open area, outside; included are farmland, field
+Heat Source
+(UU) - Undetermined
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 10 OF 12
+CITY 00013
+ul
+IGNITION
+Item First Ignited Fire Confined to Item?
+(44) - Chips, including wood chips Yes
+Type of Material First Ignited
+(61) - Wood chips, sawdust, shavings
+Cause of Ignition
+(1) - Intentional
+Factors Contributing to Ignition 1
+(NN) - None
+8~oHuman F=actors Contr=ibuting to Ig=nition ~-=-=~=====
+(N) - None
+Est. Age of Person Involved Gender of Person Involved
+EQUIPMENT
+Equipment Involved in Ignition
+(NNN) - None
+Equipment Power Source Equipment Portability
+Brand Model Serial Number Year
+MOBILE PROPERTY
+Mobile Property Involved
+(N) - None
+Type
+Make Model Year
+License Plate Number State VIN Car Stolen?
+STRUCTURE
+Structure Type
+Stories Above Grade Stories Below Grade Building Status
+Length Width Total Square Feet Story of Fire Origin
+Fire Spread
+Item Contributing Most to Flame Spread Type of Material
+Number of Stories with Damage
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 11 OF 12
+CITY 00014
+ul
+1 § li1 STRUCTURE
+Minor Damage Significant Damage Heavy Damage Extreme Damage Total Stories
+PROTECTIVE SYSTEMS
+Presence of Detector Detector Type
+Power Supply Detector Operations
+Effectiveness (/Failure Reason)
+Presence of Auto Extinguishing System System Type
+System Operation # of Sprinklers Reason for System Failure
+PRINTED ON 3/20/2025 AT 11:01 AM INCIDENT 2404074 • 12 OF 12
+CITY 00015
+From: farlap moves
+To: Banks, Jeffrey D.
+Subject: Harvey Freebird
+Date: Saturday, June 22, 2024 1:51:21 AM
+Attachments: (2) Facebook - Google Chrome 2024-06-22 18-33-07.mp4
+i will send you two links with both videos from the fire chief running Harvey over
+'!ill - Harv-ey Fr-eebir-d is l-ive! -- YouT-ube -- Goo-gle
+Chrome 2024-06-22 18-08-43.mp4
+CITY 00016
+City Of Galveston Police Department
+Incident Case Number: 24-003697
+Reporting Agency: City Of Galveston Police
+Print Date/Time: 03/17/2025 11:29:27
+Disclaimer: The information contained within this report is
+reflective of the investigation at the date and time of its printing.
+Page 1
+CITY 00054
+INCIDENT/INVESTIGATION
+Agency Name Case#
+24-003697
+City Of Galveston Police Department REPORT
+Date / Time Reported
+I ORI 06/22/2024 02:30 Sat
+N TX0840400 Last Known Secure
+C 06/22/2024 00:33 Sat
+Location of Incident Premise Type Zone/Tract
+I I At Found
+D 1813 61ST ST, Galveston TX 77551 Parking/drop Lot/garage 06/22/2024 00:33 Sat
+E N #1 A Cr s i s m a e u I l n t c W ide / n O t(s t ) her Weapon-aggravated (Com) Weapon / Tools Motor Vehicle I A O ctivity
+T PC 22.02C F Entry Exit I Security
+D Crime Incident ( ) Weapon / Tools I Activity
+A #2
+T Entry Exit I Security
+A
+Crime Incident ( ) Weapon / Tools I Activity
+#3
+Entry Exit I Security
+MO
+-
+I
+# of Victims 1 Type: INDIVIDUAL (NOT A LE OFFICER) Injury: Apparent Minor Injury
+Victim/Business Name (Last, First, Middle) Victim of DOB Race Sex Relationship Resident Status Military
+V V1 HARVEY, ROBERT EDWIN II Crime # To Offender Branch/Status
+I 1, Age 46 W M 1ST Non-Resident
+C Home Address I Home Phone
+T 830 23RD ST - 36, San Leon, TX 77539- 817-513-8033
+I
+M Employer Name/Address Business Phone I Mobile Phone
+817-513-8033
+VYR Make I Model I Style I Color I Lic/Lis VIN
+CODES: V- Victim (Denote V2, V3) O = Owner (if other than victim) R = Reporting -Person (if other than victim)
+Type: INDIVIDUAL (NOT A LE OFFICER) Injury:
+O
+T Code Name (Last, First, Middle) Victim of DOB Race Sex Relationship Resident Status Military
+H REDMANN, BRUCE ALLEN Crime # To Offender Branch/Status
+IO
+E Age 46 W M Non-Resident
+R Home Address I Home Phone
+S 7406 STEWART ST HITCHCOCK, TX 77563 409-457-0824
+Employer Name/Address Business Phone I Mobile Phone
+I -
+N
+Type: INDIVIDUAL (NOT A LE OFFICER) Injury:
+V
+Code Name (Last, First, Middle) Victim of DOB Race Sex Relationship Resident Status Military
+O -SA-NTUCCI,- PAUL ED-MUND -JR - Crime # To Offender Branch/Status
+L IO
+Age 48 W M Non-Resident
+V
+Home Address Home Phone
+E I
+D
+Employer Name/Address Business Phone I Mobile Phone
+Galveston Fire Dept, 5728 BALL ST, GALVESTON, TX 77551 (CAPTAIN) 409-797-3850
+1 = None 2 = Burned 3 = Counterfeit / Forged 4 = Damaged / Vandalized 5 = Recovered 6 = Seized 7 = Stolen 8 = Unknown
+("OJ" = Recovered for Other Jurisdiction)
+VI Status
+# Code Frm/To Value OJ QTY Property Description Make/Model Serial Number
+03 INVL $0.00 1 2023 WHI /RED 1577122 TX DODG Ram Truck 3C6UR5HJ7PG567403
+P
+R
+O
+P
+E
+R
+T
+Y
+Officer/ID# WATSON, D. S. (526803)
+Invest ID# ROGERS, A. C. (308838) Supervisor KYLEN, J. W. (242566)
+Status Complainant Signature I Case Status Case Disposition: I Page 2
+Except Clear 08/21/2024 Prosecution Declined 08/21/2024
+R_CS1IBR Printed By: WBROUGHTON, Sys#: 911401 03/17/2025 11:29
+CITY 00055
+INCIDENT/INVESTIGATION REPORT
+City Of Galveston Police Department
+Case # 24-003697
+Status 1 = None 2 = Burned 3 = Counterfeit / Forged 4 = Damaged / Vandalized 5 = Recovered 6 = Seized 7 = Stolen 8 = Unknown
+Codes
+IBR Status Quantity Type Measure Suspected Type Up to 3 types of activity
+D
+R
+U
+G
+S
+Assisting Officers
+Suspect Hate / Bias Motivated: NONE (NO BIAS)
+INCIDENT/INVESTIGATION REPORT
+Narr. (cont.) OCA: 24-003697 City Of Galveston Police Department
+N A R R A T I V E
+This report will document an Auto/Ped accident that occurred on the date of 06/22/2024.
+R_CS2IBR By: WBROUGHTON, 03/17/2025 11:29 Page 3
+CITY 00056
+REPORTING OFFICER NARRATIVE
+OCA
+City Of Galveston Police Department 24-003697
+Victim Offense Date / Time Reported
+I
+HARVEY, ROBERT EDWIN II ASSAULT W/ OTHER WEAPON-AGGRAVATED Sat 06/22/2024 02:30
+I
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Name: D. Watson #1014
+Date: 06/22/2024
+Offense: Aggravated Assault W/ Deadly Weapon
+Case: 24-003697
+Synopsis:
+This report will document an Auto/Pedestrian accident that occurred on the date of 06/22/2024.
+Details:
+On Saturday, 06/22/2024, I, Ofc. D. Watson #1014, was assigned as a two-man Midtown District patrol unit with
+Ofc. S. Coldiron #1017 in the City and County of Galveston, Texas. At approximately 0033 hours, we were
+dispatched to the area of 1813 61st St in reference to a welfare concern. Upon arrival, it was determined that a fleet
+occurred between a City of Galveston Fire Dept. vehicle and a pedestrian.
+-
+I spoke with the battalion chief who was the involved driver to which he was identified as Roy, William Ryan
+( W/M). Roy was observed to be the sole occupant and driver of Galveston Fire Dept Unit #2346 (BC-4)
+bearing TxLP: 1577122. Roy advised me that there were multiple fire units looking in the area of 1800 61st St for the
+fire call they recieved. Roy advised me that he was traveling NB on 61st St and then made a U-Turn just north of the
+above address. Roy advised me that he then drove SB and pulled his vehicle up onto the sidewalk facing the general
+area of 1817 61st St. Roy advised me that he was parked there on the sidewalk by the sign when two pedestrians
+recording walked past his unit. Roy advised me that he was still looking for the address of the call when he hit his
+siren to which it startled the two pedestrians recording. Roy advised that the two pedestrians then began to yell at him
+and flip him off. Roy advised that after this occurred, the fire department had located where there call was to which
+he advised was a gas station being remodeled. Roy advised that he then began to back up his vehicle and saw both
+pedestrians at the front right corner of his truck. Roy advised that he then began to pull into the parking lot while
+turning left. Roy advised that at this time he saw one of the pedestrians at his 1 O`Clock. Roy advised that he pulled
+his vehicle into the parking lot driveway turning left and parking near the front of the gas station being remodeled.
+Roy advised that he never "felt" or "observed" his vehicle striking the pedestrian. Roy advised that if the pedestrian
+"pushed himself on the truck" or anything then he couldn`t feel that. Roy advised that he could clearly see the
+pedestrian and knew that he was clear of the truck. Roy advised that he wasn`t notified that he struck someone with
+his vehicle until af-ter he left the scene and was then called by B-attalion 1 to return to the scene.
+I spoke with the victim, who was identified as Harvey, Robert ( W/M). Harvey advised me that his buddy,
+Rebmann, Bruce ( W/M) and himself were walking down the public sidewalk. Harvey advised that they
+walked up about even with the fire hydrant near the sidewalk to which the Galveston Fire BC-4 truck then hit his
+horn. Harvey advised that his ear drum began hurting due to the horn. Harvey advised that he then wanted to file a
+complaint on the driver so he asked him to roll his window down. Harvey advised that the driver then hit his horn
+again to which Bruce and himself then began cussing and shooting the bird at him. Harvey advised that the driver
+then backed up and started to turn and head towards the parking lot. Harvey advised that at this time he was standing
+in the general area of the parking lot driveway. Harvey advised that he then observed the BC-4 truck come at him to
+which he started to move out of the way towards the building on the North side of the parking lot. Harvey advised
+that the BC-4 truck still clipped him though hitting his camera tripod first which pushed it into his body and then past
+it. Harvey advised that after the BC-4 truck pushed his tripod past him, the bumper struck his right knee and then the
+mirror on the truck struck his upper right arm. Harvey advised that after the truck struck him, it continued on and
+parked in front of the gas station being remodeled. Harvey advised that he then observed the vehicle leave.
+Reporting Officer:WATSON, D. S. Printed By: WBROUGHTON, 03/17/2025 11:29 Page 4
+R_CS3NC
+CITY 00057
+REPORTING OFFICER NARRATIVE
+OCA
+City Of Galveston Police Department 24-003697
+-Victim ~ -Offense~ - -Date / ~Time Reported
+HARVEY, ROBERT EDWIN II ASSAULT W/ OTHER WEAPON-AGGRAVATED Sat 06/22/2024 02:30
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+I spoke with Rebmann, Bruce ( W/M) to which he advised that Harvey and himself were walking up to
+see what was going on while doing their usual video thing. Bruce advised that he observed the BC-4 truck to be the
+last fire unit in the back parked in the street. Bruce advised that all the other fire trucks were in the street as well for
+the fire call. Bruce advised that he observed Harvey to be right by the front of the BC-4 truck and that he was a
+couple of feet in him on the sidewalk. Bruce advised that the BC-4 truck then hit his siren multiple times to which
+they started talking back to the driver. Bruce advised that Harvey and himself had moved to the side of the truck by
+this time. Bruce advised that he then began to talk to other pedestrians that were on scene while near the back of the
+truck. Bruce advised that the truck then backed up into the road and then began to turn in to the parking lot. Bruce
+advised that he was on the sidewalk near the edge of the flower bed and Harvey was standing in the general area of
+the driveway. Bruce advised that he heard the truck go forward and turned to which he observed the truck turn his
+wheels towards Harvey and then hit the gas. Bruce advised that he observed the truck hit Harvey and then continue
+forward to which it parked in front of the gas station being remodeled. Bruce advised that the truck then backed up
+and left.
+I observed there to be cameras at the following locations that might have captured the incident but was unable to
+access any footage due to the places being closed. I observed there to be minor scrapes on the right knee of Harvey. I
+observed the video provided by the victim to which I observed the BC-4 truck with lights activated pull into the
+driveway near 1813 61st St and strike the camera and tripod at least. Harvey was advised to send the provided video
+to the investigations email.
+Freeway Ins. (1813 61st St Suite 106 Galveston, Texas 77551)
+Galveston Cigar Lounge (1813 61st St Suite 104 Galveston, Texas 77551)
+Zandeh Del & Associates (1813 61st St Suite 101 Galveston, Texas 77551)
+ADA Agbu was contacted and briefed on the situation. ADA Agbu advised me to refer this case to CID.
+ID Det. Puga and Ornelas came out to the scene to process it. Refer to their supplements for further details.
+Galveston EMS checked on Harvey to which he was not transported.
+-
+I then met with a Firefighter who was in the parking lot at the time of the incident to which he was identified as
+Santucci, Paul ( W/M). Paul advised that they were responding to 1817 61st St for a possible fire outside
+near a structure. Paul advised that upon arrival, they were unable to locate the fire at first to which the other units
+began to search the area. Paul advised that he observed BC-4 stopped in the parking lot with his lights on while
+bumping the siren trying to get pedestrians out of the way. Paul advised that he walked past BC-4`s truck NB to
+which he could hear the two auditors upset due to the siren being loud. Paul advised that as he walked past BC-4, he
+was slowly moving into the parking lot behind him. Paul advised that he then heard one of the auditors say that he
+was hit by the BC-4 to which he turned and observed the auditor in the green shirt standing with his camera tripod
+leaning towards the BC-4 truck. Paul advised that due to this still being an active scene with fire being located in the
+back of the building, he had to get to his crew. Paul advised that after the fire was out, he assisted GEMS with
+checking on Harvey. Paul advised that Harvey said his ear hurt bad and that his shin got bumped. Paul advised that at
+no time did he ever see the BC-4 truck come into any contact with anything.
+Disposition:
+Reporting Officer:WATSON, D. S. Printed By: WBROUGHTON, 03/17/2025 11:29 Page 5
+R_CS3NC
+CITY 00058
+REPORTING OFFICER NARRATIVE
+OCA
+City Of Galveston Police Department 24-003697
+Victim Offense Date / Time Reported
+HARVEY, ROBERT EDWIN II ASSAULT W/ OTHER WEAPON-AGGRAVATED Sat 06/22/2024 02:30
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Refer to CID.
+Reporting Officer:WATSON, D. S. Printed By: WBROUGHTON, 03/17/2025 11:29 Page 6
+R_CS3NC
+CITY 00059
+Incident Report Suspect List
+City Of Galveston Police Department OCA: 24-003697
+Name (Last, First, Middle) Also Known As Home Address
+1
+ROY, WILLIAM RYAN 1111
+Business AddressGALVESTON FIRE DEPT
+- -
+409-797-3850, BATTALION CHIEF, 8710 CESSNA DR,
+DOB Age Race Sex Eth Hgt Wgt Hair Eye Skin Driver's License / State
+59 W M N 601 315 BRO BLU LGT
+Scars, Marks, Tattoos, or other distinguishing features
+Reported Suspect Detail Suspect Age Race Sex Eth Height Weight SSN
+Weapon, Type Feature Make Model Color Caliber Dir of Travel
+Mode of Travel
+Veh Yr / Make / Model Drs Style Color Lic Plate / State VIN
+Notes Physical Char
+R_CS8IBR Printed By: WBROUGHTON, 03/17/2025 11:29 Page 7
+CITY 00060
+Incident Report Related Vehicle List
+City Of Galveston Police Department OCA: 24-003697
+VehYr/Make/Model Style Color Lic/Lis VIN
+1
+2023 DODG, Ram Truck TK WHI/RED 1577122 TX 3C6UR5HJ7PG567403
+IBR Status Date Location
+Involved 06/22/2024 1813 61ST ST, GALVESTON TX
+Condition Value Offense Code Jurisdiction State # NIC #
+UNK $0.00 13A Locally
+Name (Last, First, Middle) Also Known As Home Address
+City, Galveston
+Business Address CITY OF GALVESTON
+409-765-3702
+DOB Age Race Sex Hgt Wgt Scars, Marks, Tattoos, or other distinguishing features
+/ /
+Notes
+R_CS9IBR Printed By: WBROUGHTON, 03/17/2025 11:29 Page 8
+CITY 00061
+CASE SUPPLEMENTAL REPORT Printed: 03/17/2025 11:29
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department
+OCA:24003697
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR:… Occurred: 06/22/2024
+Offense: ASSAULT W/ OTHER WEAPON-AGGRAVATED
+Investigator: BANKS, J. D. (350286) Date / Time: 06/23/2024 22:20:55, Sunday
+Supervisor: (0) Supervisor Review Date / Time: NOT REVIEWED
+Contact: Reference: Patrol Supplement
+Lt. J. Banks #443/2046
+Marked Unit # 2049
+24-003697 Supplement
+On 6/22/2024 I was on duty as the D Shift Watch Commander. At approximately 0012 hrs. I heard dispatch advised of a
+possible structure fire at 1817 61st Street. GPD units were dispatched as traffic control. While units were on scene, I
+was contacted by Sgt. Alawar about a separate incident that occurred at the fire scene. Sgt. Alawar advised me that a
+subject, identified as Robert Harvey , had called advising that he was struck by a fire unit at the scene.
+-
+Sgt. Alawar advised me that GFD Battalion Chief William Roy was pulling into a parking lot along 61st Street when he
+struck Harvey with the vehicle. Sgt. Alawar advised me that Harvey and another subject on scene, identified as Bruce
+Rebmann W/M , alleged that Roy had struck Harvey with the vehicle intentionally and had a video of the
+incident.
+I am familiar with Harvey and Rebmann as they are local `First Amendment Auditors` who go by the aliases Harvey
+Freebird and Galveston Island Transparency. The Galveston Police Department has frequent interactions with both
+subjects as they regularly make police scenes to film police activity. During these incidents, both subjects are known to
+push the limits of police interference to agitate officers into arresting them, all in an attempt to seek litigation against the
+city. Given the nature of the allegations and the involvement of the auditors, I responded to the scene.
+Upon arrival, I learned that Roy`s vehicle was parked along the 1800 block of 61st Street facing south. I learned that
+Harvey and Rebmann were near Roy`s vehicle when Roy sounded his vehicle siren. I learned that the siren noise
+agitated Harvey and Rebmann, who then began yelling profanities at Roy and requesting his information in order to file
+a complaint. I learned that a brief time later Harvey was in the parking lot area of Zendeh Del & Associates (1813 61st
+St) when Roy turned the truck into the parking lot in the direction where Harvey was located. I learned that Roy then
+moved his vehicle into the parking lot toward Harvey and struck Harvey with the passenger`s front of his vehicle.
+I asked Harvey if he was injured. Harvey advised that he was in pain on his side and indicated from around his knee to
+his shoulder area. At that time Harvey was walking with an extremely heavy limp and holding his right arm limp and
+holding it. I did not observe Harvey to have any observable physical injuries. He advised that he believed that Roy had
+struck him with the vehicle intentionally and that it was on video.
+Rebmann pulled up the video on his phone and showed it to me. The video was live stream footage filmed by Harvey at
+the time of the incident. In the video it shows Roy having his emergency lights activated and drives toward Harvey.
+Harvey seems aware that the vehicle is coming toward him as he says something about being run over. It did not appear
+that the camera moved away from the vehicle to prevent contact, nor did the vehicle stop or change course to avoid
+contact. In the video you could not see if/where the vehicle actually struck Harvey`s body
+Investigator Signature Supervisor Signature
+Page 9
+CITY 00062
+CASE SUPPLEMENTAL REPORT Printed: 03/17/2025 11:29
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department
+OCA:24003697
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR:… Occurred: 06/22/2024
+Offense: ASSAULT W/ OTHER WEAPON-AGGRAVATED
+Investigator: BANKS, J. D. (350286) Date / Time: 06/23/2024 22:20:55, Sunday
+Supervisor: (0) Supervisor Review Date / Time: NOT REVIEWED
+Contact: Reference: Patrol Supplement
+as that would have occurred behind the camera. It does sound as if the vehicle struck something and then the camera
+moves. It is possible that the contact was between the camera tripod and the vehicle. From the video it is also unclear
+how far away from Harvey`s body the camera was at the time of the incident or what Harvey was doing at the time.
+I requested that Rebmann send me the video via email. I provided Rebmann with my business card and email address.
+Rebmann advised that one or more of his internet followers were sending me a copy of the video. Rebmann did advise
+that he and Harvey were both filming (and were still filming) and that resulted in several hours of video, so the video he
+would be sending was a clip from the larger video. I advised him that at some point we would need all of the complete
+videos, so he needed to retain them, and we could gather them at a later time.
+Just a few minutes after Harvey advised of his injuries, I observed him walking around the scene talking and continuing
+to film. During that time, I observed Harvey waving his arms around while talking and kicking rocks on the ground. At
+that time Harvey did not appear to be in any physical discomfort or distress.
+I advised Sgt. Alawar to have the reporting officer contact the DA about the incident once they had gathered sufficient
+information.
+On the building located at 1813 61st Street I observed several businesses, which appeared to have multiple cameras
+pointed at the parking lot. It is likely that these cameras would provide another perspective of the incident.
+I contacted and advised Capt. Hancock of the incident.
+I was advised that the DA`s office declined charges at that time and requested that the case be forwarded to CID for
+further investigation. I advised Harvey of this information. During this time, I was still continuing to check my email
+awaiting a video of the incident. At some point I did receive an email with a video file, but I was unable to open it from
+a mobile device.
+I made brief contact with Roy to see if he had notified his chain of command of the incident. Roy advised that he had
+notified his Assistant Chief. I advised Roy of what was occurring, the allegations made against him, and that a case
+would be forwarded to a detective to investigate. At that time Roy advised that it was not intentional.
+I contacted Homer Garcia with the COG Risk Management office and advised him of the incident. I also called and
+spoke to GFD Chief Olsen and advised him of the incident. He advised that he had already been notified. He advised
+that he had someone enroute to oversee post-accident administrative tasks and that he would also be enroute.
+I secured from the scene with no other involvement.
+Investigator Signature Supervisor Signature
+Page 10
+CITY 00063
+CASE SUPPLEMENTAL REPORT Printed: 03/17/2025 11:29
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department
+OCA:24003697
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR:… Occurred: 06/22/2024
+Offense: ASSAULT W/ OTHER WEAPON-AGGRAVATED
+Investigator: BANKS, J. D. (350286) Date / Time: 06/23/2024 22:20:55, Sunday
+Supervisor: (0) Supervisor Review Date / Time: NOT REVIEWED
+Contact: Reference: Patrol Supplement
+After returning to the station, I found that I had received three emails which contained attachments as follows:
+- 6/22/2024 1:45 AM from Galveston Island Transparency <galvestonislandtransparency@gmail.com>. This email
+contained a video file titled "XRecorder_22062024_014322.mp4" The email and video have been saved to the Field ID
+folder under this case number.
+- 6/22/2024 1:46 AM from Good Citizen greatlakesaudits@gmail.com. This email contained a download link
+(https://we.tl/t-FlSoiX7DEC ). I downloaded the file and saved it and the email to the Field ID folder under this case
+number.
+- 6/22/2024 1:49 AM from farlap moves <farleysbin@gmail.com>. This email contained a video file titled "(2)
+Facebook - Google Chrome 2024-06-22 18-33-07". The email and video have been saved to the Field ID folder under
+this case number.
+Based on my observations at the scene it was unclear the extent of contact between Roy`s vehicle and Harvey. It did not
+appear that Harvey suffered any physical injury. Harvey`s claims of injury were inconsistent with his actions on scene
+while not directly interacting with investigating officers.
+This case will be forwarded to CID for further investigation.
+End of supplement.
+Investigator Signature Supervisor Signature
+Page 11
+CITY 00064
+CASE SUPPLEMENTAL REPORT Printed: 03/17/2025 11:29
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department
+OCA:24003697
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR:… Occurred: 06/22/2024
+Offense: ASSAULT W/ OTHER WEAPON-AGGRAVATED
+Investigator: ORNELAS, K. R. (389110) Date / Time: 06/27/2024 21:07:18, Thursday
+Supervisor: (0) Supervisor Review Date / Time: NOT REVIEWED
+Contact: Reference: Crime Scene Unit
+Case#: 24-003697
+Offense/Incident: Fleet/Auto-Ped
+Date: 06/22/2024
+Detective: K. Ornelas #1001
+On Saturday, June 22, 2024, I, Det. K. Ornelas #1001, was assigned to the Galveston Police Department Identification
+Division, where my duties include the identification, collection, and processing of evidence related to criminal offenses.
+At approximately 0035 hours, I was dispatched to 61st St & Heards Ln, in the city and county of Galveston, Texas, in
+regards to a report of a welfare concern. Upon arrival, I made contact with Sgt. N. Alawar who advised me that a male
+-
+subject had been struck by a fire truck in the parking lot of 1813 61st St.
+The subject, identified as Robert Harvey (W/M/DOB: ), stated he was recording an incident when the
+battalion chief blew the sirens in his ear before striking him with the side mirror of the truck. Harvey stated the mirror
+struck the front of his right arm and the bumper struck his tripod causing it to hit his right knee. After Harvey was
+examined by EMS Personnel, I photographically documented his injuries. I observed Harvey to have minor redness on
+the front of his right bicep. I also observed redness to the outside of Harvey`s right kneecap. Harvey pointed out an
+area on his knee where he stated the skin had been scraped by the tripod, however, upon closer examination the skin
+was white and appeared to be from an old scar. Harvey also requested I photograph his left ear, stating his ear drum
+was blown from the sirens. Injuries for Harvey were photographically documented with mid-range and close-range
+photographs, with and without a scale.
+The truck that Harvey stated hit him was identified as Unit BC-4, a marked Galveston Fire Department unit with
+working overhead lights and sirens (TXLP 1577122). The unit was photographically documented with overall,
+mid-range, and close-range photographs. I did not observe any damage or markings to the passenger-side mirror or
+front fender or bumper. I compared the height of the mirror to Harvey`s arm by having him stand next to the mirror.
+The redness on Harvey`s arm was at the approximate height of the mirror.
+I photographically documented the scene with overall, mid-range, and close-range photos. I did not observe any skid
+marks from rapid acceleration. I observed several exterior cameras on the front of the businesses located in the strip
+center, noting that one in front of Freeway Insurance was pointed directly at the driveway where the incident occurred.
+All photographs related to this incident have been uploaded to the Galveston Police Department Photo Server and have
+been saved in the 2024-6 Folder with the assigned file name consisting of the two-digit year, six-digit case number, and
+my four-digit badge number.
+Investigator Signature Supervisor Signature
+Page 12
+CITY 00065
+CASE SUPPLEMENTAL REPORT Printed: 03/17/2025 11:29
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department
+OCA:24003697
+THE INFORMATION BELOW IS CONFIDENTIAL - FOR USE BY AUTHORIZED PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR:… Occurred: 06/22/2024
+Offense: ASSAULT W/ OTHER WEAPON-AGGRAVATED
+Investigator: ROGERS, A. C. (308838) Date / Time: 08/19/2024 14:44:24, Monday
+Supervisor: (0) Supervisor Review Date / Time: NOT REVIEWED
+Contact: Reference: Cid Supplement
+See attached PDF for supplement
+Investigator Signature Supervisor Signature
+Page 13
+CITY 00066
+From: Galveston Island Transparency
+To: Banks, Jeffrey D.
+Date: Saturday, June 22, 2024 1:45:19 AM
+Attachments: XRecorder_22062024_014322.mp4
+CITY 00067
+City Of Galveston Police Department
+Incident Case Number: 24-003697
+Reporting Agency: City Of Galveston Police
+PrintDate/Time: 09/12/202415:15:24
+Disclaimer: The information contained within this report is
+reflective of the investigation at the date and time of its printing.
+Page I
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00068
+INCi DE NT/IN VE STIGATION
+Agency Name Case#
+24-003697
+City OJ Galveston Police Department REPORT
+Date f Time Reported
+I ORI 06/22/2024 02:30 Sat
+N TX0840400 I Lasl Known Secure
+C 06/22/2024 00:33 Sat
+Location or Incident Premise Type Zonerrract
+I At Found
+D /813 6/STST. Galveston TX7755/ Parking/drop Lot/garage 06122/2024 00:33 Sat
+E n Crime lncident(s) (Com) Weapon I Tools Motor Vehicle I n Ac t1v1ty
+N Assault WI Other Weapon-aggravated I
+T PC 22.02C F Entry Exit Security
+D Crime Incident ( ) Weapon/ Tools I Activity
+A #2 I
+T Entry Exit Security
+A
+Crime Incident ( ) Weapon/ Tools I ACIIVIIY
+113 I
+Entry Exit Security
+MO
+I
+# orViIct ims I Type: INDIVIDUAL (NOT A LE OFFICER) I Injury: Apparent Minor InIju ryI I
+Victim/Business Name (Last, First, Middle) Victim orl DOB I Race Sex Relationship Resident Statu:JI M1htary
+V Vt HARVEY, ROBERT EDWIN Crime# To Offender Branch,'Status
+I SS#: /, I Age 46 I W M I ST I Non-Residen
+C Home Address Home Phone
+T 830 23RD ST-36, San Leon TX 77539- 817-5/3-8033
+I
+Employer Name/ Address Business Phone Mobile Phone
+M - - 817-513-8033
+I I j I
+VYR Make Model Style Color LicJLis VIN
+CODES: V-Victim (Denote V2, VJ) 0 = Owner (if other than victim) R - Reporting Person (if other than vi tir )
+0
+Type:I INDIVIDUAL (NOT A LE OFFICER)
+I
+Injury:
+I I
+T Code Name (Last, First, Middle) Victim ofl~ Race Sexl Relationship Resident StatusJ Military
+H JO REDMANN, BRUCE ALLEN Crime# To Offender Branch/Status
+E Age 46 W M Non-Resident
+R Home Address ] Home Phone
+s 7406 STEWART ST. HITCHCOCK TX 77563- 409-457-0824
+Employer Name/ Address Business Phone Mobile Phone
+I
+N Type:I INDIVIDUAL (NOT A LE OFFICER) Injury:
+1 1111P
+I
+V
+0 C / o O de S N A am N e T ( U La C st C , F I, i rs P t, A M U id L d l E e) D MUND JR ri C c r t i i m m e # o fli DOB 11 Racerexl T R o e l O at f io fe n n s d h e ip r Resident Status,I B ra M nc i h li / t S a t r a y t us
+L
+ge W M I Non-Resident
+V
+E Home Address Home Phone
+D ~
+Business Phone MobileP one
+r.a/ve<tnn Fir<> Dent 5728 BALL ST r.ALVESTnN TX 775S I fCAPT,4/NJ 409-797-31?5
+I None 2 Burned 3 = Counterfeit / Forged 4 • Damaged/ Vandalized 5 - Recovered 6- Seized 7 = Stolen 8 = Unknown
+"OJ"~ Recovered for Other Jurisdiction)
+~I Code S Fn ta n t / u T s o Value OJ OTY Prooertv Descri otion Make/Model Senal Number
+03 IN/'/. SIJOO I 2023 WHI llh/J /51?/22 1X IX )IJ(i Ram 1r11ck 3<'fiUR5HJ'l'G567~03
+p
+R
+0
+p
+E
+R
+T
+y
+Officer/ID/I WATSON D.S. 1526803)
+Invest IDII ROGERS, A. C. (308838) Supervisor KYLEN, J. W. (242566)
+I
+Status Complainant Signature Case Status Case Disposition: I Page 2
+Excent Clear 0812/12024 Proseculion Declined 0812//2ou
+R_CSlIBR Printed By: AROGERS, Sys#: 911401 09ll 2,12024 15: 15
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00069
+INCIDENT/INVESTIGATION REPORT
+I
+City OfG alveston Police Department
+Case# 24-003697
+C St o a d tu e s s I • None 2 • Burned 3 Counterfeit/ Forged 4 Damaged I Vandalized 5 Recovered 6 Seized 7 y Stolen 8 • Unknown
+IBR Status Quantity Type Measure Suspected Type Up to 3 types of activity
+D
+R
+u
+G
+s
+Assisting Officers
+Suspect Hate/ Bias Motivated: NONE (NO BIAS)
+NARRATIVE
+This report will document an Auto/Ped accident that occurred on the date of 0612212024.
+R CSZIBR By: AROGERS, 09/12/2024 15: 15 Page 3
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00070
+REPORTING OFFICER NARRATIVE
+OCA
+City OfG alveston Police Department 24-003697
+Victim Offense Date I Time Reponcd
+HARVEY. ROBERT EDWIN ASSAULT WI OTHER WEAPON-AGGRAVATED Sat 06/2212024 02:30
+[
+THI: INfORMATION Bf LOW IS CONflD~NTII\L fOR LSI BY Al THORIZED Pl:RSONNEL ONLY
+Name: D. Watson #1014
+Date: 06/22/2024
+Offense: Aggravated Assault W/ Deadly Weapon
+Case: 24-003697
+Synopsis:
+This report will document an Auto/Pedestrian accident that occurred on the date of 06/22/2024.
+Details:
+On Saturday, 06/22/2024, I, Ofc. D. Watson #1014, was assigned as a two-man Midtown District patrol unit with
+Ofc. S. Coldiron# IO 17 in the City and County of Galveston, Texas. At approximately 0033 hours, we were
+dispatched to the area of 1813 61st St in reference to a welfare concern. Upon arrival, it was determined that a fleet
+occurred between a City of Galveston Fire Dept. vehicle and a pedestrian.
+I spoke with the battalion chief who was the involved driver to which he was identified as Roy, William Ryan
+~ /M). Roy was observed to be the sole occupant and driver of Galveston Fire Dept Unit #2346 (BC-4)
+bearing Tx.LP: I 577122. Roy advised me that there were multiple fire units looking in the area of 1800 61 st St for
+the fire call they recieved. Roy advised me that he was traveling NB on 61st St and then made a U-Turnjust north of
+the above address. Roy advised me that he then drove SB and pulled his vehicle up onto the sidewalk facing the
+general area of 1817 61 st St. Roy advised me that he was parked there on the sidewalk by the sign when two
+pedestrians recording walked past his unit. Roy advised me that he was still looking for the address of the call when
+he hit his siren to which it startled the two pedestrians recording. Roy advised that the two pedestrians then began to
+yell at him and flip him off. Roy advised that after this occurred, the fire department had located where there call
+was to which he advised was a gas station being remodeled. Roy advised that he then began to back up his vehicle
+and saw both pedestrians at the front right comer of his truck. Roy advised that he then began to pull into the
+parking lot while turning left. Roy advised that at this time he saw one of the pedestrians at his I O'Clock. Roy
+advised that he pulled his vehicle into the parking lot driveway turning left and parking near the front of the gas
+station being remodeled. Roy advised that he never "felt" or "observed" his vehicle striking the pedestrian. Roy
+advised that if the pedestrian "pushed himself on the truck" or anything then he couldn't feel that. Roy advised that
+he could clearly see the pedestrian and knew that he was clear of the truck. Roy advised that he wasn't notified that
+he struck someone with his vehicle until after he left the scene and was then called by Battalion I to return to the
+scene.
+I spoke with the victim, who was identified as Harvey, Robert W/M). Harvey advised me that his
+buddy, Rebmann, Bruce - W/ M) and himself were walking down the public sidewalk. Harvey advised
+that they walked up about even with the fire hydrant near the sidewalk to which the Galveston Fire BC-4 truck then
+hit his horn. Harvey advised that his ear drum began hurting due to the horn. Harvey advised that he then wanted to
+file a complaint on the driver so he asked him to roll his window down. Harvey advised that the driver then hit his
+horn again to which Bruce and himself then began cussing and shooting the bird at him. Harvey advised that the
+driver then backed up and started to tum and head towards the parking lot. Harvey advised that at this time he was
+standing in the general area of the parking lot driveway. Harvey advised that he then observed the BC-4 truck come
+at him to which he started to move out of the way towards the building on the North side of the parking lot. Harvey
+advised that the BC-4 truck still clipped him though hitting his camera tripod first which pushed it into his body and
+Reporting Officer: WATSON. D.S. Printed By: AROGERS. 09112/2024 15 IS Page 4
+R CSJNC
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00071
+REPORTING OFFICER NARRATIVE
+OCA
+City OfG alveston Police Department 24-003697
+Victim Offense Date I Time Reponed
+HARVEY, ROBERT EDWIN ASSA ULT WI OTHER WEAPON-AGGRAVATED Sat 06/22/2024 02:30
+THF IN~ORMA TJON Bl· LOW IS CON~ IOI· NTIAL FOR l-SI: BY Al THORIZl:D PLRSONNLL ONLY
+then past it. Harvey advised that after the BC-4 truck pushed his tripod past him, the bumper struck his right knee
+and then the mirror on the truck struck his upper right arm. Harvey advised that after the truck struck him, it
+continued on and parked in front of the gas station being remodeled. Harvey advised that he then observed the
+vehicle leave.
+I spoke with Rehmann, Bruce~ /M) to which he advised that Harvey and himself were walking up to
+see what was going on while doing their usual video thing. Bruce advised that he observed the BC-4 truck to be the
+last fire unit in the back parked in the street. Bruce advised that all the other fire trucks were in the street as well for
+the fire call. Bruce advised that he observed Harvey to be right by the front of the BC-4 truck and that he was a
+couple of feet in him on the sidewalk. Bruce advised that the BC-4 truck then hit his siren multiple times to which
+they started talking back to the driver. Bruce advised that Harvey and himself had moved to the side of the truck by
+this time. Bruce advised that he then began to talk to other pedestrians that were on scene while near the back of the
+truck. Bruce advised that the truck then backed up into the road and then began to turn in to the parking lot. Bruce
+advised that he was on the sidewalk near the edge of the flower bed and Harvey was standing in the general area of
+the driveway. Bruce advised that he heard the truck go forward and turned to which he observed the truck tum his
+wheels towards Harvey and then hit the gas. Bruce advised that he observed the truck hit Harvey and then continue
+forward to which it parked in front of the gas station being remodeled. Bruce advised that the truck then backed up
+and left.
+I observed there to be cameras at the following locations that might have captured the incident but was unable to
+access any footage due to the places being closed. I observed there to be minor scrapes on the right knee of Harvey. I
+observed the video provided by the victim to which I observed the BC-4 truck with lights activated pull into the
+driveway near 1813 61 st St and strike the camera and tripod at least. Harvey was advised to send the provided video
+to the investigations email.
+Freeway Ins. ( 1813 61 st St Suite 106 Galveston, Texas 77551)
+Galveston Cigar Lounge ( I 813 6 I st St Suite I 04 Galveston, Texas 77551)
+Zandeh Del & Associates ( 1813 61 st St Suite 10 I Galveston, Texas 77551)
+ADA Agbu was contacted and briefed on the situation. ADA Agbu advised me to refer this case to CID.
+ID Det. Puga and Ornelas came out to the scene to process it. Refer to their supplements for further details.
+Galveston EMS checked on Harvey to which he was not transported.
+I then met with ~ who was in the parking lot at the time of the incident to which he was identified as
+Santucci, Paul (- -W /M). Paul advised that they were responding to I 817 61 st St for a possible fire outside
+near a structure. Paul advised that upon arrival, they were unable to locate the fire at first to which the other units
+began to search the area. Paul advised that he observed BC-4 stopped in the parking lot with his lights on while
+bumping the siren trying to get pedestrians out of the way. Paul advised that he walked past BC-4's truck NB to
+which he could hear the two auditors upset due to the siren being loud. Paul advised that as he walked past BC-4, he
+was slowly moving into the parking lot behind him. Paul advised that he then heard one of the auditors say that he
+was hit by the BC-4 to which he turned and observed the auditor in the green shirt standing with his camera tripod
+Reporting Officer: WATSON, D.S. Prinled By: AROGERS, 09/12/2024 15.15 Page 5
+R CSjNC
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00072
+REPORTING OFFICER NARRATIVE
+OCA
+City OfG alveston Police Department 24-003697
+Victim Offense Date I Time Reported
+HARVEY. ROBERT EDWIN ASSAULT WI OTHER WEAPON-AGGRAVATED Sat 0612212024 02:30
+I
+1 HE IN~ORMA1 ION BELOW IS CONFIDENTIAL· I-OR LSI' BY AL' I HORILl:I> Pl·RSONNLL ONLY
+leaning towards the BC-4 truck. Paul advised that due to this still being an active scene with fire being located in the
+back of the building, he had to get to his crew. Paul advised that after the fire was out, he assisted GEMS with
+checking on Harvey. Paul advised that Harvey said his ear hurt bad and that his shin got bumped. Paul advised that
+at no time did he ever see the BC-4 truck come into any contact with anything.
+Disposition:
+Refer to CID.
+Reponing Officer: WATSON. D.S. Printed By: AROGERS, 09/12/2024 15:15 Page 6
+R CSJNC
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00073
+Incident Report Suspect List
+City OfG alveston Police Department OCA: 2./-003697
+Name (lasl, F1rs1, Middle) Also Known As Home Address
+ROY, WILLIAM RYAN
+Business Address GALVESTON FIRE DEPT
+409-797-3850 BATTALION CHIEF 8710 CESSNA DR
+DOB Age Race Seic E1h Hgl Wg1 Hair Eye Skin
+- - 59 W M N 60/ 315 BRO BLU LOT
+Scars, Marks, Talloos, or other distinguishing features
+Reported Suspect Detail Suspecl Age Race Sex Eth Weight SSN
+Weapon, Type Feature Model Color Caliber Dir of Travel
+Mode ofTravel
+Yeh Yr/ Make/ Model Ors S1yle Color Lie Plate / Stale VIN
+Notes Physical Char
+R CSBIBR Pnnted By: AROGERS, 09/1212024 15: 15 Page 7
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00074
+CASE SUPPLEMENTAL REPORT Printed: 0911212024 15:16
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department OCA: 24003697
+THE INFORMATION BELOW IS CONHDfNTIAL I·OR l'SJ· BY Al fHORILl:D PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR: VICTIM/DA Occurred: 06/2212024
+Offense: ASSA ULT WI OTHER WEAPON-AGGRAVATED
+Investigator: BANKS, J. D. (350286) Date/Time: 06/23/2024 22:20:55, Sunday
+Supervisor: (0) Supervisor Review Date/ Time: NOT REVIEWED
+Contact: Reference: Patrol Supplement
+Lt. J. Banks #443/2046
+Marked Unit # 2049
+24-003697 Supplement
+On 6/22/2024 I was on duty as the D Shift Watch Commander. At approximately 0012 hrs. I heard dispatch advised of
+a possible structure fire at I 8 I 7 6 I st Street. GPD units were dispatched as traffic control. While units were on scene, I
+was contacted by Sgt. Alawar about a separate incident that occurred at the fire scene. Sgt. Alawar advised me that a
+subject, identified as Robert Harvey W/M- had called advising that he was struck by a fire unit at the scene.
+Sgt. Alawar advised me that GFD Battalion Chief William Roy was pulling into a parking lot along 61st Street when
+he struck Harvey with the vehicle. Sgt. Alawar advised me that Harvey and another subject on scene, identified as
+Bruce Rehmann W/M- alleged that Roy had struck Harvey with the vehicle intentionally and had a video of
+the incident.
+I am familiar with Harvey and Rehmann as they are local 'first Amendment Auditors' who go by the aliases Harvey
+Freebird and Galveston Island Transparency. The Galveston Police Department has frequent interactions with both
+subjects as they regularly make police scenes to film police activity. During these incidents, both subjects are known to
+push the limits of police interference to agitate officers into arresting them, all in an attempt to seek litigation against
+the city. Given the nature of the allegations and the involvement of the auditors, I responded to the scene.
+Upon arrival, I learned that Roy's vehicle was parked along the 1800 block of 6 I st Street facing south. I learned that
+Harvey and Rehmann were near Roy's vehicle when Roy sounded his vehicle siren. I learned that the siren noise
+agitated Harvey and Rebmann, who then began yelling profanities at Roy and requesting his information in order to file
+a complaint. I learned that a brief time later Harvey was in the parking lot area of Zendeh Del & Associates ( 1813 61 st
+St) when Roy turned the truck into the parking lot in the direction where Harvey was located. I learned that Roy then
+moved his vehicle into the parking lot toward Harvey and struck Harvey with the passenger's front of his vehicle.
+I asked Harvey ifhe was injured. Harvey advised that he was in pain on his side and indicated from around his knee to
+his shoulder area. At that time Harvey was walking with an extremely heavy limp and holding his right arm limp and
+holding it. I did not observe Harvey to have any observable physical injuries. He advised that he believed that Roy had
+struck him with the vehicle intentionally and that it was on video.
+Rebmann pulled up the video on his phone and showed it to me. The video was live stream footage filmed by Harvey at
+the time of the incident. In the video it shows Roy having his emergency lights activated and drives toward Harvey.
+Harvey seems aware that the vehicle is coming toward him as he says something about being run over. It did not appear
+Investigator Signature Supervisor Signature
+r_supp3 Page9
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00075
+CASE SUPPLEMENTAL REPORT Printed: 09/12/2024 15: 16
+NOT SUPERVISOR APPROVED
+City OfG alveston Police Department OCA: 24003697
+THE INFORMATION BLLOW IS CONHDLNTIAL IOR USI: BY AUTHORILED PERSONNEL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR: VICTIM/DA Occurred: 06/21/2024
+Offense: ASSAULT WI OTHER WEAPON-AGGRAVATED
+Investigator: BANKS, J. D. (350286) Date/Time: 06/2312024 22:20:55, Sunday
+Supervisor: (0) Supervisor Review Date/ Time: NOT REVIEWED
+Contact: Reference: Patrol Supplement
+that the camera moved away from the vehicle to prevent contact, nor did the vehicle stop or change course to avoid
+contact. In the video you could not see if/where the vehicle actually struck Harvey's body as that would have occurred
+behind the camera. It does sound as if the vehicle struck something and then the camera moves. It is possible that the
+contact was between the camera tripod and the vehicle. From the video it is also unclear how far away from Harvey's
+body the camera was at the time of the incident or what Harvey was doing at the time.
+I requested that Rehmann send me the video via email. I provided Rehmann with my business card and email address.
+Rehmann advised that one or more of his internet followers were sending me a copy of the video. Rehmann did advise
+that he and Harvey were both filming (and were still filming) and that resulted in several hours of video, so the video
+he would be sending was a clip from the larger video. I advised him that at some point we would need all of the
+complete videos, so he needed to retain them, and we could gather them at a later time.
+Just a few minutes after Harvey advised of his injuries, I observed him walking around the scene talking and continuing
+to film. During that time, I observed Harvey waving his arms around while talking and kicking rocks on the ground. At
+that time Harvey did not appear to be in any physical discomfort or distress.
+I advised Sgt. Alawar to have the reporting officer contact the DA about the incident once they had gathered sufficient
+information.
+On the building located at 1813 61 st Street I observed several businesses, which appeared to have multiple cameras
+pointed at the parking lot. It is likely that these cameras would provide another perspective of the incident.
+I contacted and advised Capt. Hancock of the incident.
+I was advised that the DA' s office declined charges at that time and requested that the case be forwarded to CID for
+further investigation. I advised Harvey of this information. During this time, I was still continuing to check my email
+awaiting a video of the incident. At some point I did receive an email with a video file, but I was unable to open it from
+a mobile device.
+I made brief contact with Roy to see if he had notified his chain of command of the incident. Roy advised that he had
+notified his Assistant Chief. I advised Roy of what was occurring, the allegations made against him, and that a case
+would be forwarded to a detective to investigate. At that time Roy advised that it was not intentional.
+I contacted Homer Garcia with the COG Risk Management office and advised him of the incident. I also called and
+Investigator Signature Supervisor Signature
+Page 10
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00076
+CASE SUPPLEMENTAL REPORT Printed: 09/12/2024 15: 16
+NOT SUPERVISOR APPROVED
+City Of Galveston Police Department OCA: 24003697
+rHF INfORMA noN BlLOW IS CONl·IDFNTIAL I-OR l,Sl· BY AUTHORILI-D PhRSONNl·L ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR: J//CT!MIDA Occurred: 06/22/2024
+Offense: ASSAULT WI OTHER WEAPON-AGGRAVATED
+Investigator: BANKS. J. D. (350286) Date/ Time: 06/23/2024 22:20:55, Sunday
+Supervisor: (0) Supervisor Review Date/ Time: NOT REVIEWED
+Contact: Reference: Patrol Supplement
+spoke to GFD Chief Olsen and advised him of the incident. He advised that he had already been notified. He advised
+that he had someone enroute to oversee post-accident administrative tasks and that he would also be enroute.
+I secured from the scene with no other involvement.
+After returning to the station, I found that I had received three emails which contained attachments as follows:
+6/22/2024 1: 45 AM from Galveston Island Transparency <galvestonislandtransparency@gmail.com>. This email
+contained a video file titled "XRecorder 22062024 014322.mp4" The email and video have been saved to the Field
+ID folder under this case number.
+6/22/2024 1: 46 AM from Good Citizen greatlakesaudits@gmail.com. This email contained a download link
+(https://we.tl/t-FISoiX7DEC ). I downloaded the file and saved it and the email to the Field ID folder under this case
+number.
+6/22/2024 1: 49 AM from farlap moves <farleysbin@gmail.com>. This email contained a video file titled "(2)
+Facebook • Google Chrome 2024-06-22 18-33-07". The email and video have been saved to the Field ID folder under
+this case number.
+Based on my observations at the scene it was unclear the extent of contact between Roy· s vehicle and Harvey. It did
+not appear that Harvey suffered any physical injury. Harvey's claims of injury were inconsistent with his actions on
+scene while not directly interacting with investigating officers.
+This case will be forwarded to CID for further investigation.
+End of supplement.
+Investigator Signature Supervisor Signature
+Page 11
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00077
+CASE SUPPLEMENTAL REPORT Printed: 09/12/2024 15: 16
+NOT SUPERVISOR APPROVED
+City OfG alveston Police Department OCA: 24003697
+rm INfORMATION B[LOW IS CONI IDl:NTIAL I OR US! BY AUTHORILLD Pl:RSONNLL ONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR: VICTIM/DA Occurred: 06/12/2024
+Offense: ASSAULT WI OTHER WEAPON-AGGRAVATED
+Investigator: ORNELAS, K. R. (389110) Date/ Time: 06/271202./ 21:07: 18, Thursday
+Supervisor: (OJ Supervisor Review Date/ Time: NOT RE VI £WED
+Contact: Reference: Crime Scene Unit
+Case#: 24-003697
+Offense/Incident: Fleet/A uto-Ped
+Date: 06/22/2024
+Detective: K. Ornelas #1001
+On Saturday, June 22, 2024, I, Det. K. Ornelas # 100 I, was assigned to the Galveston Police Department Identification
+Division, where my duties include the identification, collection, and processing of evidence related to criminal
+offenses. At approximately 0035 hours, I was dispatched to 61st St & Heards Ln, in the city and county of Galveston,
+Texas, in regards to a report of a welfare concern. Upon arrival, I made contact with Sgt. N. Alawar who advised me
+that a male subject had been struck by a fire truck in the parking lot of 1813 61 st St.
+The subject, identified as Robert Harvey (W/M/DOB:- stated he was recording an incident when the
+battalion chief blew the sirens in his ear before striking him with the side mirror of the truck. Harvey stated the mirror
+struck the front of his right arm and the bumper struck his tripod causing it to hit his right knee. After Harvey was
+examined by EMS Personnel, I photographically documented his injuries. I observed Harvey to have minor redness on
+the front of his right bicep. I also observed redness to the outside of Harvey's right kneecap. Harvey pointed out an
+area on his knee where he stated the skin had been scraped by the tripod, however, upon closer examination the skin
+was white and appeared to be from an old scar. Harvey also requested I photograph his left ear, stating his ear drum
+was blown from the sirens. Injuries for Harvey were photographically documented with mid-range and close-range
+photographs, with and without a scale.
+The truck that Harvey stated hit him was identified as Unit BC-4, a marked Galveston Fire Department unit with
+working overhead lights and sirens (TXLP 1577122). The unit was photographically documented with overall,
+mid-range, and close-range photographs. I did not observe any damage or markings to the passenger-side mirror or
+front fender or bumper. I compared the height of the mirror to Harvey's arm by having him stand next to the mirror.
+The redness on Harvey's arm was at the approximate height of the mirror.
+I photographically documented the scene with overall, mid-range, and close-range photos. I did not observe any skid
+marks from rapid acceleration. I observed several exterior cameras on the front of the businesses located in the strip
+center, noting that one in front of Freeway Insurance was pointed directly at the driveway where the incident occurred.
+All photographs related to this incident have been uploaded to the Galveston Police Department Photo Server and have
+been saved in the 2024-6 Folder with the assigned file name consisting of the two-digit year, six-digit case number, and
+Investigator Signature Supervisor Signature
+Page 12
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00078
+CASE SUPPLEMENTAL REPORT Printed: 09/12/2024 15: 16
+NOT SUPERVISOR APPROVED
+City OfG alveston Police Department OCA: 24003697
+THL INFORMATION Bl·LOW IS CONHDINllAL FOR USE BY Al THORILI-D Pl:.RSONNLLONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR: VICTIM/DA Occurred: 06122/2024
+orrense: ASSAULT WI OTHER WEAPON-AGGRAVATED
+Investigator: ORNELAS, K. R. (3891 IO) Date/Time: 0612712024 21:07:18, Thursday
+Supervisor: (0) Supervisor Review Date/ Time: NOT REVIEWED
+Contact: Reference: Crime Scene Unit
+my four-digit badge number.
+Investigator Signature Supervisor Signature
+Page 13
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00079
+CASE SUPPLEMENTAL REPORT Printed: 09/12/2024 15: 16
+NOT SUPERVISOR APPROVED
+City OfG alveston Police Department OCA: 24003697
+THL lNl·ORMATION 81'.LOW IS CONHDl,N11AL · rnR l SI-BY Al 1HORILLD Pl!RSONNl!LONLY
+Case Status: EXCEPT CLEAR Case Mng Status: EXCEPT CLEAR: VICTIM/DA Occurred: 06/22/2014
+Offense: ASSAULT WI OTHER WEAPON-AGGRAVATED
+Investigator: ROGERS, A. C. (308838) Date/Time: 081/9/2024 14:44:24, Monday
+Supervisor: (0) Supervisor Review Date/ Time: NOT REVIEWED
+Contact: Reference: Cid Supplement
+See attached PDF for supplement
+Investigator Signature Supervisor Signature
+Page 14
+Date Submitted to TMLIRP : 10/31/2024 02:45 PM
+CITY 00080
+CITY 103 – CITY 108
+I!] CITY 103 • (2) facebook • Google Chrome 2024-06·2218·33•07.mp4
+I!] CITY 104 · 06-22-2024 12-20-14 AMC Parking lot Corner.m4v
+M
+CITY 105 · Screen.Recording_20240622_014328_YouTube.mp4
+~ CITY 106 • XRecorder_22062024_014322.mp4
+~ CITY 107 • You Tube Recording.mp4
+I!] CITY 108 • footage from Bruce Rebmann's Came.ra.MOV

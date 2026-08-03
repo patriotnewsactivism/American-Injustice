@@ -1,0 +1,719 @@
+Case 6:25-cr-00227-CBW Document 16 Filed 09/16/25 Page 1 of 2 PageID #: 24
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF LOUISIANA
+LAFAYETTE DIVISION
+UNITED STATES OF AMERICA CASE NO: 6:25-MJ-00153
+6:25-CR-00227-CBW-1
+VERSUS
+MAGISTRATE JUDGE WHITEHURST
+MATTHEW REARDON
+DEFENDANT'S MOTION TO DISMISS THE BILL OF INFORMATION
+NOW INTO COURT, through the undersigned counsel, comes Defendant
+Matthew Reardon, who respectfully moves this Court pursuant to Federal Rule of
+Criminal Procedure 12(b)(3)(B) to dismiss the Bill of Information filed against him.
+Mr. Reardon’s motion is based on the grounds that the charged conduct constitutes
+protected expression under the First Amendment to the United States Constitution,
+that the prosecution seeks to punish his exercise of fundamental rights of free speech,
+press, and petition for redress of grievances, and that 41 C.F.R. § 102-74.390 is
+facially overbroad and unconstitutional as applied to his peaceful journalistic and
+protest activities conducted in a traditional public forum. For the reasons set forth in
+the accompanying memorandum of support, this Court should dismiss all charges as
+violative of clearly established constitutional principles.
+RESPECTFULLY SUBMITTED,
+REBECCA L. HUDSMITH
+Federal Public Defender
+BY: s/ Dustin C. Talbot
+DUSTIN C. TALBOT
+Appellate Chief
+Case 6:25-cr-00227-CBW Document 16 Filed 09/16/25 Page 2 of 2 PageID #: 25
+Federal Public Defender’s Office
+Middle and Western Districts of Louisiana
+102 Versailles Boulevard, Suite 816
+Lafayette, Louisiana 70501
+Telephone: (337) 262-6336
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that on September 16, 2025, a copy of the
+foregoing was filed electronically with the Clerk of Court using the CM/ECF system.
+Notice of the filing will be sent by operation of the Court’s electronic filing system to
+all counsel of record.
+s/ Dustin C. Talbot
+2
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 1 of 29 PageID #: 26
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF LOUISIANA
+LAFAYETTE DIVISION
+UNITED STATES OF AMERICA CASE NO: 6:25-MJ-00153
+6:25-CR-00227-CBW-1
+VERSUS
+MAGISTRATE JUDGE WHITEHURST
+MATTHEW REARDON
+DEFENDANT'S MEMORANDUM IN SUPPORT OF
+MOTION TO DISMISS THE BILL OF INFORMATION
+NOW INTO COURT, through the undersigned counsel, comes Defendant
+Matthew Reardon, who respectfully moves this Court pursuant to Federal Rule of
+Criminal Procedure 12(b)(3)(B) to dismiss the Bill of Information filed against him.
+Mr. Reardon’s motion is based on the grounds that the charged conduct constitutes
+protected expression under the First Amendment to the United States Constitution,
+that the prosecution seeks to punish his exercise of fundamental rights of free speech,
+press, and petition for redress of grievances, and that 41 C.F.R. § 102-74.390 is
+facially overbroad and unconstitutional as applied to his peaceful journalistic and
+protest activities conducted in a traditional public forum. For the reasons set forth in
+this memorandum, this Court should dismiss all charges as violative of clearly
+established constitutional principles.
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 2 of 29 PageID #: 27
+TABLE OF CONTENTS
+TABLE OF CONTENTS .............................................................................................. 2
+TABLE OF AUTHORITIES ........................................................................................ 4
+I. INTRODUCTION ....................................................................................................... 6
+II. BACKGROUND ........................................................................................................ 7
+A. Mr. Reardon’s constitutionally protected journalistic activities .................. 7
+B. The marshal’s invitation and Mr. Reardon’s peaceful compliance .............. 9
+C. Mr. Reardon is arrested despite complying with the marshal’s demands
+...................................................................................................................... 11
+III. LEGAL AUTHORITIES ...................................................................................... 13
+IV. ARGUMENT ........................................................................................................ 14
+A. This prosecution violates clearly established Supreme Court precedent
+protecting political protest in traditional public forums ........................... 14
+1. Edwards v. South Carolina and United States v. Hylton mandate
+dismissal of the charges ......................................................................... 14
+2. Courthouse steps constitute a traditional public forum entitled to the
+highest level of First Amendment protection ........................................ 16
+3. Mr. Reardon’s conduct involves three forms of constitutionally
+protected expression ............................................................................... 17
+4. Offensive language does not remove First Amendment protection ..... 19
+B. The prosecution constitutes content-based discrimination requiring
+strict scrutiny ............................................................................................ 20
+C. The “loud or unusual noise or a nuisance” provision violates the First
+Amendment as applied to Mr. Reardon’s protected speech ....................... 21
+2
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 3 of 29 PageID #: 28
+1. Mr. Reardon’s vocal expression constitutes protected political speech
+................................................................................................................. 22
+2. Unconstitutional content-based discrimination in enforcement .......... 23
+3. Unconstitutional vagueness of the noise provision ............................... 24
+D. The “unreasonably obstructs the usual use of entrances” provision is
+unconstitutional as applied to Mr. Reardon’s camera placement ............. 25
+1. No actual obstruction occurred .............................................................. 25
+2. Camera placement as protected newsgathering activity ...................... 26
+3. Overbreadth of the obstruction provision as applied ............................ 27
+4. Compliance demonstrates absence of intent to obstruct ...................... 27
+V. CONCLUSION ...................................................................................................... 28
+CERTIFICATE OF SERVICE ................................................................................... 29
+3
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 4 of 29 PageID #: 29
+TABLE OF AUTHORITIES
+CASES PAGE
+Bd. of Airport Comm’rs of City of Los Angeles v. Jews for Jesus, Inc., 482 U.S. 569
+(1987) ................................................................................................................. 27
+Branzburg v. Hayes, 408 U.S. 665 (1972) ............................................................. 18, 26
+Brown v. State of La., 383 U.S. 131 (1966) ................................................. 17-18, 20-21
+City of Chicago v. Morales, 527 U.S. 41 (1999) .......................................................... 24
+Edwards v. South Carolina, 372 U.S. 229 (1963) ...................................... 14-15, 20, 22
+Glik v. Cunniffe, 655 F.3d 78 (1st Cir. 2011) ......................................................... 18-19
+Grayned v. City of Rockford, 408 U.S. 104 (1972) ...................................................... 24
+Kolender v. Lawson, 461 U.S. 352 (1983) ................................................................... 24
+Massachusetts v. Oakes, 491 U.S. 576 (1989) ............................................................ 27
+Menotti v. City of Seattle, 409 F.3d 1113 (9th Cir. 2005) .......................................... 23
+New York Times Co. v. Sullivan, 376 U.S. 254 (1964) ............................................... 18
+Perry Education Ass’n v. Perry Local Educators’ Ass’n, 460 U.S. 37 (1983)....... 21, 27
+Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555 (1980) ........................ 18, 26-27
+Schenck v. Pro-Choice Network Of W. New York, 519 U.S. 357 (1997) .................... 23
+Terminiello v. Chicago, 337 U.S. 1 (1949) ............................................................. 22-23
+Thomas v. Chicago Park Dist., 534 U.S. 316 (2002)................................................... 23
+United Mine Workers of Am., Dist. 12 v. Illinois State Bar Ass’n, 389 U.S. 217
+(1967) ................................................................................................................. 19
+United States v. Baldwin, 745 F.3d 1027 (10th Cir. 2014) ........................................ 21
+United States v. Cruikshank, 92 U.S. 542 (1875) ...................................................... 17
+4
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 5 of 29 PageID #: 30
+United States v. Grace, 461 U.S. 171 (1983) ......................................................... 16-17
+United States v. Hylton, 710 F.2d 1106 (5th Cir. 1983)........................................ 15-16
+United States v. Lawrence, 755 Fed. Appx. 703 (9th Cir. 2019) ............................... 21
+United States v. Moriello, 980 F.3d 924 (4th Cir. 2020) ............................................ 22
+United States v. O’Dwyer, No. CRIM.10-034, 2010 WL 2606657 (E.D. La. June 24,
+2010), aff’d, 443 F. App’x 18 (5th Cir. 2011) .................................................... 20
+United States v. Strong, 724 F.3d 51 (1st Cir. 2013) ................................................. 21
+United States v. Wasylyshyn, 979 F.3d 165 (2d Cir. 2020) .................................. 21-22
+United States v. Zagorovskaya, 628 Fed. Appx. 503 (9th Cir. 2015) ......................... 21
+Wayte v. United States, 470 U.S. 598 (1985) ............................................................. 23
+STATUTES
+U.S. CONST. amend. I (First Amendment) ...........................................................p assim
+LA. CONST. art. I, § 7 .................................................................................................... 13
+LA. CONST. art. I, § 9 .................................................................................................... 13
+41 C.F.R. § 102-74.390 ..........................................................................................p assim
+5
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 6 of 29 PageID #: 31
+I. INTRODUCTION
+This case presents fundamental questions about the scope of First Amendment
+protection for journalistic activity and political protest conducted in traditional public
+forums. The government seeks to criminally prosecute investigative journalist
+Matthew Reardon for peacefully documenting his grievances against federal law
+enforcement on the steps of a federal courthouse—conduct that falls within the
+heartland of constitutional protection under binding Supreme Court precedent.
+Mr. Reardon’s prosecution arose after he discovered through a Freedom of
+Information Act request that U.S. marshals had placed him under surveillance for
+engaging in protected journalistic activities. In response to this perceived government
+overreach, he exercised his constitutional rights by conducting a peaceful protest on
+courthouse steps, expressing his grievances through both spoken commentary and
+written signs, while simultaneously documenting the event through livestreaming
+and recording for his journalism platform, We the People News. Rather than address
+the legitimate constitutional concerns raised by his protest, the government
+responded by arresting Mr. Reardon and seizing his journalistic equipment, thereby
+transforming his exercise of fundamental rights into the predicate for criminal
+prosecution.
+The constitutional defects in this prosecution are multiple and dispositive.
+First, Mr. Reardon’s conduct occurred in a traditional public forum entitled to the
+highest level of First Amendment protection, where the Supreme Court has
+6
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 7 of 29 PageID #: 32
+consistently prohibited content-based restrictions on peaceful expression. Second, the
+government’s enforcement demonstrates impermissible targeting based on the
+critical content of Mr. Reardon’s message about federal law enforcement conduct.
+Third, the regulation’s vague standards fail to provide constitutionally adequate
+notice of what conduct is prohibited when applied to protected speech activities.
+Fourth, the government’s interpretation would criminalize core journalistic and
+protest activities without any showing of actual interference with legitimate
+government operations.
+Under controlling Supreme Court precedent, this prosecution cannot survive
+constitutional scrutiny and must be dismissed.
+II. BACKGROUND1
+A. Mr. Reardon’s constitutionally protected journalistic activities
+Matthew Reardon operates We the People News, an investigative journalism
+platform that includes a website, blog, and YouTube channel with over 3,000
+subscribers documenting events of public concern. On August 25, 20252, Mr. Reardon
+1 These facts are presented as they are known at the time of this filing and are
+based upon the discovery provided at this point. The undersigned believes there to be
+significant outstanding discovery. On September 8, 2025, Mr. Reardon submitted a
+request for specific discovery to the government seeking audio, video, and written
+evidence in this case. Mr. Reardon reserves the right to supplement this motion with
+additional facts and evidence produced in response to his specific discovery request.
+2 Mr. Reardon had previously visited the courthouse before this date and
+interacted with the court security officers and U.S. marshals concerning his right to
+protest and record. During a previous visit, Mr. Reardon attempted to file a complaint
+against the U.S. marshals, but was told by Marshall Farrish to contact Washington
+D.C. to complain. The instant charge, however, relates only to the August 25 incident.
+7
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 8 of 29 PageID #: 33
+engaged in core First Amendment activities on the front steps of the John M. Shaw
+federal courthouse: peacefully protesting government conduct, expressing grievances
+against U.S. marshals, and documenting these activities through livestreaming and
+recording.
+Mr. Reardon’s protest addressed his documented concerns about government
+overreach. Through a FOIA request, he had learned that U.S. marshals placed a
+BOLO (Be On the Lookout) alert on him despite his engagement only in protected
+journalistic activities. His posters 3 and spoken commentary criticized this
+surveillance and expressed his grievances against the U.S. Marshals Service and
+Department of Justice for what he perceived as unlawful targeting of his journalism.
+He was livestreaming4 the protest using his iPhone and had a separate stationary
+dedicated camera attached to a tripod to capture higher quality video of the protest.
+3 Mr. Reardon’s posters said:
+Poster 1: HAPPY NATIONAL FUCK THE U.S. MARSHALS DAY!
+#operationsilencethepress
+Poster 2 – Front: See the Scandal Unfold at www.wtpnews.org AND ON
+YOUTUBE at WE THE PEOPLE NEWS
+Poster 2 – Back: Journalism & Cameras ARE NOT CRIMINAL They DO
+NOT Justify BOLO’s & Surveillance #operationsilencethepress
+Poster 3: FUCK THE Police BACK THE BLUE Until It Happens to You!
+4 The livestream is available on the We The People News Youtube Channel at
+https://www.youtube.com/live/QAv70Drwt3c?si=-KfZzJTdUqXhjeri
+8
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 9 of 29 PageID #: 34
+B. The marshal’s invitation and Mr. Reardon’s peaceful compliance
+Mr. Reardon initially conducted his protest outside the courthouse barricades
+on the sidewalk in front of the courthouse steps:
+Defense Exhibit 1
+After a few minutes, U.S. Marshal Hayden Nugent summoned Mr. Reardon
+inside the courthouse, and Mr. Reardon accepted this invitation, informing his
+livestream audience of the marshal’s request. After passing through the barricade,
+Mr. Reardon placed his stationary camera near one of the southernmost doors and
+attempted to enter, but found the door locked.5 He located an unlocked entrance
+5 In the undersigned’s experience, the southernmost doors to this courthouse
+are always locked and the public is always required to enter and exit through one of
+the northernmost doors.
+9
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 10 of 29 PageID #:
+35
+toward the northern end of the building and entered the courthouse foyer.6
+Inside, Marshal Nugent immediately threatened Mr. Reardon with arrest for
+recording inside the courthouse, despite having just invited him into the building.
+Mr. Reardon expressed his frustration at being “baited” inside only to face arrest
+threats. He directed expletives at Marshal Nugent to express his displeasure with
+Marshal Nugent’s actions, but he never threatened any physical harm and
+immediately receded from inside the building. His reaction demonstrated his
+understanding of his rights and his willingness to avoid confrontation while
+expressing his displeasure with the contradictory treatment.
+After exiting the courthouse, Mr. Reardon continued his peaceful protest
+activities, interacting cordially with all members of the public and never attempting
+to re-enter the building. At one point, Mr. Reardon holds one of his posters near the
+window so that the marshals inside can read the poster and holds his phone with the
+livestream up to the window.7 Instead of continuing to stand and hold his cellphone
+with the livestream near the window, Mr. Reardon moves his dedicated camera on
+the tripod and places it near one of the southernmost locked doors to the courthouse
+filming in the direction of the window. These two moments are captured in the
+6 At this moment, a member of the public is also entering the courthouse and
+Mr. Reardon steps out of her way politely and says, “Hello, after you,” and allows her
+to enter the courthouse without issue.
+7 It should be noted that at this time another member of the public walks into
+the courthouse and goes through security without incident and without Mr. Reardon
+obstructing their access to the building.
+10
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 11 of 29 PageID #:
+36
+following photographs provided in discovery:
+Defense Exhibit 2 Defense Exhibit 3
+Mr. Reardon then goes back out to the courthouse steps, resumes his protest
+and interacts with his livestream followers. At one point, an exterior court security
+officer approaches and records Mr. Reardon on what appears to be that officer’s
+cellphone. That same officer later tells Mr. Reardon that he is trespassing by standing
+on the front steps of the courthouse.
+C. Mr. Reardon is arrested despite complying with the marshal’s demands
+More than twenty minutes after placing his camera near the locked door,
+Marshal Nugent emerged and demanded removal of the camera and threatened to
+seize the camera. When Mr. Reardon pointed out that the door was locked and
+11
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 12 of 29 PageID #:
+37
+therefore not obstructed, Marshal Nugent ordered him to move the camera beyond
+the barricade. The inside of the door in question contains a sign that directs visitors
+of the courthouse not to exit use that door, that it is an emergency exit only:
+Defense Exhibit 3
+Mr. Reardon immediately complied, grabbing his camera and tripod and
+backing away from the building. After moving the equipment to a position where
+neither he nor the camera could obstruct the door, he stated “I'm fine right here.” At
+this point, despite Mr. Reardon’s full compliance with the marshal’s demands,
+Marshal Nugent forcibly seized the camera and tripod, causing Mr. Reardon to fall
+and drop his phone. Marshal Nugent then arrested Mr. Reardon and seized both his
+camera and cellular telephone, which contained materials related to his journalistic
+work.
+12
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 13 of 29 PageID #:
+38
+On August 26, 2025, Mr. Reardon was charged with a petty offense via a Bill
+of Information containing one count of loitering, exhibiting disorderly conduct or
+exhibiting other conduct on federal property in violation of 41 C.F.R. § 102-74.390.
+Doc. No. 3. The Bill of Information alleges that Mr. Reardon did knowingly and
+intentionally create loud or unusual noise or a nuisance and/or unreasonably
+obstructed the usual use of entrances, foyers, lobbies, corridors, in or on Federal
+property. Id.
+III. LEGAL AUTHORITIES
+Free speech and the right to assemble and petition the government are an
+essential part of both the Louisiana and United States Constitutions. The First
+Amendment provides:
+Congress shall make no law respecting an establishment of religion, or
+prohibiting the free exercise thereof; or abridging the freedom of speech,
+or of the press; or the right of the people peaceably to assemble, and to
+petition the Government for a redress of grievances.
+U.S. CONST. amend. I.
+The Louisiana Constitution provides:
+Section 7. No law shall curtail or restrain the freedom of speech or of the
+press. Every person may speak, write, and publish his sentiments on
+any subject, but is responsible for abuse of that freedom.
+Section 9. No law shall impair the right of any person to assemble
+peaceably or to petition government for a redress of grievances.
+LA. CONST. art. I, §§ 7, 9.
+Title 41 of the Code of Federal Regulations Section 102-74.390 is titled “What
+13
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 14 of 29 PageID #:
+39
+is the policy concerning disturbances?” and provides in relevant part:
+All persons entering in or on Federal property are prohibited from
+loitering, exhibiting disorderly conduct or exhibiting other conduct on
+property that—
+(a) Creates loud or unusual noise or a nuisance;
+(b) Unreasonably obstructs the usual use of entrances, foyers,
+lobbies, corridors, offices, elevators, stairways, or parking lots;
+41 C.F.R. § 102-74.390.
+IV. ARGUMENT
+A. This prosecution violates clearly established Supreme Court precedent
+protecting political protest in traditional public forums
+1. Edwards v. South Carolina and United States v. Hylton mandate
+dismissal of the charges
+Mr. Reardon’s prosecution is constitutionally impermissible under binding
+Supreme Court precedent. In Edwards v. South Carolina, 372 U.S. 229 (1963),
+African American protesters marched to the South Carolina State House grounds “to
+submit a protest to the citizens of South Carolina, along with the Legislative Bodies
+of South Carolina, our feelings and our dissatisfaction with the present condition of
+discriminatory actions.” Id. at 230. When police ordered the protesters to disperse,
+they refused and engaged in “boisterous, loud, and flamboyant conduct.” The
+protesters were arrested and later convicted of breach of peace. Id. at 233-34.
+The Supreme Court reversed the protesters’ convictions as a violation of the
+First Amendment (incorporated against South Carolina via the Fourteenth
+Amendment) even though the protestors reacted to law enforcement by becoming loud
+14
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 15 of 29 PageID #:
+40
+and unruly. Id. at 237-38. The court noted that “not until they were told by police
+officials that they must disperse on pain of arrest did they do more.” Id. at 236. The
+Court found constitutional protection even when the protesters engaged in additional
+expressive conduct after being ordered to leave.
+Mr. Reardon’s conduct presents an even stronger case for constitutional
+protection. Like the Edwards protesters, Mr. Reardon was protesting in a traditional
+public forum to express his “feelings” and his “dissatisfaction” with what he perceived
+as “discriminatory actions” by the U.S. marshals: specifically, the BOLO alert placed
+on him despite engaging only in protected journalistic activities. Critically, Mr.
+Reardon maintained peaceful conduct even when Marshal Nugent created the precise
+confrontational dynamic the Edwards Court recognized as protected. When invited
+inside only to face immediate arrest threats, Mr. Reardon expressed frustration
+through profanity but immediately receded from the building without physical
+confrontation. When later ordered to move his camera, he immediately complied,
+demonstrating restraint that exceeds even the Edwards protesters.
+The Fifth Circuit’s decision in United States v. Hylton, 710 F.2d 1106 (5th Cir.
+1983), likewise mandates dismissal of this case. In Hylton, the defendant filed
+criminal complaints against IRS agents who had unlawfully entered her property,
+and the government subsequently indicted her for obstruction of justice based on her
+complaints against the agents. The Fifth Circuit affirmed the district court’s
+acquittal, holding that criminal sanctions could not be imposed for the defendant’s
+15
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 16 of 29 PageID #:
+41
+“legitimate and protected exercise of her right to petition for the redress of
+grievances.” Id. at 1111-12.
+The court in Hylton emphasized that the defendant “genuinely attempted to
+protect her rights through the orderly pursuit of justice” and concluded that “we
+likewise cannot condone the imposition of criminal sanction for Hylton’s exercise of
+her constitutional right.” Id. at 1112. Mr. Reardon’s situation presents an even
+stronger case for constitutional protection. His FOIA request revealing the BOLO
+alert and his attempts to file an official complaint in person against the U.S. marshals
+at the Lafayette courthouse8 demonstrates his “orderly pursuit of justice” through
+official channels. His peaceful protest and journalistic documentation represent the
+traditional means of seeking redress of grievances in the public forum. The
+government’s prosecution of this protected activity constitutes precisely the type of
+indirect restraint on fundamental constitutional rights that the First Amendment
+prohibits.
+2. Courthouse steps constitute a traditional public forum entitled to
+the highest level of First Amendment protection
+Mr. Reardon’s activities occurred on the courthouse steps, which constitute a
+traditional public forum entitled to the highest level of First Amendment protection.
+In United States v. Grace, 461 U.S. 171, 180 (1983), the Supreme Court established
+that “the public sidewalks forming the perimeter of the Supreme Court grounds, in
+8 Mr. Reardon was turned away by Marshall Farrish who told him to complain
+to Washington D.C.
+16
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 17 of 29 PageID #:
+42
+our view, are public forums and should be treated as such for First Amendment
+purposes.” The Court emphasized that “traditional public forum property occupies a
+special position in terms of First Amendment protection and will not lose its
+historically recognized character for the reason that it abuts government property
+that has been dedicated to a use other than as a forum for public expression.” Id.
+at 179.
+The Supreme Court has long recognized that the right to peaceably assemble
+“existed long before the adoption of the Constitution of the United States” and
+“derives its source…from those laws whose authority is acknowledged by civilized
+man throughout the world.” United States v. Cruikshank, 92 U.S. 542, 551 (1875).
+The Court explained that, “[t]he right of the people peaceably to assemble for the
+purpose of petitioning Congress for a redress of grievances, or for any thing else
+connected with the powers or the duties of the national government, is an attribute
+of national citizenship, and, as such, under the protection of, and guaranteed by, the
+United States.” Id. at 552 (emphasis added).
+3. Mr. Reardon’s conduct involves three forms of constitutionally
+protected expression
+Mr. Reardon’s conduct involves three forms of constitutionally protected
+expression requiring the Bill of Information to be dismissed, even if his conduct would
+otherwise violate 41 C.F.R. § 102-74.390. See Brown v. State of La., 383 U.S. 131, 142
+(1966) (reversing the breach of peace convictions of African American protesters
+holding that even if the protesters’ conduct were within the scope of the breach of
+17
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 18 of 29 PageID #:
+43
+peace statute, “we would be required to assess the constitutional impact of its
+application, and we would have to hold that the statute cannot constitutionally be
+applied to punish petitioners' actions in the circumstances of this case.”).
+First, Mr. Reardon’s protest activities constitute core political speech
+criticizing government officials and their conduct. His posters documented his
+grievances against the U.S. Marshals Service and Department of Justice for what he
+perceived as unlawful surveillance through the BOLO alert placed on him despite
+engaging only in protected journalistic activities. Such criticism is “at the very center
+of the constitutionally protected area of free expression.” New York Times Co. v.
+Sullivan, 376 U.S. 254, 292 (1964).
+Second, his journalistic documentation through recording and livestreaming
+on We the People News represents protected press activity. The Supreme Court has
+recognized that newsgathering is entitled to First Amendment protection. Branzburg
+v. Hayes, 408 U.S. 665, 681 (1972) (acknowledging that newsgathering activities
+merit First Amendment protection and that “without some protection for seeking out
+the news, freedom of the press could be eviscerated.”); Richmond Newspapers, Inc. v.
+Virginia, 448 U.S. 555, 576 (1980) (recognizing the First Amendment protects the
+general right of the public to gather information and to speak and publish that
+information).
+Recording government officials constitutes core First Amendment activity.
+Glik v. Cunniffe, 655 F.3d 78, 82 (1st Cir. 2011) (“Gathering information about
+18
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 19 of 29 PageID #:
+44
+government officials in a form that can readily be disseminated to others serves a
+cardinal First Amendment interest in protecting and promoting the free discussion
+of governmental affairs.”). The First Circuit specifically recognized that modern
+technology has eliminated meaningful distinctions between traditional journalists
+and citizens documenting events of public concern, noting that “changes in technology
+and society have made the lines between private citizen and journalist exceedingly
+difficult to draw” given that “many of our images of current events come from
+bystanders with a ready cell phone or digital camera rather than a traditional film
+crew.” Id. at 84. Mr. Reardon’s use of both handheld and stationary cameras to
+document his protest for his 3,000-subscriber YouTube channel demonstrates
+precisely this intersection of modern journalism and traditional protest activities that
+the First Amendment protects.
+Third, his expression of grievances against government officials and request
+for accountability constitutes petitioning government for redress, which is “among
+the most precious of the liberties safeguarded by the Bill of Rights.” United Mine
+Workers of Am., Dist. 12 v. Illinois State Bar Ass’n, 389 U.S. 217, 222 (1967). Mr.
+Reardon’s protest specifically addressed his documented concerns about government
+overreach, including the BOLO alert he discovered through his FOIA request.
+4. Offensive language does not remove First Amendment protection
+That the content of Mr. Reardon’s speech, both his spoken words and the
+language on his posters, might be viewed by some as containing coarse or offensive
+19
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 20 of 29 PageID #:
+45
+language does not remove its protection under the First Amendment. “Speech is often
+provocative and challenging.” Edwards, 372 U.S. at 237. Indeed, speech “may indeed
+best serve its high purpose when it induces a condition of unrest, creates
+dissatisfaction with conditions as they are, or even stirs people to anger” because the
+speech “may strike at prejudices and preconceptions and have profound unsettling
+effects as it presses for acceptance of an idea.” Id.; see also United States v. O’Dwyer,
+No. CRIM.10-034, 2010 WL 2606657 (E.D. La. June 24, 2010), aff’d, 443 F. App’x 18
+(5th Cir. 2011) (distinguishing explicit threats from protected hyperbolic speech and
+holding that “phrases taken out of context could suggest a threat, but reading the
+sentences as a whole, no threat as a matter of law was made.”).
+B. The prosecution constitutes content-based discrimination requiring
+strict scrutiny
+Section 102-74.390 fails strict scrutiny when applied to suppress criticism of
+government officials. The government’s selective enforcement demonstrates
+impermissible content-based targeting. Mr. Reardon was subject to BOLO
+surveillance specifically because of his journalism critical of federal law enforcement.
+When he protested this surveillance, he was arrested for conduct that would be
+ignored if directed at any target other than federal officers.
+The allegedly offensive nature of Mr. Reardon’s language does not remove
+constitutional protection. In Brown v. Louisiana, the Court held that even when
+protesters’ conduct might fall within the technical scope of a statute, courts must
+“assess the constitutional impact of its application” and cannot allow prosecution to
+20
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 21 of 29 PageID #:
+46
+punish protected expression. 383 U.S. 131, 142 (1966). The government cannot
+transform protected political speech into criminal conduct by characterizing criticism
+of federal officers as “disorderly conduct.”
+Content-based restrictions in traditional public forums are subject to strict
+scrutiny and can be sustained only if they are “necessary to serve a compelling state
+interest and that it is narrowly drawn to achieve that end.” Perry Education Ass’n v.
+Perry Local Educators’ Ass’n, 460 U.S. 37, 45 (1983). The government cannot meet
+this demanding standard when prosecuting peaceful journalistic documentation on
+courthouse steps.
+C. The “loud or unusual noise or a nuisance” provision violates the First
+Amendment as applied to Mr. Reardon’s protected speech
+The Fifth Circuit has never addressed the constitutionality of § 102-74.390.
+And no circuit has addressed the application of § 102-74.390 to peaceful journalistic
+documentation and political protest on courthouse steps, which constitute a
+traditional public forum entitled to the highest level of First Amendment protection.9
+9 The First Circuit in United States v. Strong, 724 F.3d 51, 57-58 (1st Cir.
+2013), upheld the regulation against vagueness and overbreadth challenges as
+applied to a case involving willful contamination of a courthouse restroom. The Ninth
+Circuit has twice rejected constitutional challenges: in United States v.
+Zagorovskaya, 628 Fed. Appx. 503, 504-05 (9th Cir. 2015), involving threats against
+a security officer; and in United States v. Lawrence, 755 Fed. Appx. 703, 704-05 (9th
+Cir. 2019), the court applied constitutional avoidance principles to avoid vagueness
+concerns by interpreting subsections (a)-(d) as defining “disorderly conduct.” The
+Tenth Circuit in United States v. Baldwin, 745 F.3d 1027, 1031-32 (10th Cir. 2014),
+found the regulation constitutional as applied to a defendant who drove away during
+a traffic stop on federal property. The Second Circuit in United States v. Wasylyshyn,
+979 F.3d 165, 170-71, 176 (2d Cir. 2020), upheld the regulation as applied to a
+21
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 22 of 29 PageID #:
+47
+1. Mr. Reardon’s vocal expression constitutes protected political
+speech
+The government cannot prosecute Mr. Reardon under 41 C.F.R. § 102-
+74.390(a) for creating “loud or unusual noise or a nuisance” when his vocal
+expressions consisted entirely of protected political speech criticizing government
+officials. Mr. Reardon’s spoken commentary during his protest addressed his
+grievances against the U.S. Marshals Service, documented through his FOIA-
+obtained evidence of the BOLO alert placed on him for engaging in journalistic
+activities.
+The government cannot regulate protected political speech based on its volume
+or allegedly offensive content when that speech occurs in a traditional public forum.
+In Edwards, the Court protected protesters who engaged in “boisterous, loud, and
+flamboyant conduct” while expressing political grievances. 372 U.S. at 237-38.
+Similarly, in Terminiello v. Chicago, 337 U.S. 1, 4 (1949), the Court reversed a
+conviction for breach of peace, emphasizing that speech “may indeed best serve its
+high purpose when it induces a condition of unrest, creates dissatisfaction with
+conditions as they are, or even stirs people to anger.” Mr. Reardon’s actions in this case
+are thus constitutionally “protected against censorship or punishment, unless shown
+likely to produce a clear and present danger of a serious substantive evil that rises
+protester who engaged in physical confrontation with a security officer inside a
+courthouse lobby. The Fourth Circuit in United States v. Moriello, 980 F.3d 924, 932
+(4th Cir. 2020), found the regulation constitutional as applied to disruptive conduct
+by an attorney inside an immigration courtroom during active proceedings.
+22
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 23 of 29 PageID #:
+48
+far above public inconvenience, annoyance, or unrest.” Id.; See also Schenck v. Pro-
+Choice Network Of W. New York, 519 U.S. 357, 377 (1997) (“commenting on matters
+of public concern are classic forms of speech that lie at the heart of the First
+Amendment, and speech in public areas is at its most protected on public sidewalks,
+a prototypical example of a traditional public forum”).
+2. Unconstitutional content-based discrimination in enforcement
+The government’s application of the noise provision demonstrates
+impermissible content-based discrimination. Mr. Reardon’s prosecution stems not
+from any genuinely disruptive volume level—he was outside the courthouse when
+arrested—but from the content of his criticism of government officials. The BOLO
+alert placed on Mr. Reardon despite his engagement only in protected journalistic
+activities demonstrates content-based targeting. His protest specifically addressed
+this surveillance, expressing grievances about what he perceived as retaliation for
+his journalism.
+The Supreme Court has recognized that selective enforcement of even a
+content-neutral law may violate the First Amendment. See, e.g., Wayte v. United
+States, 470 U.S. 598, 610 (1985); Thomas v. Chicago Park Dist., 534 U.S. 316, 325
+(2002); see also Menotti v. City of Seattle, 409 F.3d 1113, 1146-47 (9th Cir. 2005)
+(Even if a law is facially “content-neutral,” the government still impermissibly
+regulates based on content if it selectively enforces its laws.). Here, the undersigned
+has no indication that the government has ever prosecuted other individuals under
+23
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 24 of 29 PageID #:
+49
+Section 102-74.390(a) for being loud or boisterous outside of the Lafayette courthouse,
+despite yearly events such as Mardis Gras parades and Festival International de
+Louisiane occurring at the same location Mr. Reardon was protesting. Mr. Reardon’s
+arrest under Section 102-74.390(a) is impermissible content-based enforcement of the
+regulation.
+3. Unconstitutional vagueness of the noise provision
+The “loud or unusual noise or a nuisance” standard provides no meaningful
+guidance about what conduct is prohibited. § 102-74.390(a). A person of ordinary
+intelligence cannot determine what volume level or type of expression crosses the line
+from protected speech to criminal conduct. The regulation’s failure to provide
+objective standards for enforcement creates the arbitrary application that the
+vagueness doctrine prevents. Grayned v. City of Rockford, 408 U.S. 104, 108-09
+(1972).
+Here the vagueness of “loud or unusual noise or a nuisance,” § 102-74.390(a),
+“may authorize and even encourage arbitrary and discriminatory enforcement,” City
+of Chicago v. Morales, 527 U.S. 41, 56 (1999), by failing to establish minimal
+guidelines prevent “a standardless sweep [that] allows policemen, prosecutors, and
+juries to pursue their personal predilections.” Kolender v. Lawson, 461 U.S. 352, 358
+(1983).
+This vagueness is compounded by the complete absence of any evidence that
+Mr. Reardon’s vocal expressions actually disrupted courthouse operations or
+24
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 25 of 29 PageID #:
+50
+interfered with any legitimate governmental interest. The record shows that
+members of the public continued to enter and exit the courthouse during his protest
+without incident, demonstrating that any alleged “nuisance” was merely the
+government’s disagreement with his message rather than any actual interference
+with courthouse functions.
+D. The “unreasonably obstructs the usual use of entrances” provision is
+unconstitutional as applied to Mr. Reardon’s camera placement
+1. No actual obstruction occurred
+The government cannot sustain a prosecution under 41 C.F.R. § 102-74.390(b)
+for “unreasonably obstruct[ing] the usual use of entrances” when no obstruction
+occurred. Mr. Reardon placed his camera near a door that was locked and always
+remains locked to the public. As he noted to Marshal Nugent, no actual obstruction
+occurred or could occur when the door is inaccessible to the public. The record
+demonstrates that during Mr. Reardon’s protest, other members of the public entered
+and exited the courthouse through the operational northern entrance without any
+interference from his activities.
+25
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 26 of 29 PageID #:
+51
+Defense Exhibit 3
+The regulation’s text requires that conduct “unreasonably obstruct” the “usual
+use” of entrances. When a door is permanently locked to public access, there is no
+“usual use” to obstruct. An emergency exit is, by its very nature, not in “usual use.”
+And Mr. Reardon’s camera was certainly not unreasonably obstructing the
+emergency exit as it could easily be stepped around or pushed aside in a true
+emergency. The government’s interpretation would criminalize any expressive
+activity near any courthouse entrance, regardless of whether that entrance is actually
+accessible or whether any person is actually impeded.
+2. Camera placement as protected newsgathering activity
+Mr. Reardon’s camera placement constitutes protected newsgathering activity
+entitled to First Amendment protection. Branzburg, 408 U.S. at 681; Richmond
+26
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 27 of 29 PageID #:
+52
+Newspapers, Inc., 448 U.S. at 576. The positioning of recording equipment to
+document newsworthy events represents core journalistic activity that cannot be
+criminalized absent compelling justification narrowly tailored to achieve legitimate
+governmental ends. Perry Educ. Ass’n, 460 U.S. at 45 (1983). The government’s
+demand for camera removal, despite no actual obstruction occurring, demonstrates
+that the restriction aimed at suppressing documentation of political speech rather
+than addressing any legitimate regulatory concern.
+3. Overbreadth of the obstruction provision as applied
+When applied to Mr. Reardon’s peaceful camera placement near a locked door,
+the regulation sweeps too broadly, capturing protected journalistic activity alongside
+any legitimately regulable conduct. The overbreadth doctrine is designed “to prevent
+the chilling of protected expression.” Massachusetts v. Oakes, 491 U.S. 576, 584
+(1989). A regulation that covers substantially more speech than the First Amendment
+allows is overbroad and thus invalid. Bd. of Airport Comm’rs of City of Los Angeles
+v. Jews for Jesus, Inc., 482 U.S. 569, 577 (1987). The regulation’s prohibition on
+conduct that “unreasonably obstructs the usual use of entrances” includes within its
+scope activities protected by the First Amendment when applied to newsgathering
+equipment placed in locations where no actual obstruction occurs. The regulation is
+overbroad as applied to Mr. Reardon’s actions in this case.
+4. Compliance demonstrates absence of intent to obstruct
+Mr. Reardon’s immediate compliance with Marshal Nugent’s demands
+27
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 28 of 29 PageID #:
+53
+demonstrates the absence of any intent to obstruct courthouse operations. When
+Marshal Nugent emerged and demanded removal of the camera, Mr. Reardon
+grabbed his camera and tripod and backed away from the building. This full
+compliance occurred before any arrest and demonstrates that Mr. Reardon sought to
+engage in protected expression while respecting legitimate regulatory concerns.
+The government’s prosecution despite this immediate compliance reveals that
+the charges target the content of Mr. Reardon’s expression rather than any genuine
+concern about obstruction. Under these circumstances, the regulation as applied
+violates both the overbreadth and vagueness doctrines by criminalizing protected
+expressive conduct without providing adequate notice of what activities are
+prohibited.
+V. CONCLUSION
+Mr. Reardon’s conduct falls squarely within the Supreme Court’s protection for
+political protest in traditional public forums. His immediate compliance with law
+enforcement directives, peaceful interaction with the public, and legitimate
+journalistic purpose distinguish this case from any legitimate application of Section
+102-74.390. The government’s prosecution violates clearly established First
+Amendment precedent and cannot survive constitutional scrutiny.
+The regulation’s application to Mr. Reardon’s conduct fails every constitutional
+test: it restricts protected expression in a traditional public forum, discriminates
+based on the content of his criticism, lacks narrow tailoring to serve legitimate
+28
+Case 6:25-cr-00227-CBW Document 16-1 Filed 09/16/25 Page 29 of 29 PageID #:
+54
+governmental interests, and provides inadequate notice of prohibited conduct.
+WHEREFORE, defendant Matthew Reardon respectfully requests that this
+Court grant his Motion to Dismiss the Bill of Information and dismiss all charges
+against him.
+RESPECTFULLY SUBMITTED,
+REBECCA L. HUDSMITH
+Federal Public Defender
+BY: s/ Dustin C. Talbot
+DUSTIN C. TALBOT
+Appellate Chief
+Federal Public Defender’s Office
+Middle and Western Districts of Louisiana
+102 Versailles Boulevard, Suite 816
+Lafayette, Louisiana 70501
+Telephone: (337) 262-6336
+CERTIFICATE OF SERVICE
+The undersigned hereby certifies that on September 16, 2025, a copy of the
+foregoing was filed electronically with the Clerk of Court using the CM/ECF system.
+Notice of the filing will be sent by operation of the Court’s electronic filing system to
+all counsel of record.
+s/ Dustin C. Talbot
+29
+Case 6:25-cr-00227-CBW Document 16-2 Filed 09/16/25 Page 1 of 1 PageID #: 55
+1
+Case 6:25-cr-00227-CBW Document 16-3 Filed 09/16/25 Page 1 of 1 PageID #: 56
+2
+Case 6:25-cr-00227-CBW Document 16-4 Filed 09/16/25 Page 1 of 1 PageID #: 57
+3
+Case 6:25-cr-00227-CBW Document 16-5 Filed 09/16/25 Page 1 of 1 PageID #: 58
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF LOUISIANA
+LAFAYETTE DIVISION
+UNITED STATES OF AMERICA CASE NO: 6:25-MJ-00153
+6:25-CR-00227-CBW-1
+VERSUS
+MAGISTRATE JUDGE WHITEHURST
+MATTHEW REARDON
+ORDER
+CONSIDERING the Defendant’s Motion to Dismiss the Bill of Information, the
+motion is hereby GRANTED and the Bill of Information is dismissed.
+________________________ ____________________
+Hon. Carol B. Whitehurst Date

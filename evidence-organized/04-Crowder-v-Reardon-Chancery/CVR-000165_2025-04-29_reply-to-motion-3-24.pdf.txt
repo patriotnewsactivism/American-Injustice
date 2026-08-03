@@ -1,0 +1,148 @@
+Case: 3:22-cv-00050-SA-JMV Doc #: 79 Filed: 03/24/23 1 of 6 PageID #: 808
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF MISSISSIPPI
+OXFORD DIVISION
+MATTHEW OLIVER REARDON PLAINTIFF
+VS. CIVIL ACTION NO.: 3:22-CV-00050-SA-JMV
+STATE OF MISSISSIPPI, ET AL. DEFENDANTS
+COUNTY DEFENDANTS’ REPLY BRIEF IN SUPPORT OF
+MOTION FOR JUDGMENT ON THE PLEADINGS
+Defendants Lafayette County, Mississippi (“the County”); Lafayette County Sheriff’s
+Department (“the Sheriff’s Department”)1; and Joseph B. East, individually and in his official
+capacity (“Sheriff East”) (collectively, “County Defendants”) submit this Reply Brief in Support
+of Motion for Judgment on the Pleadings pursuant to Federal Rule of Civil Procedure 12(c).
+I. ARGUMENT
+A. Plaintiff’s Response is Untimely.
+As a threshold matter, Plaintiff’s response in opposition is untimely. County Defendants
+filed their Motion for Judgment on the Pleadings on January 11, 2023 (Doc. 46), and Plaintiff’s
+response was due to be filed by January 25, 2023 pursuant to the local rules. L.U.C.R. 7(b)(4)
+(“Counsel for respondent must, within fourteen days after service of movant’s motion and
+memorandum brief, file a response and memorandum brief in support of the response.”). Plaintiff
+filed his response in opposition on March 17, 2023, nearly two months after the deadline. Doc.
+1 Although the Amended Complaint names both Lafayette County, Mississippi and Lafayette
+County Sheriff’s Department” as Defendants, it is well-established that a sheriff’s department simply is a
+department within a county and cannot be sued as a separate entity. See Brown v. Thompson, 927 So. 2d
+733 (Miss. 2006) (holding “the [Bolivar County] Sheriff’s Department does not enjoy a separate legal
+existence, apart from Bolivar County…”). Thus, Lafayette County, Mississippi and Lafayette County
+Sheriff’s Department are the same entity for purposes of this lawsuit, and any reference to “the County”
+herein shall include both Lafayette County, Mississippi and Lafayette County Sheriff’s Department.
+Case: 3:22-cv-00050-SA-JMV Doc #: 79 Filed: 03/24/23 2 of 6 PageID #: 809
+70. To ensure that Plaintiff received County Defendants’ motion, County Defendants mailed the
+motion and memorandum brief to Plaintiff’s last known home address (117 CR 401, Oxford,
+Mississippi 38655) and to the Lafayette County Detention Center on January 26, 2023. Doc. 54.
+County Defendants also e-mailed the motion and memorandum brief to the e-mail addresses then
+reflected on the electronic docket and in the signature block of all the pleadings Plaintiff had filed
+up to January 26, 2023.2 The Court should not consider Plaintiff’s untimely response. See, e.g.,
+Pierce v. Warden of Tarrant Cnty., No. 92-1693, 1993 WL 309935, at *2 (5th Cir. May 6, 1993)
+(“The district court did not abuse its discretion by failing to consider [pro se prisoner/plaintiff’s]
+untimely response” to defendant’s motion for summary judgment).
+B. Plaintiff’s Constitutional Claims Fail on their Face.
+Plaintiff’s oppositional response misses the mark in pleading a plausible basis for his
+constitutional claims. With respect to his constitutional claims against the County, Plaintiff’s
+response, at best, merely recites the elements of his constitutional claims against the County;
+however, Plaintiff’s response does not allege that any alleged deprivation of his First, Fourth, Fifth,
+and Fourteenth Amendment rights resulted from an official policy, custom, or practice of the
+County. See Monell v. Dept. of Soc. Servs., 436 U.S. 658, 690-91 (1978). Both the Amended
+Complaint and Plaintiff’s oppositional response are entirely silent as to any official policy,
+practice, or custom of the County or the Sheriff’s Department. This glaring deficiency is a
+dispositive ground for dismissal of Plaintiff’s constitutional claims against the County. Id.
+2 Plaintiff filed a Notice of Change of Address on February 27, 2023. Doc. 61. Even though County
+Defendants employed additional efforts to serve Plaintiff with their motion for judgment on the pleadings,
+including mailing the motion and memorandum brief to Plaintiff’s last known home address and Lafayette
+County Detention Center and e-mailing the motion and memorandum brief to the e-mail addresses Plaintiff
+provided to the Court, prior to Plaintiff’s Notice of Change of Address, Plaintiff was registered to receive
+electronic notice of all filings in this matter; therefore, County Defendants must presume that Plaintiff, at a
+a minimum, had constructive notice of County Defendants’ motion for judgment on the pleadings.
+2
+Case: 3:22-cv-00050-SA-JMV Doc #: 79 Filed: 03/24/23 3 of 6 PageID #: 810
+Moreover, as with the Amended Complaint, Plaintiff’s constitutional claims against Sheriff
+East in his individual capacity fail because Plaintiff has not plausibly pled that Sheriff East violated
+“clearly established law” under the First, Fourth, Fifth, or Fifteenth Amendment as necessary to
+overcome qualified immunity. See Carr v. Hoover, No. 4:16-cv-88-MPM-DAS, 2018 WL
+3636563 (N.D. Miss. July 31, 2018), affirmed by 837 Fed. Appx. 279 (5th Cir. 2020). Specifically,
+Plaintiff has not offered any case that is both “authoritative and specific” in support of his argument
+that Sheriff East violated “clearly established law.” Id. at *8 (the determination of whether an
+official’s conduct violated clearly established law “requires the court to inquire whether the
+identified case is both ‘authoritative’ and ‘specific.’”). Therefore, Sheriff East is entitled to
+qualified immunity, and Plaintiff’s federal claims against Sheriff East should be dismissed
+accordingly.
+C. Plaintiff’s State Law Claims Fail on Their Face.
+As explained in County Defendants’ opening brief, Plaintiff’s state law claims for false
+imprisonment and negligent infliction of emotional distress fail as a matter of law because Plaintiff
+failed to provide pre-suit notice of those claims as required by Mississippi Code § 11-46-11. Miss.
+Code Ann. § 11-46-11 (requiring plaintiffs asserting claims against a governmental entity to “file
+a notice of claim with the chief executive officer of the governmental entity” at least 90 days before
+filing suit.”); Univ. of Miss. Med. Ctr. v. Easterling, 928 So. 2d 815, 818 (Miss. 2006). Plaintiff
+contends that he provided the requisite pre-suit notice by serving an “Affidavit of Truth.” Doc.
+70, at 2-3. Notably, the “Affidavit of Truth” makes no reference to the Mississippi Tort Claims
+Act, nor does it refer to any of the specific state law claims Plaintiffs asserted in the Amended
+Complaint (or the allegations giving rise thereto). Additionally, the Amended Complaint makes
+much of the notion that Sheriff East did not respond to the “Affidavit of Truth,” further evidencing
+3
+Case: 3:22-cv-00050-SA-JMV Doc #: 79 Filed: 03/24/23 4 of 6 PageID #: 811
+that Plaintiff did not intend for the “Affidavit of Truth” to serve as the notice required under
+Mississippi Code § 11-46-11. Doc. 30, at 28. Most importantly, Plaintiff does not cite any
+authority supporting his argument that the “Affidavit of Truth” satisfies the pre-suit notice
+requirements of the MTCA.
+Even if the Court liberally construes the “Affidavit of Truth” as sufficient pre-suit notice
+under the MTCA, Plaintiff’s state law claims still fail. With respect to Plaintiff’s claims for false
+imprisonment and negligent infliction of emotional distress, those claims are substantively barred
+by the MTCA. See Bell v. Miss. Dept. of Human Servs., 126 So. 3d 999 (Miss. Ct. App. 2013)
+(applying MTCA to false imprisonment claim); Sloan v. Shannon, 2009 WL 1162639, at *11 (N.D.
+Miss. Apr. 29, 2009) (applying MTCA to claim for negligent infliction of emotional distress). As
+for Plaintiff’s remaining state law claims for defamation, tortious interference with business
+relations, and intentional infliction of emotional distress, Plaintiff’s oppositional response contains
+no plausible allegation necessary to sufficiently plead any of those claims. The Court should
+likewise dismiss each of Plaintiff’s state law claims.
+II. CONCLUSION
+For each of the foregoing reasons, and for the reasons asserted in County Defendants’
+motion for judgment on the pleadings (Doc. 46), County Defendants respectfully request that the
+Court dismiss Plaintiff’s Amended Complaint with prejudice.
+Dated: March 24, 2023.
+4
+Case: 3:22-cv-00050-SA-JMV Doc #: 79 Filed: 03/24/23 5 of 6 PageID #: 812
+PHELPS DUNBAR LLP
+BY: /s/ Marcellus D. Chamberlain
+Jason T. Marsh, MB #102986
+Marcellus D. Chamberlain, MB #105672
+4270 I-55 North
+Jackson, Mississippi 39211
+Telephone: 601 352 2300
+Email: marshj@phelps.com
+marcellus.chamberlain@phelps.com
+5
+Case: 3:22-cv-00050-SA-JMV Doc #: 79 Filed: 03/24/23 6 of 6 PageID #: 813
+CERTIFICATE OF SERVICE
+I, Marcellus D. Chamberlain, hereby certify on this date I electronically filed the foregoing
+COUNTY DEFENDANTS’ REPLY BRIEF IN SUPPORT OF MOTION FOR JUDGMENT ON
+THE PLEADINGS with the Clerk of the Court using the CM/ECF system, which sent notification
+to the following recipients:
+Robert J. Dambrino, III
+Gore, Kilpatrick & Dambrino – Grenada
+P.O. Drawer 901
+Grenada, MS 38901-0901
+rdambrino@gorekilpatrick.com
+Drury Sumner Holland
+Scott Timothy Ellzey
+Phelps Dunbar LLP
+2602 13th Street, Suite 300
+Gulfport, MS 39501
+dru.holland@phelps.com
+ellzeys@phelps.com
+Drew D. Guyton
+Mississippi Attorney General’s Office
+P.O. Box 220
+Jackson, MS 39205-0220
+drew.guyton@ago.ms.gov
+I, Marcellus D. Chamberlain, further certify that on this date I sent a copy of the foregoing
+COUNTY DEFENDANTS’ REPLY BRIEF IN SUPPORT OF MOTION FOR JUDGMENT ON
+THE PLEADINGS to Pro Se Plaintiff by U.S. certified mail, return receipt requested, postage pre-
+paid, at the following address:
+Matthew Oliver Reardon (MDOC #210988)
+East Mississippi Correctional Facility
+10641 Highway 80 West
+Meridian, MS 39307
+This the 24th day of March, 2023.
+/s/ Marcellus D. Chamberlain
+Marcellus D. Chamberlain
+6

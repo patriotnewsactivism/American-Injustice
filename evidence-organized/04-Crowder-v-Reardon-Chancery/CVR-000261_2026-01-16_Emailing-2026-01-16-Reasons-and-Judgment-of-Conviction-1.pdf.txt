@@ -1,0 +1,482 @@
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 1 of 19 PageID #: 320
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF LOUISIANA
+LAFAYETTE DIVISION
+UNITED STATES OF AMERICA CASE NO. 6:25-CR-00227-01
+VERSUS
+MATTHEW REARDON (01) MAGISTRATE JUDGE LEBLANC
+REASONS FOR JUDGMENT
+The United States charged Defendant Matthew Reardon by Bill of Information with one
+count of violating 41 C.F.R. § 102-74.390 (a)-(b), based on conduct that occurred on August 25,
+2025, at the John M. Shaw United States Courthouse in Lafayette, Louisiana. The case was tried
+to the court on December 15–16, 2025. At the conclusion of the Government’s case, Reardon
+moved for a judgment of acquittal pursuant to Federal Rule of Criminal Procedure 29 based on a
+lack of sufficient evidence presented at trial that (i) the events took place on federal property, and
+(ii) that Reardon created an obstruction of the usual use of an entryway. The court reserved ruling
+on Reardon’s Rule 29 motion. Reardon renewed the motion at the close of evidence. For the
+reasons that follow the motion for acquittal, as renewed, [docs. 53 & 55] is DENIED, and
+defendant is adjudged GUILTY.
+FINDINGS OF FACT
+Reardon paid three visits to the John M. Shaw United States courthouse (the “Courthouse”)
+in Lafayette, Louisiana in the summer of 2025, to determine whether his constitutional rights
+would be violated by interactions with personnel there. Reardon considers himself a First
+Amendment “auditor,” a term known to himself and law enforcement witnesses. He conducts
+1
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 2 of 19 PageID #: 321
+independent investigative journalism work by visiting public buildings and documenting what
+public employees do, how they conduct themselves and whether they violate his constitutional
+rights. In doing so, he records his visits by camera to create an accurate record of events as he
+experiences them. He shares these videos with his online audience, sometimes live streaming
+interactions. 1 He made video recordings of each visit to the Courthouse.
+A description of the physical layout of the front of the Courthouse is appropriate to
+understand the events at issue. See generally Gov’t Ex. 14 (photograph of the front of the
+Courthouse). The Courthouse faces Lafayette Street in downtown Lafayette, Louisiana.
+Beginning at the street and moving toward the Courthouse, a public sidewalk runs adjacent to
+Lafayette Street and extends from the curb of the street to a set of concrete bollards. A paved
+concrete area the width of the Courthouse extends from the concrete bollards to the foot of the
+steps that lead to the entrance area of the Courthouse. At the foot of the steps are metal barricades
+that have been placed to prevent access to the Courthouse steps. At the top of the steps, there is
+an uncovered landing area. The uncovered landing area is bounded on each side by raised
+platforms with statues on them. The landing eventually reaches a colonnade supporting the
+overhang of the second story of the Courthouse and transitions into a covered area between the
+colonnade and the exterior entrance doors. This covered area is referred to as the porch or portico.
+Instead of using the steps to access the Courthouse, visitors use ramps on either side of the portico.
+Beyond the exterior entrance into the building is a foyer that leads to the interior entrance doors.
+Once through the interior entrance doors, visitors are in the unsecured lobby of the Courthouse
+with a set of turnstiles directly in front and a security screening station to the left. The turnstiles
+1 Much of the information in this paragraph is derived from Reardon’s testimony given in his case-in-chief in this
+matter and so was not evidence presented by the Government and available to the court at the time of the Rule 29
+motion. It is recounted here for context but is not considered by the court as substantive evidence as to any of the
+elements of the charged offense.
+2
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 3 of 19 PageID #: 322
+are for exiting only. Beyond the turnstiles is the secured lobby or atrium, which includes the
+elevators and stairs to access other floors of the Courthouse as well as access points to other offices
+that are located on the first floor. To gain access to the balance of the Courthouse, visitors must
+proceed through the security screening station, which routes persons around the turnstiles and into
+the atrium. The unsecured lobby and the atrium are one large space, physically divided only by
+the turnstiles.
+With respect to the entrances, the exterior entrance is comprised of five sets of glass double
+doors and two sets of windows. Facing the front of the Courthouse, and from left to right the
+exterior entrance is configured as follows: a set of doors that cannot be accessed from the outside
+but are operated by a push bar from the inside for exiting; a set of windows; a set of doors that are
+designated as an emergency exit (“EE-1 Door”); a set of doors that are designated as an emergency
+exit (“EE-2 Door”); a set of doors designated as the main entrance and exit doors (the
+“Entrance/Exit Door”); a set of windows; and a set of doors that cannot be accessed from the
+outside by the public but are operated by a push bar from the inside for exiting. The EE-2 Door is
+in the center of the exterior entrance area. The two emergency exits remain locked, but court
+security personnel are readily available to unlock them should the need arise. All of these doors
+open outwardly into the portico. The interior entrance is again a bank of glass doors and windows,
+with the center doors remaining open to permit access into the lobby.
+Reardon first visited the Courthouse on June 23, 2025.2 His purpose in visiting the
+Courthouse was to determine if he, as a professed independent journalist, would be allowed to
+conduct journalistic activities (i.e., video recording) in the unsecured portions of the building,
+2 The discussion of Reardon’s first visit to the Courthouse is based upon his own video of the events of that day. Two
+versions of this video were introduced into evidence, Government Exhibit 2 and Defendant’s Exhibit 3. Both exhibits
+were introduced in the course of the testimony of Deputy United States Marshal in Charge John Farrish during the
+Government’s case-in-chief.
+3
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 4 of 19 PageID #: 323
+consistent with his understanding of the Rules and Regulations Governing Conduct on Federal
+Property, promulgated by the Secretary of Homeland Security in consultation with the
+Administrator of General Services (the “GSA Conduct Rules”).3 Specifically, the provision
+governing news-related photography (the “News Provision”) is found at 41 C.F.R. § 102-74.420:
+What is the policy concerning photographs for news, advertising, or
+commercial purposes?
+Except where security regulations, rules, orders, or directives apply or a
+Federal court order or rule prohibits it, persons entering in or on Federal
+property may take photographs of—
+(a) Space occupied by a tenant agency for non-commercial purposes only
+with the permission of the occupying agency concerned;
+(b) Space occupied by a tenant agency for commercial purposes only with
+written permission of an authorized official of the occupying agency
+concerned; and
+(c) Building entrances, lobbies, foyers, corridors, or auditoriums for news
+purposes.
+41 C.F.R. § 102–74.420.
+Reardon entered the Courthouse foyer through the Entrance/Exit Door and veered to his
+left to enter the unsecured lobby through the open center interior door, video recording as he
+proceeded. Positioned in the foyer between the Entrance/Exit Door and the open center interior
+door is a stand-alone signpost containing a placard entitled “Rules and Regulations Governing
+Conduct on Federal Property” which sets forth pertinent provisions of the GSA Conduct Rules (the
+“GSA Conduct Rules Poster”). Defendant’s Ex. 3; Gov’t Ex. 16. The signpost is positioned such
+that Reardon walked right past it to enter the Courthouse lobby. Defendant’s Ex. 3. This signpost
+and the GSA Conduct Rules Poster on it were the focal point of his visit to the Courthouse that
+3 The GSA Conduct Rules are adopted pursuant to 40 U.S.C. § 1315(c), which confers authority on the Secretary of
+Homeland Security to prescribe regulations with penalties limited to a fine and/or thirty days imprisonment
+corresponding to a class C misdemeanor, per 18 U.S.C. § 3559(a)(8). The GSA is the “U.S. General Services
+Administration, acting by or through the Administrator of General Services.” 41 C.F.R. § 102-71.10.
+4
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 5 of 19 PageID #: 324
+day. In addition to this signpost, additional signs are posted outside the Courthouse and at the
+security station advising that electronic devices are prohibited inside the Courthouse.
+Upon entering the lobby, Reardon was met by a Court Security Officer who advised him
+that videoing in the Courthouse was not permitted. Readon advised the CSO that he was “stress
+testing a right” by videoing in the unsecured area of the lobby and explained that he travels all
+around the country doing this and has “been in enough courthouses to know” what his rights are.
+The CSO retreated to the screening station and sought assistance from the United States Marshals
+Service to address Reardon’s actions. While awaiting the arrival of Deputy United States Marshal
+in Charge John Farrish, Reardon inquired of another CSO at the screening station: “Where are
+your rules governing conduct on federal property?” The CSO pointed to the signpost in the foyer,
+and Reardon walked out to it. Reardon then videoed the GSA Conduct Rules Poster to publish its
+contents to his viewers. Doing so, he commented that “[i]t’s the same thing as Poster 7 at the Post
+Office.” Continuing, he advised his viewers “[t]his is supposed to be posted at every federal
+building,” and this is “nothing new.”
+Reardon then returned to the lobby, and Deputy Marshal Farrish arrived and approached
+him. When Deputy Marshal Farrish asked Reardon for his name, Reardon identified himself as
+Don Matthews, a pseudonym he has used. In his interaction with Deputy Marshal Farrish, Reardon
+reiterated that by videoing in the unsecured lobby area he was conducting “a stress test of a
+constitutional right” and that he travels around the country doing so. He escorted Deputy Marshal
+Farrish to the foyer and pointed out the GSA Conduct Rules Poster, and specifically the News
+Provision set forth on that poster. Eventually Deputy Marshal Farrish stepped away to further
+assess this situation. Continuing with his efforts, Reardon returned to the GSA Conduct Rules
+Poster and, while videoing the poster again and the News Provision specifically, proclaimed:
+5
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 6 of 19 PageID #: 325
+“Could it be any clearer than this? Rules and Regulations Governing Conduct on Federal
+Property.” Minutes later, Reardon once again returned to the GSA Conduct Rules Poster and,
+while videoing it, stated: “This sign right here, before you even walk into the federal courthouse.
+It is the same exact thing as Poster 7 in the Post Office. Every federal building has to have it.”
+From these events, two things may be concluded: (1) the GSA Conduct Rules Poster was
+conspicuously posted at the Courthouse and Reardon had full knowledge of its existence and
+placement, and (2) Reardon was fully on notice as to the existence and import of the GSA Conduct
+Rules, whether or not he ever chose to acquaint himself with any provision other than the News
+Provision.
+Reardon’s efforts on this day lasted for just more than an hour. This prolonged interaction
+involved Court Security Officers, the United States Marshals Service, and city police. Throughout,
+Reardon continually insisted on his right as a journalist to film in the Courthouse lobby. Deputy
+Marshal Farrish eventually ordered the Courthouse closed approximately 15 minutes early and
+escorted Reardon from the building.
+Reardon returned to the courthouse on June 26, 2025, to file a complaint about Deputy
+Marshal Farrish, and he again filmed the interaction. See generally Gov’t Ex. 3. Deputy Marshal
+Farrish greeted Reardon in the lobby. Reardon advised Deputy Marshal Farrish that his complaint
+was “that honestly you [Deputy Marshal Farrish] didn’t know your rules and regulations governing
+conduct on federal property.” Deputy Marshal Farrish asked Reardon to accompany him into the
+foyer to review the GSA Conduct Rules Poster, as there seemed to be a difference of opinion as to
+their application, and Reardon refused shouting, “I showed you the rules.”
+Deputy Marshal Farrish informed Reardon that they do not take complaints at the
+Courthouse, but that he could contact the Department of Justice to make a complaint. Deputy
+6
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 7 of 19 PageID #: 326
+Marshal Farrish made a point of addressing Reardon by his real name, not the pseudonym he had
+provided in their first interaction, leading Reardon to believe that the United States Marshals
+Service (“USMS”) may have begun investigating him after his first visit to the Courthouse.
+Reardon returned to the Lafayette courthouse on August 25, 2025, determined to exercise
+his rights under the First Amendment to the United States Constitution and to express his “extreme
+discontent” with the USMS. By way of a Freedom of Information Act Request, Reardon had
+learned the USMS had been in contact with other law enforcement agencies about him and had
+placed a “be on the lookout” or BOLO on him, which actions impassioned him that day. As before,
+Reardon had cameras in hand and videoed the events of the day. See generally Gov’t Ex. 12.
+Reardon arrived at the Courthouse on August 25, 2025, with a camera on a tripod and two
+smartphones. He arranged these devices in the area of the sidewalk in front of the Courthouse to
+capture his protest efforts. In addition to this equipment, Reardon had multiple posters,
+handwritten on foam posterboard, criticizing the USMS and employing expletives to do so.
+Reardon then meandered for a period of time between the sidewalk and the paved concrete area
+on the courthouse-side of the bollards exhibiting his posters to passers-by.
+After protesting near the street for a period, Reardon observed one of the Deputy Marshals
+make a gesture from inside the Courthouse that Reardon interpreted as an invitation to enter the
+Courthouse. He gathered his belongings and made his way to one of the ramps leading to the
+portico, all the while explaining to his audience that he had been invited into the Courthouse. Upon
+arriving on the portico, Reardon set his tripod and camera between two of the columns of the
+colonnade facing the EE-1 Door. He attempted to enter the Courthouse through the EE-2 Door
+then the EE-1 Door, finding both to be locked. He then made his way to the Entrance/Exit Door
+with posters under his arm and a video-recording device operating.
+7
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 8 of 19 PageID #: 327
+As Reardon came through the Entrance/Exit Door and was approaching the open center
+door of the interior entrance, he was met by Deputy United States Marshal Hayden Nugent, who
+had been present for Reardon’s two previous visits. Deputy Nugent informed Reardon that he had
+not been invited inside the Courthouse and that he would be arrested if he attempted to film inside
+the Courthouse. Reardon, believing he had been duped into entering the Courthouse, began loudly
+protesting Deputy Marshal Nugent in expletive-laden language as he exited the building. Instead
+of returning to the sidewalk, however, Reardon resumed his protest under the portico, noting to his
+audience, “now they just asked for it” and “there’s a big part of me that wants to go back in and
+take the arrest.” He continued: “They want it. They want it.”
+After exiting the Courthouse, Reardon began to “hang some signs,” lamenting that he
+should have brought tape. Several times, he displayed a 20- by 30-inch posterboard to those inside
+by holding the posterboard against or directly in front of the EE-1 Door, the EE-2 Door and the
+Entrance/Exit Door, obstructing the view through those doors when he did so. While holding a
+posterboard up to one of the emergency exit doors, he greeted a visitor to the courthouse by calling
+out “Happy F*** the U.S. Marshals Day!” (using the expletive). Shortly thereafter, he stationed
+himself with the posterboard in front of the Entrance/Exit Door for approximately 20 seconds, at
+one point propping the poster on the pair of door handles for that set of doors, blocking its use
+entirely.
+Reardon then moved the tripod and camera from where he had left it between columns and
+positioned it directly in front of the EE-2 Door with at least one of the feet of the tripod touching
+the door and the mounted camera “recording right against the glass.” He then made his way down
+the portico to the right of the EE-2 Door, past two more sets of doors and a set of windows,
+eventually taking his place on the statue platform at that end of the landing area. At this point, he
+8
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 9 of 19 PageID #: 328
+was quite a distance away from the tripod and camera, and his protest and videoing activities
+directed his attention away from the area of the EE-2 Door where that equipment was left.
+Reardon had been conducting his protest activities from the statue platform for about 20
+minutes when Deputy Marshal Nugent and another Deputy United States Marshal exited the
+building and approached him. Deputy Marshal Nugent directed Reardon to remove the camera
+blocking the emergency exit door, advising it presented a hazard and warning that it would be
+seized otherwise. Reardon refused to move the camera, telling Deputy Marshal Nugent “you need
+to suck my d**k!” In response, Deputy Marshal Nugent advised Reardon he was seizing the
+camera and tripod and then turned and started to walk toward the equipment. At this point, being
+a good distance away from the equipment, Reardon quickly moved toward it, yelling a warning at
+Deputy Marshal Nugent not to touch it. Upon both arriving at the tripod and camera, Deputy
+Marshal Nugent directed Reardon to move the camera to the far side of the metal barricades on
+the sidewalk below, and Reardon protested that “I’m fine right here.” Deputy Marshal Nugent
+stated that he would be arrested if he did not comply and gave a three second countdown before
+arresting Reardon and taking him into custody when he refused to do as instructed.
+As a consequence of the events on August 25, 2025, Reardon was charged with violating
+the GSA Conduct Rules, specifically 41 C.F.R. § 102–74.390. It reads:
+What is the policy concerning disturbances?
+All persons entering in or on Federal property are prohibited from loitering,
+exhibiting disorderly conduct, or exhibiting other conduct on property that—
+(a) Creates loud or unusual noise or a nuisance;
+(b) Unreasonably obstructs the usual use of entrances, foyers, lobbies,
+corridors, offices, elevators, stairways, or parking lots;
+(c) Otherwise impedes or disrupts the performance of official duties by
+Government employees; or
+(d) Prevents the general public from obtaining the administrative services
+provided on the property in a timely manner.
+9
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 10 of 19 PageID #: 329
+41 C.F.R. § 102–74.390 (the “Disturbance Provision”). Reardon was charged with violating the
+first two subsections, which prohibit visitors from creating loud or unusual noise or a nuisance and
+from unreasonably obstructing the usual use of entrances, foyers, lobbies, corridors, offices,
+elevators, stairways, or parking lots. The Government proceeded on only the subsection (b)
+charge, concerning the obstruction of entrances.
+ANALYSIS
+To establish a violation of subsection (b) of the Disturbance Provision, the Government
+must prove that (1) the incident occurred on federal property; (2) the defendant exhibited conduct
+that unreasonably obstructed the usual use of entrances, foyers, lobbies, corridors, offices,
+elevators, stairways, or parking lots; and (3) the defendant acted with the appropriate mens rea, or
+knowledge that the action was unlawful. United States v. Cruscial, No. 3:18-CR-00465-JR, 2019
+WL 1087150, at *6 (D. Or. Mar. 7, 2019); United States v. Radin, No. 16-CR-528 (RJS), 2018 WL
+1384514, at *4 (S.D.N.Y. Mar. 18, 2018), aff'd, 821 F. App'x 53 (2d Cir. 2020). Additionally,
+because federal agencies are charged with observance of the GSA Conduct Rules, 41 C.F.R. § 102-
+74.365, and because those rules “shall be posted and remain posted in a conspicuous place on the
+property,” 40 U.S.C. § 1315(c), the Government must also establish that the defendant was on
+notice that his conduct was prohibited, either because the GSA Conduct Rules were posted in a
+place “reasonably calculated to impart” their prohibitions, or because defendant had actual
+knowledge of the prohibition by verbal warning or the like. See United States v. Strakoff, 719 F.2d
+1307, 1310 (5th Cir. 1983); United States v. Bichsel, 395 F.3d 1053, 1056 (9th Cir. 2005).
+In his motion for judgment of acquittal, Reardon argued that the government presented
+insufficient evidence that the events took place on federal property, as well as insufficient evidence
+that Reardon created an obstruction of the usual use of an entryway. Under Rule 29 of the Federal
+10
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 11 of 19 PageID #: 330
+Rules of Criminal Procedure, when a defendant moves for acquittal at the close of the
+government’s case and the court reserves judgment, as was done here, the court “must decide the
+motion on the basis of the evidence at the time the ruling was reserved.” Fed. R. Crim. P. 29(b).
+1. The incident occurred on federal property.
+Although the GSA Conduct Rules do not define “federal property,” the rules “apply to all
+property under the authority of the General Services Administration (GSA) and to all persons
+entering in or on such property.” 41 C.F.R. § 102-74.365; United States v. Radin, 821 F. App’x 53,
+54 (2d Cir. 2020); see also 20 U.S.C. § 107e. (“‘Federal property’ means any building, land, or
+other real property owned, leased, or occupied by any department, agency, or instrumentality of
+the United States . . .”). The GSA Conduct Rules were promulgated pursuant to 40 U.S.C. § 1315,
+which empowers the Secretary of Homeland Security to “protect the buildings, grounds, and
+property that are owned, occupied, or secured by the Federal Government (including any agency,
+instrumentality, or wholly owned or mixed-ownership corporation thereof).” 40 U.S.C. § 1315.
+Evidence that the Courthouse is owned, leased, or occupied by United States governmental
+agencies and under the authority of the GSA is therefore relevant to the inquiry as to whether the
+incident took place on federal property. Radin, 2018 WL 1384514, at *4.
+During the Government’s case in chief, Deputy Marshal Farrish testified to his
+understanding that the Courthouse is under the authority of the GSA, and that in addition to
+housing the United States District Court for the Western District of Louisiana, the building’s
+tenants include the GSA, the United States Probation Office, the United States Bankruptcy Court,
+and the United States Marshals Service. He further testified that GSA regulations govern what
+individuals can and cannot do in the Courthouse, and the court reviewed video evidence taken
+11
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 12 of 19 PageID #: 331
+from Reardon’s first visit to the Courthouse, showing that the GSA Conduct Rules were posted in
+the foyer of the Courthouse on a stand just inside the designated entrance.
+This evidence is sufficient to prove beyond a reasonable doubt that the incident took place
+on federal property, within the meaning of the GSA Conduct Rules. An individual charged with
+court security is competent to attest that federal business is conducted on the property. See Moore
+v. United States, 254 F. App'x 603, 604 (9th Cir. 2007). Deputy Marshal Farrish testified that the
+Courthouse is under the authority of the GSA and that multiple federal agencies are tenants in the
+building. Moreover, the undisputed fact that the GSA Conduct Rules were posted in the foyer is
+itself evidence that the building is under GSA authority, id., as those rules must be posted “in a
+conspicuous place” on “property owned or occupied by the Federal Government.” 40 U.S.C. §
+1315(c)(1). Accordingly, the first element is satisfied.
+2. The defendant exhibited conduct prohibited by the Disturbance Provision.
+Evidence introduced at trial proves beyond a reasonable doubt that defendant Reardon
+exhibited conduct that unreasonably obstructed the usual use of the entrance to the Courthouse,
+satisfying the second element of the offense.
+In the Lafayette Courthouse, the entrance is made up of a bank of glass double doors that
+separate the exterior columned portico from the interior foyer to the building. Only one of these
+double doors, the Entrance/Exit Door, is customarily left unlocked during business hours for the
+arrival of visitors. The other doors are designated either as exits, which can be pushed from the
+inside, or as emergency exits, which are customarily left locked but can be unlocked quickly by
+security personnel if needed. An emergency is by definition a sudden and unforeseen occurrence
+that requires immediate action. As such, an emergency exit, to serve its function, cannot be
+impeded at any time.
+12
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 13 of 19 PageID #: 332
+As may be seen from the photographic evidence in this case, the entrance to the Courthouse
+is not merely a door or set of doors, it is a transitional space that physically, architecturally, and
+symbolically separates the interior of the Courthouse from the everyday activity going on outside.
+Deputy Marshals Farrish and Nugent testified that the entrance area is arranged to allow security
+personnel maximum opportunity to observe visitors as they approach, so there is a security-related
+purpose to the way the entrance has been arranged, including which doors are open to visitors, and
+the placement of the security station to maintain a line of sight to the Entrance/Exit Door and to
+the outside through the various glass doors and windows. Emergency exits are part of this security
+system, insofar as they could be used to allow swift and safe evacuation of the building in an
+emergency. The court also takes judicial notice that the entrances to courthouses are generally
+designed to signal to visitors that they are entering a special, serious, and frequently silent place,
+devoted to the administration of justice. See Hodge v. Talkin, 799 F.3d 1145, 1150 (D.C. Cir. 2015)
+(quoting Justice Breyer’s Statement Concerning the Supreme Court's Front Entrance and
+describing the U.S. Supreme Court Plaza as “the opening stage of ‘a carefully choreographed,
+climbing path that ultimately ends at the courtroom itself.’”). The court therefore reads “obstructs
+the usual use of entrances” to also encompass conduct that impedes, impairs, and obstructs the use
+of the Courthouse entrance in this broader sense: as an entrance system that has security, safety,
+and symbolic functions, as well as the purely practical function of allowing visitors to come and
+go.
+Photos and videos introduced into evidence show that Reardon placed a camera on a tripod
+directly in front of one of the emergency exit doors, one of its legs touching the door and the
+camera recording “against the glass,” obstructing the door’s potential use as an emergency exit.
+He then left the tripod unattended for about 20 minutes while he moved to the far end of the landing
+13
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 14 of 19 PageID #: 333
+onto a statue platform with his attention directed to other pursuits and away from the equipment.
+Reardon was only prompted to return to the tripod and camera because law enforcement confronted
+him and advised it would be seized if not moved. He also stood directly in front of other doors,
+including the designated entrance door, holding a posterboard against the glass, thereby obstructing
+the view from inside the building and physically blocking the doors. At one point, he propped one
+such posterboard on the handles of the Entrance/Exit Door where the double doors meet,
+simultaneously impeding both doors.
+Reardon’s actions obstructed the usual use of the Courthouse entrance in three ways. He
+obstructed the use of these doors as doors by placing himself and his camera equipment in front of
+the doors for a prolonged period with no apparent purpose other than to provoke a response from
+security personnel. He also obstructed the use of the doors as a means for security personnel to
+observe the building’s exterior through the glass by partially covering the glass doors with
+posterboard. And he interfered with and disrupted the usual use of the Courthouse’s entrance as a
+dignified transitional space that befits the importance of business conducted within.
+3. The defendant had the appropriate state of mind to be found culpable.
+The Disturbance Provision “is silent as to the mens rea required to commit the offense;” in
+other words, the regulation does not describe the culpable state of mind required for an offense to
+have occurred. United States v. Wasylyshyn, 979 F.3d 165, 174 (2d Cir. 2020). Nonetheless, “[t]he
+existence of a mens rea is the rule of, rather than the exception to, the principles of Anglo–
+American criminal jurisprudence[,]” and courts generally impute a mens rea requirement into such
+silent statutes, consistent with legislative intent and common law. Staples v. United States, 511
+U.S. 600, 605 (1994) (internal quotation marks omitted, alteration added). “When interpreting
+federal criminal statutes that are silent on the required mental state,” courts “read into the statute
+14
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 15 of 19 PageID #: 334
+‘only that mens rea which is necessary to separate wrongful conduct from otherwise innocent
+conduct.’” Elonis v. United States, 575 U.S. 723, 736 (2015) (quoting Carter v. United States, 530
+U.S. 255, 269 (2000)) (internal quotation marks omitted).
+Courts considering actions prohibited by the GSA Conduct Rules have concluded that, to
+have the requisite mens rea, a defendant must generally know the facts that make his conduct fit
+the definition of the offense, even if he does not know that the facts constitute a crime. United
+States v. Zagorovskaya, 628 F. App'x 503, 504 (9th Cir. 2015); Cruscial, 2019 WL 1087150, at *4
+n. 5; United States v. Brice, 926 F.2d 925, 930 (9th Cir. 1991) (“The purpose of ensuring the normal
+functioning of federal facilities is best served by construing [predecessor regulation] as a general
+intent crime.”) To convict Reardon of violating the Disturbance Provision, the Government must
+prove that he had knowledge he was unreasonably obstructing the usual use of entrances, not that
+Reardon knew of a specific regulation proscribing his conduct. Wasylyshyn, 979 F.3d at 174.
+Several factors demonstrate that Reardon possessed the requisite state of mind to have
+knowingly violated the Disturbance Provision. After the brief exchange in which Deputy Marshal
+Nugent advised Reardon he would be arrested if he attempted to film inside the Courthouse, instead
+of returning to the sidewalk, he chose to remain near the Courthouse entrance. At that point, he
+chose to move his tripod from the area in the portico where he had initially placed it that was
+several feet away from the doors. He repositioned the tripod and camera closer to the center of
+the bank of doors, placing a foot of the tripod against of one of the emergency exit doors, and
+setting the camera “against the glass” to record—or at least appear to record—the interior of the
+Courthouse that he had repeatedly been warned was off-limits to filming. As he videoed the entire
+episode, he spoke to his audience multiple times of standing his ground and “taking the arrest,”
+suggesting actions that were purposeful rather than unintentional. When finally confronted by law
+15
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 16 of 19 PageID #: 335
+enforcement and directed to move his tripod and camera because it was a hazard, Reardon initially
+refused and berated the officer. Taken together, this conduct establishes beyond a reasonable doubt
+deliberate and intentional behavior consistent with a general intent to perform the actions that
+constituted a violation of the Disturbance Provision. The third element is satisfied.
+4. The defendant was on notice that GSA Conduct Rules prohibited his conduct.
+Courts applying the Disturbance Provision at 41 C.F.R. § 102-74.390 have interpreted it to
+require that a defendant be placed on notice that his conduct is illegal before being arrested. The
+notice rule arises from the statutory requirement that the GSA Conduct Rules “shall be posted and
+remain posted in a conspicuous place on the property” under the GSA’s authority. 40 U.S.C. §
+1315(c). See Strakoff, 719 F.2d at 1310. As one court aptly summarized the application of this
+notice requirement:
+Appellant’s conduct was loud, disruptive, offensive, and inappropriate to a federal
+courthouse. Members of the public, court users, and court staff all have a right to
+be free from such conduct. If the Government had publicly posted a copy of 41
+C.F.R. § 102–74.390 as required by regulation, CSO Wilson would have had the
+authority to arrest Appellant. Similarly, had Appellant continued his conduct after
+being told that it would lead to his arrest, that too would have given CSO Wilson
+the authority to arrest him. But in the absence of evidence that the Government
+complied with its notice obligations, Appellant’s conviction must be reversed.
+United States v. Marotz, 75 F. Supp. 3d 1167, 1172–73 (N.D. Cal. 2014).
+Thus, to enforce the GSA Conduct Rules via criminal penalty, the Government must
+establish that defendant was on notice that his conduct was prohibited, either because the GSA
+Conduct Rules were posted in a place “reasonably calculated to impart” their prohibitions, or
+because defendant had actual knowledge of the relevant prohibition. See Strakoff, 719 F.2d at
+1310 (absent a showing that defendant had actual notice as to regulation prohibiting possession of
+firearm on federal property, his conviction could not stand if the regulation was not posted in a
+“conspicuous place”); United States v. Cebreros, 778 F. App'x 547, 548 (9th Cir. 2019) (if posting
+16
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 17 of 19 PageID #: 336
+the GSA Conduct Rules is a required element of offense, that element is satisfied by actual notice
+that conduct is illegal); United States v. Strong, 724 F. 3d 51 (1st Cir. 2013) (conspicuous posting
+of GSA Conduct Rules satisfied notice requirement, despite lack of verbal warning, where
+defendant admitted awareness that spreading feces around a public bathroom is wrong); Bichsel,
+395 F.3d at 1056 (defendant was on sufficient notice that conduct was prohibited, even though
+GSA Conduct Rules were not posted where he could see them, because he received repeated verbal
+warnings that he would be arrested he did not cease); Marotz, 75 F. Supp. 3d at 1172 (requiring
+either conspicuous posting of GSA Conduct Rules or actual notice as described in Bichsel).
+In this case, there is no dispute that the GSA Conduct Rules were conspicuously posted in
+the foyer of the courthouse, just inside the main entrance door. Like the News Provision Reardon
+so adamantly championed, the Disturbance Provision also appears on the GSA Conduct Rules
+poster.4 It is undisputed that Reardon was aware that the GSA Conduct Rules were conspicuously
+posted at the Courthouse, as he both filmed them and drew security and police officers’ attention
+to them multiple times during his first visit to the Courthouse. The notice requirement is therefore
+satisfied.
+CONCLUSION
+The court returns to Defendant’s Motion for Judgment of Acquittal, which was made at the
+close of the Government’s case and renewed at the close of evidence. In ruling on this motion, a
+district court must determine whether the relevant evidence, viewed in a light most favorable to
+the Government, could be accepted by a jury as adequate and sufficient to support the conclusion
+4 A copy of the GSA Conduct Rules Poster was introduced into evidence as Government’s exhibit 16. It contains four
+columns of text, with the News Provision at the bottom of the third column and the Disturbance Provision at the top
+of the second column. The section heading of the Disturbance Provision on the poster is slightly different from the
+heading appearing in the Code of Federal Regulations. On the poster, the heading reads “Disturbances (41 CFR 102-
+74.390).” The text of the Disturbance Provision is otherwise identical to the regulation quoted previously herein, with
+slight differences in punctuation.
+17
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 18 of 19 PageID #: 337
+of the defendant’s guilt beyond a reasonable doubt. United States v. Varkonyi, 611 F.2d 84, 85 (5th
+Cir. 1980). The court finds that the evidence presented at the time the ruling was reserved was not
+“insufficient to sustain a conviction.” Fed. R. Crim. P. 29 (a). To the contrary, the Government
+satisfied its obligations in the case in chief, in large part because the video recordings of Reardon’s
+visits to the Courthouse provided evidence as to Reardon’s obstruction of the exits, state of mind,
+and the notice requirement. Additionally, as stated above, the Government’s first witness, Deputy
+Marshal Farrish, was competent to testify that the Courthouse was federal property, within the
+meaning of the GSA Conduct Rules, on the date of the offense. Accordingly, the Motion for
+Judgment of Acquittal is DENIED.
+Reardon chose to testify in his defense. His testimony, however, does not dissuade the
+court from its findings in this case. To the contrary, Reardon’s testimony confirmed that he was
+aware of the existence of the GSA Conduct Rules and had observed the GSA Conduct Rules Poster
+at the Courthouse on his first visit. He acknowledged that he could not block exits and entrances
+to the Courthouse and admitted to placing his camera and tripod, signs and his body against
+multiple doors on August 25, 2025. Reardon believed that obstructing a locked door or one that
+no member of the public was attempting to use at the time of his actions was not “obstruct[ing] the
+usual use.” As previously explained, the doors at issue serve a multitude of purposes in the setting
+of this Courthouse, such that Reardon’s narrow view that “usual use” means only actual use when
+a person is entering or exiting is simply untenable. He also admitted that, in conducting his
+“investigative journalism” and acting as a “First Amendment Auditor” his goal is to gain
+“standing” to challenge conduct he believes is violative of his constitutional rights, which
+“standing” he stated could only be gained by being arrested or receiving a threat of arrest. Reardon
+testified court personnel “miserably failed the First Amendment test” on his first visit such that
+18
+Case 6:25-cr-00227-TPL Document 62 Filed 01/16/26 Page 19 of 19 PageID #: 338
+there “has to be a follow up.” Thus, as his testimony and the video evidence demonstrates, Reardon
+believed his rights had been violated on his first visit to the Courthouse, and so his return visits
+were motivated, at least in part, to earn him “standing”—i.e., he was intent on provoking his arrest
+or the threat of it.
+Based on the foregoing, the court concludes the Government has proven beyond a
+reasonable doubt all the essential elements to establish Reardon’s violation of the Disturbance
+Provision, and so Reardon is adjudged GUILTY.
+SO ORDERED at Lake Charles, Louisiana, this 16th day of January, 2026.
+_____________________________________________________________________________________________________________
+TTHHOOOOOMMMMMMMMMMMMMMMMAAAAAASSS PP.. LLEEBBLLAANNCC
+UNITEEDD SSTTAAAAATTTTTTEEEEEESSSSS MMAAGGIISSTTRRAATTEE JJUUDDGE
+19

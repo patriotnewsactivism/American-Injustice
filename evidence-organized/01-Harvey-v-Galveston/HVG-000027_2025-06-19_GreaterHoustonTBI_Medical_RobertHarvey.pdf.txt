@@ -1,0 +1,73 @@
+ï»¿17/09/2024, 22:02 
+Harvey Robert | 02-07-1978 
+GREATER HOUSTON 
+TBI- 
+Patient Name : 
+Harvey Robert 
+Patient DOB: 
+02-07-1978 
+Patient Gender: 
+Male 
+Note Reference # 11583 
+Note Date: 
+Provider: 
+Note Type: 
+09-07-2024 12:04 AM IST 
+Khouri, George, D.O. 
+Telehealth-New- 
+Note : 
+Consultation-Note 
+Consultation Date: 09-06-2024 10:00 PM IST 
+Neurology TBI New Consultation 
+HPI: 
+This is a 46 year old male presenting for initial evaluation after an incident that occurred June 22, 2024. He was walking on a side walk when struck by the side mirror of a firetruck. He reports feeling the impact mostly on his right shoulder. He denies 
+any loss of consciousness. He endorses bitemporal headaches that occur 2-3x per week. He reports cognitive changes of short term memory loss and speech changes. He experiences episodic dizziness with changes in position. He further endorses difficulty staying asleep. He denies any significant mood changes. 
+Review of Systems: 
+14 Point review of systems is otherwise negative with exception of HPI above 
+Medical History, Social History and Family History reviewed 
+Examination: 
+Alert, oriented, fluent, appropriate 
+EOMI, no droop 
+Able to move arms antigravity 5/5 
+Patient states sensation is intact to LT symmetric throughout 
+No evidence of ataxia b/l UE 
+No JVD 
+Normal respiratory effort 
+about:blank 
+1/4 
+17/09/2024, 22:02 
+Harvey Robert | 02-07-1978 
+Impression and Plan: 
+This is a 48 year old patient presenting secondary to injuries sustained after an incident. The symptoms are consistent with 
+concussion and a post conscussive syndrome. We will initiate diagnostics and workup along the screened domains of cognition, dizziness and occipital neuralgia. The patient has been given information regarding basic post concussive recommendations including things to avoid, diet, and other measures which may offer benefit. The patient will be enrolled into a proprietary mobile application to continue communication daily, gauge response to various treatments, and to give background/educational materials. 
+Specific Diagnostic Recommendations: 
+-Recommend a Cognitive Screening for a baseline cognitive assessment to gauge thought processes and cognitive 
+capacity. 
+Background: This is an effort-based computerized neuropsychological examination to assess cognitive functional status in higher cognitive capacity, Trail Making A & B are established neuropsychological tests that measure visual search speed, scanning, processing speed, mental flexibility, and executive functioning. These tests provide insight into cognitive function in the frontal lobe, and in the parietal and occipital lobes. The Digit-Symbol Substitution test measures processing speed and accuracy, and the Stroop Color and Word test measure reaction time required to overcome cognitive interference. These tests assess function primarily in the frontal lobe, as well as in the parietal, temporal, and occipital lobes. The Immediate and Delayed Recognition tests assesses patients' ability to recognize items that previously appeared immediately after being prompted and after a time delay. These tests determine function in the temporal lobe, as well as in the frontal, parietal, and occipital lobes after traumatic brain injury. This test finding as well as those of the neuropsychological evaluation can direct treatments via various brain regionally targeted virtual and non virtual applications. This study will be much more viable to 
+repeat in the future as a marker of cognitive progress. We will now have a baseline. 
+- 
+Recommend qEEG/EEG electrophysiological testing secondary to the cognitive complaints. Recommend qEEG with the addition of ERP testing and cognitive screening during the test if able to be authorized. 
+Background: This test can help guide various targeted cognitive and functional interventions. This will create a roadmap of the injury to the brain - most typically the white matters axonal tracts between cortical regions of higher information processing. qEEG has been proven to be far more reliable and repeatable with regard to traumatic head injuries versus event related potentials (ERP) or other modalities. However, if able to obtain ERP data and cognitive screening data during the exam it can add additional information and data to guide treatments. The specific regionalized approach of the data output in our utilized platform will help directly reveal the areas of injury to be used for specific and directed treatments. In the case of qEEG, we will rely on the expertise of Dr. Thatcher to assist with the qEEG, one of the early inventors of quantitative EEG, and who has published many of the articles which validated the science over the last 20+ years. A trial of regionally targeted neurofeedback, medications, and/or neuropsychology interventions might be recommended based on the specific results if indicated. These can lead to rapid gains in the domain of the cognitive deficits described. Additional diagnostic testing and treatments may be indicated contingent on gains in cognition over time. 
+about:blank 
+2/4 
+17/09/2024, 22:02 
+Harvey Robert | 02-07-1978 
+- RTC 4 weeks 
+Thank you for the consultation and opportunity to assist in the neurological care of this patient. 
+Patient interviewed by Sierra Chrostowski, PA-C and discussed in detail with me directly. Medical records, general data, and documentation reviewed in detail and edited appropriately. 
+Diagnosis: F07.81 Postconcussional syndrome / H81.8X9 Other disorders of vestibular function, unspecified ear 
+Orders: 
+Ancillary Studies: qEEG 
+Codes: 
+99204 95 Mod MDM Telehealth 
+Neurocognitive Test: Cognitive Screen 
+Signed By: 
+Khouri, George, D.O. 
+Signed On: 
+09-17-2024 09:33 AM IST 
+about:blank 
+3/4 
+17/09/2024, 22:02 
+Harvey Robert | 02-07-1978 
+4/4 
+about:blank

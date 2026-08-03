@@ -1,0 +1,20 @@
+GREATER HOUSTON PAIN & INJURY
+403 N. YORK STREET
+Page
+HOUSTON, TX 77003
+10/25/2024 1
+TAX ID: 85-2858540
+Chart Number
+ROBERT HARVEY
+HARRO009
+830 23RD ST
+DICKINSON, TX 77539
+Date CPT Modifiers Units Diagnosis Description Provider of Service Amount
+Statement Date
+Previous Balance: 0.00
+Patient: ROBERT HARVEY Dx ICD10: A) M51.26 B) C) D)
+Chart #: HARRO009 E) F) G) H)
+06/21/2024 PI GHPI I) J) K) L)
+10/03/24 99204 1 A New Patient-Detailed ANDREW K. MCKAY MD 1,250.00
+Past Due 30 Days Past Due 60 Days Past Due 90 Days Balance Due
+0.00 0.00 0.00 1,250.00

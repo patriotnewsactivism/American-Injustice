@@ -1,0 +1,223 @@
+Comprehensive Legal Assessment: Motion to
+Dismiss in United States v. Matthew Reardon
+(Case No. 6:25-cr-00227-01)
+Case Overview
+The prosecution of Matthew Reardon stems from an arrest that occurred on
+August 25, 2025, outside a federal courthouse in Lafayette, Louisiana, allegedly
+for conduct violating 41 C.F.R. § 102-74.390, which prohibits loitering, disor-
+derly conduct, and other disruptive behavior on federal property [1]. Reardon,
+identifiedasajournalistandactivist,hasfiledamotiontodismissthebillofin-
+formation, asserting that the charges unconstitutionally infringe upon his First
+Amendment rights to free speech, press, and petition for redress of grievances.
+ThehearingforthismotionisscheduledforNovember2025andremainspending
+before the court. This report analyzes the assessed strength of the defendant's
+motiontodismissinconjunctionwiththeU.S.Attorney'sresponse,considering
+legal precedent, statutory interpretation, and procedural context.
+Strength of the Defendant's Motion to Dismiss
+First Amendment Protection in Public Forums
+The cornerstone of Matthew Reardon’s motion rests on the legal principle that
+expressive activity is constitutionally protected in traditional public forums,
+particularly in locations such as the steps and sidewalks outside government
+buildings. The defense explicitly relies on United States v. Grace, 461 U.S.
+171 (1983), where the Supreme Court aﬀirmed that areas surrounding federal
+buildings, including courthouses, function as traditional public forums and are
+protected from content-based restrictions on speech [citation: extraction from
+Document 16]. Since Reardon was arrested outside the courthouse, this prece-
+dent applies directly. The factual confirmation from wtpnews.org that Rear-
+don was “violently arrested by U.S. Marshals outside a federal courthouse in
+Lafayette, Louisiana” on August 25, 2025, is critical because it places his con-
+duct in a classic public forum, not within a nonpublic interior space such as a
+lobby or oﬀice area [22].
+The Supreme Court’s decision in Edwards v. South Carolina, 372 U.S. 229
+(1963), further strengthens the defense’s argument. In Edwards, the Court held
+that peaceful protests involving loud and passionate speech on state capitol
+grounds were protected, even though they risked inciting unrest. The defense
+asserts that Reardon’s actions — including expressive language and recording
+public oﬀicials — were even more orderly and protected, as he reportedly com-
+plied with orders, unlike the demonstrators in Edwards who refused to disperse.
+1
+Protected Conduct: Journalism, Protest, and Petition
+Reardon’s motion asserts that his actions encompass three distinct forms of
+First Amendment-protected activity:
+• Political speech, citing New York Times Co. v. Sullivan, 376 U.S. 254
+(1964), in opposition to government conduct;
+• Journalistic documentation, including livestreaming and recording,
+protected under Branzburg v. Hayes, 408 U.S. 665 (1972), Richmond
+Newspapers, Inc. v. Virginia, 448 U.S. 555 (1980), and Glik v. Cunniffe,
+655F.3d78(1stCir. 2011),whichaﬀirmedaconstitutionalrighttorecord
+police activity in public;
+• Petitioning the government for redress of grievances, rooted in
+cases like United Mine Workers of Am., Dist. 12 v. Illinois State Bar
+Ass’n, 389 U.S. 217 (1967), and reinforced by Reardon’s reported intent
+to file a FOIA request at the courthouse.
+Thistripartiteargumentenhancesthestrengthofthemotionbydemonstrating
+that the state action interferes with multiple constitutional rights simultane-
+ously.
+Facial and As-Applied Constitutional Challenges to 41 C.F.R. § 102-
+74.390
+The regulation at 41 C.F.R. § 102-74.390 prohibits persons on federal property
+from “loitering, exhibiting disorderly conduct or exhibiting other conduct on
+property” that interferes with operations [1]. The defense argues that the reg-
+ulation is both facially overbroad and unconstitutional as applied given
+the location of the arrest.
+Afacialchallengecontendsthatalawissobroaditchillsprotectedspeecheven
+when applied to non-disruptive conduct. By attempting to criminalize expres-
+sive activity outside a courthouse, the regulation risks suppressing legitimate
+protest and journalism. This is particularly problematic in traditional public
+forums, where restrictions must survive strict scrutiny.
+Further, the defense cites Brown v. State of La., 383 U.S. 131 (1966), standing
+for the principle that even if conduct violates a regulation, charges must be
+dismissed if enforcement infringes First Amendment rights. This supports the
+claimthatReardon’sconduct,regardlessoftechnicalviolationssuchasnoiseor
+loitering, cannot be prosecuted if it is part of protected expressive activity.
+Strength of the U.S. Attorney’s Response
+Classification of the Forum as Nonpublic
+The government's primary legal defense is that the area where Reardon was
+arrested constitutes a nonpublic forum, a classification which would lower
+the constitutional standard from strict scrutiny to mere reasonableness. This
+2
+argument relies on Perry Educ. Ass’n v. Perry Local Educators’ Ass’n, 460
+U.S. 37 (1983), and Cornelius v. NAACP Legal Def. & Educ. Fund, Inc.,
+473 U.S. 788 (1985), which permit reasonable, content-neutral restrictions in
+nonpublicforum spaces suchas federal building lobbies, entrances, and parking
+areas [citation: government opposition filing].
+However, the factual record — confirmed by third-party reporting — under-
+mines this claim. Reardon was arrested outside the courthouse, not within a
+controlled entranceway. Therefore, Perry and Cornelius are inapplicable, and
+thegovernment'sforumclassificationargumentfailsasamatteroffactandlaw.
+Claim of Content and Viewpoint Neutrality
+The U.S. Attorney argues that § 102-74.390 is content-neutral and viewpoint-
+neutral, citing Ward v. Rock Against Racism, 491 U.S. 781, 791 (1989), and
+Rosenberger v. Rector & Visitors of Univ. of Va., 515 U.S. 819, 828–29 (1995).
+According to this position, the regulation prohibits certain behaviors (noise,
+obstruction) regardless of the speaker’s message, satisfying the intermediate
+scrutiny standard for time, place, and manner regulations.
+While facial neutrality is a strong argument, the defense counters with allega-
+tions of selective prosecution: Reardon was targeted specifically for criticizing
+judicial figures, suggesting content-based enforcement. The presence of a new
+prosecutor, Myers P. Namie, added on September 19, 2025, and formally en-
+rolledonSeptember22,2025,byorderofMagistrateJudgeCarolB.Whitehurst
+[citation: Document 19], does not resolve this concern and could be interpreted
+as bolstering prosecutorial capacity in a potentially contentious case. The op-
+position filing does not adequately rebut the claim of selective enforcement,
+weakening its overall persuasiveness.
+Government Interests in Security and Order
+The government cites Cox v. Louisiana, 379 U.S. 559 (1965), Adderley v.
+Florida, 385 U.S. 39 (1966), and Huminski v. Corsones, 396 F.3d 53 (2d
+Cir. 2005), to assert its interest in maintaining courthouse security, access,
+and decorum [citation: government opposition filing]. These interests are valid
+and substantial, especially in preventing disruptions to judicial proceedings.
+However, such interests do not automatically justify arresting an individual
+engaged in recording, speaking, or protesting at a distance from courthouse
+entrances. The defense maintains that Reardon did not obstruct entrances
+or incite violence. If the evidence confirms peaceful conduct and compliance
+with marshals (as asserted), then the application of the regulation becomes
+unjustified.
+Moreover, precedent such as Grayned v. City of Rockford, 408 U.S. 104 (1972),
+requires that restrictions be “narrowly drafted and must not frustrate the le-
+gitimate exercise of First Amendment rights” [citation: government opposition
+3
+filing]. A blanket application of § 102-74.390 to journalism and protest outside
+a courthouse risks overreach.
+Procedural and Jurisdictional Considerations
+Authority of Magistrate Judge Whitehurst
+A significant procedural issue is the authority of Magistrate Judge Carol B.
+Whitehurst to rule on the motion to dismiss. The case docket shows she han-
+dled the Motion to Enroll counsel (Document 19), but dispositive motions such
+as motions to dismiss in criminal cases typically fall under the jurisdiction of
+district judges unless parties consent under 28 U.S.C. § 636(c).
+According to 28 U.S.C. § 636(b)(1)(A), magistrate judges may hear and deter-
+mine pretrial matters except motions to dismiss or suppress evidence, unless
+specificallyreferredbyadistrictjudge. Websearchresultsconfirmthis: ajudge
+may assign a magistrate to hear pretrial matters, but “except a motion for in-
+junctiverelief,forjudgment,orfordismissal”underRule72oftheFederalRules
+of Civil Procedure, which applies analogously in criminal cases [citation:29, ci-
+tation:30, citation: opposition filing interpretation].
+Therefore,whileJudgeWhitehurstmayconductthehearing,thefinaldecision—
+and issuance of a recommended ruling—would likely require adoption by a dis-
+trict judge. This procedural nuance may influence the timing and authority of
+the upcoming decision.
+Combined Assessment of Motion Strength and Likely Out-
+come
+Weighing the Arguments
+• The defendant’s motion is strong because:
+– It is factually grounded in a traditional public forum (”outside” the
+courthouse) [22].
+– It invokes well-established precedent protecting protest, journalism,
+and petitioning.
+– The facial challenge to § 102-74.390 has merit if applied broadly to
+expressive conduct in public areas.
+• The government’s response is moderately strong because:
+– It correctly articulates content-neutral standards and legitimate se-
+curity interests.
+– However, it mischaracterizes the location of the arrest (outside vs.
+inside).
+– It fails to convincingly rebut selective enforcement or overbreadth.
+4
+Predicted Likelihood of Success
+The combined assessment favors the motion to dismiss. Under Grace and
+Edwards, speech in outdoor public spaces adjacent to courthouses enjoys the
+highestlevelofconstitutionalprotection. Anyattempttoprosecuteajournalist
+using a conduct-based regulation must demonstrate clear, narrowly tailored
+justification—particularly when expressive activity is involved.
+If Reardon’s conduct was peaceful, non-disruptive, and consisted of recording
+and verbal protest, prosecution under § 102-74.390 is unlikely to survive con-
+stitutional scrutiny. The government would need to prove actual obstruction
+or disorderly conduct beyond mere expressive activity, which its current filing
+does not decisively establish.
+Conclusion
+The motion to dismiss has substantial legal strength due to the location of the
+incident—outsideafederalcourthouse—makingUnited States v. Gracedirectly
+applicable and placing the activity in a traditional public forum protected by
+the First Amendment. The defendant’s arguments regarding speech, press, and
+petition are well-supported by precedent. The U.S. Attorney’s response raises
+legitimate concerns about security and order but fails to overcome the consti-
+tutional protections afforded to expressive conduct in public spaces, especially
+given the factual misalignment in forum classification.
+Final Assessment: The motion to dismiss is likely to be granted following
+the November hearing, contingent upon the evidentiary record confirming that
+Reardon’s actions did not involve physical obstruction, threats, or actual dis-
+order that would justify enforcement of the regulation. The presence of a new
+prosecuting attorney does not alter the constitutional calculus. The balance
+of legal arguments, when combined with the specific facts of the case, strongly
+favors the defendant.
+1.41 CFR 102-74.390 -- What is the policy concerning ...
+2.41 CFR § 102-74.390 - What is the policy concerning ...
+3.41 CFR Part 102-74 -- Facility Management
+4.41 CFR Appendix to Part 102-74 to Subpart F of Part 102-74
+5.Content Details - CFR-2003-title41-vol3-sec102-74-390
+6.Code of Federal Regulations Title 41. Public Contracts and ...
+7.CVB Property Within Control of Federal Protective Service
+8.198 PART 102–74—FACILITY MANAGEMENT
+9.Title Offense Fine 41 CFR 102-74.375 Entering property ...
+5
+10.FEDERAL MANAGEMENT REGULATION
+11.Oxford mayor stalker in jail again
+12.REARDON v. STATE (2022)
+13.Judge returns Reardon to prison for violating release
+14.Matt Reardon arrested for alleged aggravated stalking
+15.Reardon violates banishment order, sentenced to prison
+16.”Auditor” gets a year in Prison : r/amibeingdetained
+17.Judge returns Reardon to prison for violating release
+18.Oxford mayor stalker in jail again | Crime & Law Enforcement
+19.Lafayette County Sheriff's Department confrontations in 2020
+20.Man Banned from Lafayette County for Stalking Oxford ...
+21.Reardon sentenced to 2 years in prison for violating ...
+22.Attack on the Press: Journalist Arrested and Framed in ...
+23.CLICK THE PLAY BUTTON to hear premiere
+24.H. Rept. 111-712 - REPORT ON THE ACTIVITIES ...
+25.STATISTICS AS OF JUNE 30, 2025*
+26.List of hazing deaths in the United States
+27.Compendium of Recent CFPB Guidance
+28.Voided Certificate Of Employee Information Reports
+29.28 U.S. Code § 636 - Jurisdiction, powers, and temporary ...
+30.28 U.S.C. § 636 - U.S. Code Title 28. Judiciary and Judicial ...
+31.Rule 73. Magistrate Judges: Trial by Consent; Appeal
+32.Page 310 TITLE 28—JUDICIARY AND JUDICIAL ...
+33.Rule 5.1 Duties of United States Magistrate Judges
+34.Rule 301. Authority of United States Magistrate Judges
+35.A-Guide-to-the-Federal-Magistrate-Judges-System. ...
+36.local rule 72.1
+37.CIVIL CONSENT JURISDICTION OF U.S. MAGISTRATE ...
+38.Whether Magistrate Judge Disposition of Section 2255 ...
+6

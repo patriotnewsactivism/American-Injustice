@@ -1,0 +1,666 @@
+42 U.S.C. § 1985 (3)-A Private
+Action to Vindicate Fourteenth
+ADlendinent Rights: A Paradox
+Resolved
+STEPHANIE M. WILDMAN*
+42 U.S.C. § 1985(3) provides citizens with a cause of action
+against private conspiraciea to violate conatitutional right8. No
+state action prerequiaite ezista f or such lawsuits. However, a par
+ado:e occurs when the citizen seeks to we thi8 remedy to oindi
+cate the fourteenth amendment right to equal protection of the
+laws because such rights do not ezist in the absence of state in
+ooloement. This article neb to resolve this paradoz 'by sug
+gesting that private conspiracies to violate equal protection
+rights do ezist and that Congress had the authority to prow:le cit
+mms
+with a remedy aga.inat such conspiraciu.
+The ''Ku Klux Klan Act," enacted as part of the Civil Rights Act
+of 1871 and now codified as 42 U.S.C. § 1985(3) (1976),1 continues
+• Associate Professor of Law, University of San Francisco. A.B., Stanford
+University, 1970. J.D., Stanford Law School, 19'13. Member, California Bar.
+1. The 1976 edition of the United States Code codlftes the section which is the _
+subject of this article as§ 1985(c). The Revised Statutes refer to the relevant sec
+tion as (3), not (c ). This number and letter difference haa generated some confu
+sion as to proper designation of the section in recent cues and law review articles
+concerning the section. Because the Revised Statutes are primary laws, this arti-
+cle will consistently refer to the statute as§ 1985(3). There is, however, no differ
+ence between § 1985(c) and § 1985(3). The complete text of 42 U.S.C. § 1985(3)
+(1916) (Rev. Stat. § 1980 (1878)) provides:
+If two or more persons in any State or Tenitory conspire or go in disguise
+on the highway or on the_ F-~'!s of another, for the purpose of depriv
+ing, either directly or indlreetly, any penon or clau of persons of the
+equal protection of the laws, or of equal privileges and immunities under
+the lawas or for the purpose of preventm, or hindering the constituted au•
+March 1880 Vol. 17 No. 2
+317
+to present analytic challenges to lawyers and judges more than
+100 years after its passage.2 The Act permits an aggrieved citizen
+to sue private individuals who have conspired to deprive the citi•
+zen of constitutional rights. Because of difficulties in interpreta
+tion, the statute had been infrequently used.3 This article seeks
+to clarify a central issue that has presented federal courts with
+particular difficulty in litigation arising under the statute: how to
+analyze whether section 1985(3) may be used against conspirators
+who seek to deny a citizen's right to equal protection of the laws
+under the fourteenth amendment.4 A claritlcation of this issue
+should increase the usefulness of the statute.
+The issue arose following the United States Supreme Court's
+hoJding in Griffin v. Breckenridge' that no showing of state action
+is required in order to sue under section 1985(3).e This holding
+has created two problems concerning conspiracies to violate four
+teenth amendment rights. The first problem is conceptual: Does
+the statutory language reach conduct by private individuals to de
+prive a citizen of equal protection of the laws as protected by the
+fourteenth amendment when that right to equal protection under
+thorities of any State or Tenitory from giving or securing to all persons
+within such State or Tenitory the equal protection 9f the laWSJ or if two or
+more persons conspire to prevent by force, intimidation, or threat. any cit•
+izeo who is lawfully entitled to vote, from giving bis support or advocacy
+in a legal manner, toward or in favor of the election of any lawfully quali
+fied person as an elector for President or Vice President. or as a Member
+of Congress of the United States; or to injure any citizen in person or
+property on account of such support or advocacy in any case of conspir
+1
+acy set forth in this section, if one or more persons engaged therein do, or
+cause to be done, any act in fwtherance of the object of such conspiracy,
+whereby another is injured in his person or property, or deprived of hav
+ing and exercising any right or privilege of a citizen of the United States,
+the party so injured or deprived may have an action for the recovery of
+damages, occasioned by such injury or deprivation, against any one or
+more of the conspirators.
+2. Se• Great Am. Fed. Sav. & Loan Ass'n v. Novotny, 442 U.S. 386 (1979). 'Ibis
+article does not directly address the question left undecided by Noootng, whether
+a conspiracy to violate a federal statutory rilbt can serve as the underlying basis
+of a § 1985(3) claim. However, the analysis of this article may provide a framework
+for addressing thats is,,s ue.
+auo
+3. Id. at 371. Collins v. Hardyman, 341 U.S. 651, 858 (1951).
+4. Although this article focuses on conspiracies to deny constitutional rights
+protected by the fourteenth amendment, the analysis put forth here is also appli•
+cable to § 1985s(3,.), conspiracies to deny constitutional rights protected by other
+amendments. e.g., Mwphy v. Mount Carmel High School, M3 F.2d 1189, 1194
+(7th Cir. 1978).
+5. 403 U.S. 88 (1971).
+n.
+6. See gtmff'Gllg Note, Sco,H of S•ction 1985(3) Since Griflln v. Brecken•
+ridge, 45 Gso. WASS. L RBV. 239 (19Tl)a Comment. ffie 7nmbkd Waur., o/S ection
+1985(3) Litigation, 19'13 LAw & Soc. ORD. 639, 646-52. For a discussion of GTf/Jln v.
+Bnc~, see Note, Con.ltitutional Law--Stau Action No Longer a bqul.rit,
+Under 42 U.S.C. § 1985(3), 3 SETON HALI. L RBV. 168 (1971)1 Note, Con.rtitutional
+Law Section 1985(3) o/ tJu, Cir,U Rights Act oJ 1811-Color oJ Law Bliminaucl,
+u.
+1972 Iu. L.F. 199.
+318
+(VOL. 17: 317, 1980) PritJate Cause of Action
+SAK DIEGO LAW QVIEW
+the fourteenth amendment does not exist in the absence of state
+involvement? Second, even if such a fourteenth amendment vio
+lation is possible and is reached by the statutory language of sec
+tion 1985 (3), a legal issue remains: Does Congress have the
+-authority to enact legislation such as section 1985(3) to provide a
+remedy for such violations? Thus, if a citizen seeks to sue con
+spirators under section 1985(3) for violating the citizen's four
+teenth amendment right to equal protection of the laws, a
+conceptual and legal paradox is created. The essence of the para
+dox is that, although the Griffin opinion implies that state action
+violating a plaintiff's constitutional right is not necessary to sue
+under section 1985(3), the constitutional right allegedly violated
+the right to equal protection of the laws under the fourteenth
+amendment-does not exist in the absence of state involvement.
+This issue did not arise until Griffin was decided because the
+statute had not been interpreted as providing citizens with a rem- ·
+edy against acts by private individuals.7
+It is the thesis of this article that a private action to vindicate
+fourteenth amendment rights that are violated by private conspir
+acies is constitutional and was precisely the sort of remedy that
+Congress int~nded to create by enacting section 1985(3). The par
+adox is resolved conceptually because this type of action is
+clearly possible, and the paradox is resolved legally because this
+type of action is constitutional.
+THE CONCEPl'UAL PARADOX RESOLVED: A PlllvATB ACl'ION TO
+VnmICATE FOURTEENTH AMENDMENT RIGHTS VIOLATED
+BY PRlvATE CONSPIRACIES
+A conceptual paradox is created by the notion of a private ac
+tion by a citizen to vindicate fourteenth amendment rights which
+have been violated by a private conspiracy. One must examine
+the statutory language to determine whether this sort of conduct
+can be reached by the statute.
+The statutory construction of section 1985(3) was not fully con
+sidered by the United States Supreme Court until 1951 in Collins
+7. There are many examples of why a citizen might seek redress apinst pri
+vate conspiracies to deprive the citizen of the equal protection of the laws. The
+Ku Klux Klan, after which the act was named, historically has been a private
+group that clirected its activities against black citizens or citizens involved in civil
+rights work. See text accompanying notes 15-18 i1fln,L
+319
+v. Hardyman.a In that opinion the Court decided that the section
+protected citizens only from those conspiracies that impaired the
+plaintiff's right to equal protection of the laws. The Court rea
+soned that state action was required because the fourteenth
+amendment did not shield against "merely private conduct."9
+This holding was interpreted as imposing a state action require
+ment on suits brought under the section.to
+Justice Burton, joined in dissent by Justices Black and Douglas,
+argued in Collins: "Congress certainly has the power to create a
+federal cause of action in favor of persons injured by private indi
+viduals through the abridgment of federally created constitutional
+rights."11 The dissenters also pointed out that when Congress in
+tended to limit comparable civil rights statutes to require that a
+defendant had acted under color of state law, it did so in ''unmis
+takable terms."12 The dissenters compared the color of law lan
+guage that appeared explicitly in another section of the same civil
+rights act, the section now codified as 42 U.S.C. § 1983,13 with the
+absence of such language in section 1985(3).
+Twenty years later, this dissenting view of section 1985 (3) was
+vindicated in Griffin v. Breckenridge, when the Court decided that
+section 1985(3) did provide a remedy for damages caused by pri
+vate conspiracies that did not operate under color of state law.
+The Griffin court set out these elements to guide judges in deter
+mining whether a complaint stated a cause of action under sec
+tion 1985(3):
+To come within the legislation a complaint must allege that the defend•
+ants did (1) 'conspire or go in disguise on the highway or on the premises
+of another' (2) 'for the purpose of depriving, either directly or indirecUy,
+any person or class of persons of the equal protection of the laws, or of
+equal privileges and immunities under the Jaws.' It must then assert that
+8. 341 U.S. 651 (1951). See also Great Am. Fed. Sav. & Loan Ass'n v. Novotny,
+442 U.S. 366, 371 n.8 (1979), which mentions two earlier cases that stated c1alms
+based on predecessors of the section but that were not fully conaidered by the
+Court. For a discussion of the early history of the statute, see Gressman, 'I'M Un
+haPP11 Historg ofC iuil Righu Legulation, 50 Mies. L REv. 1323, 1355-57 (1952).
+9. Collins v. Hardyman, 341 U.S. 651,658 (1951) (quoting Shelley v. Kraemer,
+334 U.S. 1, 13 (1948)) (emphasis added). In Collins, plainWfs, members of a politi
+cal club planning to meet and oppose the Marshall plan, claim'!d that defendants
+conspired to deprive them of constitutional rights by interfering with their meet•
+ing.
+10. 341 U.S. at 663-64 (Burton, J., dissenting).
+11. Id. at 684.
+12. Id.
+13. The text of 42 U.S.C. § 1983 (1976) provides:
+Every person who, under color of any statute, ordinance, regulation,
+custom, or usage, of any State or Tenitory, subjects, or causes to be sub
+jected, any citizen of the United States or other person within the jurisc:Uc
+tion thereof to the deprivation of any rights, privileges, or immunities
+secured by the Constitution and laws, shall be liable to the party injured
+in an action at law, suit in equity, or other proper proceedlng for redress.
+320
+THE 5
+LEGAL PARADOX REsOLVED: SECTION OF THE FOUktE&NTH
+A.JLows
+AMENDMENT CONGRESS TO PROVIDE A REMEDY
+FOR CONDUCT BY PRrvA TE PARTIES WHICH
+DEPRIVES CITIZENS OF FOVRTEENTH
+AMENDMENT RIGHTS
+Even though the Forty-second Congress clearly intended to en,
+act a statute that would reach private conspiracies to deprive citl
+zens of fourteenth amendment rights, the question remain!
+whether Congress has the constitutional power to reach privatE
+conduct. The fact that the private conduct regulated is a conspir,
+acy rather than individual-action makes no difference for constitu,
+tional purposes.
+In Griffin v. Breckenridge, the Court articulated a clear position
+that section 1985(3) was a remedial statute that was constitutionaJ
+on its face and that reached private conspiracies to deprive citi
+zens of civil rights. The Court stated: "That § 1985(3) reaches pri
+vate conspiracies to deprive others of legal rights can, of itself,
+cause no doubts of its constitutionality. " 24 Thus according to Grif
+fin, state action is not required in order to bring a suit under sec
+tion 1985 (3). Yet if the constitutional right that is violated is the
+right to equal protection of the laws, section 1 of the fourteenth
+amendment indicates that those rights are violated only if a state
+"shall make or enforce any law [which denies) to any person
+within its jurisdiction the equal protection of the laws. It
+"2a
+would appear that the state must be involved in order to find a
+fourteenth amendment violation. The question then becomes:
+what is the nature of this state involvement?
+The Court in Griffin recognized that a conceptual problem was
+created by its ruling that no state action was required under sec
+tion 1985(3):
+A century of Fourteenth Amendment adjudication has ••• made lt under
+standably cWllcult to conceive of what might conatftute a deprivation of
+the equal protection of the laws by private persons. Yet there ls nothing
+inherent in the phrase that requires the action working the deprivation to
+come from the State. Indeed, the failure to mention any such requisite
+can be viewed as an important indication of congressional intent to speak
+m au
+§ 1985(3) of deprivations of 'equal protection of the laws' and 'equal
+privileges and immunities under the laws,' whatever theJr source.28
+24. Griflln v. Breckenridge, 403 U.S. 88 104 (1971).
+1
+25. The relevant text of § 1 of the fourteenth amendment provides:
+No state shall make or enforce any law which shall abridge the privileges
+or immunities of citizens of the United States, nor shall any state deprive
+any penon of life, liberty, or pro~. without due process of law, nor
+deny to any person within its jurisdiction the equal protectlon of the laws.
+Section 5 provides: WZ'be Congress shall have power to enforce, by appropriate
+legislation. the provisions of this article."
+26. Griffin v. Breckenridge, 403 U.S. 88, 9'1 (1971) (citation omitted).
+324
+(VOL. 17: 317, 1980] Private Cause of Action
+SAN DIBGO LAW UVIBW
+The Court emphasized that the violation of a fourteenth amend
+ment right by private conduct could serve as the basis of a section
+1985(3) suit or at least that it was conceptually possible. The
+Court declined, however, to consider the constitutionality of such
+a section 1985(3) action.
+As to the source of congressional authority to reach this private
+conduct, the legal aspect of this paradox, the Court indicated that
+the constitutionality of the statute would best be decided on a
+case-by-case basis: "Consequently, we need not find the language
+of§ 1985(3) now before us constitutional in all its possible appli
+cations in order to uphold its facial constitutionality and its appli
+cation to the complaint in this case.''27 The Court proceeded to
+identify the source of congressional power to reach the private
+conspiracy by white defendants to assault black plaintiffs alleged
+in the Griffin complaint as the thirteenth amendment and the
+constitutional right of interstate travel28 These rights are not pre
+mised on a requirement of state action or involvement.29 Thus, in
+Gri/fin, the Court did not have to consider the constitutional
+question of whether Congress had the power to reach private con
+spiratorial conduct that violated fourteenth amendment rights.
+There are three possible analytic positions relating to the reso
+lution of this paradox and to Congress' power under section 5 of
+the fourteenth amendmentao to reach private conspiratorial con
+duct to deny fourteenth amendment rights following Grvfi,n. Es
+sentially, they are that under the Constitution, section 1985(3)
+covers no such conduct, all such conduct, or something in be
+tween.
+The first position, the most interpretation, would be that
+D81TOW
+Congress cannot constitutionally reach, by means of section
+1985(3), private conspiracies to violate fourteenth amendment
+rights. Adherents of this position would argue that section
+21. Id. at 104. This position by the Court at ftrst glance appears counter intui
+tive-how can the constitutional basis for enacting a statute change dependiq on
+the set of facts alleged in a particular cue? However, the casea have made clear
+I
+that 1985(3) la a remedial statutei it does not create any rights that are not al
+ready in existence. It merely provides a vehicle for vindicating those rights that
+already exist. Thus it la only a constitutional vehicle to remedy violations of con
+stitutional rights, if Congress could reach the prohibited conduct under the Con
+stitution.
+28. See id. at 105-06. Justice Harlan concurred specially to say that he did not
+rely on the right to travel to reach the result that the statute wu constitutional.
+29. Id.
+30. For the text of § 5, see note 25 8'Up1'G.
+325
+1985 (3) can be used to reach fourteenth amendment rights only if
+there has been state action. This interpretation appears to be pre
+cluded by some of the language of the Griffin opinion itself.31
+At the opposite extreme, one could argue that section 1985(3)
+provides a remedy against all private conduct in which individu
+als have conspired to violate a citizen's constitutional right to
+equal protection. This argument is based upon the theory that
+Congress is authorized to create substantive statutory rights in
+furtherance of the goals of the fourteenth amendment.32 Al
+though this is an attractive civil libertarian position, it is of dubi
+ous constitutional merit based on decisions at this time.33
+Finally, a middle position between these two extremes is possi
+ble. Section 1985(3) provides a remedy against private conduct to
+violate constitutional rights if an element of state involvement is
+present to trigger the fourteenth amendment violation. There
+would be no fourteenth amendment violation unless the state
+were involved, but this involvement need not necessarily be at a
+level that would constitute state action for other fourteenth
+amendment litigation purposes, such as a suit filed under section
+1983.34
+This middle position can be illustrated by example. Suppose,
+first, that a group of private individuals conspire to prevent a vic
+tim from atte111:ting a private school This conduct would be an ex
+ample of a private conspiracy that violates no constitutional right.
+31. See text accompanying note 26 supra. For law review articles asserting
+this position, see Avins, The Ku Kluz Klan Act of 1811: &nM Rl:Jkcted Light on
+State Action and the Fourteenth .A.mendfflffll, 11 ST. LoVJS U.U. 331 (1967)1 Fair
+man, Dou the Fourumth .A.mendfflfflt Incorporate the BUI ofR ight.rt The Original
+Understanding, 2 STAM. L. Rsv. 5 (1949)1 Monison, Dou the Foraumth .Anumd
+ment lncorportlU tM Bill of Rights? TM Judicial lntapretation, 2 STAN. L. Rsv.
+140 (1949).
+32. This position is discussed in many books and law review articles, inclucllng
+H. FLACK, THE AooPrION OF Tm FoUBTEENTB A1.mm>IIENT (1908)s R. HA1uus, 'l'HB
+QUEST FOR EQUALITY' (1960)1 J. TEN BROBK, THE ANTI-SLAVERY O.RJGINS OP THE
+FOURTSBNTB AlmNDIIBNT (195l)s Crosskey, Charlu Fainnan, "Legislatiw llis
+tory," and the Constitutional Limitation., on St.au .Authoriq/, 22 U. Cm. L. RBv. 1
+(1954) Frank & Munro, The Original llntkrmnding of "Equal Prouction o/ th,
+1
+Laws," 50 CoLUM. L. Rzv. 131 (1950) Comment, 'l'Moriu ofF edmuism and Cir,U
+1
+Right$, 75 YALE L.J.1007, 1043-49 (1968).
+33. There have been decisions that reached private conduct that interfered
+with constitutional rights. In relation to a state constitution, see Gay Law Stu
+dents v. Paciftc TeL & TeL Co., 24 Cal 3d 458, 595 P .2d 592, 156 CaL Rptr. 14 (1979).
+34. For a brief summary of the concept of state action, see Brown, Emerson,
+Falk, & Freedman, The Equal Rights Amendment: .A. Constitutional Basisf or Equal
+Righufor Women, 80 YALE L.J. 871. 905 (1971)1 Note, DeHlopmenl,s in the Law-
+Equal Protection, 82 BAav. L. RBv. 1065, 1089-12 (1969). Major cases in tb1a area
+include: Jackson v. Metropolitan Edison Co., 419 U.S. 3t5 (1974)1 Moose Lodge No.
+10'1 v. Irvis, 407 U.S. 163 (1972)1 Evans v. Newton, 382 U.S. 298 (1968)1 Burton v. Wil
+mington Parking Auth., 365 U.S. 715 (1961) Terry v. Adams, 345 U.S. 461 (1953)1
+1
+Shelley v. Kraemer, 334 U.S. 1 (1948), Marsh v. Alabarna, 328 U.S. 501 (1948).
+326
+(VOL. 17: 317, 1980) Private Cause of Action
+SAN DIEGO LAW llBVIBW
+Although this conduct is sociaUy undesirable, the fourteenth
+amendment is not offended by this private behavior.35
+Suppose that this same group of private individuals conspires
+to prevent the victim from attending a public school The four
+teenth amendment protects the individual's right to attend the
+school from infringement by the state. The state is also involved
+in the creation of the right that is being infringed-the state bas
+created the school for the purpose of allowing all citizens equal
+access to the school The manipulation of and interference with
+the state purpose by private persons, who would conspire to frus
+trate the citizens' enjoyment of these rights, is precisely the type
+of conduct that Congress sought to protect citizens against by en
+acting section 1985(3). Thus the state must be involved in creat
+ing the right that has been infringed for a section 1985(3) violation
+to exist, but it is not necessary that the state by its action inter
+fere with the citizen's enjoyment of the right.
+Notice that the state's involvement in the latter example is
+probably not at a level that would be called "state action" for
+other fourteenth amendment litigation purposes.36 The citizen
+could not sue the state for violating the individual's fourteenth
+amendment right. This is appropriate because the state has done
+no wrong. It has been, in a sense, a victim of the private conspir
+acy along with the citizen because one of its citizens is not receiv
+ing equal treatment under the law. The state is duped by the
+existence of the conspiracy.
+Congress has broad enforcement power under section 5 of the
+fourteenth amendment37 and is "chiefly responsible"38 for imple
+menting the rights which the amendment guarantees. Under sec
+tion 5, Congress is authorized to "exercise its discretion in
+determining whether and what legislation is needed to secure the
+35. In Action v. Gannon, 450 F .2d 1227 (8th Cir. 1971), the court found that Con
+gress constitutionally could remedy under the fourteenth amendment an alleged
+private conspiracy by militant black organizations to prevent whites from attend
+ing a church, where they would not admit blacks to services. It is dillcult to avoid
+the conclusion that the court's eagerness to find that Congress had the constitu
+tional power to reach this private conduct was motivated by a poliUcal view of the
+fact situation. However, several other circuits have held that § 1985(3) suits may
+reach private conduct. See Westbeny v. Gilman Paper Co., 507 F.2d 206 (5th Cir.),
+uacated, 507 F.2d 216 (5th Cir. 1975) Rtchardson v. Miller, 446 F.2d 124'1 (3d CJr.
+1
+19'11).
+36. See note 34 mpra.
+3?. For the text of § 5, see note 25 supra.
+38. South Carolina v. Katzenbach, 383 U.S. 301,326 (1968).
+327
+guarantees of the Fourteenth Amendment.''39 Great deference is
+to be accorded to the congressional determination of what meas
+ures are appropriate in order to secure the constitutional objec
+tive.40
+Thus, the power of Congress under section 5 to enact legislation
+is not limited to the language of the amendment, which when
+read literally appears to apply only to states. The enumerated
+powers in the Constitution specify the permissible goals or ends
+of congressional legislation. Congress may select the method or
+means that will most effectively achieve the constitutional objec
+tive. The classic formulation of the test by Chief Justice Marshall
+appeared in McCulloch v. Maryland: "Let the end be legitimate,
+let it be within the scope of the constitution, and all means which
+are appropriate, which are plainly adapted to that end, which are
+not prohibited, but consist with the letter and spirit of the consti
+tution, are constitutional."41 It seems that in exercising the en
+forcement powers provided under section 5, "Congress is not
+limited to remedying inequalities which the courts would deter
+mine to be violative of the Constitution. It may prohibit conduct
+which would not otherwise be unlawful in order to secure the
+guarantees of the Fourteenth Amendment."G
+Several cases shed light on this problem of congressional power
+to bypass the state action requirement of the fourteenth amend•
+ment and to reach directly to private conspiracies to deprive a cit•
+izen of the equal protection of the laws. These cases suggest that
+as long as the state has been involved somehow with the right
+that is being denied, Congress may constitutionally act to protect
+the citizen from ·the deprivation of the right by private individu
+als.
+In United States v. Guest,o a criminal case brought under 42
+U.S.C. § 241, described as ''the closest remaining criminal ana
+logue to § 1985(3),"'" the Court had the opportunity to construe an
+allegation of a private conspiracy to deprive blacks of equal utili
+zation of public facilities.• Commenting that this allegation was
+39. Katzenbach v. Morgan, 384 U.S. 641, 651 (1966).
+40. Id. at 653. Many cases support the notion that con,ressional determlna•
+s~c,
+tions are presumptively constitutional. &g., Leary v. United States, 395 U.S. 6,
+38 (1969)s Adkins v. Children's Hosp., 261 U.S. 525,544 (1923).
+41. McCulloch v. Maryland, 17 U.S. (4 Wheal) 318,421 (1819).
+42. Bond v. Stanton, 555 F.2d 1'12, 174-75 (7th Cir. lffl), cm. dmi1d, 438 U.S.
+916 (1978) (citing Katzenbach v. Morgan, 3M U.S. 841, 652-53, 656 (1966)). Sn allo
+Cox, 77ur Suprn,N C~ 1965 Tc,, m 190tfllJOrd: Con.rtitutional Adjudication and
+tM Promotion ofH uman Rights, 80 BAav. L. Rzv. 91, 101 (1966).
+43. 383 U.S. 745 (1966).
+44. Griffin v. Breckenridge, 403 U.S. 88. 98 (1971).
+45. United States v. Gue,t, 383 U.S. 745, 753 (1966). The entire indictment ap
+pears in footnote 1 of the opinion.
+328
+Private Cawe of Action
+(VOL. 17: 317, 1980)
+SAN DIBGO LAW BBVIBW
+"embracing rights protected by the Equal Protection Clause of
+the Fourteenth Amendment,"46 the Court found that Congress
+had the power to remedy, in this instance by means of criminal
+punishment, the violation of these constitutional rights.
+The Court did not accept the argument that the indictment
+should be dismissed because it contained no allegation that any
+one acted under color of state law. The Court noted that although
+rights under the equal protection clause arise only where there
+has been involvement of the state or someone acting under color
+of its authority, the involvement of the state need not be either
+exclusive or direct.47 Although the Court declined to address the
+issue of the level of state involvement required to create rights
+under the equal protection clause,48 it seems clear from the four
+opinions filed in Guest that direct state action is not required by
+section 5 of \he fourteenth amendment Rather, it was sufficient
+that there was some state involvement, which would be necessary
+in order to create the fourteenth amendment right.49 In Guest the
+state had provided the facility to which the victims of the conspir
+acy were denied equal access.
+This state involvement analysis has been followed by several
+circuit courts. In the Seventh Circuit case of Dombrowski v. Dow
+ling,so a white lawyer engaged in the practice of criminal law
+brought a section 1985(3) suit against the managers of a building
+in which he sought to rent office space, alleging discrimination
+based on the race of his clients. The court, in denying the exist
+ence of a section 1985(3) claim, found that arbitrary business dis
+crimination against lawyers is not an equal protection vio~tion "if
+there is no state involvement whatsoever in the discrimination.
+"51
+Here, the Seventh Circuit looked for state involvement, rather
+than state action, as a necessary basis for a section 1985(3) suit
+involving a fourteenth amendment violation.
+~- Id. No allegation of state involvement had been made in Gri6in, so the
+Court could not easily have based the constitutionality off 1985(3) on the four
+teenth amendment in that case.
+47. 383 U.S. at '155.
+argument
+48. The conCWTence by Justice Clark in Guut lends credence to the
+that f 5 empowers Congress to enact laws punishing all conspiracies with or with
+out state action-the second analytic alternative discussed in the text.
+49. See Note, Fourtemth Amendment Congrusional 1'owff' to IAt,illau
+Againn Privau Discrimination.,: 77N Guest Ca.n, 52 CoRNSU. L. Q. 586 (1967).
+50. 459 F.2d 190 ('1th Cir. 19'12).
+51. Id. at 198. See also Murphy v. Mount Carmel Bigti School, 543 I'. 2d 1189,
+1194 ('1th Cir. 1976).
+329
+The afflrmance by the Fourth Circuit of the dismissal of plain
+tiff's section 1985(3) cause of action in Bellamy v. Mason's Stores,
+Inc.52 was also supported by a "state involvement" analysis of the
+requirement for bringing a cause of action under the section. The
+court wrote: "Although it is clear that state action is not necessar•
+ily an essential ingredient under this statute, nevertheless we
+think that some state involvement is necessary in this particular
+application of the statute in order to maintain a cause of action.''53
+The plaintiff in that case had alleged a deprivation of his first
+amendment right to free association, arguing he had been fired
+from his employment because he was a member of the Ku Klux
+Klan. The court found no involvement of the government in this
+deprivation of free association and held that the suit could not be
+brought under section 1985(3).
+In both Domurowski and Bellamy, the plaintiffs' section 1985(3)
+claims were dismissed because they had made no showing of
+state involvement in the deprivation of their constitutional rights.
+There are few examples of section 1985(3) cases that allege suffl•
+cient state involvement to support the claimed deprivation of the
+fourteenth amendment right to equal protection of the laws that
+do not also have the additional component of state action that
+would be sufficient for a section 1983 StJit.54
+An example of a section 1985(3) suit against defendants for a
+private conspiracy to deprive a citizen-plaintiff of the fourteenth
+amendment right to the equal protection of the laws, which usu
+ally requires state involvement, is illustrated in a modem context
+by Life Jnsu,rance Co. ofN orth America v. Reichardt.as Reichardt
+suggests a new frontier upon which the struggle by citizens to se
+cure their constitutional rights may occur.
+Plaintiff Ms. Reichardt alleged a conspiracy by insurance com•
+panies under section 1985(3) to discriminate against women in
+52. 508 F.2d 504 (4th Cir. 1974).
+53. Id. at 506.
+54. See, e.g., Glasson v. City of Louisville, 518 F. 2d 899 (6th Cir.), cert. denied,
+423 U.S. 930 (1975), where the plaintiff, who was waiting to see a presidential mo
+torcade and was carrying a sign critical of the president, sued the police who forcl•
+bly took the sign from her under both ff 1985(3) and 1983.
+55. 591 F .2d 499 (9th Cir. 1979). The first district court opinion in the cue Is
+reported mb nom. Reichardt v. Payne, 396 F. Supp. 1010 (N.D. Cal. 1975). On De
+cember 14, 1979, after this article had been accepted for publication, the district
+court issued an opinion mb nom. Reichardt v. Life Ina. Co. of America, 485 F.
+Supp. 56 (N.D. Cal 19'19), ,ranting defendants' motion to dismiss. The court found
+that plaintiff's claim about unequal enforcement of the state insurance act, which
+had been argued in the briefs opposing the motion to dfsmfu, was "far from the
+plain gravamen of the (original) complaint. • • •" 485 F. Supp. at 83. In dismlufng
+the case, the court noted that plaint:Ur could pursue her dafm in the California
+state courts where she had a similar action pending.
+330
+(VOL. 17: 317, 1980) Prioate Cawe of Action
+SAN DIEGO LAW REVIEW
+the sale of disability insurance as to the terms, conditions, and
+rates of that insurance. She also alleged a section 1983 claim
+against the state insurance commissioner which the N'mth Circuit
+dismissed, holding that there was insufficient state action to sup
+port a section 1983 cause of action.58 The N'mth Circuit retained
+the section 1985(3) claim.
+In analyzing the existence of a section 1985(3) claim against in
+surance companies, the Ninth Circuit focused on the second
+prong of the GriJfin v. Breckenridge test which, according to the
+Court's analysis, required two elements: (1) the violation of a
+protected right and (2) an invidiously discriminatory class-based
+animus motivating the violation.57
+The Ninth Circuit acknowledged that "what might constitute a
+deprivation of equal protection by private persons" was not
+clearly articulated by the Court in GriJfi,n,58 but found such a dep
+rivation of equal protection in the denial to plaintiff Reichardt of
+her entitlement to be free from private acts of discrimination as
+guaranteed by the state through the California Civil Rights Act.59
+It would appear that this separate state civil rights statute
+prohibiting discrimination is not necessary to the analysis in or
+der for a section 1985(3) conspiracy suit to be constitutional be
+cause state involvement exists regardless of the civil rights
+statute. The State of California had established an insurance
+commission for reviewing insurance policy forms. The Ninth Cir
+cuit held that the mere approval by the Commissioner of the pol
+icy forms did not constitute state action for purposes of the
+section 1983 cause of action. But this state involvement, although
+58. Life Ins. Co. of America v. Reichardt, 591 F.2d 499,502 (9th Cir. 1979).
+51. Id. at 502-03. Critics, opposing the interpretation of§ 1985(3) to provide re
+dress for private conspiracies to violate fourteenth amendment rights in cases of
+state involvement, argue that such a view will open the floodgates, swamping the
+federal courts with enforcing a general federal tort remedy. The requirement that
+the conspiracy be motivated by a clua animu. should insure that the section will
+be used only In those situations where federal intervention is w8lT&llted to vindi
+cate the constitutional rights of the powerleu. Sn Comment, .A Condnlction of
+Section 1985(c) in Light o/ Ju Original Purpon, 48 U. Cm. L. REV. 4m, 429-32
+(1919).
+58. 591 F.2d at 503.
+59. Id. at 504-05. CAL. CIV. CoDB § 51 (West Supp.1979) provides: "All persons
+within the jurisdiction of this state are free and equal, and no matter what their
+sex, race, color, religion, ancestry, or national origin are entitled to the full and
+equal accomodations, advantaps, facilities, privilege-, or aervicea In all buainess
+establishments of every kind whatsoever."
+331
+•
+not sufficient for section 1983, is sufficient as state involvement for
+purposes of a section 1985(3) suit.
+In the Reichardt case, the state, by creating the Insurance
+Commission and the set of regulatory laws, had the obligation to
+see that the Commission operated equally in relation to all its cit
+izens.so No disability insurance policy could issue until the Com
+missioner had approved the rates and form of the policy.e1
+Plaintiff alleged in her complaint that because of defendant's con
+spiracy, the state was being hindered in operating equally in rela
+tion to all its citizens. This type of problem, translated into a
+modern context, is precisely the sort of conspiratorial conduct for
+which Congress sought to provide a federal remedy. The state
+again is the dupe of the conspiracy and that federal remedy is
+constitutional, as long as the state was involved in creating the
+right that has been infringed. The state is allegedly being
+manipulated by a private conspiracy, here of insurance compa
+nies, which is frustrating the state's ability to ensure that a citi
+zen receives equal protection of the laws. The operation of the
+State Insurance Commissioner is impaired. Creation of this fed
+eral remedy to protect this constitutional right from violation is
+60. As the district court noted in Reichardt v. Pagnr.
+Section 10291.5 of the Califomia Insurance Code deals with the Commis
+sioner's power to <liPllow disability policies. The section provides in per
+tinent part, as follows: "Polici~s not to ~ approved: Rulu and
+Regulationr. Fithdmwal of approval: RniftD: Construction of nction:
+When ,Jfectiw: Pruumption: Application ofs ection. (a) The purpose of
+this section is to prevent, in respect to disability insurance, fraud. unfair
+trade practices, and insurance economically unsound to the insured. (b)
+The commissioner shall not approve any disability policy for issuance or
+delivery in this state:
+• • • •
+(13) If it fails to conform in any respect with any law of this state."
+Reichardt v. Payne, 396 F. Supp. 1010, 1014 (1975), old in part and rnnanthd sub
+nom. Life Ins. Co. of America v. Reichardt, 591 F.2d 499 (9th Cir. 19'19).
+61. Id. The opinion goes on to describe the responsibWtfes of the State Insur-
+ance Commissioner as follows:
+Section 10290 provides that no disability policy can issue until the Com•
+missioner has approved the rates and the form of the policy. Section
+10291..5(b) (13) provides that the Commissioner shall not approve a disabll•
+ity pollc, that falls to conform in any respect with any law of the State of
+Califorma. Section 10291.S(g) makes it clear that the code sectlon is to be
+•:e
+plied liberally and Section 10401 makes it a misdemeanor for any disa
+bility insurer to permit discrimination between insureds of the same class.
+This section provides that: "Ang incorporaud imum- admitud for disa-
+bility insr.muu:e and any agent of such insurer, that maku or permit,, dis
+crimination betwem innncb oft he same cla.u in ang mamaa-u,l,auoe,,.,
+with relation to nu:h ffl.fUTtJncll, is guUtg of a mi«um«mor • •••" Al•
+though the Commls,loner Is prohibited from flying ,;,r ruulatfu rates for
+disability policies under Section 10291.S(g), the Commlufoner still bu the
+power and the duty under Sections 10291.5(b) (13) and 1M01 of the Insur
+ance Code to disapprove altogether a dlscrimlnator;y disability policy.
+Id. at 1014-15 (footnotes omitted) ( emphuia added by the court).
+332
+(VOL. 1'1: 31'7, 1980] Private Ca.use of Action
+SAN DIEGO LAW BBVIEW
+constitutional.62
+CONCLUSION
+Although the equal protection clause commands no state to
+deny its citizens the equal protection of the laws, private individu
+als, groups of private individuals, or nongovernmental bodies,
+such as corporations, all potentially may hinder a state's effort to
+assure rights under the fourteenth amendment to its citizens.
+Section 1985(3) provides a remedy to citizens for infringement of
+the right to equal protection of the laws in all but the first situa•
+tion in which one individual attempts to hinder state efforts and
+in which there is no conspiracy.63
+Conspiracies by groups of individuals or by corporations may
+potentially invade a citizen's constitutional rights in a far more
+serious way than direct action by government to infringe those
+rights. The treatment of corporations as individuals,M rather than
+as the powerful entities that they are, mak~s the task of develop
+ing a jurisprudence of civil rights that affords human individuals
+the protections envisioned by the Constitution an urgent one.
+Congress had used its power as early as 1871 to enact a federal
+remedy for conspiracies to deny citizens their fundamental rights.
+It remains the challenge of the twentieth century to see that this
+remedy is utilized.
+62. See text accompanying notes 31-51 infra.
+63. For a discussion of the issue presented by conspiracies of private individu
+als within one corporate entity, see Note, /ntracorpc,,uu Compiraciu 'Undff 42
+u.s.c. n
+§ 1985(c), HARv. L. REv. 4'10 (1978).
+64. See FJrst Nat'l Bank v. Bellotti, 435 U.S. 765 (19'18).
+333

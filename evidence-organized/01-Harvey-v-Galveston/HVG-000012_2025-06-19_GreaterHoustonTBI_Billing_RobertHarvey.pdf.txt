@@ -1,0 +1,20 @@
+GREATER HOUSTON TBI
+403 N. YORK STREET
+Page
+HOUSTON, TX 77003
+9/23/2024 1
+TAX ID: 99-2134345
+Chart Number
+ROBERT HARVEY
+HARRO009
+830 23RD ST
+DICKINSON, TX 77539
+Date CPT Modifiers Units Diagnosis Description Provider of Service Amount
+Statement Date
+Previous Balance: 0.00
+Patient: ROBERT HARVEY Dx ICD10: A) F07.81 B)H81.8X9 C) D)
+Chart #: HARRO009 E) F) G) H)
+06/21/2024 PI GHTBI I) J) K) L)
+09/06/24 99203 95 1 A B New Patient-Expanded GEORGE KHOURI DO 1,674.00
+Past Due 30 Days Past Due 60 Days Past Due 90 Days Balance Due
+0.00 0.00 0.00 1,674.00

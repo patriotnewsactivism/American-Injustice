@@ -1,0 +1,91 @@
+1. The Introduction:
+o "Good morning, Your Honor. Matthew Reardon, appearing on my own behalf."
+2. The Purpose:
+o "I have received the Court's notice and I am prepared to discuss the scheduling
+order and all pending matters."
+3. Raise Your Key Points (get these on the record!):
+o "Your Honor, before we set deadlines, there are two key issues that will affect the
+schedule that I need to bring to the Court's attention."
+o "First, is the matter of service on two defendants in Mississippi, Hoby James and
+Kandis Beavers. I have encountered significant difficulties and may require the
+Court's assistance to effect service, which will impact discovery deadlines."
+o "Second, I intend to file an Amended Complaint to add critical facts that have
+come to my attention since the initial filing. This will likely affect the defendants'
+current Motion to Dismiss and should be addressed before we set a final deadline
+for that response."
+❗ Potential Issues to Deal With (Reading the Defense) ❗
+Be ready for these topics to come up. Here's how to handle them!
+ The Consent to a Magistrate Judge: The notice specifically says to be ready for this!
+o What it is: This form lets you agree to have Magistrate Judge Edison handle
+EVERYTHING in your case, including the trial and final judgment. If you
+consent, any appeal goes straight to the Fifth Circuit Court of Appeals.
+o Your Decision: This is 100% your call.
+ Pro-Consent: Magistrate judges often have more time and can move
+cases along faster. It can be very efficient.
+ Anti-Consent: You have a right to have an Article III District Judge (like
+Judge Brown) preside over your trial and enter the final judgment.
+o What to Say: "Your Honor, I have reviewed the consent form. At this time, I
+would like to [state your choice: 'consent to proceed before you' OR 'reserve my
+right to proceed before the District Judge']."
+ The Docket Control Order (DCO): This is the main event! The judge will want to set
+deadlines for everything. Be ready with a calendar!
+o Potential Deadlines: Amending Pleadings, Adding Parties, Disclosures, Expert
+Witnesses, Discovery Completion, Dispositive Motions (like Summary
+Judgment).
+o Your Stance: Argue for more time, not less! Say, "Your Honor, given the
+complexity of the case, the interstate conspiracy allegations, and the issues with
+service in Mississippi, I believe a discovery period of at least [suggest a number,
+e.g., 8-10 months] is necessary to adequately prepare."
+❗ Things to BRING FORWARD (Your Offensive Plays) ❗
+Be proactive! Don't wait to be asked about these. You bring them up!
+ Service Issues on MS Defendants: This is CRITICAL. It stops the clock on them.
+o Say this: "Your Honor, regarding service on Deputies James and Beavers, the
+Lafayette County Sheriff's Department has been uncooperative. I will likely need
+to file a motion for assistance from the Court to ensure they are properly served,
+and I wanted the Court to be aware of this delay."
+ Your Amended Complaint: This is your #1 priority! It can make their current Motion to
+Dismiss moot.
+o Say this: "Your Honor, because I intend to file an Amended Complaint, I'd
+request that the Court set a deadline for me to file that amended complaint, and
+then set a new briefing schedule for any motions to dismiss afterward. It would be
+most efficient to address the amended complaint rather than the current one."
+ Initial Discovery Needs: Briefly hint at what's coming.
+o Say this: "Your Honor, just for purposes of scheduling, I want to note that
+discovery in this case will be extensive, as I will need to seek documents from the
+City of Galveston regarding their policies, training, and supervision to support my
+Monell claim."
+❗ Things to HOLD BACK ON (Avoiding Penalties) ❗
+What you DON'T do is just as important as what you DO!
+ DO NOT ARGUE THE MERITS: Do not get into a debate about the Motion to
+Dismiss. Today is NOT the day to argue about whether Officer Osteen is a liar or if you
+were wronged. The judge will cut you off. If it comes up, just say, "Your Honor, I will
+address all of those arguments in my written response, which I believe should be filed
+after I've had an opportunity to amend my complaint."
+ DO NOT GET EMOTIONAL: Stay calm, cool, and professional. You are a serious
+advocate. Let the facts in your complaint do the emotional work.
+ DO NOT BE COMBATIVE: With the judge or opposing counsel. Be firm and
+confident, but always respectful. Use "Your Honor" and refer to the other side as
+"opposing counsel" or "counsel for the City."
+"Your Honor, regarding UTMB's motion to stay based on sovereign immunity, in the interest of
+streamlining this litigation, I am willing to amend my complaint to seek only declaratory and injunctive
+relief against UTMB as an institution. This would resolve the sovereign immunity issue while allowing
+for necessary discovery into their policies regarding forced medical procedures performed at the
+request of law enforcement."
+"Alternatively, Your Honor, as I will already be filing an amended complaint, I am prepared to name the
+responsible UTMB executives or policymakers in their individual capacities. The Eleventh Amendment
+does not protect state officials sued in their individual capacity for damages. This would also resolve the
+stay and allow all claims to proceed on the merits."
+"Your Honor, to efficiently resolve UTMB's motion to stay, I propose two paths forward. I am willing to
+either amend the complaint to seek only declaratory relief against the institution, OR I can amend it to
+name the responsible officials in their individual capacities. I am prepared to proceed either way the
+Court and opposing counsel believe is most appropriate to keep this case moving forward."
+"Your Honor, to assist the Court and expedite today's conference, I have prepared a proposed timeline
+for the key deadlines. My primary request is for 30 days to file the amended complaint, which I believe
+will clarify the issues and streamline the rest of the litigation. After that, I propose a 10-month discovery
+period to account for the interstate nature of the case."
+"Your Honor, allowing me to amend the complaint now will be the most efficient path forward. It will
+ensure that the defendants' motion to dismiss targets the operative pleading, preventing the need for
+multiple rounds of briefing and saving the Court's time."
+"Your Honor, addressing the service issues in Mississippi now is critical for an efficient
+discovery process. We cannot have meaningful discovery until all parties are properly before the
+Court."

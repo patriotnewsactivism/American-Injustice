@@ -1,0 +1,639 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+GALVESTON DIVISION
+ROBERT HARVEY §
+Plaintiff §
+§ CIVIL ACTION NO. 3:25-cv-00058
+v. §
+§ JUDGE JEFFREY V. BROWN
+WILLIAM ROY, in his individual capacity; §
+and § (“JURY REQUESTED”)
+CITY OF GALVESTON §
+aka §
+GALVESTON FIRE DEPARTMENT §
+Defendants §
+PLAINTIFF'S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS
+PLAINTIIF’S CLAIMS
+Respectfully submitted,
+/s/ Benjamin S. Campagna
+BENJAMIN S. CAMPAGNA
+Federal ID No. 3822709
+Texas Bar No. 24078302
+Email: ben@txattorneygroup.com
+/s/ David Bleakney
+DAVID BLEAKNEY
+Federal ID No. 3749624
+Texas Bar No. 24103798
+Email: david@txattorneygroup.com
+TX Attorney Group, PLLC
+405 Main Street, Suite 1000
+Houston, TX 77002
+Telephone: (281) 815-0387
+Facsimile: (281) 612-3006
+e-Service Email: e-service@txattorneygroup.com
+ATTORNEYS FOR PLAINTIFF
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 1
+TABLE OF CONTENTS
+TABLE OF CONTENTS ..................................................................................................... 2
+TABLE OF AUTHORITIES................................................................................................ 4
+I. NATURE AND STAGE OF THE PROCEEDING .......................................................... 7
+II. SUMMARY OF THE ARGUMENT .............................................................................. 7
+III. PLAINTIFF’S ALLEGATIONS AND DEFENDANT’S EXTRANEOUS
+EVIDENCE ..................................................................................................................... 8
+IV. STANDARD OF REVIEW .......................................................................................... 10
+V. ARGUMENTS AND AUTHORITIES .......................................................................... 12
+A. Plaintiff has pled facts supporting a Fourth Amendment claim. ............................. 12
+1. Plaintiff was seized. ................................................................................................. 12
+2. Plaintiff alleges a claim of excessive force............................................................... 13
+B. Plaintiff pleads facts which plausibly show a claim under the Fourteenth
+Amendment. .............................................................................................................. 15
+C. Plaintiff pleads facts which plausibly overcome qualified immunity. ..................... 17
+1. Clearly established legal authority prohibited Chief Roy’s conduct. ........................ 17
+2. No objective first responder would have reasonably believed that Chief Roy’s
+response to the fire scene in this case was reasonable or not prohibited by well-
+settled law. ............................................................................................................... 18
+D. Plaintiff has alleged facts which state a plausible claim against the City. ............... 19
+1. Decision by a policymaker. ...................................................................................... 19
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 2
+2. Ratification. ............................................................................................................. 20
+E. Plaintiff states a claim under Texas law. ................................................................... 21
+1. The Texas election of remedies statute does not bar a suit against Chief Roy in his
+individual capacity. .................................................................................................. 21
+2. The City is not immune from claims asserted under Texas law. ............................... 22
+F. Plaintiff only seeks punitive damages against Chief Roy. ......................................... 27
+VI. CONCLUSION AND PRAYER .................................................................................. 28
+CERTIFICATE OF SERVICE .......................................................................................... 29
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 3
+TABLE OF AUTHORITIES
+Cases
+Adickes v. S.H. Kress & Co., 398 U.S. 144, 159 (1970) ..................................................... 9
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986) ............................................... 9
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) .............................................................. 11, 15
+Bell Atl. Corp. v. Twombly, 550 U.S. 544, 556 (2007) ............................................... 11, 15
+Brower v. Cnty. of Inyo, 489 U.S. 593, 599 (1989) .......................................................... 13
+Brown v. Bryan Cnty., 219 F.3d 450, 462 (5th Cir. 2000) ................................................ 20
+California v. Hodari D., 499 U.S. 621, 625 (1991) ......................................................... 12
+Cathey v. Booth, 900 S.W.2d 339, 340 (Tex. 1995) ......................................................... 23
+Checki v. Webb, 785 F.2d 534, 538 (5th Cir. 1986) .......................................................... 17
+Cinel v. Connick, 15 F.3d 1338, 1341 (5th Cir. 1994) ...................................................... 10
+City of El Paso v. Viel, 523 S.W.3d 876, 887 (Tex. App.—El Paso 2017, no pet.) ........... 24
+City of San Antonio v. Maspero, 640 S.W.3d 523, 530 (Tex. 2022) ................................. 25
+City of St. Louis v. Praprotnik, 485 U.S. 112, 127 (1988) ................................................ 24
+Cole v. Carson, 905 F.3d 334, 344 (5th Cir. 2018) .......................................................... 17
+County of Sacramento v. Lewis, 523 U.S. 833, 849 (1998) ........................................ 15, 16
+Covington v. City of Madisonville, 812 F. App’x 219, 228-29 (5th Cir. 2020) ................. 20
+Deville v. Marcantel, 567 F.3d 156, 167 (5th Cir. 2009) .................................................. 14
+Flores v. City of Palacios, 381 F.3d 391, 399 (5th Cir. 2004) .................................... 13, 14
+Graham v. Connor, 490 U.S. 386, 397 (1989) ........................................................... 13, 14
+Grandstaff v. City of Borger, 767 F.2d 161, 171 (5th Cir. 1985) ...................................... 19
+Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982) ............................................................. 17
+Hope v. Pelzer, 536 U.S. 730, 739–41 (2002) ................................................................. 17
+Inclusive Cmtys. Project, Inc. v. Lincoln Prop. Co., 920 F.3d 890, 900 (5th Cir. 2019) .... 12
+Jackson v. Procunier, 789 F.2d 307, 309 (5th Cir. 1986) ................................................. 12
+Jenicke v. City of Forest Hill, 873 S.W.2d 776, 779 (Tex. App.—Fort Worth 1994) ........ 26
+Leal v. McHugh, 731 F.3d 405, 410 (5th Cir. 2013) ......................................................... 11
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 4
+Littell v. Houston Independent School District, 213 F. Supp. 3d 849 (5th Cir. 2016) ....... 11
+McRorie v. Shimoda, 795 F.2d 780, 784 (9th Cir. 1986) .................................................. 21
+Milam v. City of San Antonio, 113 F. App’x 622, 628 (5th Cir. 2004) .............................. 21
+Mission Consol. Indep. Sch. Dist. v. Garcia, 253 S.W.3d 653, 659 (Tex. 2008) ............... 22
+Monell v. Dep’t of Soc. Servs., 436 U.S. 658, 694 (1978) .................................... 19, 20, 24
+Montoya v. FedEx Ground Package Sys., Inc., 614 F.3d 145, 148 (5th Cir. 2010) ..... 11, 15
+Morin v. Caire, 77 F.3d 116, 120 (5th Cir. 1996) ............................................................. 12
+Pembaur v. City of Cincinnati, 475 U.S. 469, 480 (1986).......................................... 19, 20
+Petta v. Rivera, 143 F.3d 895, 910 n.25 (5th Cir. 1998) ................................................... 16
+Rivera v. City of Pasadena, 555 F. Supp. 3d 443, 453 (S.D. Tex. 2021) .......................... 12
+Saucier v. Katz, 533 U.S. 194, 201 (2001) ...................................................................... 17
+Scheuer v. Rhodes, 416 U. S. 232, 236 (1974) ................................................................. 11
+Shillingford v. Holmes, 634 F.2d 263, 265 (5th Cir. 1981) ............................................... 16
+Smith v. Wade, 461 U.S. 30 (1983) .................................................................................. 27
+Solis v. Serrett, 31 F.4th 975, 981 (5th Cir. 2022) ............................................................ 15
+State v. Terrell, 588 S.W.2d 784 (Tex. 1979) ................................................................... 26
+Stegmaier v. Trammell, 597 F.2d 1027, 1035 (5th Cir. 1979) ........................................... 20
+Taylor v. Books A Million, Inc., 296 F.3d 376, 378 (5th Cir. 2002) .................................. 10
+Tex. Dep't of Aging & Disability Servs. v. Cannon, 453 S.W.3d 411 (Tex. 2015) ............. 22
+Thomas v. City of Galveston, 800 F. Supp. 2d 826, 841 (S.D. Tex. 2011) ........................ 11
+True v. Robles, 571 F.3d 412, 417 (5th Cir. 2009) ........................................................... 10
+U.S. ex rel. Willard v. Humana Health Plan of Tex., Inc., 336 F.3d 375, 379 (5th Cir.
+2003)........................................................................................................................... 10
+Vess v. City of Dall., 608 F. Supp. 3d 434, 445-46 (N.D. Tex. 2022) ................................ 13
+W. Invs., Inc. v. Urena, 162 S.W.3d 547, 550 (Tex. 2005)................................................ 27
+Wiggins v. Lowndes Cty., 363 F.3d 387, 390 (5th Cir. 2004) ............................................ 20
+Wilson v. Birnberg, 667 F.3d 591, 595 (5th Cir. 2012) ............................................... 10, 12
+Young v. Bd. of Supervisors of Humphreys Cnty., 927 F.3d 898, 903 (5th Cir. 2019) ....... 20
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 5
+Rules
+Fed. R. Civ. P. 12(c) .................................................................................................................... 9
+Fed. R. Civ. P. 12(d) ......................................................................................................... 9, 10, 28
+Fed. R. Civ. P. 12(b)(6) ........................................................................................................ passim
+Fed. R. Civ. P. 56......................................................................................................................... 9
+Statutes
+42 U.S.C. §1983 ............................................................................................ 20, 22, 23, 25
+Tex. Civ. Prac. & Rem. Code §§101.001 et seq. .............................................................. 22
+Tex. Civ. Prac. & Rem. Code §101.021(1)(A) ................................................................. 23
+Tex. Civ. Prac. & Rem. Code §101.055(2) .......................................................... 26, 27, 29
+Tex. Civ. Prac. & Rem. Code §101.106(e) ...................................................................... 23
+Tex. Civ. Prac. & Rem. Code 101.057 ............................................................................ 25
+Tex. Civ. Prac. & Rem. Code 101.101 ...................................................................... 23, 24
+Tex. Transp. Code §546.005 ........................................................................................... 19
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 6
+PLAINTIFF'S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS
+PLAINTIFF’S CLAIMS
+TO THE HONORABLE JUDGE OF SAID COURT
+COMES NOW, ROBERT HARVEY (“Plaintiff”), plaintiff in the above entitled and
+numbered cause, responding (“Response”) to Defendant’s Motion to Dismiss Plaintiff’s
+Claims (“Motion”) and requesting that this Court deny the Motion. In support thereof,
+Plaintiff respectfully shows the Court as follows:
+I. NATURE AND STAGE OF THE PROCEEDING
+1. Plaintiff filed suit on March 3, 2025 (“Complaint,” Doc. 1), complaining of the
+damages caused to him by Galveston Fire Department Battalion Chief William Roy (“Chief
+Roy”) and the City of Galveston (“City;” together with Chief Roy, “Defendants”).
+Defendants jointly filed their Motion to Dismiss on April 7, 2025. (Doc. 8). This Response
+responds to that Motion.
+II. SUMMARY OF THE ARGUMENT
+2. The Court should deny Defendants’ Motion to Dismiss. Plaintiff has adequately pled
+claims under the Fourth and Fourteenth Amendments to the United States Constitution,
+supported by detailed factual allegations. Plaintiff also plausibly alleges Monell liability
+against the City of Galveston and states viable alternative claims under Texas law.
+Defendants’ reliance on extrinsic materials and contested factual assertions cannot support
+dismissal under Rule 12(b)(6).
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 7
+3. Plaintiff has alleged facts which plausibly show that Chief Roy used unreasonable
+force that directly caused an injury more than de minimis.
+4. Plaintiff alleges the City, fire department, and Chief Roy in an official capacity
+violated Plaintiff’s rights. Plaintiff has also alleged facts which overcome Chief Roy’s
+individual immunity and the City’s governmental immunity from claims asserted under
+Texas law.
+5. Chief Roy is liable for exemplary damages.
+III. PLAINTIFF’S ALLEGATIONS AND DEFENDANT’S EXTRANEOUS
+EVIDENCE
+6. Defendants’ Motion relies very heavily on the surveillance footage (“Surveillance
+Footage;” Doc. 8, Ex. 1) attached as Exhibit 1 to the Motion, which Defendants erroneously
+claim “establishes Chief Roy’s fire vehicle does not strike Plaintiff’s body.” (Doc. 8, ¶8).
+In fact, it does not establish this fact at all. Rather, the 1:00 mark in the Surveillance Footage
+shows Plaintiff’s body turned by the collision with the truck’s mirror, and Plaintiff pushed
+backward and staggering from the impact. Even if Plaintiff was able to maintain his balance
+from the impact, a 5,000-pound vehicle striking or pushing a human can cause severe long-
+term damage.
+7. Defendants’ Motion mischaracterizes the scene of the collision as a fast-moving,
+split-second drama in which Chief Roy was responding to an emergency and simply drove
+too close to Plaintiff in the performance of his emergency duties. In fact, both videos clearly
+demonstrate that there was no emergency, and Plaintiff specifically pled that the collision
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 8
+“was not near the scene of an emergency.” (Doc. 1, ¶24). An officer states that there is no
+fire (Plaintiff’s Recording, 3:45), and multiple first responders are seen mulling around
+calmly doing nothing. Chief Roy’s lights are being used for traffic control, not for
+emergency response. Further, Chief Roy had no reason to enter the parking lot at all, much
+less for emergency response purposes, as demonstrated by his exit of the parking lot
+moments after striking Plaintiff. (Plaintiff’s Recording, 3:10). Other civilians are seen
+walking around the scene without being interrupted, and Plaintiff and his companion are
+never asked to leave. All of the evidence and allegations in Plaintiff’s pleadings indicates
+that this was not an emergency situation.
+8. “If, on a motion under Rule 12(b)(6) or 12(c), matters outside the pleadings are
+presented to and not excluded by the court, the motion must be treated as one for summary
+judgment under Rule 56.” Fed. R. Civ. P. 12(d). Rule 56 of the Federal Rules of Civil
+Procedure authorizes this Court to grant judgment as a matter of law where there is no
+genuine issue as to any material fact. An issue is “genuine” if “the evidence is such that a
+reasonable jury could return a verdict for the non-moving party.” Anderson v. Liberty Lobby,
+Inc., 477 U.S. 242, 248 (1986). Accordingly, the moving party must establish that no such
+issue remains for trial, even if the evidence is viewed in the light most favorable to the non-
+moving party. See Adickes v. S.H. Kress & Co., 398 U.S. 144, 159 (1970) (holding that “the
+party opposing the motion for summary judgment bears the burden of responding only
+after the moving party has met its burden of coming forward with proof of the absence of
+any genuine issues of material fact.”)
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 9
+9. Viewed alongside Plaintiff’s Recording (Doc. 1, Ex. A), in which the impact can be
+heard and the shaking of the camera cause by the impact can be seen, at most a genuine
+dispute of material fact exists. Under Rule 12(d), if the Court considers these external
+materials, the motion must be treated as one for summary judgment, and Plaintiff is entitled
+to discovery.
+10. The issue of whether the truck struck the Plaintiff, and the damage caused by that
+collision, is a genuine issue of fact that must be tried by the jury. Plaintiff has additional
+evidence, including medical evaluations, which will support his allegation that he was
+struck by the Defendants’ truck and sustained more than de minimis damage. However,
+Plaintiff is not required to marshal all of his evidence at the pleading stage, as he is entitled
+to have all of his well-pled facts taken as true. Therefore, any part of Defendants’ Motion
+which relies on the assertion that the truck did not strike the Plaintiff must be denied.
+IV. STANDARD OF REVIEW
+11. “When considering a motion to dismiss, the court accepts as true the well-pled
+factual allegations in the complaint and construes them in light most favorable to the
+plaintiff.” Taylor v. Books A Million, Inc., 296 F.3d 376, 378 (5th Cir. 2002); see also U.S.
+ex rel. Willard v. Humana Health Plan of Tex., Inc., 336 F.3d 375, 379 (5th Cir. 2003)
+(internal citation omitted); see also True v. Robles, 571 F.3d 412, 417 (5th Cir. 2009).
+“Dismissal is improper if the allegations support relief on any possible theory.” Wilson v.
+Birnberg, 667 F.3d 591, 595 (5th Cir. 2012) (quotation marks omitted) (quoting Cinel v.
+Connick, 15 F.3d 1338, 1341 (5th Cir. 1994)). “[O]f course, a wellpleaded complaint may
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 10
+proceed even if it strikes a savvy judge that actual proof of the facts alleged is improbable,
+and ‘that a recovery is very remote and unlikely.’” Bell Atl. Corp. v. Twombly, 550 U.S.
+544, 556 (2007) (quoting Scheuer v. Rhodes, 416 U. S. 232, 236 (1974)).
+12. “[T]o survive a motion to dismiss, a complaint need not contain ‘detailed factual
+allegations’; rather, it need only allege facts sufficient to “state a claim for relief that is
+plausible on its face.” Littell v. Houston Independent School District, 213 F. Supp. 3d 849
+(5th Cir. 2016) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009). “Dismissal is
+appropriate only if the complaint fails to plead ‘enough facts to state a claim of relief that
+is plausible on its face.’” Leal v. McHugh, 731 F.3d 405, 410 (5th Cir. 2013) (quoting
+Twombly, 550 U.S. at 570). A claim is plausible on its face “when the pleaded factual
+content allows the court to draw the reasonable inference that the defendant is liable for the
+misconduct alleged.” Montoya v. FedEx Ground Package Sys., Inc., 614 F.3d 145, 148 (5th
+Cir. 2010) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). This Court in Thomas v.
+City of Galveston, 800 F. Supp. 2d 826, 841 (S.D. Tex. 2011) held that:
+[A]ll the Rules require is “a short and plain statement of the claim” that will
+give the defendant fair notice of what the plaintiff’s claim is and the grounds
+upon which it rests. . . .
+In the context of municipal liability, as opposed to individual officer liability,
+it is exceedingly rare that a plaintiff will have access to (or personal
+knowledge of) specific details regarding the existence or absence of internal
+policies or training procedures prior to discovery.
+Accordingly, only minimal factual allegations should be required at the
+motion to dismiss stage. Moreover, those allegations need not specifically
+state what the policy is, as the plaintiff will generally not have access to it,
+but may be more general.
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 11
+Id. at 842-43 (internal citations omitted).
+13. A Rule 12(b)(6) motion to dismiss must be evaluated solely on the basis of the
+pleadings. See Morin v. Caire, 77 F.3d 116, 120 (5th Cir. 1996); Jackson v. Procunier, 789
+F.2d 307, 309 (5th Cir. 1986). A court reviewing a motion to dismiss under Rule 12(b)(6)
+may consider “(1) the facts set forth in the complaint, (2) documents attached to the
+complaint, and (3) matters of which judicial notice may be taken under Federal Rule of
+Evidence 201.” Rivera v. City of Pasadena, 555 F. Supp. 3d 443, 453 (S.D. Tex. 2021)
+(citing Inclusive Cmtys. Project, Inc. v. Lincoln Prop. Co., 920 F.3d 890, 900 (5th Cir.
+2019)). The Court’s inquiry should focus on the complaint as a whole, “regardless of how
+much of it is discussed in the motion to dismiss.” Wilson v. Birnberg, 667 F.3d 591, 595
+(5th Cir. 2012).
+V. ARGUMENTS AND AUTHORITIES
+A. Plaintiff has pled facts supporting a Fourth Amendment claim.
+1. Plaintiff was seized.
+14. Plaintiff plausibly alleges that Chief Roy seized him by intentionally striking him
+with a City vehicle. “There can be constructive detention, which will constitute an arrest,
+although the party is never actually brought within the physical control of the party making
+an arrest. This is accomplished by merely touching, however slightly, the body of the
+accused, by the party making the arrest and for that purpose, although he does not succeed
+in stopping or holding him even for an instant.” California v. Hodari D., 499 U.S. 621, 625
+(1991) (internal citations omitted.). “We think it enough for a seizure that a person be
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 12
+stopped by the very instrumentality set in motion or put in place in order to achieve that
+result.” Brower v. Cnty. of Inyo, 489 U.S. 593, 599 (1989). A civilian is “seized the moment
+the officer used force . . .” Vess v. City of Dall., 608 F. Supp. 3d 434, 445-46 (N.D. Tex.
+2022).
+15. The Complaint alleges that Chief Roy intentionally drove a fire department vehicle
+into the pedestrian area and made contact with Plaintiff, causing bodily injury. Such
+conduct—use of a vehicle to physically control a pedestrian’s movement—qualifies as a
+seizure under clearly established law.
+2. Plaintiff alleges a claim of excessive force.
+16. The allegations support an excessive force claim. Under Graham v. Connor, 490
+U.S. 386, 397 (1989), the Court evaluates excessive force by considering: (1) the severity
+of the crime at issue, (2) whether the suspect posed an immediate threat, and (3) whether
+he actively resisted. Here, Plaintiff posed no threat, committed no crime, was not resisting,
+and was not interfering with emergency operations. The Complaint asserts that Chief Roy’s
+actions were motivated by annoyance and malice, not any need for governmental
+intervention. These facts meet the standard for excessive force under Flores v. City of
+Palacios, 381 F.3d 391, 399 (5th Cir. 2004).
+17. Plaintiff has alleged: (1) a physical injury (herniated discs, hearing loss, etc.); (2) use
+of force grossly disproportionate to any need (vehicle contact without provocation or
+threat); and (3) objective unreasonableness (no split-second emergency; ample time to
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 13
+assess the scene). See id. These facts are sufficient under Fifth Circuit standards to survive
+dismissal.
+i. Chief Roy did not reasonably respond to the scene of an emergency.
+18. Defendants repeatedly assert that Chief Roy was responding to an emergency,
+justifying the use of lights, sirens, and driving maneuvers. This characterization is directly
+contradicted by the allegations in the Complaint and the attached video evidence. Chief
+Roy’s use of his vehicle occurred after the emergency had passed. Plaintiff was not
+obstructing emergency operations, and video footage shows first responders standing idly,
+with one officer explicitly stating that there was no fire. (Plaintiff’s Recording, 3:45).
+Further, Chief Roy exited the parking lot moments after striking Plaintiff, suggesting he had
+no legitimate emergency-related reason to be in that area.
+19. “Excessive force claims are necessarily fact-intensive; whether the force used is
+‘excessive’ or ‘unreasonable’ depends on ‘the facts and circumstances of each particular
+case.’” Deville v. Marcantel, 567 F.3d 156, 167 (5th Cir. 2009), citing Graham v. Connor,
+490 U.S. 386, 396 (1989). Even in the context of law enforcement, courts have emphasized
+that a vehicle used to strike a person must be narrowly justified by a legitimate threat or
+imminent need. The absence of any such need here renders Chief Roy’s actions objectively
+unreasonable.
+ii. Plaintiff alleges injuries greater than de minimis under the circumstances.
+20. Defendants argue that Plaintiff’s injuries are insufficient to support a constitutional
+claim. However, the Complaint alleges that Plaintiff suffered herniated discs, torn
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 14
+ligaments, hearing loss, and ongoing pain and impairment requiring medical treatment.
+These injuries are well beyond the “de minimis” threshold and meet the Fifth Circuit’s
+injury requirement under Solis v. Serrett, 31 F.4th 975, 981 (5th Cir. 2022) (“[A]lthough a
+de minimis injury is not cognizable, the extent of injury necessary to satisfy the injury
+requirement is ‘directly related to the amount of force that is constitutionally permissible
+under the circumstances. . . if the officer’s force was unreasonably excessive, [the plaintiff]
+need only show ‘some injury.’” Internal citations omitted.). The physical impact of a 5,000-
+pound fire vehicle—even if limited to a mirror strike—can cause severe and lasting injuries,
+as confirmed by Plaintiff’s medical records.
+21. Further, the Court must take these factual allegations as true at this stage. Twombly
+and Iqbal require plausibility, not proof. See Montoya v. FedEx Ground Package Sys., 614
+F.3d 145, 148 (5th Cir. 2010) (a complaint survives dismissal where it alleges “enough facts
+to state a claim for relief that is plausible on its face”).
+B. Plaintiff pleads facts which plausibly show a claim under the Fourteenth
+Amendment.
+22. Plaintiff’s alternative claim under the Fourteenth Amendment is based on conduct
+that shocks the conscience — namely, using a vehicle to intentionally harm a pedestrian.
+23. Where force is applied outside the context of a lawful seizure or detention, the
+substantive due process protections of the Fourteenth Amendment are implicated. See
+County of Sacramento v. Lewis, 523 U.S. 833, 849 (1998) (“conduct intended to injure in
+some way unjustifiable by any government interest is the sort of official action most likely
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 15
+to rise to the conscience-shocking level.”). Conduct that “shocks the conscience” and is
+deliberately indifferent to a person’s bodily integrity violates the Fourteenth Amendment.
+Id. at 846–47. Therefore, if Chief Roy was only attempting to strike Plaintiff rather than
+detain him, a Fourteenth Amendment violation has occurred.
+24. The Complaint alleges that Chief Roy was not performing any law enforcement or
+emergency task when he intentionally drove his vehicle toward Plaintiff. This act—done
+out of annoyance or malice and without justification—was arbitrary and conscience-
+shocking. See Shillingford v. Holmes, 634 F.2d 263, 265 (5th Cir. 1981) (use of force against
+a pedestrian who was not interfering with police operations stated a due process claim).
+25. At a minimum, Plaintiff has alleged facts that state an alternative constitutional basis
+for relief. The existence of both Fourth and Fourteenth Amendment theories does not bar
+proceeding under both at this stage. See Petta v. Rivera, 143 F.3d 895, 910 n.25 (5th Cir.
+1998) (“where a plaintiff's excessive force claim, whether he be a prisoner, arrestee,
+detainee, or an innocent bystander of tender years, falls outside the specific protections of
+the Bill of Rights, that plaintiff may still seek redress under the due process clause of the
+Fourteenth Amendment.”); see also Shillingford v. Holmes, 634 F.2d 263, 265 (5th Cir.
+1981) (“The right to be free of state-occasioned damage to a person’s bodily integrity is
+protected by the fourteenth amendment guarantee of due process. The right has also been
+premised on the fourth amendment guarantee of ‘(The) right of … people to be secure in
+their persons,’ made applicable to the states by the fourteenth amendment.” Internal
+citations omitted).
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 16
+26. The specific fact question, which cannot be resolved prior to discovery, of whether
+Chief Roy intended to detain Plaintiff or merely to harm him will determine whether
+Plaintiff is entitled to relief under the Fourth Amendment, Fourteenth Amendment, or both.
+C. Plaintiff pleads facts which plausibly overcome qualified immunity.
+27. Qualified immunity shields officials only when their conduct does not violate clearly
+established law. See Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982). In assessing qualified
+immunity, courts ask (1) whether the official violated a constitutional right, and (2) whether
+that right was clearly established at the time. Saucier v. Katz, 533 U.S. 194, 201 (2001).
+Plaintiff has adequately alleged both.
+1. Clearly established legal authority prohibited Chief Roy’s conduct.
+28. The right to be free from excessive force when not posing a threat is clearly
+established. See Cole v. Carson, 905 F.3d 334, 344 (5th Cir. 2018) (“where a suspect posed
+no threat, ‘the violation of his constitutional rights would have been obvious even without
+a body of relevant case law,’” internal citations omitted); see also Hope v. Pelzer, 536 U.S.
+730, 739–41 (2002) (“a general constitutional rule already identified in the decisional law
+may apply with obvious clarity to the specific conduct in question, even though ‘the very
+action in question has [not] previously been held unlawful.’” Internal citations omitted.).
+29. Further, in Checki v. Webb, 785 F.2d 534, 538 (5th Cir. 1986), the court held that
+using a vehicle to intimidate or harm a civilian can violate clearly established constitutional
+rights. The conduct alleged—accelerating a government vehicle toward a civilian, causing
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 17
+injury—is within the ambit of clearly established law prohibiting arbitrary, malicious abuse
+of power. Thus, Chief Roy is not entitled to qualified immunity at this stage.
+30. Not only was this prohibition clearly established by prior case law, but also by Texas
+statute. The Texas Transportation Code requires that emergency vehicles be operated safely
+and without “reckless disregard for the safety of others.” Tex. Transp. Code §546.005. As
+alleged in the Complaint, “Chief Roy’s actions of accelerating into a parking lot across a
+pedestrian right-of-way, where he knows there are pedestrians and where pedestrians are
+likely to be present, involves an extreme degree of risk considering the probability and
+magnitude of potential harm to the pedestrians. Chief Roy had actual knowledge of the
+Plaintiff’s presence directly in his path where Chief Roy accelerated his vehicle. Despite
+this awareness, Chief Roy proceeded to accelerate towards Plaintiff, demonstrating a
+conscious indifference to the rights, safety, or welfare of Plaintiff and other pedestrians.”
+(Doc. 1, ¶51-52). Therefore, Chief Roy’s conduct was prohibited by statute as well as case
+law.
+2. No objective first responder would have reasonably believed that Chief Roy’s
+response to the fire scene in this case was reasonable or not prohibited by well-
+settled law.
+31. Here, Chief Roy had time to assess the situation and was not responding to a true
+emergency. No reasonable official could believe that intentionally striking a pedestrian
+with a truck in an otherwise calm situation was lawful conduct.
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 18
+D. Plaintiff has alleged facts which state a plausible claim against the City.
+32. Municipal liability under 42 U.S.C. §1983 attaches where a constitutional violation
+results from (1) a policy or custom, (2) the decision of a final policymaker, or (3) ratification
+of unconstitutional conduct. See Monell v. Dep’t of Soc. Servs., 436 U.S. 658, 694 (1978);
+Pembaur v. City of Cincinnati, 475 U.S. 469, 480 (1986); Grandstaff v. City of Borger, 767
+F.2d 161, 171 (5th Cir. 1985).
+33. Defendants’ arguments in ¶¶36-45 of the Motion narrowly focus on the absence of a
+broader “pattern or practice,” which is inapposite to Plaintiff’s theories of direct
+policymaker liability and ratification. These alternative paths to Monell liability are
+recognized by the Fifth Circuit and are independently sufficient to state a claim. These
+claims go unaddressed in the Motion, and therefore Defendants’ Motion must be denied.
+1. Decision by a policymaker.
+34. Plaintiff has alleged that Battalion Chief Roy was a policymaker for purposes of
+operations and discipline within the Galveston Fire Department: “A Battalion Chief is a
+senior-level official within the Galveston Fire Department, under only the Fire Chief and
+Assistant Fire Chief. Battalion chiefs are policymakers within the Galveston Fire
+Department, responsible for setting and implementing policy regarding operations, training,
+and discipline within their battalion.” (Doc. 1, ¶15).
+35. “A policymaker is an employee ‘whose responsibilities require more than simple
+ministerial competence, whose decisions create or implement policy, and whose discretion
+in performing duties or in selecting duties to perform is not severely limited by statute,
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 19
+regulation, or policy determinations made by supervisors.’” Wiggins v. Lowndes Cty., 363
+F.3d 387, 390 (5th Cir. 2004) (quoting Stegmaier v. Trammell, 597 F.2d 1027, 1035 (5th
+Cir. 1979)). Chief Roy clearly meets this definition, and is therefore a City policymaker.
+36. Plaintiff has alleged that a City policymaker, acting in his official capacity, deprived
+Plaintiff of his rights to be free from excessive force. See Brown v. Bryan Cnty., 219 F.3d
+450, 462 (5th Cir. 2000) (“a single decision by a policy maker may, under certain
+circumstances, constitute a policy for which the County may be liable.”); see also Pembaur
+v. City of Cincinnati, 475 U.S. 469, 481 (1986) (“it is plain that municipal liability may be
+imposed for a single decision by municipal policymakers under appropriate
+circumstances.”).
+37. Chief Roy’s conduct, if found to be a deliberate act within the scope of his
+policymaking authority, constitutes municipal policy for which the City is liable. See Brown
+v. Bryan Cnty., 219 F.3d 450, 462 (5th Cir. 2000).
+2. Ratification.
+38. Plaintiff has further alleged that the City has ratified Chief Roy’s actions, which
+separately gives rise to a legal claim. See Young v. Bd. of Supervisors of Humphreys Cnty.,
+927 F.3d 898, 903 (5th Cir. 2019) (“One way of establishing liability is to show that a
+policymaker ratified the acts of a subordinate.”); see also Covington v. City of Madisonville,
+812 F. App’x 219, 228-29 (5th Cir. 2020) (reversing the dismissal of a ratification claim
+under Monell where the policymakers had covered up the perpetrator’s misconduct and
+failed to turn over recordings to investigators). The City’s refusal to discipline Chief Roy,
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 20
+the destruction or suppression of evidence, and the closure of any internal or criminal
+investigation, as described in Plaintiff’s Complaint (Doc. 1, ¶¶17, 18, 20, 22, 24-27),
+constitute ratification. See Milam v. City of San Antonio, 113 F. App’x 622, 628 (5th Cir.
+2004) (ratification may be shown by inaction, cover-up, or affirming unconstitutional acts).
+39. The City’s ratification of Chief Roy’s conduct is also evidence of a broader City
+policy: “The failure to take disciplinary action in response to [illegal conduct], when
+combined with other evidence, could tend to support an inference that there was a
+preexisting de facto policy of [illegal conduct]: the policymaker did not discipline the
+employee because, in the policymakers’ eyes, the employee’s illegal conduct actually
+conformed with municipal policy.” Milam, 113 F. App’x at 628 (5th Cir. 2004); see also
+McRorie v. Shimoda, 795 F.2d 780, 784 (9th Cir. 1986) (suggesting that failure of officials
+to admit the employees’ conduct was in error could be interpreted as a municipal policy.)
+E. Plaintiff states a claim under Texas law.
+40. Plaintiff’s alternative state-law claims—brought under the Texas Tort Claims Act
+(“TTCA”), Tex. Civ. Prac. & Rem. Code §§101.001 et seq.—are properly pled and not
+subject to dismissal at this stage.
+1. The Texas election of remedies statute does not bar a suit against Chief Roy in his
+individual capacity.
+41. While Plaintiff agrees here that state law claims against Chief Roy are barred, the
+election of remedies provision of the Texas Tort Claims act does not bar an action under
+federal law. Plaintiff’s claims against Chief Roy in his individual capacity under §1983 are
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 21
+constitutionally based and are not barred by the election-of-remedies statute. See
+Tex. Dep't of Aging & Disability Servs. v. Cannon, 453 S.W.3d 411 (Tex. 2015) (holding
+§1983 claims against employees in their individual capacity are not subject to §101.106(e)).
+Therefore, if it is found that Chief Roy intentionally deprived Plaintiff of his constitutional
+right to substantive due process or to be free from unreasonable seizure, Chief Roy will be
+personally liable for that deprivation. See also Mission Consol. Indep. Sch. Dist. v. Garcia,
+253 S.W.3d 653, 659 (Tex. 2008) (“Claims against the government . . . that exist apart from
+the Tort Claims Act are not brought under [the Tort Claims Act].”).
+2. The City is not immune from claims asserted under Texas law.
+42. Plaintiff alleges that he was struck by a City-owned vehicle operated by a City
+employee, acting in the scope of employment. This directly invokes the waiver of immunity
+found in Tex. Civ. Prac. & Rem. Code §101.021(1)(A), which waives governmental
+immunity for “property damage, personal injury, and death arising from the operation or
+use of a motor-driven vehicle.”
+i. Plaintiff did not fail to allege facts plausibly showing that he timely submitted
+notice of a claim to the City in accordance with Tex. Civ. Prac. & Rem. Code
+101.101.
+43. Under the TTCA, a party seeking to impose liability must provide a governmental
+entity formal, written notice not later than six months after the day the incident giving rise
+to the claim occurred, reasonably describing (1) the damage or injury claimed; (2) the time
+and place of the incident; and (3) the incident. Cathey v. Booth, 900 S.W.2d 339, 340 (Tex.
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 22
+1995); Tex. Civ. Prac. & Rem. Code Ann. §101.101(a). The formal notice requirement does
+not apply “if the governmental unit has actual notice of the death, injury, or property damage
+claimed.” Tex. Civ. Prac. & Rem. Code Ann. §101.101(c).
+44. Written notice was provided within the statutory period: “On August 28, 2024,
+Plaintiff sent the City of Galveston notice of his claim as required by Texas Civil Practice
+and Remedies Code §101.101. As demonstrated by the facts cited above, however,
+representatives of the City of Galveston had actual knowledge of Plaintiff’s injuries and the
+City of Galveston’s potential culpability immediately after the incident occurred.” (Doc. 1,
+¶28). The incident occurred on June 22, 2024. August 28, 2024, is within the six months
+required by statute to provide notice of such a claim, and so Plaintiff has pled facts showing
+that this notice requirement was met.
+45. Actual notice was given immediately when police and fire officials responded to the
+scene. See §101.101(c) (notice requirement is satisfied when a governmental unit has actual
+notice of the injury and its potential liability). Plaintiff explicitly alleged: “Defendant City
+of Galveston had actual and subjective notice of the injuries to the Plaintiff and the
+Defendants’ potential liability immediately upon the occurrence of the collision. Plaintiff
+also sent notice to Defendant City of Galveston as required by law.” (Doc. 1, ¶65).
+46. Therefore, even if the written notice requirement was somehow not met, Plaintiff
+has pled that Defendants had actual knowledge of Plaintiff’s claim, which would mean that
+the formal notice requirement is not required. Tex. Civ. Prac. & Rem. Code Ann.
+§101.101(c).
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 23
+47. Whether notice was sufficient is a question of fact inappropriate for resolution on a
+Rule 12(b)(6) motion. City of El Paso v. Viel, 523 S.W.3d 876, 887 (Tex. App.—El Paso
+2017, no pet.) (“[A]ctual notice is a fact question when the evidence is disputed.”).
+ii. Plaintiff’s claims are not barred by Tex. Civ. Prac. & Rem. Code 101.057.
+48. Plaintiff’s TTCA claims were pled alternatively to Plaintiff’s §1983 claims, and
+specifically did not incorporate any allegation that Chief Roy struck Plaintiff intentionally.
+At this pleading stage, Plaintiff does not know whether Chief Roy struck Plaintiff
+intentionally—which would give rise to a claim under 42 U.S.C. §1983—or merely out of
+a reckless disregard for the safety of others—which would give rise to a claim under the
+TTCA.
+49. Defendants’ attempt to frame the incident as intentional conduct is an issue of fact—
+not a bar to pleading alternative theories in the Complaint.
+50. If the City actually believes that Chief Roy struck Plaintiff intentionally as indicated
+in its Motion, this proves Plaintiff’s ratification claim under Monell, because Chief Roy has
+still not been disciplined by the City for what the City now claims to be his intentional
+actions. See City of St. Louis v. Praprotnik, 485 U.S. 112, 127 (1988) (“If the authorized
+policymakers approve a subordinate’s decision and the basis for it, their ratification would
+be chargeable to the municipality because their decision is final.”). Essentially, the City is
+liable under the TTCA if Chief Roy’s actions were merely negligent or reckless, or liable
+under Monell if Chief Roy’s actions were intentional.
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 24
+iii. Tex. Civ. Prac. & Rem. Code §101.055(2) in inapplicable.
+51. Defendants’ contention that the emergency-response exception under §101.055(2)
+applies is premature and fact-bound. The statute applies only if the employee is responding
+to an actual emergency and complies with applicable laws and ordinances. City of San
+Antonio v. Maspero, 640 S.W.3d 523, 530 (Tex. 2022). Here, Plaintiff has alleged—and
+video evidence supports—that Chief Roy’s actions were not part of an emergency response,
+and no legitimate emergency existed at the time of the incident.
+52. According to the Complaint and video evidence, the scene was calm, with no fire or
+ongoing hazard. First responders stated on camera that there was no fire, and Chief Roy
+did not take action consistent with fire suppression or rescue. After striking Plaintiff, he
+exited the scene without performing emergency duties.
+53. The existence of an emergency is a question of fact. Here, Plaintiff has plausibly
+alleged there was no emergency, making §101.055(2) inapplicable at the motion to dismiss
+stage.
+54. Furthermore, Chief Roy was not in compliance with applicable laws. Even if
+Defendants argue an emergency existed, the exception fails if Chief Roy’s conduct was
+unlawful. See Maspero, 640 S.W.3d at 530 (emergency exception does not apply if the
+employee violates applicable traffic laws or otherwise acts unlawfully).
+55. Plaintiff alleges that Chief Roy maneuvered a fire truck to strike a pedestrian, failed
+to yield or act with due regard for pedestrian safety, and took no steps to avoid the contact
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 25
+or de-escalate. These are clear factual allegations of noncompliance with traffic and safety
+laws, which preclude the application of §101.055.
+56. Whether §101.055(2) applies is typically a fact question, not appropriate for
+dismissal at the pleading stage. Because Plaintiff contests both the existence of an
+emergency and the lawfulness of Chief Roy’s conduct, this defense is premature and cannot
+support dismissal under Rule 12(b)(6).
+iv. Tex. Civ. Prac. & Rem. Code §101.055(3) is inapplicable.
+57. Plaintiff’s claims do not arise from policy decisions concerning “fire protection.”
+Texas courts interpret the exception in Tex. Civ. Prac. & Rem. Code §101.055(3) narrowly,
+applying it only to core discretionary decisions about whether, when, or how to provide
+police or fire services, not operational negligence or affirmative misconduct. In State v.
+Terrell, 588 S.W.2d 784 (Tex. 1979), the Texas Supreme Court concluded that the
+legislature’s purpose in enacting this section was to avoid judicial review of the policy
+decisions governmental units must make in deciding how much, if any, police or fire
+protection to provide for a community. Id. at 788. The language of this section was thus
+interpreted as requiring that if the negligence alleged relates to the formulation of policy,
+the governmental unit remains immune from liability. Id. If, however, the negligence is in
+the manner in which policy is carried out, liability may exist under the TTCA. Id. See also
+Jenicke v. City of Forest Hill, 873 S.W.2d 776, 779 (Tex. App.—Fort Worth 1994)
+(“allegations of negligence [which] arise from carrying out the normal function of
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 26
+protecting a community from fires . . . may form the basis of liability for a governmental
+unit, where no emergency situation is alleged.”).
+58. In this case, Plaintiff does not challenge the City’s decision to respond to a fire, how
+many personnel to send, or the allocation of emergency resources. Plaintiff challenges
+Chief Roy’s use of a vehicle to intentionally, recklessly, or negligently strike a pedestrian
+— a claim based on operational conduct, not policy.
+v. Plaintiff has alleged facts plausibly showing a claim of negligence and gross
+negligence.
+59. Plaintiff has pled a viable negligence claim. The Complaint alleges that Chief Roy,
+acting in the course and scope of his employment, failed to exercise reasonable care when
+operating the GFD truck, proximately causing Plaintiff’s injuries. This satisfies the
+elements of a TTCA negligence claim under Texas law: duty, breach, causation, and
+damages. See W. Invs., Inc. v. Urena, 162 S.W.3d 547, 550 (Tex. 2005). Plaintiff has
+furthered alleged such conditions that would constitute gross negligence or recklessness
+under the circumstances. (Doc. 1, ¶¶49-53).
+F. Plaintiff only seeks punitive damages against Chief Roy.
+60. Plaintiff is entitled to punitive damages from Chief Roy under his §1983 claim. See
+Smith v. Wade, 461 U.S. 30 (1983).
+61. Plaintiff does not seek punitive or exemplary damages against the City in this case.
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 27
+VI. CONCLUSION AND PRAYER
+62. For the foregoing reasons, Defendants’ Motion to Dismiss should be denied in its
+entirety.
+63. Plaintiff has pled detailed and plausible facts supporting claims under the Fourth and
+Fourteenth Amendments, including that Chief Roy used excessive force and unlawfully
+seized Plaintiff in violation of clearly established law. Plaintiff has also alleged a viable
+Monell claim based on policymaker action and ratification by the City of Galveston.
+64. Further, Plaintiff has stated alternative claims under Texas law for negligence and
+personal injury, and none of the Texas Tort Claims Act exemptions—§§101.055(2),
+101.055(3), or otherwise—preclude recovery at this stage.
+65. To the extent the Court considers Defendants’ extrinsic materials, the motion must
+be converted to one for summary judgment under Federal Rule of Civil Procedure 12(d),
+and Plaintiff respectfully requests the opportunity to conduct discovery to develop further
+evidence.
+66. WHEREFORE, Plaintiff respectfully prays that this Court deny Defendants’
+Motion to Dismiss, grant Plaintiff leave to amend if necessary, and award such other and
+further relief, at law or in equity, to which Plaintiff may be justly entitled.
+Respectfully submitted,
+/s/ Benjamin S. Campagna
+BENJAMIN S. CAMPAGNA
+Federal ID No. 3822709
+Texas Bar No. 24078302
+Email: ben@txattorneygroup.com
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 28
+/s/ David Bleakney
+DAVID BLEAKNEY
+Federal ID No. 3749624
+Texas Bar No. 24103798
+Email: david@txattorneygroup.com
+TX Attorney Group, PLLC
+405 Main Street, Suite 1000
+Houston, TX 77002
+Telephone: (281) 815-0387
+Facsimile: (281) 612-3006
+e-Service Email: e-service@txattorneygroup.com
+ATTORNEYS FOR PLAINTIFF
+CERTIFICATE OF SERVICE
+The undersigned certifies that a true and correct copy of the foregoing has been
+forwarded to all counsel of record via e-mail on April 25, 2025, in accordance with the
+District’s ECF service rules.
+/s/ Benjamin S. Campagna
+Benjamin S. Campagna
+PLAINTIFF’S RESPONSE TO DEFENDANTS’ MOTION TO DISMISS PLAINTIFF’S CLAIMS PAGE 29

@@ -1,0 +1,336 @@
+ATTORNEY BRIEFING PACKAGE
+United States v. Matthew Reardon,
+Case No. 6:25-cr-00227-CBW
+PREPARED FOR: Potential Legal Counsel / Civil Liberties Organizations
+DATE: October 2025
+CASE STATUS: Active Federal Criminal Prosecution
+EXECUTIVE SUMMARY (Read This First)
+THE CORE ISSUE:
+U.S. Marshals sent prejudicial emails about defendant (a journalist) to federal judges two
+months before filing criminal charges. FOIA records prove this. The government is now
+seeking a protective order to hide which judges received the emails. Yesterday, the magistrate
+judge issued a sua sponte interim order before the defense response was even due.
+WHY THIS MATTERS:
+This is a textbook ex parte communication violation that requires judicial recusal. If the
+protective order stands, defendant cannot challenge biased judges, violating due process. The sua
+sponte order suggests the magistrate judge herself may have received the communications.
+WHAT'S NEEDED:
+Legal representation to challenge the protective order, seek judicial recusal, and expose the ex
+parte communications scandal.
+THE CASE IN THREE SENTENCES
+1. Journalist arrested for peaceful protest at federal courthouse after discovering U.S.
+Marshals placed him under surveillance.
+2. FOIA records prove Marshals sent emails to federal judges calling his journalism
+"suspicious behavior" two months before arrest.
+3. Government seeks protective order to hide which judges received the emails; magistrate
+judge issued interim order before defense could respond.
+KEY FACTS (Chronological)
+June 24, 2025
+• U.S. Marshals send email to multiple @lawd.uscourts.gov addresses (federal court email
+domain)
+• Subject: "1st Amendment Auditor Matthew Reardon"
+• Content: Characterizes defendant's journalism as "suspicious behavior"
+• Instructs court personnel to report on defendant
+• Attaches reports about defendant
+June 26, 2025
+• Supervisory Deputy U.S. Marshal sends follow-up email
+• Encourages distribution of reports to staff
+• Same @lawd.uscourts.gov recipients
+August 25, 2025
+• Defendant conducts peaceful protest on courthouse steps
+• Protests the BOLO alert and surveillance
+• Arrested by U.S. Marshal Hayden Nugent
+• Charged with "loud noise" and "obstruction"
+October 15, 2025 (Morning)
+• Government files Motion for Protective Order
+• Seeks to restrict "communications between the Marshal service and the Federal Judges"
+October 15, 2025 (Afternoon)
+• Magistrate Judge Carol B. Whitehurst issues sua sponte Interim Protective Order
+• Acts before defense response due (October 22)
+• Classifies "emails" as "courthouse security information"
+• Restricts defendant's access to discovery
+THE LEGAL VIOLATIONS
+1. Ex Parte Communications
+Law: Code of Conduct for United States Judges, Canon 3(A)(4)
+Violation: U.S. Marshals communicated with judges about defendant before charges filed
+Evidence: FOIA records (attached)
+Consequence: Any judge who received communications must recuse under 28 U.S.C. § 455(a)
+2. Due Process Violation
+Law: Fifth Amendment
+Violation: Defendant denied knowledge of which judges are biased
+Impact: Cannot seek recusal without knowing who received communications
+Result: Faces trial before potentially prejudiced tribunal
+3. First Amendment Retaliation
+Law: First Amendment (Press Clause, Petition Clause)
+Violation: Surveillance and prosecution for protected journalism
+Pattern: BOLO alert → ex parte communications → arrest → protective order
+4. Premature Sua Sponte Order
+Law: Due process, Federal Rules of Criminal Procedure
+Violation: Magistrate judge acted before defense response due
+Impact: Denied defendant opportunity to be heard
+Timing: Same day as government motion, week before defense deadline
+THE EVIDENCE
+Primary Documents (All Attached):
+1. FOIA Records - 14 pages proving ex parte communications
+2. Government's Motion for Protective Order - admits communications exist
+3. Interim Protective Order - sua sponte order restricting access
+4. Arrest Video - shows peaceful protest, constitutional violations
+5. BOLO Alert Records - surveillance of journalist for protected activities
+Key Evidence Highlights:
+From FOIA Records (Page 3):
+"On yesterday Matthew Reardon a proclaimed 1st amendment auditor was in the lobby near the
+CSO screening station recording/live streaming with his cellphone. I have attached a copy CSO
+report and a draft my report detailing the incident. Please pass this on to your staff and remind
+them to report any suspicious behavior no matter how small to any USMS personnel, CSO or
+outside guard."
+Email Recipients: Multiple @lawd.uscourts.gov addresses (federal judges, magistrates,
+chambers staff)
+From Government's Motion:
+"Certain discoverable materials are sensitive courthouse security operational plans,
+and communications between the Marshal service and the Federal Judges at the John Shaw
+Courthouse."
+From Interim Order:
+"courthouse security information is defined as information including emails, camera footage, or
+other law enforcement sensitive materials"
+WHY THE GOVERNMENT'S ARGUMENTS FAIL
+Claim: "Courthouse Security"
+Reality:
+• Emails went to judges, not just security personnel
+• Content was about defendant's journalism, not security protocols
+• Government already disclosed via FOIA (not truly sensitive)
+• No security incident occurred (they waited 20+ minutes to arrest)
+Claim: "Operational Methods"
+Reality:
+• Ex parte communications are ethics violations, not operational methods
+• Characterizing journalism as "suspicious" is bias, not security
+• Instructing judges to report on defendant is prejudice, not protocol
+Claim: "Good Cause" for Protective Order
+Reality:
+• No particularized harm identified
+• Overbroad restrictions on constitutionally protected speech
+• Prior restraint on publication
+• Viewpoint-based targeting of journalist
+THE CRITICAL QUESTION
+Did Magistrate Judge Whitehurst receive any of the ex parte communications?
+Evidence suggesting she may have:
+• She uses @lawd.uscourts.gov email (same domain as recipients)
+• She issued sua sponte order before defense could respond (unusual)
+• She classified emails as "security information" (protecting them)
+• She found "good cause" without hearing defense arguments (premature)
+If she did receive them:
+• She is biased under 28 U.S.C. § 455(a)
+• She must recuse immediately
+• Her interim order is void due to conflict of interest
+This must be disclosed.
+WHAT'S AT STAKE
+For This Defendant:
+• Right to impartial tribunal
+• Right to challenge biased judges
+• Right to fair trial
+• First Amendment rights
+• Due process rights
+For All Defendants:
+• If protective order stands, prosecutors can prejudice judges through ex parte
+communications
+• Defendants will never know which judges are biased
+• No one can challenge judicial bias
+• Fair trials become impossible
+For Judicial Integrity:
+• Ex parte communication rules become meaningless
+• Judicial ethics violations can be hidden
+• Public confidence in courts destroyed
+• Transparency eliminated
+IMMEDIATE LEGAL NEEDS
+1. Emergency Motion to Vacate Interim Order
+Grounds:
+• Issued before defense response due (due process violation)
+• Sua sponte action without full briefing
+• Classifies ex parte communications as "security information"
+• Prevents defendant from challenging judicial bias
+2. Motion for Judicial Recusal
+Target: Magistrate Judge Carol B. Whitehurst
+Grounds:
+• May have received ex parte communications herself
+• Sua sponte action suggests bias
+• Appearance of impropriety under 28 U.S.C. § 455(a)
+3. Opposition to Protective Order
+Due: October 22, 2025
+Arguments:
+• Prior restraint on publication
+• Overbroad restrictions
+• No particularized harm
+• Viewpoint discrimination
+• Violates right to challenge judicial bias
+4. Motion to Compel Disclosure
+Demand:
+• Identity of all judges who received ex parte communications
+• Complete, unredacted copies of all communications
+• Dates, times, and any responses
+• Any actions taken based on communications
+5. Complaint to Judicial Council
+Target: Fifth Circuit Judicial Council
+Grounds:
+• Ex parte communication violations
+• Judicial ethics violations
+• Failure to disclose bias
+• Appearance of impropriety
+WHY THIS CASE IS WINNABLE
+Strong Legal Arguments:
+✓ Clear ex parte communication violation (FOIA proves it)
+✓ Binding precedent requires recusal (28 U.S.C. § 455(a))
+✓ Due process violation (cannot challenge unknown bias)
+✓ First Amendment retaliation (pattern of targeting journalist)
+✓ Premature sua sponte order (denied opportunity to be heard)
+Compelling Facts:
+✓ Documentary evidence (FOIA records)
+✓ Government admits communications exist (protective order motion)
+✓ Video evidence (arrest footage)
+✓ Clear timeline (emails → arrest → cover-up)
+✓ Sympathetic defendant (journalist exercising constitutional rights)
+Public Interest:
+✓ Affects everyone's right to fair trial
+✓ Exposes judicial corruption
+✓ Easy to understand (judges secretly biased)
+✓ Media attention likely
+✓ Civil liberties implications
+CASE COMPARISON / PRECEDENT
+Similar Cases:
+United States v. Hylton (5th Cir.)
+• Cannot impose criminal sanctions for petitioning for redress of grievances
+• Defendant's protest was constitutionally protected
+Edwards v. South Carolina (SCOTUS)
+• Protected "boisterous, loud, and flamboyant conduct" expressing political grievances
+• Courthouse steps are traditional public forum
+United States v. Grace (SCOTUS)
+• Public sidewalks around courthouse are public forums
+• First Amendment protections apply
+Liljeberg v. Health Services Acquisition Corp. (SCOTUS)
+• Judge must recuse when impartiality can reasonably be questioned
+• Appearance of bias is sufficient
+DEFENDANT BACKGROUND
+Matthew Reardon:
+• Marine veteran
+• Investigative journalist
+• Founder, We the People News (3,000+ YouTube subscribers)
+• Conducts "First Amendment audits" documenting government conduct
+• No criminal history related to violence or actual security threats
+• All activities are constitutionally protected journalism
+Why He Was Targeted:
+• Documented government misconduct
+• Exposed corruption in multiple jurisdictions
+• Critical of law enforcement overreach
+• Effective at holding officials accountable
+• Large online following
+MEDIA INTEREST
+Why This Story Matters:
+• Judicial corruption scandal
+• Government targeting journalist
+• Ex parte communications to judges
+• Cover-up attempt through protective order
+• Affects everyone's right to fair trial
+Media Angles:
+• "Federal Judges Caught in Ex Parte Communications Scandal"
+• "Government Seeks Gag Order to Hide Judicial Bias"
+• "Journalist Faces Biased Judges After Exposing Surveillance"
+• "Magistrate Judge Issues Order Before Defense Can Respond"
+Potential Coverage:
+• Legal journalism outlets
+• Civil liberties organizations
+• Alternative media
+• Investigative journalism shows
+• Constitutional law podcasts
+ORGANIZATIONAL FIT
+Why ACLU Should Take This Case:
+✓ First Amendment retaliation against journalist
+✓ Due process violations (biased tribunal)
+✓ Prior restraint on publication
+✓ Government surveillance of protected activities
+✓ Precedent-setting implications for all defendants
+Why Reporters Committee Should Take This Case:
+✓ Journalist targeted for newsgathering activities
+✓ Government characterizing journalism as "suspicious"
+✓ Protective order restricts reporting on prosecution
+✓ Press freedom implications
+✓ Chilling effect on investigative journalism
+Why Constitutional Law Firms Should Take This Case:
+✓ Multiple constitutional violations
+✓ Clear legal issues
+✓ Strong factual record
+✓ Winnable case
+✓ Precedent-setting potential
+WHAT DEFENDANT HAS DONE
+Legal Actions Taken:
+✓ Filed motion to dismiss on First Amendment grounds
+✓ Obtained FOIA records proving ex parte communications
+✓ Prepared opposition to protective order
+✓ Documented all violations
+✓ Preserved all evidence
+Public Documentation:
+✓ Published investigative articles on WTPNews.org
+✓ Created video documentation
+✓ Built public awareness
+✓ Maintained detailed timeline
+✓ Engaged media attention
+What Defendant Cannot Do Alone:
+✗ Navigate complex federal litigation
+✗ Argue sophisticated constitutional issues
+✗ Challenge judicial bias effectively
+✗ Appeal if necessary
+✗ Maximize precedent-setting potential
+RESOURCES AVAILABLE
+Evidence:
+• Complete FOIA records (14 pages)
+• All court filings
+• Video footage of arrest
+• BOLO alert documentation
+• Email correspondence
+Documentation:
+• Detailed timeline
+• Legal analysis
+• Investigative articles
+• Social media documentation
+• Media coverage
+Support:
+• Public following (3,000+ subscribers)
+• Media interest
+• Civil liberties community awareness
+• Documented pattern of government misconduct
+CONTACT INFORMATION
+Defendant: Matthew Reardon
+Email: mreardon@wtpnews.org
+Website: WTPNews.org
+Phone: 662-701-2458
+ATTACHMENTS
+1. FOIA Records (14 pages) - Ex parte communications
+2. Government's Motion for Protective Order
+3. Interim Protective Order (October 15, 2025)
+4. Defendant's Motion to Dismiss
+5. Arrest Video/Documentation
+6. BOLO Alert Records
+7. Timeline of Events
+8. Legal Analysis Memoranda
+ONE-PAGE SUMMARY (For Quick Review)
+CASE: U.S. v. Reardon - Federal criminal prosecution of journalist
+ISSUE: U.S. Marshals sent ex parte communications to federal judges before filing charges.
+Government seeks protective order to hide which judges received them. Magistrate judge issued
+sua sponte order before defense could respond.
+EVIDENCE: FOIA records prove emails sent to @lawd.uscourts.gov addresses (judges)
+characterizing defendant's journalism as "suspicious behavior."
+VIOLATIONS:
+• Ex parte communications (Code of Conduct for U.S. Judges)
+• Due process (cannot challenge unknown bias)
+• First Amendment retaliation (targeting journalist)
+• Premature sua sponte order (denied opportunity to be heard)
+RELIEF NEEDED:
+• Vacate interim order
+• Compel disclosure of which judges received communications
+• Seek recusal of biased judges
+• Defeat protective order
+• Dismiss charges
+WHY WINNABLE: Clear documentary evidence, binding precedent, compelling facts, public
+interest, strong constitutional arguments.
+DEADLINE: Opposition to protective order due October 22, 2025. Emergency motions needed
+immediately.
+END OF BRIEFING PACKAGE
+This package provides everything needed to understand the case quickly and make an informed
+decision about representation. All supporting documents are available upon request.

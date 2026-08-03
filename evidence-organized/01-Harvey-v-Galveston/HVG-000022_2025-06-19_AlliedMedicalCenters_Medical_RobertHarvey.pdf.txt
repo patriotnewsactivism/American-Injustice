@@ -1,0 +1,283 @@
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+08/27/2024
+08/27/24 : 11:28am
+INITIAL MEDICAL EVALUATION: Telemedia
+Allied Medical Centers - Sugarland
+12440 Emily Court
+Houston, TX 77478
+713-785-2667
+DOI: 06/21/2024
+Verbal consent was obtain for telemedia consultation
+HISTORY OF PRESENT ILLNESS
+Past Medical History
+HPI
+ROBERT HARVEY is a 46 year old male who presents today for treatment of an injury. He was initially injured on
+06/21/2024: Pt was walking on sidewalk and was hit by a car no loc, the driver of the car blew air horn in his ear 4 times
+after he hit him. Following the injury ROBERT HARVEY received the following treatment(s): Ambulance came to scene
+he was checked next day he went UTMB in Galveston. Pt had imaging done. Taking IBU as needed.
+AREAS OF INJURY
+Neck
+Shoulder right
+ASSOCIATED SYMPTOMS
+Pain
+Stiffness
+headaches
+brain fog
+Hearing loss
+.end
+PAST MEDICAL HISTORY:
+none NKDA
+SURGICAL / PROCEDURAL HISTORY:
+none
+Social History:
+Smoking Status: none
+Alcohol: occasional alcohol
+Marital Status:
+REVIEW OF SYSTEMS
+Constitutional: No fevers, chills, or unexplained weight loss
+Eyes: No visual changes or eye pain
+Ears: No hearing loss , otorrhea or ear pain
+N/M/T:No nasal congestion, rhinorrhea, postnasal drip or sore throat
+Cardiovascular:No chest pain or palpitations.
+Respiratory:No cough, shortness of breath or wheezing
+Gastrointestinal:No diarrhea, constipation, abdominal pain, vomiting or heartburn
+Genitourinary:No urinary frequency, hematuria, incontinence, or dysuria
+Skin:No rash or bothersome skin lesions
+Neuro:No paresthesias, confusion, dysarthria or gait instability
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+08/27/2024
+Psychiatric:No anxiety or depression
+PHYSICAL EXAM
+General: .
+Appearance: well-appearing
+Nutritional status: well-nourished
+Orientation: alert and oriented x 3 person. place. time. situation
+Ambulation: ambulating without difficulty
+Head: normocephalic, atraumatic
+Cervical Spine Exam:
+Palpation:
+Spinous process tenderness: no
+Cervical spine musculature: tenderness myospasm yes right
+Paraspinal neck musculature: tenderness myospasm yes right
+Trapezius: tenderness myospasm yes right
+Range of Motion:
+Flexion: decreased with associated end range of motion pain
+Extension: decreased with associated end range of motion pain
+Left rotation: decreased with associated end range of motion pain
+Right rotation: decreased with associated end range of motion pain
+Left lateral flexion: decreased with associated end range of motion pain
+Right lateral flexion: decreased with associated end range of motion pain
+Neuro Examination: Sensation and strength normal.
+Special Tests:
+Shoulder: right
+Inspection: no swelling, ecchymosis, erythema or step off deformity.
+Palpation:
+AC joint: tenderness yes right
+Right Shoulder Range of Motion:
+Abduction: decreased with associated end range of motion pain
+Internal rotation: with associated end range of motion pain
+External rotation: with associated end range of motion pain
+Special Tests:
+Neurologic: A/O x 3. No focal deficits. Gait WNL.
+ASSESSMENT
+Aching headache : ICD9 = 784.0 / ICD10 = R51 / SNOMED = 162307009
+Cervicalgia : ICD9 = 723.1 / ICD10 = M54.2 / SNOMED = 81680005
+Strain of muscle, fascia and tendon at neck level, initial encounter : ICD9 = 847.0 / ICD10 = S16.1XXA / SNOMED =
+360450007
+Pain in right shoulder : ICD9 = 719.41 / ICD10 = M25.511 / SNOMED = 267949000
+Other specified hearing loss of both ears : ICD10 = H91.8X3 / ICD9 = 389.8 / SNOMED = 118230007
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+08/27/2024
+These injuries were caused by the incident stated above, as determined by the physical examination of the patient, the
+history taken of the patient, and the consistency between the injuries sustained and the mechanism of injury of the
+incident, and as informed by training and clinical experience.
+TREATMENT PLAN
+REF: ENT: hearing loss
+REF: Neuro headache
+ORD MRI C and right shoulder
+PHYSICAL MEDICINE AND REHABILITATION
+Referred to Physical Medicine 3-5 days prn
+WORK/SCHOOL STATUS
+Return to work with the following restrictions: avoid aggravating factors
+Return to clinic in 2 weeks
+Comprehensive : 99204
+#Orders: MRI Cervical Spine WO Contrast [Do in Routine days]
+#Orders: MRI R Shoulder WO Contrast [Do in Routine days]
+#Orders: ENT Referral [Do in Routine days]
+#Orders: Neurologist Referral [Do in Routine days]
+MRI Cervical Spine WO Contrast order - additional information
+Reason: MRI REASONS-->S/P trauma with moderate to severe pain
+Notes:
+MRI R Shoulder WO Contrast order - additional information
+Reason: MRI REASONS-->R/O internal derangement
+Notes:
+ENT Referral order - additional information
+Reason for Referral: bilateral ear hearing loss
+Refer to:
+Notes:
+Neurologist Referral order - additional information
+Reason for Referral: headaches memory fog
+Refer to:
+Notes:
+# SIGNED BY JANNA M YOUNG, APRN-CNP (JY) 08/27/2024 11:40AM
+# REVISED BY JANNA M YOUNG, APRN-CNP (JY) 08/27/2024 11:40AM
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+09/13/2024
+09/13/24 : 11:48am
+MEDICAL EVALUATION FOLLOW UP: Telemedia
+Allied Medical Centers - Sugarland
+12440 Emily Court
+Houston, TX 77478
+713-785-2667
+DOI: 06/21/2024
+HISTORY OF PRESENT ILLNESS
+HPI:
+ROBERT HARVEY is a 46 year old male who presents today for treatment of an injury. He was initially injured on
+06/21/2024: Pt was walking on sidewalk and was hit by a car no loc, the driver of the car blew air horn in his ear 4 times
+after he hit him. Following the injury ROBERT HARVEY received the following treatment(s): Ambulance came to scene
+he was checked next day he went UTMB in Galveston. Pt had imaging done. Taking IBU as needed.
+AREAS OF INJURY
+Neck
+Shoulder right
+ASSOCIATED SYMPTOMS
+Pain
+Stiffness
+headaches
+brain fog
+Hearing loss
+Treatment to date: 09/09/24: MRI
+Right shoulder: Labral tear, bursitis, joint effusion
+Cervical: C3/4 2.8 mm DH, C4/5 3.9 mm DH, C5/6 3.9 mm DH, C6/7 3.9 mm DH
+PAST MEDICAL HISTORY:
+none NKDA
+SURGICAL / PROCEDURAL HISTORY:
+none
+Social History:
+Smoking Status: none
+Alcohol: occasional alcohol
+Marital Status:
+Major Problem List:
+Aching headache: ICD10 = R51 / ICD9 = 784.0 / SNOMED = 162307009
+Cervicalgia: ICD10 = M54.2 / ICD9 = 723.1 / SNOMED = 81680005
+Strain of muscle, fascia and tendon at neck l ...: ICD10 = S16.1XXA / ICD9 = 847.0 / SNOMED = 360450007
+Pain in right shoulder: ICD10 = M25.511 / ICD9 = 719.41 / SNOMED = 267949000
+Other specified hearing loss of both ears: ICD10 = H91.8X3 / ICD9 = 389.8 / SNOMED = 118230007
+REVIEW OF SYSTEMS
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+09/13/2024
+Constitutional: No fevers, chills, or unexplained weight loss
+Eyes: No visual changes or eye pain
+Ears: No hearing loss , otorrhea or ear pain
+N/M/T:No nasal congestion, rhinorrhea, postnasal drip or sore throat
+Cardiovascular:No chest pain or palpitations.
+Respiratory:No cough, shortness of breath or wheezing
+Gastrointestinal:No diarrhea, constipation, abdominal pain, vomiting or heartburn
+Genitourinary:No urinary frequency, hematuria, incontinence, or dysuria
+Skin:No rash or bothersome skin lesions
+Neuro:No paresthesias, confusion, dysarthria or gait instability
+Psychiatric:No anxiety or depression
+Current Complaints: Neck and right shoulder pain persists.
+PHYSICAL EXAM
+General: .
+Appearance: well-appearing
+Nutritional status: well-nourished
+Orientation: alert and oriented x 3 person. place. time. situation
+Ambulation: ambulating without difficulty
+Head: normocephalic, atraumatic
+Cervical Spine Exam:
+Palpation:
+Spinous process tenderness: no
+Cervical spine musculature: tenderness myospasm yes right
+Paraspinal neck musculature: tenderness myospasm yes right
+Trapezius: tenderness myospasm yes right
+Range of Motion:
+Flexion: decreased with associated end range of motion pain
+Extension: decreased with associated end range of motion pain
+Left rotation: decreased with associated end range of motion pain
+Right rotation: decreased with associated end range of motion pain
+Left lateral flexion: decreased with associated end range of motion pain
+Right lateral flexion: decreased with associated end range of motion pain
+Neuro Examination: Sensation and strength normal.
+Special Tests:
+Shoulder: right
+Inspection: no swelling, ecchymosis, erythema or step off deformity.
+Palpation:
+AC joint: tenderness yes right
+Right Shoulder Range of Motion:
+Abduction: decreased with associated end range of motion pain
+Internal rotation: with associated end range of motion pain
+External rotation: with associated end range of motion pain
+Special Tests:
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+09/13/2024
+Neurologic: A/O x 3. No focal deficits. Gait WNL.
+ASSESSMENT
+Aching headache : ICD9 = 784.0 / ICD10 = R51 / SNOMED = 162307009
+Cervicalgia : ICD9 = 723.1 / ICD10 = M54.2 / SNOMED = 81680005
+Strain of muscle, fascia and tendon at neck level, initial encounter : ICD9 = 847.0 / ICD10 = S16.1XXA / SNOMED =
+360450007
+Pain in right shoulder : ICD9 = 719.41 / ICD10 = M25.511 / SNOMED = 267949000
+Other specified hearing loss of both ears : ICD10 = H91.8X3 / ICD9 = 389.8 / SNOMED = 118230007
+Other cervical disc displacement, unspecified cervical region : ICD10 = M50.20 / ICD9 = 722.0 / SNOMED =
+445332006
+Superior glenoid labrum lesion of right shoulder, initial encounter : ICD10 = S43.431A / ICD9 = 840.7 / SNOMED =
+11822361000119104
+These injuries were caused by the incident stated above, as determined by the physical examination of the patient, the
+history taken of the patient, and the consistency between the injuries sustained and the mechanism of injury of the
+incident, and as informed by training and clinical experience.
+TREATMENT PLAN
+REF: ENT: hearing loss
+REF: Neuro headache
+ORD MRI C and right shoulder
+PHYSICAL MEDICINE AND REHABILITATION
+Referred to Physical Medicine 3-5 days prn
+WORK/SCHOOL STATUS
+New entry: 09/13/24
+ROF MRI
+REF PM
+REF ORTHO
+Return to work with the following restrictions: avoid aggravating factors
+Return to clinic as needed
+Expanded Problem Focused : 99213
+#Orders: Orthopaedic Surgeon Referral [Do in Routine days]
+#Orders: Pain Management Referral [Do in Routine days]
+Orthopaedic Surgeon Referral order - additional information
+Reason for Referral: right shoulder labrum tear
+Refer to:
+Notes:
+Pain Management Referral order - additional information
+Progress Notes
+HARVEY, ROBERT
+Patient ID: HARRO009
+DOB: 02/07/1978
+Age: 46 years Gender: M
+09/13/2024
+Reason for Referral: cervical disc herniation
+Refer to:
+Notes:
+# SIGNED BY JANNA M YOUNG, APRN-CNP (JY) 09/13/2024 11:54AM
+# REVISED BY JANNA M YOUNG, APRN-CNP (JY) 09/13/2024 11:56AM

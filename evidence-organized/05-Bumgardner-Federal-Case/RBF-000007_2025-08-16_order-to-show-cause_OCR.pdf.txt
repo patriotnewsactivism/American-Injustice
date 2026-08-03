@@ -1,0 +1,132 @@
+Case: l:24-cv-00153-SA-JMV Doc #: 20 Filed: 08/06/25 1 of 5 PagelD #: 82
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF MISSISSIPPI
+ABERDEEN DIVISION
+REBECCA LYNN BUMGARDNER PLAINTIFF
+v. No. 1:24CV153-SA-JMV
+SHERIFF EDDIE HAWKINS, ET AL. DEFENDANTS
+ORDER TO SHOW CAUSE
+This matter comes before the court on the plaintiffs complaint filed under 42 U.S.C. § 1983.
+The plaintiff alleges that the defendants fabricated two charges against her: intimidation of a witness
+and retaliation against a public servant. As discussed in detail below, with more supporting facts,
+these allegations are the type that may support claims of malicious prosecution. However, it appears
+that her allegations fail to state a valid claim under 42 U.S.C. § 1983. For this reason, the court will
+require the plaintiff to show cause, within 21 days, why her allegations, as pled, should not be
+dismissed with prejudice for failure to state a claim upon which relief could be granted. Further, the
+plaintiff must provide additional factual allegations so the court may conduct an initial review of the
+merits of this case.
+Factual Allegations1
+The facts and circumstances of this case arise out of the arrest and detention of plaintiff
+Rebecca Lynn Bumgardner in Lowndes County, Mississippi, on charges of witness intimidation and
+retaliation against a public servant. See, generally, Docs. 8, 9, and 10 (plaintiffs complaint and
+supplements). She was ultimately convicted for three counts of possession of methamphetamine and
+is serving her sentence in the custody of the Mississippi Department of Corrections.
+1 The plaintiffs allegations (which were not presented in chronological order) may be
+found in her complaint and its supplements. Docs. 8, 9, 10.
+Case: l:24-cv-00153-SA-JMV Doc #: 20 Filed: 08/06/25 2 of 5 PagelD #: 83
+Witness Intimidation Charge
+Investigator Jeff Edmonson directed confidential informant (“CI”) Tonya Blanton to “do a
+job” for him - and to enlist the help of Georgina Slayton. Doc. 9, p. 1. On November 17, 2022,
+Blanton sent a text message to Slayton to that effect, and Slayton responded that she was ready. Id.
+The next day (November 18, 2022) Slayton called Scotty Brown (private citizen) and told him to send
+a text to Christopher Stokes’ phone - a request for Stokes and Bumgardner to walk to Slayton’s
+home.2 Id. at 2. Blanton was waiting in Slayton’s driveway, and Slayton was not at home. As a
+result of this meeting, Blanton (who was a potential witness in Bumgardner’s methamphetamine
+possession case) accused Bumgardner of intimidating her. Id. at 5. Bumgardner was arrested on
+November 22, 2022, on the charge of intimidating a witness.3 Id. She believes that defendants
+Blanton, Slayton, and Brown (private citizens) conspired with Investigator Edmonson to lure her to
+Slayton’s house in order to levy the false charge of intimidating a witness in her pending criminal
+case. Doc. 9, p. 2. Her initial appearance on the intimidation charge took place on November 23,
+2022. Doc. 8, p. 8. She spent six months in pretrial detention on this charge (from November 2022
+until April 2023. Doc. 9, p. 5. It is unclear whether the court held a preliminary hearing - or whether
+she was later indicted on the intimidation charge.
+Retaliation Against a Public Servant
+As set forth above, on November 23, 2022, Bumgardner made an initial appearance before the
+Lowndes County Justice Court on the witness intimidation charge.4 Doc. 8, p. 8. Lowndes County
+Officers Kevin Pevey and Marie Halthom were transporting her back to the jail, and Bumgardner said
+2 Stokes was plaintiff Bumgardner’s boyfriend at the time.
+3 It is unclear whether she was arrested pursuant to a warrant.
+4 As she was not released after her initial appearance, it appears that the court found
+probable cause that she committed the crime of witness intimidation.
+-2-
+Case: l:24-cv-00153-SA-JMV Doc #: 20 Filed: 08/06/25 3 of 5 PagelD #: 84
+that she intended to sue Investigator Edmonson and take his “house, car, [and] freedom.” Id.
+Edmonson was not present at the time. Id. On February 1,2023, Edmonson came to the Lowndes
+County Jail, “flashed” a paper at Bumgardner, and told her that she was being charged with retaliation
+against a public servant. Id. At the time she did not know why she was being charged - but later
+discovered that Pevey and Halthorn stated that she had threatened to kill Edmonson. Id. Bumgardner
+did not have an initial appearance on the retaliation charge; however, a Grand Jury indicted her on that
+charge on March 10, 2023.5 Id. She was being detained on the intimidation charge when she was
+indicted for retaliation.
+The Factual Allegations Suggest a Claim of Malicious Prosecution
+Bumgardner claims that she has been falsely charged with two crimes: intimidation of a
+witness and retaliation against a public servant. Construing her allegations liberally, her claim under
+42 U.S.C. § 1983, then, is malicious prosecution, which has three elements: (1) the initiation of
+criminal proceedings; (2) without probable cause; and (3) the proceedings terminated in the acquittal
+or discharge of the accused.6 Thompson v. Clark. 596 U.S. 36,44, 142 S. Ct. 1332, 1338,212 L. Ed.
+2d 382 (2022).
+As to the first charge, intimidation of a witness. Bumgardner has alleged facts supporting the
+first element, as the criminal proceeding was initiated. She has not, however, alleged facts supporting
+the other two elements. First, at her initial appearance, the Judge found probable cause to support the
+charge, though it is not clear whether the court later held a preliminary hearing, whether the case was
+5 Bumgardner believes that the indictment is a “fraudulent instrument” created by the
+Sheriff, rather than the Grand Jury, District Attorney, and the state court. She bases her belief on
+faint text stamped on the indictment reading “Sheriff Eddie Hawkins.”
+6 See Haines v. Kerner. 404 U.S. 519, 520, 92 S. Ct. 594, 596, 30 L. Ed. 2d 652 (1972)
+(courts must construe pro se pleadings liberally).
+-3-
+Case: l:24-cv-00153-SA-JMV Doc #: 20 Filed: 08/06/25 4 of 5 PagelD #: 85
+presented to a Grand Jury, or whether a Grand Jury ultimately returned an indictment.7 Bumgardner’s
+initial appearance established that probable cause existed to show that she intimidated the witness -
+which seems to preclude her claim of malicious prosecution. In addition, it is not clear in her
+complaint and supplements whether the criminal proceeding has concluded, as she is currently
+incarcerated on other charges. If the proceedings have not terminated, then they cannot have
+terminated in her favor. Thus, it appears that she has not alleged facts to support the third element,
+either.
+Her claims arising out of the second charge, retaliation against a public servant, are similarly
+unsupported by her allegations. Again, her factual allegations support the first element - that criminal
+proceedings were initiated against her. However, she has not stated whether a warrant was issued or
+whether she waived her initial appearance or preliminary hearing as to that charge. In any event, a
+Grand Jury later returned an indictment as to the retaliation charge, and the indictment established that
+probable cause existed to support the charge. Bumgardner has not alleged facts to show whether - or
+how - those proceedings terminated. Hence, she has not alleged that the retaliation proceedings
+terminated in her favor. The absence of such factual allegations is fatal to Bumgardner’s claims.
+Information Needed to Proceed
+Ultimately, under her current pleadings, it appears that Bumgardner seeks to litigate her
+criminal charges in these civil proceedings. Based upon her allegations in the present case, it appears
+that she must seek redress for her claims in her criminal cases, as “[criminal proceedings and criminal
+judgments require criminal remedies—not civil ones.” Wilson v. Midland Cnty., Texas. 116 F.4th
+7 Under Miss. R. Cr. P. 5.2, which governs initial appearances, if the defendant was
+arrested without a warrant, then the court must make a probable cause determination. As such,
+probable cause was established either by the Judge issuing a warrant - or by the Judge during the
+initial appearance.
+-4-
+Case: l:24-cv-00153-SA-JMV Doc #: 20 Filed: 08/06/25 5 of 5 PagelD #: 86
+384,404 (5th Cir. 2024). Nonetheless, the court will provide Bumgardner the opportunity to provide
+information to flesh out her existing allegations.
+To assist the court with its initial merits review under 28 U.S.C. § 1915A, Bumgardner must
+provide additional information.8 First, she must inform the court whether the proceedings arising out
+of the charges of witness intimidation and retaliation against a public servant have terminated, and, if
+so, how they terminated - and whether they terminated in her favor.9 Further, she must inform the
+court whether an indictment issued as to her charge of intimidating a witness. In addition, as to the
+charge of retaliation, she must inform the court whether she attended (or waived) an initial appearance
+or preliminary hearing - and whether the State obtained a warrant. These additional facts will aid the
+court in its initial review.
+Conclusion
+It appears that the plaintiffs allegations do not state a valid claim under 42 U.S.C. § 1983. As
+such, the plaintiff is ORDERED to SHOW CAUSE why the instant case should not be dismissed
+with prejudice for failure to state a claim upon which relief could be granted. The plaintiff is also
+ORDERED to provide the court with the additional information, described above, to aid in its initial
+merits review. The deadline for the plaintiff to respond is 21 days from the date of this order.
+SO ORDERED, this, the 6th day of August, 2025.
+/s/ Sharion Aycock_____________________________
+SENIOR UNITED STATES DISTRICT JUDGE
+8 Section 1915A reads, in relevant part, “The court shall review, before docketing, if
+feasible or, in any event, as soon as practicable after docketing, a complaint in a civil action in
+which a prisoner seeks redress from a governmental entity or officer or employee of a
+governmental entity.” 28 U.S.C. § 1915A(a). Upon review, the court may dismiss the complaint
+- or any part of the complaint - if an allegation is frivolous, malicious, fails to state a valid
+claim, or seeks monetary relief from a defendant immune to such relief. 28 U.S.C. § 1915(b)
+9 Documentary evidence supporting the information she provides would prove invaluable
+in deciding these issues on initial review.
+-5-

@@ -1,0 +1,159 @@
+United States Supreme Court
+O'CONNOR v. DONALDSON(1975)
+No. 74-8
+Argued: January 15, 1975 | Decided: June 26, 1975
+Respondent, who was confined almost 15 years "for care, maintenance, and treatment" as a mental patient in a
+Florida state hospital, brought this action for damages under 42 U.S.C. 1983 against petitioner, the hospital's
+superintendent, and other staff members, alleging that they had intentionally and maliciously deprived him of his
+constitutional right to liberty. The evidence showed that respondent, whose frequent requests for release had been
+rejected by petitioner notwithstanding undertakings by responsible persons to care for him if necessary, was
+dangerous neither to himself nor others, and, if mentally ill, had not received treatment. Petitioner's principal defense
+was that he had acted in good faith, since state law, which he believed valid, had authorized indefinite custodial
+confinement of the "sick," even if they were not treated and their release would not be harmful, and that petitioner
+was therefore immune from any liability for monetary damages. The jury found for respondent and awarded
+compensatory and punitive damages against petitioner and a codefendant. The Court of Appeals, on broad
+Fourteenth Amendment grounds, affirmed the District Court's ensuing judgment entered on the verdict. Held:
+1. A State cannot constitutionally confine, without more, a non-dangerous individual who is capable of
+surviving safely in freedom by himself or with the help of willing and responsible family members or
+friends, and since the jury found, upon ample evidence, that petitioner did so confine respondent, it properly
+concluded that petitioner had violated respondent's right to liberty. Pp. 573-576.
+2. Since the Court of Appeals did not consider whether the trial judge erred in refusing to give an instruction
+requested by petitioner concerning his claimed reliance on state law as authorization for respondent's
+continued confinement, and since neither court below had the benefit of this Court's decision in Wood v.
+Strickland, 420 U.S. 308 , on the scope of a state official's qualified immunity under 42 U.S.C. 1983, the
+case is vacated and [422 U.S. 563, 564] remanded for consideration of petitioner's liability vel non for
+monetary damages for violating respondent's constitutional right. Pp. 576-577.
+493 F.2d 507, vacated and remanded.
+JUSTICE STEWART delivered the opinion of the Court.
+The respondent, Kenneth Donaldson, was civilly committed to confinement as a mental patient in the Florida State
+Hospital at Chattahoochee in January 1957. He was kept in custody there against his will for nearly 15 years. The
+petitioner, Dr. J. B. O'Connor, was the hospital's superintendent during most of this period. [422 U.S. 563,
+565] Throughout his confinement Donaldson repeatedly, but unsuccessfully, demanded his release, claiming that
+he was dangerous to no one, that he was not mentally ill, and that, at any rate, the hospital was not providing
+treatment for his supposed illness. Finally, in February 1971, Donaldson brought this lawsuit under 42 U.S.C. 1983,
+in the United States District Court for the Northern District of Florida, alleging that O'Connor, and other members
+of the hospital staff named as defendants, had intentionally and maliciously deprived him of his constitutional right
+to liberty. 1 After a four-day trial, the jury returned a verdict assessing both compensatory and punitive damages
+against O'Connor and a codefendant. The Court of Appeals for the Fifth Circuit affirmed the judgment, 493 F.2d
+507. We granted O'Connor's petition for certiorari, 419 U.S. 894 , because of the important constitutional questions
+seemingly presented.
+I. Donaldson's commitment was initiated by his father, who thought that his son was suffering from
+"delusions." After hearings before a county judge of Pinellas County, Fla., Donaldson was found to be
+suffering from "paranoid schizophrenia" and was committed for "care, maintenance, [422 U.S. 563,
+566] and treatment" pursuant to Florida statutory provisions that have since been repealed. 2 The state law
+was less than clear in specifying the grounds necessary [422 U.S. 563, 567] for commitment, and the
+record is scanty as to Donaldson's condition at the time of the judicial hearing. These matters are, however,
+irrelevant, for this case involves no challenge to the initial commitment, but is focused, instead, upon the
+nearly 15 years of confinement that followed.
+The evidence at the trial showed that the hospital staff had the power to release a patient, not dangerous to
+himself or others, even if he remained mentally ill and had been lawfully committed. 3 Despite many
+requests, O'Connor refused to allow that power to be [422 U.S. 563, 568] exercised in Donaldson's case.
+At the trial, O'Connor indicated that he had believed that Donaldson would have been unable to make a
+"successful adjustment outside the institution," but could not recall the basis for that conclusion. O'Connor
+retired as superintendent shortly before this suit was filed. A few months thereafter, and before the trial,
+Donaldson secured his release and a judicial restoration of competency, with the support of the hospital
+staff.
+The testimony at the trial demonstrated, without contradiction, that Donaldson had posed no danger to
+others during his long confinement, or indeed at any point in his life. O'Connor himself conceded that he
+had no personal or secondhand knowledge that Donaldson had ever committed a dangerous act. There was
+no evidence that Donaldson had ever been suicidal or been thought likely to inflict injury upon himself.
+One of O'Connor's codefendants acknowledged that Donaldson could have earned his own living outside
+the hospital. He had done so for some 14 years before his commitment, and immediately upon his release
+he secured a responsible job in hotel administration.
+Furthermore, Donaldson's frequent requests for release had been supported by responsible persons willing
+to provide him any care he might need on release. In 1963, for example, a representative of Helping Hands,
+Inc., a halfway house for mental patients, wrote O'Connor asking him to release Donaldson to its care. The
+request was accompanied by a supporting letter from the Minneapolis Clinic of Psychiatry and Neurology,
+which a codefendant conceded was a "good clinic." O'Connor rejected the offer, replying that Donaldson
+could be released only to his parents. That rule was apparently of O'Connor's own making. At the time,
+Donaldson was 55 years old, and, as O'Connor knew, Donaldson's parents [422 U.S. 563, 569] were too
+elderly and infirm to take responsibility for him. Moreover, in his continuing correspondence with
+Donaldson's parents, O'Connor never informed them of the Helping Hands offer. In addition, on four
+separate occasions between 1964 and 1968, John Lembcke, a college classmate of Donaldson's and a
+longtime family friend, asked O'Connor to release Donaldson to his care. On each occasion O'Connor
+refused. The record shows that Lembcke was a serious and responsible person, who was willing and able
+to assume responsibility for Donaldson's welfare.
+The evidence showed that Donaldson's confinement was a simple regime of enforced custodial care, not a
+program designed to alleviate or cure his supposed illness. Numerous witnesses, including one of
+O'Connor's codefendants, testified that Donaldson had received nothing but custodial care while at the
+hospital. O'Connor described Donaldson's treatment as "milieu therapy." But witnesses from the hospital
+staff conceded that, in the context of this case, "milieu therapy" was a euphemism for confinement in the
+"milieu" of a mental hospital. 4 For substantial periods, Donaldson was simply kept in a large room that
+housed 60 patients, many of whom were under criminal commitment. Donaldson's requests for ground
+privileges, occupational training, and an opportunity to discuss his case with O'Connor or other staff
+members were repeatedly denied.
+At the trial, O'Connor's principal defense was that he had acted in good faith and was therefore immune
+from any liability for monetary damages. His position, in short, was that state law, which he had believed
+valid, [422 U.S. 563, 570] had authorized indefinite custodial confinement of the "sick," even if they were
+not given treatment and their release could harm no one. 5
+The trial judge instructed the members of the jury that they should find that O'Connor had violated
+Donaldson's constitutional right to liberty if they found that he had
+"confined [Donaldson] against his will, knowing that he was not mentally ill or dangerous or
+knowing that if mentally ill he was not receiving treatment for his alleged mental illness.. . . . .
+"Now, the purpose of involuntary hospitalization is treatment and not mere custodial care or
+punishment if a patient is not a danger to himself or others. Without such treatment there is no
+justification from a constitutional stand-point for continued confinement unless you should also
+find that [Donaldson] was dangerous to either himself or others." 6 [422 U.S. 563, 571]
+The trial judge further instructed the jury that O'Connor was immune from damages if he
+"reasonably believed in good faith that detention of [422 U.S. 563, 572] [Donaldson] was proper
+for the length of time he was so confined . . . .
+"However, mere good intentions which do not give rise to a reasonable belief that detention is
+lawfully required cannot justify [Donaldson's] confinement in the Florida State Hospital."
+The jury returned a verdict for Donaldson against O'Connor and a codefendant, and awarded damages of
+$38,500, including $10,000 in punitive damages. 7
+The Court of Appeals affirmed the judgment of the District Court in a broad opinion dealing with "the far-
+reaching question whether the Fourteenth Amendment guarantees a right to treatment to persons
+involuntarily civilly committed to state mental hospitals." 493 F.2d, at 509. The appellate court held that
+when, as in Donaldson's case, the rationale for confinement is that the patient is in need of treatment, the
+Constitution requires that minimally adequate treatment in fact be provided. Id., at 521. The court further
+expressed the view that, regardless of the grounds for involuntary civil commitment, a person confined
+against his will at a state mental institution has "a constitutional right to receive such individual treatment
+as will give him a reasonable opportunity to be cured or to improve his mental condition." Id., at 520.
+Conversely, the court's opinion implied that it is constitutionally permissible for a State to confine a
+mentally ill person against his will in order to treat his illness, regardless of whether his illness renders [422
+U.S. 563, 573] him dangerous to himself or others. See id., at 522-527.
+II
+We have concluded that the difficult issues of constitutional law dealt with by the Court of Appeals are not
+presented by this case in its present posture. Specifically, there is no reason now to decide whether mentally
+ill persons dangerous to themselves or to others have a right to treatment upon compulsory confinement by
+the State, or whether the State may compulsorily confine a nondangerous, mentally ill individual for the
+purpose of treatment. As we view it, this case raises a single, relatively simple, but nonetheless important
+question concerning every man's constitutional right to liberty.
+The jury found that Donaldson was neither dangerous to himself nor dangerous to others, and also found
+that, if mentally ill, Donaldson had not received treatment. 8 That verdict, based on abundant evidence,
+makes the issue before the Court a narrow one. We need not decide whether, when, or by what procedures,
+a mentally ill person may be confined by the State on any of the grounds which, under contemporary
+statutes, are generally advanced to justify involuntary confinement of such a person - to prevent injury to
+the public, to ensure [422 U.S. 563, 574] his own survival or safety, 9 or to alleviate or cure his illness.
+See Jackson v. Indiana, 406 U.S. 715, 736 -737; Humphrey v. Cady, 405 U.S. 504, 509 . For the jury found
+that none of the above grounds for continued confinement was present in Donaldson's case. 10
+Given the jury's findings, what was left as justification for keeping Donaldson in continued confinement?
+The fact that state law may have authorized confinement of the harmless mentally ill does not itself establish
+a constitutionally adequate purpose for the confinement. See Jackson v. Indiana, supra, at 720-723; McNeil
+v. Director, Patuxent Institution, 407 U.S. 245, 248 -250. Nor is it enough that Donaldson's original
+confinement was [422 U.S. 563, 575] founded upon a constitutionally adequate basis, if in fact it was,
+because even if his involuntary confinement was initially permissible, it could not constitutionally continue
+after that basis no longer existed. Jackson v. Indiana, supra, at 738; McNeil v. Director, Patuxent Institution,
+supra.
+A finding of "mental illness" alone cannot justify a State's locking a person up against his will and keeping
+him indefinitely in simple custodial confinement. Assuming that that term can be given a reasonably precise
+content and that the "mentally ill" can be identified with reasonable accuracy, there is still no constitutional
+basis for confining such persons involuntarily if they are dangerous to no one and can live safely in freedom.
+May the State confine the mentally ill merely to ensure them a living standard superior to that they enjoy
+in the private community? That the State has a proper interest in providing care and assistance to the
+unfortunate goes without saying. But the mere presence of mental illness does not disqualify a person from
+preferring his home to the comforts of an institution. Moreover, while the State may arguably confine a
+person to save him from harm, incarceration is rarely if ever a necessary condition for raising the living
+standards of those capable of surviving safely in freedom, on their own or with the help of family or friends.
+See Shelton v. Tucker, 364 U.S. 479, 488 -490.
+May the State fence in the harmless mentally ill solely to save its citizens from exposure to those whose
+ways are different? One might as well ask if the State, to avoid public unease, could incarcerate all who are
+physically unattractive or socially eccentric. Mere public intolerance or animosity cannot constitutionally
+justify the deprivation of a person's physical liberty. See, e. g., Cohen v. California, 403 U.S. 15, 24 -26;
+Coates v. City of [422 U.S. 563, 576] Cincinnati, 402 U.S. 611, 615 ; Street v. New York, 394 U.S. 576,
+592 ; cf. U.S. Dept. of Agriculture v. Moreno, 413 U.S. 528, 534 .
+In short, a State cannot constitutionally confine without more a non-dangerous individual who is capable
+of surviving safely in freedom by himself or with the help of willing and responsible family members or
+friends. Since the jury found, upon ample evidence, that O'Connor, as an agent of the State, knowingly did
+so confine Donaldson, it properly concluded that O'Connor violated Donaldson's constitutional right to
+freedom.

@@ -1,0 +1,95 @@
+NISAL CORPORATION
+dba QUALCARE - CLEARLAKE
+Page
+403 N. YORK STREET
+HOUSTON, TX 77003 11/12/2024 1
+TAX ID:30-0228172
+Chart Number
+ROBERT HARVEY
+HARRO009
+830 23RD ST
+DICKINSON, TX 77539
+Chart #:HARRO009
+Date CPT Code Modifiers Units Description Amount
+Statement Date
+Previous Balance: 0.00
+Patient: ROBERT HARVEY Dx ICD10: A)S13.4XXA B)S46.011A C)S16.1XXA D)G44.309
+DOI: 06/21/2024 E) H53.10 F)H91.90 G)M62.830 H)
+Provider: RONALD C. LARCHER DC I) J) K) L)
+8/27/2024 99204 1 New Patient-Detailed 425.00
+8/29/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+8/30/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+8/30/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/3/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/3/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/3/2024 97035 GP 1 Ultrasound 50.00
+9/4/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/4/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/6/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/6/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/10/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/10/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/11/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/11/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/12/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/12/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/18/2024 99214 1 Established Office Visit - Detailed 225.00
+Past Due 30 Days Past Due 60 Days Past Due 90 Days Balance Due
+Continued Continued Continued Continued
+NISAL CORPORATION
+dba QUALCARE - CLEARLAKE
+Page
+403 N. YORK STREET
+HOUSTON, TX 77003 11/12/2024 2
+TAX ID:30-0228172
+Chart Number
+ROBERT HARVEY
+HARRO009
+830 23RD ST
+DICKINSON, TX 77539
+Chart #:HARRO009
+Date CPT Code Modifiers Units Description Amount
+Statement Date
+9/19/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/19/2024 97140 GP 1 Manual therapy 75.00
+9/19/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/20/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/20/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/24/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/24/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+9/25/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+9/25/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/2/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/2/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/3/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/3/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/9/2024 99214 1 Established Office Visit - Detailed 225.00
+10/10/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/10/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/15/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/15/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/16/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/16/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/23/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/23/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+Past Due 30 Days Past Due 60 Days Past Due 90 Days Balance Due
+Continued Continued Continued Continued
+NISAL CORPORATION
+dba QUALCARE - CLEARLAKE
+Page
+403 N. YORK STREET
+HOUSTON, TX 77003 11/12/2024 3
+TAX ID:30-0228172
+Chart Number
+ROBERT HARVEY
+HARRO009
+830 23RD ST
+DICKINSON, TX 77539
+Chart #:HARRO009
+Date CPT Code Modifiers Units Description Amount
+Statement Date
+10/25/2024 97110 GP 3 Therapeutic procedure, per15 min. 255.00
+10/25/2024 97032 GP 1 Electrical Stim, manual each 15 min. 40.00
+10/29/2024 99214 1 Established Office Visit - Detailed 225.00
+Past Due 30 Days Past Due 60 Days Past Due 90 Days Balance Due
+2,590.00 2,580.00 0.00 6,575.00

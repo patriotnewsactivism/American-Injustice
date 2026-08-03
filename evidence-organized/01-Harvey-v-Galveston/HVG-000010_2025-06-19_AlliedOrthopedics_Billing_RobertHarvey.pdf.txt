@@ -1,0 +1,21 @@
+ALLIED MANAGEMENT PARTNERS, PLLC.
+dbaALLIED ORTHOPEDICS
+Page
+403 N. YORK STREET
+HOUSTON, TX 77003 11/26/2024 1
+TAX ID: 84-4125729
+Chart Number
+ROBERT HARVEY
+HARRO009
+830 23RD ST
+DICKINSON, TX 77539
+Date CPT Modifier Diagnosis Units Description Provider of Service Amount
+Statement Date
+Previous Balance: 0.00
+Patient: ROBERT HARVEY Dx ICD10: A)S43.401A B) C) D)
+Chart #: HARRO009 E) F) G) H)
+6/21/2024 ALLIED ORTHO I) J) K) L)
+10/07/24 99203 AF A 1 New Patient-Expanded A. DUSHI PARAMESWARAN MD 1,250.00
+11/04/24 99213 AF A 1 Established Office Visit- Expanded A. DUSHI PARAMESWARAN MD 850.00
+Past Due 30 Days Past Due 60 Days Past Due 90 Days Balance Due
+1,250.00 0.00 0.00 2,100.00

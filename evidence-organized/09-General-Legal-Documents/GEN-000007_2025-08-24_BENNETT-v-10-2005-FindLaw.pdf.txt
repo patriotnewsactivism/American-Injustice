@@ -1,0 +1,406 @@
+Legal Learn
+Find a Legal
+ Blogs
+Forms &  About  
+Lawyer Professionals
+Services the Law
+FINDLAW / CASE LAW / UNITED STATES / US 11TH CIR. / BENNETT V. 10
+BENNETT v. 10
+United States Court of Appeals,Eleventh Circuit.
+Danny M. BENNETT, Danny L. Reid, Tammy R. Bennett, Plaintiffs-Appellees, v. Dennis Lee HENDRIX,
+Individually and in his OJcial capacity as Sheriff of Forsyth County, Earl A. Singletary, Individually and
+in his OJcial Capacity as Chief Deputy Sheriff of Forsyth County, David W. Waters, Individually and in
+his OJcial Capacity as a Deputy Sheriff of Forsyth County, Defendants-Appellants, James L. Lockhart,
+Individually and in his OJcial Capacity as a Deputy Sheriff of Forsyth County, John Does, 1-10,
+Individually and in their OJcial Capacities as Deputy Sheriffs and/or OJcers of the Forsyth County
+Sheriff's Department, et al., Defendants.
+No. 04-12256.
+Decided: September 09, 2005
+Before BLACK and WILSON, Circuit Judges, and NANGLE*, District Judge.
+Phillip E. Friduss, Paul Robert Koster, Hall, Booth, Smith & Slover, PC, Atlanta,
+GA, for Defendants-Appellants. Eric S. Chofnas, Alpharetta, GA, for Plaintiffs-
+Appellees.
+Plaintiffs Danny M. Bennett and Danny L. Reid Sled a complaint alleging that Dennis L. Hendrix,
+former Sheriff of Forsyth County, Georgia and Earl A. Singletary and David W. Waters, deputies who
+served under Hendrix, violated their civil rights. Plaintiffs alleged that these oJcers carried out a
+campaign of police harassment and retaliation after plaintiffs supported a county referendum
+opposed by the sheriff. After the district court entered an order denying the oJcers qualiSed
+immunity, they brought this appeal. We Snd no error in the district court's order, and therefore aJrm.
+I. BACKGROUND
+In 1998, Forsyth County, Georgia voters considered a referendum that would have established a
+1
+county-wide police force and diminished the power of the Forsyth County Sheriff's Department.
+Most of the Department's powers would have been transferred to the county police, and the Sheriff
+would have been under the supervision of county oJcials. Sheriff Hendrix opposed the referendum.
+The plaintiffs are local business owners who supported the referendum. Along with other citizens,
+they formed a committee in support of the referendum and sponsored a debate on the matter.
+The referendum was defeated at the polls, but the plaintiffs allege that Hendrix (along with the other
+defendants, fellow Sheriff's Department oJcers) engaged in a campaign of retaliation and
+intimidation against the plaintiffs because of their support of the referendum. The plaintiffs allege
+that Hendrix formed a “Strike Force” within the Department to carry out this process of intimidation.
+Among many other acts of intimidation, they allege the defendants took down license tag numbers of
+cars at a forum in support of the referendum, surveilled the plaintiffs' homes and businesses, set up
+roadblocks near their homes, stopped their cars without reason and issued false traJc citations,
+accessed government databases to obtain conSdential information on the plaintiffs, attempted to
+obtain a warrant for their arrest on trumped-up environmental charges, and mailed byers to 35,000
+homes in Forsyth County calling the plaintiffs the “real criminals,” members of a “chain gang,” and “the
+same type of criminals that terrorize Forsyth County.”
+According to the plaintiffs, most of these events occurred shortly before the 2000 election, and were
+designed to intimidate the plaintiffs from opposing Hendrix's re-election that year. The plaintiffs
+assert that the intimidation tactics were successful. Although the plaintiffs voted and made
+campaign contributions during the 2000 election cycle, they allege that the defendants' actions chilled
+them from engaging in further political activities like they did in 1998.
+The plaintiffs sued under 42 U.S.C. § 1983 in 2000, alleging violations of the First, Fourth, and
+Fourteenth Amendments, as well as a conspiracy to violate their civil rights, along with several state
+tort laws. The district court granted summary judgment to the defendants on most of these claims,
+but denied summary judgment on the plaintiffs' claim of retaliation in violation of the First
+Amendment, their § 1983 conspiracy claim, and state law claims against Hendrix, Singletary, and
+Waters. The defendants moved for summary judgment based on the defense of qualiSed immunity.
+The court held that the defendants were not entitled to qualiSed immunity because they had
+violated the plaintiffs' constitutional rights, and those rights were clearly established at the time.
+2
+Accordingly, the district court denied summary judgment.
+II. JURISDICTION AND STANDARD OF REVIEW
+Although the defendants' appeal is interlocutory, we have jurisdiction to review the district court's
+decision on qualiSed immunity pursuant to 28 U.S.C. § 1291 and Mitchell v. Forsyth, 472 U.S. 511,
+530, 105 S.Ct. 2806, 2817, 86 L.Ed.2d 411 (1985). We review de novo the district court's decision
+denying qualiSed immunity, drawing all factual inferences in the nonmovant's favor. Durruthy v.
+Pastor, 351 F.3d 1080, 1084 (11th Cir.2003). Summary judgment is appropriate only “if the
+pleadings, depositions, answers to interrogatories, and admissions on Sle, together with the aJdavits,
+if any, show that there is no genuine issue as to any material fact.” Fed.R.Civ.P. 56(c); Celotex Corp.
+v. Catrett, 477 U.S. 317, 322, 106 S.Ct. 2548, 2552, 91 L.Ed.2d 265 (1986).
+III. DISCUSSION
+Our procedure in assessing qualiSed immunity is well-established. Government oJcials acting
+within their discretionary authority are ineligible for qualiSed immunity from suit when the facts
+“[t]aken in the light most favorable to the party asserting the injury ․ show the oJcer's conduct
+violated a constitutional right” and “the right was clearly established.” Saucier v. Katz, 533 U.S. 194,
+201, 121 S.Ct. 2151, 2156, 150 L.Ed.2d 272 (2001).
+We have already determined, in an earlier appeal in this case, that “it is apparent that the defendants
+were acting within the scope of their discretionary authority.” See Bennett v. Hendrix, 77 Fed.Appx.
+504 (11th Cir.2003) (unpublished). The defendants had to establish this fact to be able to claim
+qualiSed immunity. Once they satisSed that burden, the burden shifted to the plaintiffs to establish a
+constitutional violation. Vinyard v. Wilson, 311 F.3d 1340, 1346 (11th Cir.2002).
+A. Violation of a Constitutional Right
+The precise test for determining whether the defendants' actions violated the plaintiffs' rights
+against retaliation is an issue of Srst impression in this Circuit. We Srst survey the law of other
+Circuits. To state a retaliation claim, the commonly accepted formulation requires that a plaintiff
+must establish Srst, that his speech or act was constitutionally protected; second, that the
+defendant's retaliatory conduct adversely affected the protected speech; and third, that there is a
+causal connection between the retaliatory actions and the adverse effect on speech. Constantine v.
+Rectors and Visitors of George Mason Univ., 411 F.3d 474, 499 (4th Cir.2005); Keenan v. Tejada, 290
+3
+F.3d 252, 258 (5th Cir.2002). The only prong at issue here is the second. We must determine the
+standard for demonstrating an adverse effect on protected speech.
+The other Circuits apply an objective test: “a plaintiff suffers adverse action if the defendant's
+allegedly retaliatory conduct would likely deter ‘a person of ordinary Srmness' from the exercise of
+First Amendment rights.” Constantine, 411 F.3d at 500; see also Washington v. County of Rockland,
+373 F.3d 310, 320 (2d Cir.2004) (“In the context of a First Amendment retaliation claim, we have held
+that ‘[o]nly retaliatory conduct that would deter a similarly situated individual of ordinary Srmness
+from exercising his or her constitutional rights constitutes an adverse action.’ ”) (quoting Dawes v.
+Walker, 239 F.3d 489, 493 (2d Cir.2001)); Garcia v. City of Trenton, 348 F.3d 726, 728 (8th Cir.2003)
+(“The ordinary-Srmness test is well established in the case law ․”); Mitchell v. Horn, 318 F.3d 523, 530
+(3d Cir.2003) (plaintiff must allege adverse action “suJcient to deter a person of ordinary Srmness
+from exercising his [constitutional] rights”) (alteration in original); Keenan, 290 F.3d at 258 (ordinary
+Srmness test is the “settled law of other circuits”); Toolasprashad v. Bureau of Prisons, 286 F.3d 576,
+585 (D.C.Cir.2002) (“The widely accepted standard for assessing whether harassment for exercising
+the right of free speech is actionable ․ depends on whether the harassment is likely to deter a person
+of ordinary Srmness from that exercise.”) (internal quotations and alterations omitted); Poole v.
+County of Otero, 271 F.3d 955, 960 (10th Cir.2001) (“[T]he alleged injury should be one that would chill
+a person of ordinary Srmness from continuing to engage in that activity.”) (internal quotations
+omitted); Mendocino Envtl. Ctr. v. Mendocino County, 192 F.3d 1283, 1300 (9th Cir.1999) (“[T]he
+proper inquiry asks whether an oJcial's acts would chill or silence a person of ordinary Srmness from
+future First Amendment activities.”) (internal quotations omitted); Thaddeus-X v. Blatter, 175 F.3d
+378, 396 (6th Cir.1999) (en banc) (“[A]n adverse action is one that would deter a person of ordinary
+Srmness from the exercise of the right at stake.”); Agosto-de-Feliciano v. Aponte-Roque, 889 F.2d
+1209, 1217 (1st Cir.1989) (retaliation cause of action is stated “only when the government's actions
+are suJciently severe to cause reasonably hardy individuals to compromise their political beliefs and
+associations”); Bart v. Telford, 677 F.2d 622, 625 (7th Cir.1982) (harassment for exercising the right of
+free speech not actionable if it was “unlikely to deter a person of ordinary Srmness from that
+exercise”).
+The defendants point to other cases applying a subjective test, under which the plaintiffs would have
+to show that they were actually chilled in the exercise of their First Amendment rights. See Curley v.
+Village of Suffern, 268 F.3d 65, 73 (2d Cir.2001) (plaintiff must show that First Amendment rights
+4
+were “actually chilled”) (quoting Davis v. Vill. Park II Realty Co., 578 F.2d 461, 464 (2d Cir.1978)). For
+the reasons that follow, we join our sister Circuits in adopting an objective test for proving a
+retaliation claim.
+First, although their decisions are not binding on us, we Snd the fact that every other Circuit has
+adopted the objective “ordinary Srmness” test to be persuasive. Even accepting the defendants'
+premise that a few scattered cases applying a subjective “actual chill” test amounts to a “circuit split,”
+5
+the vast majority of cases apply the objective test. We agree with the courts that have called the
+“ordinary Srmness” test “well established,” Garcia, 348 F.3d at 728, “widely accepted,” Toolasprashad,
+286 F.3d at 585, and “settled law,” Keenan, 290 F.3d at 258.
+Second, we are persuaded not only by the number of courts applying the “ordinary Srmness” test, but
+by the reasoning of those decisions as well. An objective standard provides notice to government
+oJcials of when their retaliatory actions violate a plaintiff's First Amendment rights. In contrast, “a
+subjective standard would expose public oJcials to liability in some cases, but not in others, for the
+very same conduct, depending upon the plaintiff's will to Sght.” Constantine, 411 F.3d at 500. “[I]t
+would be unjust to allow a defendant to escape liability for a First Amendment violation merely
+because an unusually determined plaintiff persists in his protected activity ․” Mendocino Envtl. Ctr.,
+192 F.3d at 1300. There is no reason to “reward” government oJcials for picking on unusually hardy
+speakers. At the same time, we recognize that government oJcials should not be liable when the
+plaintiff is unreasonably weak-willed or suffers only a “de minimis inconvenience to her exercise of
+First Amendment rights.” Constantine, 411 F.3d at 500 (internal quotation omitted); see also Bart,
+677 F.2d at 625 (“It would trivialize the First Amendment to hold that harassment for exercising the
+right of free speech was always actionable no matter how unlikely to deter a person of ordinary
+Srmness from that exercise ․”). The “ordinary Srmness” test is therefore protective of the interests of
+both government oJcials and plaintiffs alleging retaliation.
+The defendants contend that “something more than the mere retaliatory act is necessary to give rise
+to an actionable claim.” Appellants' Brief at 12. They are correct, but as we have explained, the
+“something more” is an adverse affect, and “adverse effect” depends on context. SpeciScally, private
+citizens must establish that the retaliatory acts would deter a person of ordinary Srmness from
+exercising his or her First Amendment rights. The defendants' reliance on retaliation cases in the
+public employment context is misplaced, because different interests are at stake there. In the
+employment context, the required adverse action in a retaliation claim is an “adverse employment
+action.” See Stavropoulos v. Firestone, 361 F.3d 610, 616 (11th Cir.2004), cert. denied, 544 U.S. 976,
+125 S.Ct. 1850, 161 L.Ed.2d 727 (2005). Plainly, private citizens cannot suffer adverse employment
+actions at the hands of public oJcials who are not their employers. As the Fourth Circuit explained,
+Determining whether a plaintiff's First Amendment rights were adversely affected by retaliatory
+conduct is a fact intensive inquiry that focuses on the status of the speaker, the status of the
+retaliator, the relationship between the speaker and the retaliator, and the nature of the retaliatory
+acts. See Thaddeus-X v. Blatter, 175 F.3d 378, 398 (6th Cir.1999) (“[T]he deSnition of adverse action
+is not static across contexts.”). For example, in the public employment context, the speaker is the
+employee and the retaliator is the public employer. The employment relationship between the
+speaker and retaliator creates competing interests between “the interests of the [public employee], as
+a citizen, in commenting upon matters of public concern and the interest of the [government], as an
+employer, in promoting the eJciency of the public services it performs through its employees.”
+Suarez Corp. Indus. v. McGraw, 202 F.3d 676, 686 (4th Cir.2002) (quoting Pickering v. Board of Educ.,
+391 U.S. 563, 568, 88 S.Ct. 1731, 1734-35, 20 L.Ed.2d 811 (1968)) (alterations in original). As the
+Fifth Circuit pointed out, “[i]n the employment context, this court's requirement of an adverse
+employment action serves the purpose of weeding out minor instances of retaliation.” Keenan, 290
+F.3d at 258 n. 4. In other words, minor instances of retaliation would not chill a person of ordinary
+Srmness because they did not even amount to an adverse employment action.
+The balance of interests is different when the plaintiff is a private citizen, and those interests require
+at least as much protection against retaliation for a private citizen as they would for a public
+6
+employee. See Thaddeus-X, 175 F.3d at 398 (“[P]ublic employees ․ may be required to tolerate more
+than average citizens, before an action taken against them is considered adverse.”); see also Keenan,
+290 F.3d at 258 (noting that “this case does not involve an employment or other contractual
+relationship between the plaintiffs and the governmental oJcials” and instead concerns “an ordinary
+citizen”); Naucke v. City of Park Hills, 284 F.3d 923, 927-28 (8th Cir.2002) (applying “ordinary
+Srmness” test to private citizen's retaliation suit); Poole, 271 F.3d at 960 (same); Suarez Corp., 202
+F.2d at 686-87 (distinguishing between public employee and private citizen plaintiffs).
+In sum, language from the cases, including our decision in Stavropoulos, requiring an adverse
+employment action in order for a public employee to state a retaliation claim does not necessitate
+that a private citizen plaintiff plead more than that the defendant's retaliatory acts are such as would
+chill a person of ordinary Srmness. As we have stated, for private citizen plaintiffs, the objective test
+allows for a “weeding out” function when the injuries complained of are trivial or amount to no more
+than de minimis inconvenience in the exercise of First Amendment rights.
+The defendants next assert that the “ordinary Srmness” test allows plaintiffs to state a claim even
+when they have not suffered an injury suJcient to give them standing to sue. We disagree. The
+plaintiffs' claim depends not on the denial of a constitutional right, but on the harassment they
+received for exercising their rights. “The reason why such retaliation offends the Constitution is that
+it threatens to inhibit exercise of the protected right.” Thaddeus-X, 175 F.3d at 394 n. 9 (quotation
+omitted). “For Article III standing purposes, then, the ‘plaintiff must allege personal injury fairly
+traceable to the defendant's allegedly unlawful conduct and likely to be redressed by the requested
+relief.’ As long as the injury is ‘distinct and palpable’ rather than abstract, conjectural, or hypothetical,
+it is suJcient to confer standing.” Id. at 394 (quoting Allen v. Wright, 468 U.S. 737, 751, 104 S.Ct.
+3315, 3324, 82 L.Ed.2d 556 (1984)).
+The defendants' reliance on Laird v. Tatum, 408 U.S. 1, 92 S.Ct. 2318, 33 L.Ed.2d 154 (1972), is
+misplaced. In that case, the plaintiffs alleged a chilling effect based on the mere existence of the
+government's alleged program of surveillance of citizens. Id. at 2, 92 S.Ct. at 2320. The plaintiffs
+“freely admit[ted] that they complain of no speciSc action of the Army against them.” Id. at 9, 92 S.Ct.
+at 2323. The Supreme Court held that this alleged injury was insuJcient to confer standing. Id. at
+13-14, 92 S.Ct. at 2325-26.
+However, the Laird Court noted that, “[i]n recent years this Court has found in a number of cases that
+constitutional violations may arise from the deterrent, or ‘chilling,’ effect of governmental regulations
+that fall short of a direct prohibition against the exercise of First Amendment rights.” Id. at 11, 92
+S.Ct. at 2324 (collecting cases). Moreover, “[t]he decisions in these cases fully recognize that
+governmental action may be subject to constitutional challenge even though it has only an indirect
+effect on the exercise of First Amendment rights.” Id. at 12-13, 92 S.Ct. at 2325. The standard
+established in Laird is that “[a]llegations of a subjective ‘chill’ are not an adequate substitute for a
+claim of speciSc present objective harm or a threat of speciSc future harm.” Id. at 13-14, 92 S.Ct.
+2325-26. The standard we adopt today is consistent with Laird. The objective “ordinary Srmness”
+test requires plaintiffs to allege that the retaliatory acts of the defendants adversely affected them,
+which is an injury suJciently adverse to give rise to Article III standing. See Thaddeus-X, 175 F.3d at
+394.
+As a Snal reason for approving of the objective standard, we note that it is consistent with statements
+in our own cases, even though we have not explicitly adopted the “ordinary Srmness” test. In Cate v.
+Oldham, 707 F.2d 1176 (11th Cir.1983), we enjoined a malicious prosecution action Sled by state
+oJcials in retaliation against a citizen's lawsuit against those oJcials. Id. at 1190. We noted that
+“petitioner-appellant alleges more than that his freedom to exercise his right to petition will be chilled
+in the future. He alleges current deprivation, in the form of penalization for having exercised his right
+to petition in the past.” Id. at 1188. We went on to state, “[t]his does not mean, however, that only if
+a plaintiff can prove actual, current chill can he prove irreparable injury. On the contrary, direct
+retaliation by the state for having exercised First Amendment freedoms in the past is particularly
+proscribed by the First Amendment.” Id. at 1189. Thus, we did not focus on the plaintiff's
+subjective, actual chilling. Instead, we objectively assessed the defendants' actions and declared
+that an actual chill is not necessary to state a First Amendment violation: “[T]he source of that chill ․
+provides the critical irreparable injury to those citizens, regardless of whether actual chill is proved.”
+Id.; see also Holloman v. Harland, 370 F.3d 1252, 1268-69 (verbal censure from school oJcial for
+student's silent protest during recitation of Pledge of Allegiance was a punishment intended “to
+dissuade [student] from exercising a constitutional right” and “cannot help but have a tremendous
+chilling effect on the exercise of First Amendment rights”).
+For all of the foregoing reasons, today we expressly adopt the following standard: A plaintiff suffers
+adverse action if the defendant's allegedly retaliatory conduct would likely deter a person of ordinary
+Srmness from the exercise of First Amendment rights.
+We now apply this standard to the plaintiffs' allegations, and readily conclude that the plaintiffs
+have alleged facts that a jury could Snd would deter a person of ordinary Srmness from the exercise
+of First Amendment rights. In Judge Posner's words, “[t]he effect on freedom of speech may be
+small, but since there is no justiScation for harassing people for exercising their constitutional rights
+it need not be great in order to be actionable.” Bart, 677 F.2d at 625.
+The alleged retaliatory acts complained of here include a prolonged and organized campaign of
+harassment by local police oJcers. Taken in the light most favorable to the plaintiffs, the record is
+replete with instances where the defendants followed, pulled over, cited, intimidated, or otherwise
+harassed the plaintiffs. The defendants allegedly accessed conSdential government databases
+containing information on the plaintiffs, attempted to obtain arrest warrants against the plaintiffs
+without probable cause, and produced and mailed to Forsyth County residents byers depicting the
+plaintiffs as criminals terrorizing the county.
+Other courts applying the “ordinary Srmness” test have concluded that similar or less harassing acts
+constitute an adverse effect. See Garcia, 348 F.3d at 729 (the retaliatory issuance of parking tickets
+totaling $35 created a jury issue because the defendant “engaged the punitive machinery of
+government in order to punish Ms. Garcia for her speaking out”); Keenan, 290 F.3d at 259 (one
+plaintiff stated a retaliation claim that would chill a person of ordinary Srmness with allegations that
+oJcers stopped his car and detained him for an unreasonable time, “allegedly with their guns drawn
+during part of the traJc stop, and ultimately issued only a minor traJc citation that was later
+dismissed”); Bloch v. Ribar, 156 F.3d 673, 680-81 (6th Cir.1998) (in response to plaintiff's criticism,
+sheriff publicly released conSdential and humiliating details of plaintiff's rape; such act was
+suJciently adverse to chill a person of ordinary Srmness); Bart, 677 F.2d at 624-25 (“campaign of
+petty harassments” against the plaintiff including “[h]olding her up to ridicule for bringing a birthday
+cake to the oJce” stated a cause of action for retaliation). Likewise, we held in Cate that a civil
+malicious prosecution suit brought by public oJcials could be suJciently retaliatory to chill the
+plaintiffs' exercise of First Amendment rights. Cate, 707 F.2d at 1189.
+Additionally, the plaintiffs testiSed that they were, in fact, actually chilled in the exercise of their rights
+because they did not participate in the 2000 election to the degree they would have but for the
+defendants' alleged actions. We note that “[t]he question is not whether the plaintiff herself was
+deterred, though how plaintiff acted might be evidence of what a reasonable person would have
+done.” Garcia, 348 F.3d at 729; see also Constantine, 411 F.3d at 500 (“While the plaintiff's actual
+response to the retaliatory conduct provides some evidence of the tendency of that conduct to chill
+First Amendment activity, it is not dispositive.”). In sum, we conclude that the acts alleged here, if
+true, are suJciently adverse that a jury could Snd they would chill a person of ordinary Srmness from
+exercising his or her First Amendment rights.
+B. Clearly Established Law
+The Snal step in the qualiSed immunity inquiry is determining whether the law was clearly
+established so as to put the defendants on notice that their behavior violated the plaintiffs' rights. A
+right is clearly established if, in light of already-existing law, the unlawfulness of the conduct is
+“apparent,” see Anderson v. Creighton, 483 U.S. 635, 640, 107 S.Ct. 3034, 3039, 97 L.Ed.2d 523 (1987),
+and if a constitutional rule applies with “obvious clarity” to give an oJcial “fair warning” that violating
+that right is actionable. Vinyard, 311 F.3d at 1350-52. We conclude that the law was clearly
+established at the time of the defendants' alleged actions that retaliation against private citizens for
+exercising their First Amendment rights was actionable.
+This Court and the Supreme Court have long held that state oJcials may not retaliate against private
+citizens because of the exercise of their First Amendment rights. See Cate, 707 F.2d at 1186
+(punishment for exercise of First Amendment rights violates First Amendment); see also City of
+Houston v. Hill, 482 U.S. 451, 462-63, 107 S.Ct. 2502, 2510, 96 L.Ed.2d 398 (1987) ( “The freedom of
+individuals verbally to oppose or challenge police action without thereby risking arrest is one of the
+principal characteristics by which we distinguish a free nation from a police state.”); see also Leslie
+v. Ingram, 786 F.2d 1533, 1537 (11th Cir.1986) (“An intentional and wrongful retaliation for the
+assertion of a constitutionally protected right is a substantive civil rights violation which may be
+prosecuted in a federal court pursuant to 42 U.S.C. § 1983 ․”), abrogated on other grounds by
+Graham v. Connor, 490 U.S. 386, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989); Ga. Ass'n of Educators v.
+Gwinnett County Sch. Dist., 856 F.2d 142, 145 (11th Cir.1988) ( “The Government may not retaliate
+against individuals or associations for their exercise of First Amendment rights ‘by imposing
+sanctions for the expression of particular views it opposes.’ ”) (quoting Smith v. Ark. State Highway
+Employees, 441 U.S. 463, 464, 99 S.Ct. 1826, 1827-28, 60 L.Ed.2d 360 (1979)).
+Because this Court has held since at least 1988 that it is “settled law” that the government may not
+retaliate against citizens for the exercise of First Amendment rights, Ga. Ass'n of Educators, 856 F.2d
+at 145, we hold that the defendants were on notice and had “fair warning” that retaliating against the
+plaintiffs for their support of the 1998 referendum would violate the plaintiffs' constitutional rights
+and, if the plaintiffs' allegations are true, would lead to liability under § 1983.
+IV. CONCLUSION
+For the reasons stated above, we conclude that, taking the facts in the light most favorable to the
+plaintiffs, the defendants' “conduct violated a constitutional right” and that “the right was clearly
+established.” Saucier, 533 U.S. at 201, 121 S.Ct. at 2156. Accordingly, we aJrm the order of the
+district court denying summary judgment and denying the defendants qualiSed immunity from suit.
+AFFIRMED.
+FOOTNOTES
+1. We present the facts in the light most favorable to the plaintiffs, the party opposing summary
+judgment. Young v. City of Palm Bay, 358 F.3d 859, 860 (11th Cir.2004).
+2. The court granted summary judgment for the defendants as to the claims brought by plaintiff
+Tammy Bennett, and she is not a party to this appeal. Likewise, the district court granted summary
+judgment on the plaintiffs' claims against the additional defendants. Thus, the only issue before us
+is the entitlement of Hendrix, Singletary, and Waters to qualiSed immunity.
+3. In the district court, the defendants conceded the Srst prong, that the plaintiffs' support for the
+1998 referendum was protected speech. In addition, the defendants have never pointed to any
+indication in the record that they would have undertaken their allegedly retaliatory actions even
+absent the plaintiffs' speech. Accordingly, we agree with the district court that the plaintiffs have
+shown that there exists at least a genuine issue of material fact as to the third (causation) prong.
+4. The defendants also cite Sullivan v. Carrick, 888 F.2d 1 (1st Cir.1989), as adopting an “actual
+chill” standard. However, the plaintiff there failed to allege any adverse action, and thus could not
+show suJcient injury to create standing. Id. at 4. Moreover, the court noted that the proper
+standard was whether the plaintiff's “speech was in fact chilled or intimidated.” Id. (emphasis
+added). Therefore, we do not read Sullivan to adopt unequivocally a subjective test.
+5. We note that cases from the Second Circuit appear to take contradictory positions. Compare
+Washington v. County of Rockland, 373 F.3d 310, 320 (2d Cir.2004) (objective standard) with Curley v.
+Village of Suffern, 268 F.3d 65, 73 (2d Cir.2001) (subjective standard). We leave it to that Court to
+settle this disparity.
+6. We note that several courts have applied the “ordinary Srmness” test even in the prison context.
+It follows that a private citizen, not subject to the expected deprivations of prison life, deserves at
+least as much protection from retaliation. See Mitchell, 318 F.3d at 530; Toolasprashad, 286 F.3d at
+585; Thaddeus-X, 175 F.3d at 398. We have held that “[t]o state a First Amendment claim for
+retaliation, a prisoner need not allege violation of a separate and distinct constitutional right ․ The
+gist of a retaliation claim is that a prisoner is penalized for exercising the right of free speech.”
+Farrow v. West, 320 F.3d 1235, 1248 (11th Cir.2003) (alterations omitted) (quoting Thomas v. Evans,
+880 F.2d 1235, 1242 (11th Cir.1989)). For example, a prisoner can state a claim of retaliatory
+transfer even though he does not have a constitutional right not to be transferred. Bridges v. Russell,
+757 F.2d 1155, 1157 (11th Cir.1985). Thus, nothing in our prisoner retaliation cases is inconsistent
+with adopting an “ordinary Srmness” test for private citizens.
+WILSON, Circuit Judge:
+Was this helpful? Yes No
+Welcome to FindLaw's Cases & Codes
+A free source of state and federal court opinions, state laws, and the United States
+Code. For more information about the legal concepts addressed by these cases
+and statutes visit FindLaw's Learn About the Law.
+Go To Learn About The Law 
+BENNETT v. 10 (2005)
+Docket No: No. 04-12256.
+Decided: September 09, 2005
+Court: United States Court of Appeals,Eleventh Circuit.
+Need to 'nd an attorney?
+Search our directory by legal issue
+Enter information in one or both Selds (Required)
+Legal issue
+I need help near (city, ZIP code or country)
+Memphis, Tennessee 
+Find a Lawyer 
+For Legal Professionals
+ Practice Management
+ Legal Technology
+ Law Students
+Get a pro_le on the #1 online legal directory
+Harness the power of our directory with your own proSle. Select the button below
+to sign up.
+Sign Up 
+Get updates from FindLaw Legal Professionals
+Enter your email address to subscribe:
+Email (Required)
+
+Learn more about FindLaw’s newsletters, including our terms of use and privacy policy.
+Learn About the Law
+Get help with your legal needs
+FindLaw’s Learn About the Law features thousands of informational articles to help you
+understand your options. And if you’re ready to hire an attorney, Snd one in your area who can
+help.
+Go to Learn About The Law 
+Need to 'nd an attorney?
+Search our directory by legal issue
+Enter information in one or both Selds (Required)
+Legal issue
+I need help near (city, ZIP code or country)
+Memphis, Tennessee 
+Find a lawyer 
+ BACK TO TOP
+ABOUT US  SELF-HELP RESOURCES
+Questions?
+Our Team Legal Forms & Services
+At FindLaw.com, we pride ourselves on being the
+number one source of free legal information and
+Accessibility
+resources on the web. Contact us.
+LEGAL RESEARCH
+Contact Us
+Learn About the Law
+FIND A LAWYER 
+State Laws
+Stay up-to-date with how the law affects your life.
+Sign up for our consumer newsletter.
+By Location U.S. Caselaw
+ENTER YOUR EMAIL ADDRESS (Required)
+By Legal Issue U.S. Codes
+
+By Lawyer ProSles
+By Name
+FOLLOW US:   
+Copyright © 2025, FindLaw. All rights reserved.
+Terms >|Privacy >|Disclaimer >|Cookies >

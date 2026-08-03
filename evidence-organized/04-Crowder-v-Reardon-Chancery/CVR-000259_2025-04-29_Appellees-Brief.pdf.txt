@@ -1,0 +1,211 @@
+E-Filed Document Jan 5 2022 13:39:13 2020-CP-01259-COA Pages: 11
+__________________________________________________________________
+IN THE COURT OF APPEALS OF MISSISSIPPI
+No. 2020-CP-01259-COA
+MATTHEW OLIVER REARDON
+Appellant
+v.
+STATE OF MISSISSIPPI
+Appellee
+On Appeal from the Circuit Court
+of Lafayette County, Mississippi
+BRIEF OF THE APPELLEE
+LYNN FITCH
+Attorney General of Mississippi
+BARBARA BYRD
+Special Assistant Attorney General
+Mississippi Bar No. 104233
+P.O. Box 220
+Jackson, Mississippi 39205-0220
+Telephone: (601) 359-4169
+Email: Barbara.Byrd@ago.ms.gov
+Counsel for Appellee
+ORAL ARGUMENT NOT REQUESTED
+__________________________________________________________________
+IN THE COURT OF APPEALS OF MISSISSIPPI
+No. 2020-CP-01259-COA
+MATTHEW OLIVER REARDON
+Appellant
+v.
+STATE OF MISSISSIPPI
+Appellee
+On Appeal from the Circuit Court
+of Lafayette County, Mississippi
+CERTIFICATE OF INTERESTED PERSONS
+Under M.R.A.P. 28(a)(1), governmental parties need not furnish a
+certificate of interested persons.
+LYNN FITCH
+Attorney General of Mississippi
+/s/ Barbara Byrd
+BARBARA BYRD
+Special Assistant Attorney General
+Counsel for Appellee
+i
+TABLE OF CONTENTS
+TABLE OF CONTENTS ........................................................................... ii
+TABLE OF AUTHORITIES .................................................................... iii
+STATEMENT OF THE ISSUE ................................................................. 1
+STATEMENT OF THE CASE .................................................................. 1
+STANDARD OF REVIEW......................................................................... 2
+SUMMARY OF THE ARGUMENT .......................................................... 2
+ARGUMENT ............................................................................................. 3
+CONCLUSION .......................................................................................... 6
+ii
+TABLE OF AUTHORITIES
+State Cases
+Corrothers v. State, 148 So. 3d 278 (Miss. 2014) ...................................... 3
+McComb v. State, 135 So. 3d 928 (Miss. Ct. App. 2014) ........................... 6
+Middlebrook v. State, 964 So. 2d 638 (Miss. Ct. App. 2007) .................... 5
+Reeves v. State, 256 So. 3d 632 (Miss. Ct. App. 2018) .............................. 6
+Smith v. State, 118 So. 3d 180 (Miss. Ct. App. 2013) ............................... 4
+Smith v. State, 129 So. 3d 243 (Miss. Ct. App. 2013) ........................... 2, 4
+Worth v. State, 223 So. 3d 844 (Miss. Ct. App. 2017) ............................... 6
+iii
+STATEMENT OF THE ISSUE
+May a party seeking post-conviction relief prevail when his
+motion fails to substantially show the denial of a state or federal
+right?
+STATEMENT OF THE CASE
+Appellant Matthew Reardon waived his right to an indictment and
+entered a petition to plead guilty by a bill of information to the crime of
+aggravated stalking. (CP 101, 103, 105). The circuit court accepted
+Reardon’s guilty plea. (CP 160). In accord with his plea bargain, Reardon
+was sentenced to serve five years in the custody of the Mississippi
+Department of Corrections with credit for time served, and the rest of his
+sentence was suspended to be served on post-release supervision (PRS).
+(CP 119–20). As a special condition of his PRS, Reardon was banished
+from Lafayette County. (CP 120; 163).
+About three years later, Reardon moved for post-conviction relief
+(PCR), asserting without argument or sufficient details that the State
+violated his First, Eighth, and Fourteenth Amendment constitutional
+rights when he entered his guilty plea and that he had involuntarily
+entered his plea based on a denial of his right to due process. (CP 8–9).
+The circuit court denied his PCR motion, finding that it plainly appeared
+1
+from the face of the motion and prior proceedings that Reardon had no
+right to relief and that his claims were contradicted by the transcript of
+the plea and sentencing hearings. (CP 18).
+After the Order Denying Relief was entered, Reardon filed a Motion
+for Rehearing, a Motion for Recusal, and a Motion to Compel Evidence.
+(CP 19–20; 21; 27–28). All were denied. (CP 33). Reardon timely appeals.
+(CP 36).
+STANDARD OF REVIEW
+A PCR movant bears the burden of showing by a preponderance of
+the evidence that he is entitled to relief. Smith v. State, 129 So. 3d 243,
+245 (Miss. Ct. App. 2013). On review from the denial of a PCR motion,
+this Court “review[s] the trial court’s findings of fact for clear error and
+its determinations of law de novo.” Id. The trial court’s denial of a PCR
+motion will be affirmed in every case in which the movant fails to
+substantially show that he is entitled to relief based on the denial of a
+state or federal right. Id.
+SUMMARY OF THE ARGUMENT
+The trial court did not err by denying Reardon’s PCR motion.
+Reardon failed to meet his burden of showing that any of his state or
+2
+federal rights were violated and that he had a right to post-conviction
+relief. The arguments that he raises for the first time on appeal are
+barred and should not be considered by this Court.
+ARGUMENT
+For the first time on appeal, Reardon argues that (1) his attorney
+rendered “malfeasant legal representation; (2) he was coerced to plead
+guilty through the imposition of an excessive bond; (3) he was denied due
+process due to a delayed initial appearance and the denial of his right to
+a preliminary hearing; and (4) he has exculpatory evidence that entitles
+him to relief. (Appellant’s Brief 6–15).1 These are markedly different from
+the arguments he presented in the circuit court. There, he presented
+(with no argument) claims that the State violated his First, Eighth, and
+Fourteenth Amendment constitutional rights when he entered his guilty
+plea, and that he had involuntarily entered his plea based on a denial of
+his right to due process.2 (CP 8–9).
+1 Reardon’s fifteen-page brief contains no page numbers. So the State will cite
+the actual page number of the document.
+2 After the trial court ruled on his PCR motion, Reardon filed a motion for
+rehearing and a motion for recusal. In his statement of the issues, Reardon lists the
+denial of the motion for recusal as an issue to be argued. (Appellant’s Brief 5). But
+that issue was not briefed and should not be addressed by this Court. See Corrothers
+3
+In his PCR motion, Reardon presented issues but included no
+argument in support of his claims. He does now, but, to the extent that
+Reardon tries to relitigate his originally-presented claims in an untimely
+attempt to meet his burden under the PCR Act, this Court should find
+that the new arguments are barred. See Smith, 129 So. 3d at 246 (noting
+that arguments not presented to the circuit court are procedurally barred
+from appellate review). Even so, Reardon’s arguments are still
+insufficient to demonstrate that he is entitled to post-conviction relief.
+As for the claims he presented to the circuit court, it correctly
+concluded that Reardon’s PCR claims were unsupported and were
+contradicted by the record. (CP 18). The record shows that Reardon
+voluntarily pleaded guilty. (CP 158). He told the trial court that he was
+satisfied with his counsel’s performance and that the decision to plead
+guilty was his own; he was not coerced. (CP 152; 158). And he admitted
+that he committed the crime for which he was charged. (CP 158). The
+issues rejected by the circuit court lack merit.
+v. State, 148 So. 3d 278, 323 (Miss. 2014); Smith v. State, 118 So. 3d 180, 182 (Miss.
+Ct. App. 2013).
+4
+The issues he presents for the first time on appeal are barred and
+are also without merit. Reardon does not raise a claim of ineffective
+assistance of counsel. Instead, he argues that his attorney provided
+malfeasant legal representation when he coerced him to plead guilty by
+warning him that, if he did not, the State would “pile on” additional
+charges. (Appellant’s Brief 13). Reardon’s claim that he was coerced
+contradicts his testimony at his plea proceeding that he was not. (CP
+158). Further, the offering of the complained-of advice was not coercive
+and did not amount to ineffective assistance of counsel.
+This Court has held that counsel has a duty to fairly advise his
+client about the likely outcome of his case. Middlebrook v. State, 964 So.
+2d 638, 640 (Miss. Ct. App. 2007). Further, “[i]f [an] attorney believes
+that it is in his client’s best interest to plead guilty, it is his duty to inform
+him of that fact.” Id. Here, counsel’s suggestion that the State planned to
+bring more charges against Reardon was not improper because it was
+true. (CP 161–63). This advice does not warrant any relief.
+Neither do his claims regarding the delay or denial of his initial
+appearance or preliminary hearing, his claim that he was entitled to pre-
+plea bond relief, and his claim that he possesses exculpatory evidence. A
+5
+valid guilty plea waives pretrial bond issues. McComb v. State, 135 So.
+3d 928, 932 (Miss. Ct. App. 2014). It also waives the right to an initial
+appearance and a preliminary hearing, Reeves v. State, 256 So. 3d 632,
+635 (Miss. Ct. App. 2018), and it waives the right to present a defense
+including exculpatory evidence and to require the State to prove the
+elements of the offense beyond a reasonable doubt, Worth v. State, 223
+So. 3d 844, 852 (Miss. Ct. App. 2017). So these arguments lack merit.
+CONCLUSION
+The issues presented by Reardon are barred and lack merit. For
+these reasons, the State of Mississippi requests that this Honorable
+Court affirm the denial of Reardon’s PCR motion.
+LYNN FITCH
+Attorney General of Mississippi
+BARBARA BYRD
+Special Assistant Attorney General
+Mississippi Bar No. 104233
+P.O. Box 220
+Jackson, Mississippi 39205-0220
+Telephone: (601) 359-4169
+Email: Barbara.Byrd@ago.ms.gov
+Counsel for Appellee
+6
+CERTIFICATE OF SERVICE
+I, Barbara Byrd, certify that I have electronically filed this document
+with the Clerk of the Court using the MEC system, which sent notification
+to all counsel of record, and mailed, via U.S. Mail, postage pre-paid to the
+following:
+Honorable John Kelly Luther
+Circuit Court Judge
+102 N. Main Street, Ste. F
+Ripley, MS 38663
+Honorable Ben Creekmore
+District Attorney
+111 East Main Street
+New Albany, MS 38652
+Matthew Reardon
+P.O. Box 1360
+Bruce, MS 38915
+THIS, the 5th day of January, 2022.
+LYNN FITCH
+Attorney General of Mississippi
+/s/ Barbara Byrd
+BARBARA BYRD
+Special Assistant Attorney General
+Counsel for Appellee
+7

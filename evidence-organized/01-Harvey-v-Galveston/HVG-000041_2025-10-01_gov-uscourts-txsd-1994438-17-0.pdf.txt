@@ -1,0 +1,316 @@
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 1 of 14
+United States District Court
+Southern District of Texas
+ENTERED
+July 17, 2025
+In the United States District Court
+Nathan Ochsner, Clerk
+for the Southern District of Texas
+GALVESTON DIVISION
+═══════════
+No. 3:25-cv-58
+═══════════
+ROBERT HARVEY, PLAINTIFF,
+v.
+WILLIAM ROY, ET AL., DEFENDANTS.
+══════════════════════════════════════════
+MEMORANDUM OPINION AND ORDER
+══════════════════════════════════════════
+JEFFREY VINCENT BROWN, UNITED STATES DISTRICT JUDGE:
+The defendants have moved to dismiss the plaintiff’s claims under Fed.
+R. Civ. P. 12(b)(6). Dkt. 8. The court will grant the motion in part and deny
+it in part.
+Background
+This lawsuit arises from a June 2024 incident involving Robert Harvey
+and Galveston Fire Department Battalion Chief William Roy.1 Harvey alleges
+1 Harvey attached a video of the incident to his complaint, which the court
+adopts only if it “blatantly contradicts” the factual allegations. Harmon v. City of
+Arlington, 16 F.4th 1159, 1163 (5th Cir. 2021) (quoting Scott v. Harris, 550 U.S.
+372, 380 (2007)).
+1/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 2 of 14
+that while he walked along the sidewalk on 61st Street in Galveston, Roy was
+on duty and seated in a fire-department vehicle. Dkt. 1 ¶¶ 9–10. As Harvey
+passed the vehicle, Roy activated the truck’s siren without justification, then
+backed into the roadway, turned toward Harvey, and drove forward, striking
+Harvey with the vehicle’s passenger-side mirror. Id. ¶¶ 11, 13. Harvey alleges
+he suffered injuries to his arm, shoulder, and ears that required medical
+treatment. Id. ¶¶ 14–15, 21. Roy allegedly left the scene without identifying
+himself or checking on Harvey’s condition. Id. ¶¶ 16. Harvey reported the
+incident to city personnel and later filed a criminal complaint, which he
+contends the City of Galveston failed to investigate properly. Id. ¶¶ 17–28.
+Harvey alleges that city officials never tested Roy for alcohol, claimed to have
+reviewed a surveillance video that does not exist, and lost bodycam footage
+related to the investigation. Id. ¶¶ 17–27.
+Harvey brings claims against Roy under 42 U.S.C. § 1983 for excessive
+force and violation of due process and against the city under Monell for
+unconstitutional policies and ratification. Monell v. Dep’t 436 U.S. 658
+(1978) (requiring allegations that an official policy or custom was the moving
+force behind injuries caused by a constitutional violation). He also asserts
+common-law claims for negligence, gross negligence, and negligence per se
+against Roy and seeks to hold the city liable under the Texas Tort Claims Act
+2/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 3 of 14
+(“TTCA”). Dkt. 1. The defendants have moved to dismiss Harvey’s claims for
+failure to state a claim. Dkt. 8.
+Legal Standards
+A. Rule 12(b)(6)
+To survive a motion to dismiss for failure to state a claim, a plaintiff
+must plead facts sufficient to “state a claim to relief that is plausible on its
+face.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v.
+Twombly, 550 U.S. 544, 570 (2007)). A claim is facially plausible when the
+pleaded facts allow the court to reasonably infer that the defendant is liable
+for the alleged conduct. Id. In reviewing the pleadings, a court accepts all
+well-pleaded facts as true, “construing all reasonable inferences in the
+complaint in the light most favorable to the plaintiff.” White v. U.S. Corrs.,
+L.L.C., 996 F.3d 302, 306–07 (5th Cir. 2021). But the court does not accept
+“[c]onclusory allegations, unwarranted factual inferences, or legal
+conclusions” as true. Plotkin v. IP Axess Inc., 407 F.3d 690, 696 (5th Cir.
+2005).
+B. Section 1983 and Qualified Immunity
+To state a claim against a government official under § 1983, a plaintiff
+must allege (1) the defendant violated “a right secured by the Constitution
+and laws of the United States” and (2) “a person acting under color of state
+3/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 4 of 14
+law” committed the violation. West v. Atkins, 487 U.S. 42, 48 (1988).
+Personal-capacity claims under § 1983 are subject to the affirmative defense
+of qualified immunity. Goodman v. Harris Cnty., 571 F.3d 388, 395 (5th Cir.
+2009). Once a defendant raises qualified immunity, the plaintiff has the
+burden to negate the defense by (1) “alleg[ing] a violation of a constitutional
+right” and (2) showing the right “was ‘clearly established’ at the time of the
+alleged violation.” Cope v. Cogdill, 3 F.4th 198, 204 (5th Cir. 2021) (quoting
+Pearson v. Callahan, 555 U.S. 223, 232 (2009)). The right is clearly
+established when the court finds “controlling authority . . . that defines the
+contours of the right in question with a high degree of particularity.” Hogan
+v. Cunningham, 722 F.3d 725, 735 (5th Cir. 2013) (citation omitted). In other
+words, the court must find a reasonable officer could have believed the
+defendant’s conduct was lawful under the circumstances. Anderson v.
+Creighton, 483 U.S. 635, 641 (1987).
+The usual Rule 12(b)(6) standard applies when a defendant moves to
+dismiss a § 1983 claim based on qualified immunity. Benfer v. City of
+Baytown, 120 F.4th 1272, 1279 (5th Cir. 2024) (“[A] complaint survives
+dismissal if it pleads facts that, if true, would permit the inference that
+defendants are liable under § 1983 and would overcome their qualified
+immunity defense.” (quotations and citation omitted)).
+4/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 5 of 14
+Analysis
+A. Video Exhibit
+As a threshold matter, the parties dispute whether the court can
+consider for the purposes of this motion the video attached to the motion to
+dismiss. Dkt. 8-1. The defendants argue that the court can consider the video
+because Harvey refers to it in his complaint. Dkt. 8 ¶ 7; see Causey v. Sewell
+Cadillac-Chevrolet, Inc., 394 F.3d 285, 288 (5th Cir. 2004) (“Documents
+that a defendant attaches to a motion to dismiss are considered part of the
+pleadings if they are referred to in the plaintiff's complaint and are central to
+her claim.”). Harvey argues that the court can consider the video only if the
+court treats the motion as one for summary judgment. Dkt. 11 ¶¶ 8–10; see
+Fed R. Civ. P. 12(d).
+The court agrees with Harvey. Although Harvey refers to the video in
+his complaint, he does so only to say the video does not exist, not to support
+his allegations. Dkt. 1 ¶¶ 24–25. Indeed, the video could not be central to
+Harvey’s claims because he disputes its existence. Id. Instead, Harvey relies
+on his own video footage, which he attaches to his complaint. Dkt. 6. This is
+different than the typical situation cited by defendants when a plaintiff refers
+to a document or contract at the center of their claim but does not attach it.
+See Ramos v. Taylor, 646 F. Supp. 3d 807, 815–16 (W.D. Tex. 2022)
+5/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 6 of 14
+(collecting cases declining to consider videos related to allegations but not
+attached to complaint); see also, Trevino v. Iden, 79 F.4th 524, 527 n.1 (5th
+Cir. 2023) (considering a case report and a summary related to an
+investigation against the plaintiff); In re Katrina Canal Breaches Litig., 495
+F.3d 191, 205 (5th Cir. 2007) (considering insurance contracts).
+Consequently, the court cannot consider the defendant’s video without
+treating the motion to dismiss as a motion for summary judgment, which it
+declines to do. See Fed R. Civ. P. 12(d). Accordingly, the court decides this
+motion based only on the pleadings and the video Harvey attached to his
+complaint.
+B. Section 1983
+Excessive Force
+Harvey has not stated a claim for excessive force because he has not
+alleged a seizure. See Est. of Parker v. Miss. Dep’t of Pub. Safety, 140 F.4th
+226, 238 (5th Cir. 2025) (noting that a seizure is the first of two elements of
+a Fourth Amendment excessive-force claim). A seizure requires the intent to
+restrain. Brower v. Cnty. of Inyo, 489 U.S. 593, 597 (1989). But Harvey
+alleges only that Roy intentionally hit Harvey with the firetruck—not
+intentional restraint. Dkt. 1 ¶¶ 12–14; see Brower, 489 U.S. at 597; California
+v. Hodari D., 499 U.S. 621, 626–27 (1991) (explaining how a seizure requires
+6/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 7 of 14
+the “application of physical force to restrain movement, even when it is
+ultimately unsuccessful”). Harvey asserts that his “attemp[t] to back out of
+the way of the truck” was unsuccessful because he “was struck in the arm and
+shoulder by the large passenger-side mirror” of the truck. Dkt. 1 ¶ 14. But this
+assertion fails to show how Roy intended to restrict Harvey’s “freedom of
+movement.” Brower, 489 U.S. at 597. Without that allegation, Harvey fails
+to state a claim for excessive force under the Fourth Amendment.
+Accordingly, the court dismisses Harvey’s excessive-force claim.
+Due Process
+Harvey has stated a claim for a violation of his substantive due process
+under the Fourteenth Amendment. Dkt. 1 ¶¶ 19–20, 24. Government
+officials violate substantive due process via conduct that “can properly be
+characterized as arbitrary, or conscience shocking, in a constitutional sense.”
+Cnty. of Sacramento v. Lewis, 523 U.S. 833, 846–47 (1998) (citation
+omitted). The complaint alleges that Harvey and a friend were walking on
+the sidewalk when they passed Roy’s fire-department vehicle while it sat
+unmoving on the shoulder. Dkt. 1 ¶¶ 9–11. Roy “blasted his siren multiple
+times for no discernible reason,” injuring Harvey’s ears. Id. After Harvey
+verbally objected, Roy then reversed, angled his vehicle toward Harvey, and
+drove into a pedestrian space where he struck Harvey. Id. ¶¶ 12–14. Harvey
+7/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 8 of 14
+sustained substantial injuries. Id. ¶ 29. At the pleading stage, these facts
+must be taken as true. White, 996 F.3d at 306–07. If proven, the allegations
+would constitute arbitrary, malicious government action that shocks the
+conscience. See Lewis, 523 U.S. at 844–49 (1998) (“[C]onduct intended to
+injure in some way unjustifiable by any government interest is the sort of
+official action most likely to rise to the conscience-shocking level.”).
+Accordingly, Harvey has stated a claim for a Fourteenth Amendment
+substantive-due-process claim.
+Qualified Immunity
+Qualified immunity protects Roy from the excessive-force claim but
+not the substantive-due-process claim. Whitley v. Hanna, 726 F.3d 631, 638
+(5th Cir. 2013) (qualified immunity requires alleging a violation of a clearly
+established constitutional right at the time of the conduct). As explained
+above, Harvey has not stated a claim for excessive force; therefore, Roy is
+entitled to qualified immunity from that claim.2
+2 Even if a Fourth Amendment violation had occurred, Harvey’s reliance on
+Checki v. Webb to support his excessive-force claim is misplaced. Dkts. 1 ¶ 30; 11
+¶ 29; 785 F.2d 534, 535–38 (5th Cir. 1986). Checki establishes a violation of the
+Fourteenth Amendment, not the Fourth, and Checki does not show that a non-law-
+enforcement official such as a firefighter would violate the Fourth Amendment
+through the conduct alleged here. Id.
+8/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 9 of 14
+But Roy is not entitled to qualified immunity for the substantive-due-
+process claim. Harvey has plausibly alleged Roy violated his right to be free
+from arbitrary and malicious physical harm by a government official, without
+any lawful justification—a right that has been clearly established for decades.
+See Lewis, 523 U.S. at 849. The Fifth Circuit has made clear that a
+government official using a government vehicle “to terrorize a civilian”
+“[lays] the building blocks for a section 1983 claim.” Checki, 785 F.2d at 538.
+Because the complaint plausibly alleges facts supporting a violation of clearly
+established right under the Fourteenth Amendment, Roy is not entitled to
+qualified immunity at this stage.
+Accordingly, Harvey’s Fourteenth Amendment claim survives.
+Monell Liability
+Harvey has stated a claim for Monell liability. Monell, 436 U.S. at 690–
+94. But of the two theories Harvey asserts—actions of a policymaker and
+ratification—only ratification is plausible. Dkt. 1 ¶¶ 33–34, 36–39.
+Harvey does not assert that Roy is a final policymaker for the City of
+Galveston. See Pembaur v. City of Cincinnati, 475 U.S. 469, 480–81 (1986)
+(attaching liability “only where the decisionmaker possesses final authority
+to establish municipal policy with respect to the action ordered”). Roy asserts
+only that as a “Battalion Chief,” Roy is a policymaker and that the Fire Chief
+9/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 10 of 14
+and Assistant Fire Chief are “final policymakers within the Galveston Fire
+Department.” Dkt. 1 ¶¶ 10, 15,3 37. And Harvey alleges Roy engaged in
+“deliberate conduct” but not that “the municipality was the ‘moving force’
+behind the injury alleged.” Bd. of Cnty. Comm’rs v. Brown, 520 U.S. 397,
+404 (1997). Thus, Roy’s conduct is more appropriately categorized as
+“discretionary,” which does not give rise to Monell liability. Pembaur, 475
+U.S. at 481–82. In the absence of allegations Roy’s conduct represented
+official city policy, the complaint does not state a Monell claim under a
+policymaker theory; therefore, the court dismisses this claim.
+In contrast, Harvey plausibly alleges the city ratified Roy’s conduct by
+failing to discipline him following an internal investigation. Dkt. 1 ¶¶ 36–39.
+The Fifth Circuit limits ratification to “extreme factual situations,” which it
+describes as including “an obvious violation of clearly established law.”
+World Wide St. Preachers Fellowship v. Town of Columbia, 591 F.3d 747,
+755 (5th Cir. 2009). And the complaint includes substantial allegations of the
+city ratifying the alleged Fourteenth Amendment violations: ignored medical
+records, an untested urine sample, and a missing or fabricated video. Dkt. 1
+3 The complaint numbers its paragraphs through 29 and then restarts at 15.
+This paragraph 15 is the second one in the complaint.
+10/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 11 of 14
+¶¶ 17–20, 24–27, 16,4 37. At the motion-to-dismiss stage, this pleads
+ratification.
+Accordingly, Harvey has stated a claim for the city’s § 1983 liability
+under Monell. The court dismisses the policymaker claim, but the ratification
+claim survives.
+C. State-law claims
+Harvey concedes the court must dismiss his common-law negligence,
+gross-negligence, and negligence-per-se claims against Roy because they
+cannot coexist with his TTCA claim against the city. Dkt. 11 ¶ 41; see Tex. Civ.
+Prac. & Rem. Code § 101.106(a), (e) (barring claim against employee for same
+subject matter as claim against city and requiring that such suit against the
+employee “shall immediately be dismissed on the filing of a motion by the
+governmental unit”).
+Turning to the TTCA claim against the city. Dkt. 1 ¶¶ 60–66; Tex. Civ.
+Prac. & Rem. Code § 101.021 (waiving immunity for “wrongful act[s] or
+omission[s] or the negligence of an employee acting within the scope of
+employment” under certain conditions). The complaint alleges that Roy
+personally operated a city-owned vehicle and caused physical injury to
+4 The complaint numbers its paragraphs through 29 and then restarts at 15.
+This is the second paragraph 16 in the complaint.
+11/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 12 of 14
+Harvey. Dkt. 1 ¶¶ 10–14. These allegations fall squarely within the TTCA’s
+waiver of immunity for injuries “arising from the operation or use of a motor-
+driven vehicle” by a government employee “acting within his scope of
+employment.” Tex. Civ. Prac. & Rem. Code § 101.021(1). The complaint
+asserts a viable underlying negligence claim, which, if proven, would
+establish Roy’s personal liability under Texas law. Id. § 101.021(1)(B), (2);
+Dkt. 1 ¶¶ 13–14, 29, 44–46. Together, Harvey’s allegations state a claim
+against the city under the TTCA.
+Moreover, the city has not shown immunity bars Harvey’s TTCA claim.
+First, the city argues that Harvey has alleged intentional torts, which are not
+viable claims under the TTCA. Dkt. 8 ¶ 52; see Tex. Civ. Prac. & Rem. Code
+§ 101.057(2). But Harvey does not plead intentional claims under the TTCA;
+he alleges liability for an intentional act under § 1983 and liability for a
+negligent or reckless act under the TTCA. Dkt. 11 ¶¶ 48–49; see Fed. R. Civ.
+P. 8(d) (allowing plaintiffs to plead alternative claims even if they conflict).
+For this reason, the city’s arguments for immunity under the TTCA based on
+Harvey’s § 1983 claims fail.
+Second, the governmental functions provision does not bar Harvey’s
+TTCA claim at this stage. See Tex. Civ. Prac. & Rem. Code § 101.055 (limiting
+tort liability to “conscious indifference or reckless disregard for the safety of
+12/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 13 of 14
+others” when “responding to an emergency”). Harvey alleges the incident did
+not occur “near the scene of an emergency” or “at the scene of an emergency.”
+Dkt. 1 ¶ 24. And although the video attached to the complaint shows Roy’s
+emergency lights on and other emergency vehicles in the area, Roy’s vehicle
+is stationary until Roy moves it to allegedly aim at and then drive toward
+Harvey. Dkt. 6. Thus, under Harvey’s version of the facts, it does not appear
+Roy was “responding to an emergency call or reacting to an emergency
+situation,” as required under section 101.055(2). Even if section 101.055(2)
+applied, Harvey alleges Roy’s “actions were done with reckless disregard of
+substantial risk of severe bodily injuries,” which falls into the statute’s
+exception. Dkt. 1 ¶ 48; Tex. Civ. Prac. & Rem. Code § 101.055(2) (the
+governmental function of emergency response bars a TTCA claim “if the
+action is not taken with conscious indifference or reckless disregard for the
+safety of others” (emphasis added)). Additionally, Harvey does not base his
+claims on “the method of providing . . . fire protection,” so this immunity
+does not apply. Tex. Civ. Prac. & Rem. Code § 101.055(3).
+The city retains immunity for gross negligence. See City of Hous. v.
+Johnson, 353 S.W.3d 499, 503-05 (Tex. App.—Houston [14th] 2011, pet.
+denied) (holding that the TTCA bars exemplary damages and thus gross
+negligence).
+13/14
+Case 3:25-cv-00058 Document 17 Filed on 07/17/25 in TXSD Page 14 of 14
+Accordingly, the court dismisses Harvey’s common-law negligence,
+gross-negligence, and negligence-per-se claims against Roy. The TTCA claim
+against the city survives.
+* * *
+For the foregoing reasons, the court grants in part and denies in part
+the defendants’ motion to dismiss. Dkt. 8.
+As to Roy, the court dismisses the § 1983 claim for excessive-force, and
+the state-law negligence, gross-negligence, and negligence-per-se claims.
+As to the city, the court dismisses the Monell policymaker claim.
+Accordingly, these claims remain: (1) the § 1983 claim for a Fourteenth
+Amendment substantive-due-process violation against Roy, (2) the Monell
+ratification claim against the city, and (3) the TTCA claim against the city.
+Additionally, punitive damages are available only for the § 1983 claim
+against Roy.5
+Signed on Galveston Island this 17th day of July, 2025.
+___________________________
+JEFFREY VINCENT BROWN
+UNITED STATES DISTRICT JUDGE
+5 As clarified by Harvey in his response to the motion to dismiss. Dkt. 11
+¶¶ 60–61.
+14/14
