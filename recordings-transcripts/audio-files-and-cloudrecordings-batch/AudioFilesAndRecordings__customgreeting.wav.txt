@@ -1,0 +1,5 @@
+Source: customgreeting.wav
+Drive file id: 1JzvIHvPMDuwuo3IzEUbrwI1t7WqMUCgI
+Batch: AudioFilesAndRecordings
+
+Thank you for calling Manic Mobile, where we are the missing piece. Our hours of operation are Monday through Friday from 8AM to 5PM Central Standard Time. If you know your party's extension, please dial it now or select from the following options. For sales or information about our products and services, dial 1. For customer service, dial 2. For billing or questions about your bill, dial 3. For anything else or to speak to the operator, dial 0.
