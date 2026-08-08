@@ -171,3 +171,19 @@ hostile-coverage detail; Wilburn/Oxford Eagle libel lead. 31 of 36 chapters not 
 pass -- this is a large multi-session undertaking like the original draft was; work through remaining
 chapters in batches of ~5 per session, always re-verify word count with `wc -w` (never estimate) and
 push each batch to GitHub before ending a session.
+
+2026-08-08 (session 9): Ch35 "Sentencing" REWRITTEN from a pre-hearing "strategy" framing to the
+actual confirmed Aug 7 2026 outcome, sourced from a full verbatim transcript pulled from the We The
+People News livestream (YouTube auto-caption extraction, audio download blocked by YouTube bot
+detection so browser-based caption pull was used instead; full transcript archived separately at
+sentencing-2026/full_transcript.txt in this same repo). Confirmed outcome now in the chapter: time
+served + 2yr unsupervised probation (not the government's up-to-5yr ask, not Reardon's requested
+time-served-only/30-day-max alternative); courthouse ban is Louisiana-specific, not nationwide, with
+a legitimate-business + 2-business-day-notice exception; no fine, assessment waived; Talbot's
+vagueness objection on "legitimate business" overruled; and the sidebar exchange clarifying that
+"time served" is credit toward a FUTURE revocation, not a clean discharge -- the unresolved question
+of total custody exposure across a probation-violation cycle, which the court declined to answer
+directly, is now the chapter's closing beat and the throughline into the still-unwritten appeal.
+Verified actual word count via `wc -w` across all 38 chapter files (excl. OUTLINE.md): 32,195
+(up from 31,996). REMAINING FACTS STILL SITTING IN MEMORY UNUSED (unchanged from session 8 note
+above) are still open expansion candidates -- Ch35 update did not touch that backlog.
