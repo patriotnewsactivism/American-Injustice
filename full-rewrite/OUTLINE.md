@@ -187,3 +187,40 @@ directly, is now the chapter's closing beat and the throughline into the still-u
 Verified actual word count via `wc -w` across all 38 chapter files (excl. OUTLINE.md): 32,195
 (up from 31,996). REMAINING FACTS STILL SITTING IN MEMORY UNUSED (unchanged from session 8 note
 above) are still open expansion candidates -- Ch35 update did not touch that backlog.
+
+2026-08-09 (session 10): FULL FIRST-PERSON VOICE CONVERSION COMPLETE across all 38 files
+(Prologue + 36 chapters + Epilogue). Converted from third-person ("Reardon", "he/his/him")
+to first-person ("I/my/me") narration throughout, per Don's direction. Rules followed:
+only Reardon's own narration converts to first person -- every other named person (Talbot,
+Nugent, Whitehurst, Beavers, Osteen, Crowder, judges, marshals, etc.) stays third-person,
+including their quoted dialogue and quoted-document text (emails, affidavits, court orders),
+which was preserved verbatim. All facts, dates, names, dollar figures, statute citations,
+case numbers, and direct quotes preserved exactly. The "layered thesis" editorial standard
+(honest self-critical passages -- the tripod blocking the emergency exit, the crude language
+to Deputy Nugent, "now they just asked for it," the drone incident, coaching Lydia on tape,
+failing to file taxes) survived the conversion intact, unsoftened.
+
+Also fixed during this pass: a self-referential "this book/this account/this manuscript/
+this record" narrator tic had crept back into ~26 places across the newly-converted chapters
+(a recurrence of the same tic eliminated 293->0 in the 2026-08-01 pass) -- manually rewritten
+to direct narration, re-verified via grep to 0 instances across all 38 files. Ch35's
+sentencing chapter also had a factual detail removed at Don's request: the reference to his
+attorney withholding the video-hearing link out of gag-order caution was cut, replaced with a
+clean location detail (appeared via Our Daily Bread, a Galveston missionary organization).
+
+Final verified word count via `wc -w` across all 38 files: 32,490 (up slightly from 32,195 --
+new connective first-person phrasing, not padding). All 38 files pushed to
+github.com/patriotnewsactivism/American-Injustice/full-rewrite/.
+
+Also refreshed: the "Coming Soon" book teaser section on donmatthews.live
+(patriotnewsactivism/donmatthews-live, src/components/Book.tsx) was rewritten to pull an
+actual first-person pull-quote and specific factual hooks from the finished manuscript
+(the 12-day rifle impossibility, the duress-signed order, the Osteen perjury finding) in
+place of the previous generic back-cover-style copy. Pushed 2026-08-09.
+
+STILL OPEN, UNCHANGED FROM SESSION 9: the factual-density expansion backlog (Osteen
+dispatch-zip details, Tupelo Crisis Center, notary-fraud deeper detail, Judge Bell
+misconduct complaint + bond comparison, Metro Narcotics $34K scandal detail, Reardon Watch
+YouTube, Wilburn/Oxford Eagle libel lead) -- 31 of 36 chapters not yet touched by that pass.
+Manuscript is now fully first-person voice but still short of the 80k-word target at
+32,490 words; expansion work remains a separate, still-needed multi-session task.
