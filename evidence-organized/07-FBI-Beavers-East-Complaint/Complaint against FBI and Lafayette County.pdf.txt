@@ -18,9 +18,8 @@ of justice in accordance with federal law.
 Lafayette County, Mississippi, and Sheriff Joey East for their roles in wrongful
 conviction, perjury, conspiracy, malicious prosecution, and civil rights violations.
 3. The FBI has failed to act on credible allegations of police misconduct involving the Holly
-Springs Police Department, as well as credible allegations of police misconduct and
-public corruption involving Lafayette County, Mississippi, despite the plaintiff’s attempt
-to report said misconduct on October 28, 2022.
+Springs Police Department, despite an individual’s attempt to report said misconduct on
+October 28, 2022.
 4. Beavers, acting under the color of law, falsely testified that petitioner had no lawful
 reason to visit the FBI office, contradicting recorded phone calls proving otherwise.
 5. Lafayette County and Sheriff Joey East facilitated and failed to prevent Beavers’ perjury,
@@ -52,15 +51,11 @@ Department, he failed to prevent or correct Beavers’ perjury and misconduct, m
 liable under Monell liability.
 FACTUAL BACKGROUND
 14. On October 28, 2022, Matthew Reardon contacted the FBI office in Oxford, Mississippi,
-seeking to report alleged misconduct by the Holly Springs Police Department, as well as
-credible allegations of police misconduct and public corruption involving Lafayette
-County, Mississippi.
+seeking to report alleged misconduct by the Holly Springs Police Department.
 15. Reardon had been informed that FBI agents would be available but, upon arrival, found
-no agents present and was subsequently denied an opportunity to report the misconduct
-despite pre-arranging an approximate time with an employee of the local FBI Branch.
-16. Prior to visiting the FBI, Reardon followed the legal protocol of his “banishment” from
-Lafayette County, Mississippi by informing Deputy Kandace Beavers of his intent to
-enter the city of Oxford to meet with the FBI.
+no agents present and was subsequently denied an opportunity to report the misconduct.
+16. Prior to visiting the FBI, Reardon followed legal protocol by informing Deputy Kandace
+Beavers of his intent to enter the city of Oxford to meet with the FBI.
 17. The FBI employee confirmed during a recorded phone call that walk-ins were allowed
 and suggested that Reardon visit between 8 AM and 4 PM, preferably before noon.
 18. A separate recorded call from Deputy Beavers confirms that Reardon notified local law
@@ -84,34 +79,31 @@ demonstrate that Reardon acted according to the instructions provided by the FBI
 making them complicit in Reardon’s wrongful imprisonment.
 LEGAL CLAIMS
 Count I: Violation of the Administrative Procedure Act (5 U.S.C. § 706) – Against the FBI
-24. The FBI had a duty to investigate allegations of public corruption and civil rights
-violations.
-25. The FBI failed in its duty to investigate allegations of police corruption, constituting an
-unlawful withholding of agency action.
+24. The FBI had a duty to investigate allegations of public corruption and civil rights violations.
+25. The FBI failed in its duty to investigate allegations of police corruption, constituting an unlawful
+withholding of agency action.
 26. The FBI failed to act despite clear, documented evidence of misconduct.
-27. Under the Administrative Procedure Act (APA), courts can compel an agency to act
-when it has unreasonably delayed or unlawfully withheld action.
+27. Under the Administrative Procedure Act (APA), courts can compel an agency to act when it has
+unreasonably delayed or unlawfully withheld action.
 Count II: Writ of Mandamus (28 U.S.C. § 1361) – Against the FBI
 25. The FBI has a clear, non-discretionary duty to investigate police misconduct and public
 corruption under 18 U.S.C. § 242.
 26. By failing to take action, the FBI has abdicated its legal responsibility.
 27. A writ of mandamus is necessary to compel the FBI to act.
-Count III: Civil Rights Violation Under 42 U.S.C. § 1983 – Against Beavers & Lafayette
+Count III: Civil Rights Violation Under 42 U.S.C. § 1983 – Against Beavers & Lafayette County
+26. Deputy Beavers acted under color of law when she knowingly provided false testimony in court.
+27. Lafayette County is responsible for the actions of its officers and officials under Monell liability
+(Monell v. Department of Social Services, 1978).
+28. Beavers’ false testimony directly led to Reardon’s wrongful conviction, violating due process
+rights under the Fifth and Fourteenth Amendments
+Count IV: Conspiracy to Violate Civil Rights (42 U.S.C. § 1985) – Against Beavers, Sheriff East & Lafayette
 County
-26. Deputy Beavers acted under color of law when she knowingly provided false testimony
-in court.
-27. Lafayette County is responsible for the actions of its officers and officials under Monell
-liability (Monell v. Department of Social Services, 1978).
-28. Beavers’ false testimony directly led to Reardon’s wrongful conviction, violating due
-process rights under the Fifth and Fourteenth Amendments
-Count IV: Conspiracy to Violate Civil Rights (42 U.S.C. § 1985) – Against Beavers, Sheriff
-East & Lafayette County
-29. Lafayette County officials and Beavers conspired to revoke Reardon’s probation based
-on false claims.
+29. Lafayette County officials and Beavers conspired to revoke Reardon’s probation based on false
+claims.
 30. Evidence shows coordinated actions between the Sheriff’s Department, Lafayette County
 prosecutors, and Beavers to deprive Reardon of his constitutional rights.
-31. 42 U.S.C. § 1985(3) prohibits conspiracies aimed at depriving individuals of equal
-protection under the law.
+31. 42 U.S.C. § 1985(3) prohibits conspiracies aimed at depriving individuals of equal protection
+under the law.
 Count V: Malicious Prosecution – Against Beavers, Sheriff East & Lafayette County
 32. Reardon was subjected to prosecution based on knowingly false allegations.
 33. Beavers’ false testimony was a key factor in the wrongful conviction.
@@ -122,13 +114,12 @@ testimony.
 36. Lafayette County failed in its duty to ensure due process.
 37. The imprisonment violated constitutional rights under the Fourth, Fifth, and Fourteenth
 Amendments.
-Count VII: Negligent Supervision & Failure to Train (Monell Claim) – Against Lafayette
-County
-38. Lafayette County failed to properly train or supervise Deputy Beavers, leading to her
-false testimony.
+Count VII: Negligent Supervision & Failure to Train (Monell Claim) – Against Lafayette County
+38. Lafayette County failed to properly train or supervise Deputy Beavers, leading to her false
+testimony.
 39. The county’s lack of oversight directly contributed to Reardon’s wrongful imprisonment.
-40. Under Monell v. Dept. of Social Services, a municipality can be held liable for failing to
-train its officers when it results in constitutional violations.
+40. Under Monell v. Dept. of Social Services, a municipality can be held liable for failing to train its
+officers when it results in constitutional violations.
 Count VIII: Obstruction of Justice (18 U.S.C. § 1503, § 1513) – Against Beavers
 41. Beavers provided false testimony in a legal proceeding to secure a wrongful conviction.
 42. This constitutes obstruction of justice and retaliation against a witness.
@@ -138,10 +129,10 @@ Petitioner respectfully requests that this Court:
 2. Declare that the FBI’s failure to act is unlawful.
 3. Hold Beavers, Lafayette County, and Sheriff Joey East accountable.
 4. Award damages, both compensatory and punitive, for the malicious prosecution,
-wrongful/false imprisonment and each of the civil rights violations under 42 USC
-1983 and 42 USC 1985.
-5. Award Plaintiff appropriate attorneys fees for the amount of bringing this
-complaint under 42 USC 1988
+wrongful/false imprisonment and each of the civil rights violations under 42 USC 1983 and 42
+USC 1985.
+5. Award Plaintiff appropriate attorneys fees for the amount of bringing this complaint under 42
+USC 1988
 Dated: February 21, 2025
 Respectfully submitted,
 Matthew O. Reardon
