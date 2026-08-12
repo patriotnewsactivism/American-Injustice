@@ -42,6 +42,20 @@ And on the strength of a telephone call somebody made to the FBI building — th
 
 I did not lie. I went to the FBI's Oxford office on a walk-in basis. Walking in without an appointment is not a lie about having an appointment. It is a description of how a citizen reports a crime to the federal government.
 
+There is a further layer to this, and I am going to flag its evidentiary status carefully rather than let it sit next to the transcript as though it carried the same weight.
+
+On a recorded call nine months later — the August 2023 call to Chief Deputy Mills that closes this chapter — I described what I had said to Beavers on October 28 in more detail than I gave at the hearing:
+
+> *"I've got the call recording showing that I told everything to Candace correct back on the 28th of October, regarding my need to go to the FBI office to report an issue. I even told her, specifically verbatim on the call, that they said that they don't do appointments, that they do walk-ins only, and that we had agreed that I'd come up there within the next hour and a half's time."*
+
+If that is accurate, it does not merely rebut the appointment point. It inverts it. It would mean I told the Lafayette County Sheriff's Department, in advance and on a recorded line, that the FBI's Oxford office does not take appointments and takes walk-ins only — the very fact that was later presented to a court as evidence I had lied. It would mean the department was told the truth about the appointment before the visit, and then testified about the absence of an appointment afterward as though it were a discovery.
+
+Here is the honest part, and it costs me the cleanest version of this chapter. **That October 28 recording is not in the evidence archive behind this book.** Nobody working on this project has heard it. What exists is me, on tape in August 2023, telling a chief deputy what is on it.
+
+I have learned exactly what that distinction is worth. Two chapters back I described a bill of sale from memory for nine years before the page itself turned up — and when it did, it said precisely what I had said it said, down to the serial number. I may well be right about this one too. But "I have a recording that proves it" is not the same class of thing as a recording, and after everything this book has said about the difference between an allegation and a document, I am not going to blur that line in my own favor on the one page where it would help me most.
+
+So take it at its actual weight: it is my account, given contemporaneously to a hostile audience with no reason to indulge me, of a recording I say exists. The certified transcript is what carries this chapter. This would finish it.
+
 There is one more thing in that transcript that changes how this chapter has to be written, and it cuts against the way I have told this story for years.
 
 Judge Tollison's ruling does not rest on the lie.
@@ -62,9 +76,45 @@ I ended that hearing by telling Judge Tollison, on the record, "You are a corrup
 
 Nine months later, three days after I walked out of custody, I picked up a telephone and tried to do something about the *yes*.
 
-On August 4, 2023, I called the Lafayette County Sheriff's Department, asked for executive leadership, and was connected to Chief Deputy Scott Mills. I told him I was filing an internal affairs complaint against Deputy Beavers. I offered to send the recordings and the documentation electronically, immediately. Mills would not take it by phone and would not take it electronically. If I wanted to file a complaint against a working deputy, I had to come in and file it in person.
+On August 4, 2023, I called the Lafayette County Sheriff's Department. I recorded it, the way I record everything now, which is the only reason I can give you this exchange instead of my memory of it.
 
-I refused, and I will state the reason plainly rather than dressing it up: I had been out of a Mississippi jail cell for seventy-two hours, and I was being told that the only way to accuse a Lafayette County deputy of lying under oath was to walk into the Lafayette County Sheriff's Department and hand the accusation to her supervisors, in their building, in person. That is not a complaint process. That is a toll booth. And this county has already demonstrated what happens when it investigates itself — in the Metro Narcotics scandal, Sheriff East was simultaneously a signatory on a lockbox with missing funds and one of the officials responsible for looking into where the funds went.
+I started with the switchboard, asking a simple question: who handles internal affairs complaints here? The woman who answered gave me an honest answer, and it is worth reading twice, because she was not being cagey. She was just describing her workplace.
+
+*"It's going to be one of our higher-ups. It would be Sheriff, Major, or Scott, I would think."*
+
+Sheriff, Major, or Scott. Joey East, Alan Wilburn, Scott Mills. Three of the four men who came to arrest me in May of 2017. The complaint I wanted to file was against their deputy, about testimony given at a hearing prosecuted by their district attorney's office, arising from an arrest their department made. And the entire menu of people authorized to receive that complaint was those three men.
+
+I said so on the call, before I was even transferred: *"There's a conflict of interest involving the sheriff... that's where I kind of shy away from internal affairs anyways because I kind of feel like the process is biased within the department."*
+
+They put me through to Scott Mills.
+
+I started laying it out — the testimony, the *"so he lied?"* answer, the fact that I had called the Sheriff's Department in advance on October 28 and told them exactly where I was going and why. I said I had that call on tape. I got about four sentences in.
+
+*"Hold up, hold up, hold up."*
+
+And then:
+
+*"If you want to file a complaint, come file a complaint... I want you to come up here and file a complaint on a real complaint, and we'll look into it. **I'm not sitting here listening to you.** You give your version of this and that. I mean, come and file a complaint if you've got a complaint."*
+
+*I'm not sitting here listening to you.*
+
+For years I have described this call as Mills declining to take the complaint by phone and insisting I come in person — as a routing decision, a bureaucratic obstacle, an unreasonable formality. That is not what is on the tape. On the tape, the Chief Deputy of the Lafayette County Sheriff's Department interrupted a man in the middle of alleging that one of his deputies gave false testimony in a proceeding that cost that man a year of his liberty, and told him he was not going to sit there and listen. He did not ask what the testimony was. He did not ask what was on the recording. He did not ask which deputy. He announced that hearing it was not something he intended to do.
+
+I said the only thing there was to say: *"Do you really think I'm that stupid to come into Lafayette County and file a complaint in person?"*
+
+Understand what was actually being asked of me. I had been out of a Mississippi jail cell for seventy-two hours. I was under a banishment order forbidding me from being in Lafayette County. And the sole avenue offered for accusing a Lafayette County deputy of lying under oath was to physically enter the Lafayette County Sheriff's Department — into a building where, if things went sideways, the people deciding whether my presence was authorized would be the same people I had come to accuse.
+
+That is not a complaint process. That is a toll booth with a trapdoor.
+
+I called back and asked to be transferred to Mills again. We never finished the conversation.
+
+The recording keeps running for a few seconds after I hang up, and it catches what I said to nobody, alone, in my own car, three days out of a year in custody:
+
+*"What a chicken shit son of a bitch."*
+
+I am not putting that in to be crude. I am putting it in because it is the most honest thing on the tape, and because every polished sentence I have written about institutional accountability in the last nine years is downstream of a man sitting in a parked car saying that out loud with no one listening.
+
+And this county has already shown what it does when asked to investigate itself. In the Metro Narcotics scandal, Sheriff East was simultaneously a signatory on a lockbox with missing funds and one of the officials responsible for finding out where the funds went.
 
 So the complaint was never filed. The *yes* stayed in the record. And seven days after that phone call with Scott Mills, I was arrested in Galveston, Texas, at two in the morning, having just finished driving there.
 
