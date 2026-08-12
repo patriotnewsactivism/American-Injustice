@@ -1,6 +1,8 @@
 CHAPTER 23 — OSTEEN LIED UNDER OATH
 
-This chapter's title is not editorializing, nor is it a rhetorical flourish born of personal frustration or anger. It is, at this point in the formal legal record, an objective conclusion directly supported by a federal magistrate judge's evidentiary findings and explicitly conceded in writing by the government's own legal representatives.
+This chapter's title is not editorializing, nor is it a rhetorical flourish born of personal frustration or anger. It is, at this point in the formal legal record, an objective conclusion directly supported by the evidentiary findings of **United States Magistrate Judge Andrew M. Edison** and explicitly conceded in writing by the government's own legal representatives.
+
+One caution before I go further, because it belongs at the front and not in a footnote. Edison's findings came inside a Report and Recommendation that **recommended dismissing my entire lawsuit**, and the district court adopted that recommendation and entered final judgment against me on August 10, 2026. Nothing in this chapter is a court ruling in my favor. What it is, is a record of what the documents say — and of what the government's own lawyers put in writing.
 
 Galveston Police Officer William Osteen's sworn probable cause affidavit, detailed in the preceding chapter, alleged a "moderate odor of alcohol" coming from my person as the sole physical justification for my August 11, 2023 felony DWI arrest. That single sworn assertion served as the sole legal foundation for approximately eleven months of pretrial detention in Texas — held first on a $10,000 bond, then, after my August 17 rearrest on a Lafayette County hold, on a $100,000 bond that a Mississippi no-bond detainer made academic anyway. The forced blood draw administered that night at UTMB Health—conducted under the direct physical supervision of Sergeant Jack Doraty (spelled D-O-R-A-T-Y) and performed by hospital staff including a medical technician identified in court records as Defendant McDougle—returned a laboratory toxicology result of 0.00 blood alcohol content. That scientific result alone presents an insurmountable hurdle for an affidavit claiming a "moderate odor of alcohol," as ethyl alcohol odor correlates directly with the physiological presence of alcohol in a person's system, and the state's own laboratory found none.
 
@@ -100,7 +102,9 @@ I have spent this book carefully refusing to claim I know why people did things 
 
 Campagna's motion notes, pleaded on information and belief, that the City of Galveston has a contentious relationship with auditors.
 
-**The State of Texas never answered any of it.** There was no Franks hearing. Osteen never took that stand. Instead, as the next chapters set out, the case was disposed of — and a federal magistrate would later find that avoiding exactly this hearing is why.
+**The State of Texas never answered any of it.** There was no Franks hearing. Osteen never took that stand. Instead, as the next chapters set out, the case was disposed of — and **Magistrate Judge Andrew M. Edison** would later find that avoiding exactly this hearing is why.
+
+The same judge recommended throwing my federal lawsuit out, and the district court did. Chapter 34 is that story, and I am not going to pretend the two rulings came from different men.
 
 I want to say one thing plainly, because this book has been hard on a great many lawyers. **Ben Campagna did his job.** He read every page, he watched every second of the footage, he pulled the lab report and the case report and the revocation transcript, and he built a document so specific that the State's only viable move was to make the case go away rather than put its officer under oath. That is what a defense attorney is supposed to be. I had gone seven years without one.
 
