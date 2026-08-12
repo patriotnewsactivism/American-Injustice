@@ -24,7 +24,7 @@ And I should say why I was going, because the manuscript has never made that cle
 
 Fix that clock in your head, because the rest of this chapter runs on it. I arrived at 2 a.m. By 2:41 a.m. — forty-one minutes later — a Lafayette County sergeant in Mississippi was on the telephone with the Galveston Police Department about me.
 
-For years, this is where I had to stop and admit I could not prove the next sentence. I had a six-day gap and a conviction in my gut. I would say the arrest was retaliation, and the honest answer to *prove it* was that I had a calendar and nothing else — no emails, no phone logs, no inter-agency memo. I said so in print and I meant it.
+For years, this is where I had to stop and admit I could not prove the next sentence. I had a seven-day gap and a conviction in my gut. I would say the arrest was retaliation, and the honest answer to *prove it* was that I had a calendar and nothing else — no emails, no phone logs, no inter-agency memo. I said so in print and I meant it.
 
 That is no longer where this stands, and the reason is that while I sat in a Texas holding cell, the telephone calls coming into Galveston Police that night were being recorded. I have three of them.
 
