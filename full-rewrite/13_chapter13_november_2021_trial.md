@@ -60,7 +60,19 @@ I am not naming his daughter. She is a private person who worked at a law firm a
 
 And he did do the right thing. Garrison disclosed a real conflict, in writing, in specific detail, on his own motion, and stepped aside. Nobody made him. That is what the Code of Judicial Conduct is for and it is what it looks like when it works.
 
-It also cuts against me, and I am not going to let that slide past. The reason Garrison had to recuse is that I had threatened the Tannehill Law Firm. Chapter 3 has what I actually said, in my own voice, on a livestream — *"I will see, personally, to the fall of Ray Tannehill... I am coming for you. I will not stop."* Until now that was a thing I said on the internet that I have owned in these pages. It is now also a fact recorded in a signed judicial order, consequential enough to move a criminal case off one judge's docket and onto another's. My words did that. Not Lafayette County.
+And now the part I have to be careful about, because when I first read this order I read it too fast and drew the wrong conclusion from it.
+
+Look at the verb. *"I learned that Mr. Reardon had threatened Tannehill Law Firm."*
+
+**He learned it.** Somebody told him. The order does not say who, does not say when, does not say what I was supposed to have said or done, and does not attach a date. There was no hearing on it. No evidence was taken. Nobody asked me.
+
+And I did not threaten the Tannehill Law Firm. What I did — Chapter 3 has it in my own voice, without a defense — was threaten **Ray Tannehill**, a lawyer, on a livestream, in 2017. That is a real thing I said and I own it. It is not the same as threatening a firm. A firm has staff who never had anything to do with my case. Four years separate the livestream from this order, and the order never mentions the livestream, so I do not actually know what he was told or by whom.
+
+Here is why that matters more than it looks. **I did not know this was his stated reason at the time.** I found out years later. Which means an allegation about me — unsourced, undated, never tested, never put to me — went into my case file and then travelled with it to the next judge. The man who inherited that file three months later, and tried me, and convicted me on every charge the Sheriff's Department brought, opened it with a signed order from a colleague saying I had threatened a law firm.
+
+I am not saying Garrison did that on purpose. And I am not saying he should have held a hearing before protecting his own daughter's workplace from a conflict — he should not have; that is exactly when a judge steps aside first and asks questions later, and I said above that he did the right thing.
+
+But there is no mechanism anywhere in that process for me to answer it, and there never was. The pool got poisoned by a document I could not see, for a reason I could not contest, and the only thing that made it into the record was somebody's account of me.
 
 So Lafayette County brought in Chris Childers, from Union County, and Childers is the man who tried me on November 4, 2021 — the man who said *"I believe Union County has the same type of fee to drop a charge,"* the man who convicted me on every charge the Sheriff's Department brought and acquitted me on every charge Crowder brought.
 
