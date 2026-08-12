@@ -28,6 +28,50 @@ I stand on public property — the public sidewalk in front of the main Lafayett
 
 The brick-paved square surrounding the historic Lafayette County Courthouse was quiet in the afternoon heat, shaded by mature live oaks and lined with white-columned storefronts, upscale boutiques, and the grand porch of City Hall across the street. To a tourist visiting Oxford or an Ole Miss alumnus back in town for a football weekend, the square represents the picture-perfect image of small-town Southern charm and academic prestige. But when you stand on that sidewalk holding a video camera at chest height, the texture of the environment changes instantly. The air grows heavy with institutional friction. You discover quickly that in a county seat of thirty thousand people where political, legal, and commercial power overlap tightly, public space is only truly public so long as your presence conforms to what the local authorities expect. The moment your posture suggests monitoring or dissent rather than tourism, the invisible boundaries of permissible civic presence snap into sharp, hostile enforcement. My elbows were tucked close to my ribs and my hands held the camera rig steady—a physical posture born of Marine Corps muscle memory, calibrated to ensure no officer could credibly claim I had thrust a lens into their face or brandished an object aggressively. Yet even with that disciplined stillness, the simple act of standing on a public sidewalk in support of a historical monument and the state flag was treated by the men wearing badges as an act of intolerable defiance.
 
+And then I saw him: Deputy Timmy Pruitt, walking toward me alone, no other deputies in sight. I noticed something right away — his uniform had a blank patch where his badge should have been. Not dangling from a chain, not tucked in a pocket. Simply absent. I don't know to this day whether that was an oversight or a choice, and I am not going to pretend I do. But a badge is supposed to be an emblem of accountability, and its absence made the next ninety seconds feel wrong before he'd said a single word.
+
+"You know I am audio and video recording, Mr. Pruitt," I said as he approached.
+
+"I don't care. Do you have a permit to be here?"
+
+"Um, the First Amendment actually—"
+
+"Do you have a permit to be here?"
+
+"No," I said plainly.
+
+"All right, you've got to leave."
+
+"Why is that?"
+
+"'Cause you're going to jail if you don't."
+
+"You're telling me I'm going to jail just for standing out here holding the flag, demonstrating?"
+
+"You have to leave," he said again, ignoring the question.
+
+"Okay — can I just ask you a question?"
+
+"I'm going to ask you one more time to leave. If not, I'm gonna take you to jail. Disorderly conduct."
+
+"Okay, I'll leave and take this straight to my attorney then. You can't threaten me over my First Amendment rights."
+
+"Hey, I'm going to tell you right now: leave."
+
+"This city is ass-backwards. Ass-fucking-backwards, y'all see that? Hey, what's your badge number, by the way, Deputy Pruitt?"
+
+"You're under arrest."
+
+"I'm not — I'm leaving. I was asking you — I was leaving."
+
+And just like that, I was in cuffs. I want to own the crude remark about the city before anyone else points it out — it did not help me, it was not necessary, and it is the kind of thing that let a booking officer write down "disorderly conduct" and mean it in more than one direction. It is also true, and both things are true at once, that the arrest itself came only after I asked a uniformed deputy for his badge number, and that the badge number question is, under decades of settled law, protected speech, not an act of disorder.
+
+Pruitt walked me to his cruiser, the Mississippi flag I'd been holding now folded on the passenger seat like contraband instead of the flag of a state. He put me in the back seat without reading me any rights, the door slamming with that hollow metal echo you don't forget, my wrists cuffed tight enough to dig in on every bump between the square and the Sheriff's Department. At intake, my name, date of birth, and charge went into the log without hesitation: Disorderly Conduct. No mention of the First Amendment. No acknowledgment that I had posed no threat and broken no window, blocked no door, raised no fist — held a flag on a public sidewalk and asked a question.
+
+The footage made it online before I'd finished being processed. It moved fast, picked up by First Amendment audit pages and shared well outside Lafayette County, and the public reaction was lopsided in my favor. I was told, in the days after, that Pruitt had been placed on administrative leave — some called it that; some, less charitably, called it a paid vacation while the county decided how to make the story go away. I have no personnel record confirming which word is more accurate, and I am not going to pretend I do.
+
+Here is the detail I did not learn until later, and cannot independently verify beyond my own memory and my own timeline, so I offer it exactly as that: at what I believe was the same hour I was being handcuffed on that sidewalk, my daughter Lydia's mother, Phyllis Crowder, was in the Lafayette County Chancery Court with her attorney, filing the paperwork that would begin restricting when and how I could see my daughter. I cannot prove those two things were coordinated, and I am not going to claim a fact I can't back up. What I can say is that it is the first time in this story — though nowhere near the last — that a public arrest and a private family-court maneuver landed on the exact same day, and a reader is entitled to decide for themselves how many times that particular coincidence can repeat before it stops looking like coincidence.
+
 For a long time, before I understood the fuller shape of my own story, this is where I — Matthew Oliver Reardon, the man in the video, writing now under the pen name Don Matthews — thought it started. A flag protest in the spring of 2017. A deputy named Timmy Pruitt. A first domino.
 
 It isn't, quite — not the first one, anyway. You've already read the one that actually opens this book. But it is the first domino that Oxford, Mississippi could see, and the one that put Mississippi specifically into motion started eight months earlier still, in September 2016, when I — a private citizen with no law degree, no press credential yet, and no criminal record — started a Change.org petition asking Mississippi cities to lose state funding if they refused to fly the state flag. I named two decision-makers — then-Governor Phil Bryant and then-State-Senator Chris McDaniel — and by the time the petition closed it had 4,486 signatures attached to it. That is not a radical act. That is closer to the most boring, procedurally correct form of American dissent there is: circulate a petition, name the officials who can act on it, wait.
