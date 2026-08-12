@@ -78,6 +78,50 @@ I want to be precise about one thing, because I have just spent a page correctin
 
 For years I have set East's testimony here against other testimony he gave in a separate matter about a year later, and called that the contradiction. I no longer need to reach that far. **The contradiction is inside this one trial.** One video from that department was preserved and handed over. The other, from the same period, was not — and nobody said it couldn't have been. Somebody said it could have.
 
+There is one more piece of that trial that belongs here, and it concerns the disorderly conduct and resisting charges rather than the DUI. It is the sharpest evidentiary claim in this entire book, and I want to state it carefully, because it is my sworn testimony about two documents rather than a comparison a reader can perform for themselves.
+
+I had recorded my own visits to the Sheriff's Department in 2020. Before my lawyer asked me a single question about what was on that recording, he established what it was — by reference to the State's own footage:
+
+> *"Matt, is that a true and accurate recording of the events we've seen on the sheriff's department's video camera from the jail?"*
+>
+> *"Yes, sir."*
+
+That matters. The recording was not being offered as my word against theirs. It was being matched against the department's own jail camera video of the same minutes, and it lined up.
+
+Then:
+
+> *"Have you read Mr. Dixon's report? ... In there he says that you said, in quotes, 'no' three times. Did you say that?"*
+>
+> *"No, sir."*
+>
+> *"Does that recording confirm that you didn't say those things?"*
+>
+> *"Yes, sir."*
+
+And then the second report:
+
+> *"In [the other officer's] report, it says Deputy Dixon told him to place his hands behind his back. Did you hear that on your recording?"*
+>
+> *"Not one time."*
+>
+> *"Did you edit that recording?"*
+>
+> *"No, sir."*
+
+What is on the tape is me saying this, which is not a refusal at all:
+
+> *"When Joey wants to talk to me, I move. Otherwise, I'm not breaking any law just for parking in a spot that says the sheriff... I'm moving my car. I'm leaving."*
+
+Two written reports, by two officers, describing three refusals and a command to put my hands behind my back. A contemporaneous audio recording — authenticated against the sheriff's own jail camera, unedited — containing none of it.
+
+Here is the discipline I owe you, and it costs me the punchline. **I have not put those two reports side by side with that audio in these pages, because neither report is in the evidence archive this book was built from.** What I have is my own testimony, under oath, in November 2021, describing what they say and what the tape does not. That is a good deal more than an allegation — it was given on the record, under penalty of perjury, with the recording playing in the courtroom and the State free to contradict it — and it is still not the same thing as a document you can check. If Dixon's report surfaces, and the second officer's, this becomes the most concrete provable falsehood in nine years of my life. Until then it is sworn testimony about a document, and I am labeling it that way.
+
+I am also not naming the second officer. The only version of his name I have comes off a machine transcription and I do not trust it enough to attach a man's surname to an accusation.
+
+One last thing from that morning, because the State had a theory about why I kept turning up at the Sheriff's Department at all — that I was there, in the prosecution's framing, to ambush somebody. The answer I gave was mundane and true: I had not seen my daughter in roughly twelve months. She was six. I was going to the sheriff because I had run out of other doors. Sheriff East, on the stand, confirmed he had followed up — that he had reached her mother, that the child was fine, and that her mother said she was doing what child services told her and waiting on the court.
+
+I am leaving the rest of that out of this chapter deliberately. What was alleged about me in that custody fight, and what it did to a six-year-old, is not a thing I am going to relitigate through her.
+
 The convictions from this trial — most consequentially, the DUI conviction on the record when Mississippi's aggravated-stalking enhancement provisions came into play the following year — are not vacated, reversed, or otherwise disturbed by anything in the available record. They stand. What this chapter adds to them is context: a sheriff's own later words casting doubt on whether the court that convicted me in November 2021 had access to all the evidence it should have had, and a charge-outcome pattern that, while explicable on entirely innocent grounds, sits uncomfortably close to what institutional overreach against a private citizen would look like if it were happening.
 
 The month after this trial, in December 2021, my fight with Lafayette County's court system reached its most direct confrontation yet — not in a courtroom, but in a parking lot, where Sheriff East himself blocked my car from leaving. That confrontation, and the judge-swap discovery that provoked it, is the subject of the next chapter.
