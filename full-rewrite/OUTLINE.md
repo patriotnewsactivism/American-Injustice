@@ -43,6 +43,17 @@ PART IV: VINDICATION (2023–2025)
 24. The Long Fight for Vacatur (2024) [x]
 25. Full Vacatur (Jan 21 2025) [x]
 26. Reardon v. State — The Reversal (Feb 2026) [x]
+26A. Layton, Utah (Feb 1 – Apr 25 2025) [x] — **ADDED 2026-08-12. 4,197 words.**
+    Numbered 26A *only* to avoid renumbering Ch.27–37 and breaking the cross-references already
+    written into their prose. Chronologically it sits between Ch.25 (vacatur, Jan 21 2025) and
+    Ch.27 (the BOLO, Jun 23 2025); Ch.26 is out of sequence already, being the Feb 2026 appellate
+    decision. **In the nine-Part structure this chapter is the whole of Part 7.**
+    **RENUMBER IN ONE MECHANICAL PASS AT FINAL ASSEMBLY** — there is a drafting note at the top of
+    the file to delete at the same time.
+    Sourced to ledger rows **P0346–P0358** (the Layton federal case, read directly 2026-08-09) plus
+    **P0498–P0503**. Both emails are verbatim court exhibits; everything else is pleaded, never
+    served, never answered, never adjudicated, and voluntarily dismissed — the chapter says so
+    repeatedly and ends on it.
 
 PART V: THE WIDENING WAR (2025–2026)
 (reordered 2026-07-31 to keep the federal case one continuous track before switching fronts)
