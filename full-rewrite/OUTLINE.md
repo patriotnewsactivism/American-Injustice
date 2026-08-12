@@ -76,7 +76,7 @@ new file to github.com/patriotnewsactivism/American-Injustice/full-rewrite/.
 2026-07-31 session 3 complete: Ch11-15 drafted and pushed (~5,000 more words). PART II NOW
 COMPLETE (Ch6-15, ~15,500 words for the Part). Covers Oxford USAO confrontation/"blowhard Bob"
 (Ch11), drone crash w/ minor present -- honest counterweight chapter (Ch12), the Nov 2021 trial
-+ LCSD-guilty/Crowder-not-guilty split + East's "gone forever" sworn testimony (Ch13), the
++ LCSD-guilty/Crowder-not-guilty split + the 7-day sallyport retention window and East's "could have been" concession from the stand, corrected from the recovered trial audio (Ch13) -- NOTE: "gone forever" was never said and has been removed, see P0466-P0467; the
 Dec 6 Busby confrontation + East blocking Reardon's car (Ch14), the Dec 7-23 commitment under
 Judge Little, closing Part II on the "escalation reflex" pattern thesis (Ch15).
 RUNNING TOTAL: ~21,500 words across 15 chapters + prologue (of 80k target).

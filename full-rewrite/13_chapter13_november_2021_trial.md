@@ -40,9 +40,43 @@ Hold that against the acquittal pattern. It is a good deal less mysterious that 
 
 That is the charitable reading of the split, and it may well be the correct one: courts convict on strong evidence and acquit on weak evidence, and a law enforcement agency's charges being, on average, better evidenced than a private litigant's charges is not itself suspicious. It is the ordinary operation of an adversarial system doing exactly what it is designed to do. I do not want to overclaim the significance of the LCSD-guilty/Crowder-not-guilty split beyond what it can support, and I explicitly decline to read it as proof of a coordinated frame — the far more mundane explanation, that institutional prosecutions tend to be built on stronger foundations than one ex-partner's accusations against another, fits the facts at least as well.
 
-What this chapter can say with more confidence, because it does not depend on inferring intent from an acquittal pattern, is what happened to the evidence in the DUI portion of the case. Sheriff Joey East testified at this trial that footage from the February 2021 Beavers stop was "gone forever." This is the same claim examined in Chapter 10, and its significance compounds here: East's testimony at this trial is the on-the-record moment when "gone forever" entered the sworn transcript, not merely my account of an informal conversation. Roughly a year later, in testimony connected to an entirely different proceeding, East would testify that jail parking-lot video from his department is, in fact, selectively preserved — a direct and irreconcilable contradiction with what he told this court in November 2021 about a different but related category of the same department's video evidence.
+What this chapter can say with more confidence, because it does not depend on inferring intent from an acquittal pattern, is what happened to the evidence in the DUI portion of the case. And here I have to correct myself, because for years I have summarized Sheriff Joey East's testimony at this trial in two words — that the footage was **"gone forever"** — and having now listened to the recording end to end, he never said that. Neither did anyone else. I have repeated a paraphrase of my own making until it hardened into a quotation.
 
-A sheriff testifying under oath that evidence is "gone forever," and later testifying under oath in a separate matter that his department's practice is actually selective preservation rather than uniform, non-recoverable loss, has given two courts two different and incompatible accounts of how his department handles video evidence. That contradiction does not retroactively prove the DUI stop was fabricated, or that the November 2021 convictions were unjust on their merits. It does mean that whatever this trial concluded about the DUI charge, it concluded it without access to footage that a sheriff's own later, contradictory testimony suggests may not have actually been "gone forever" at all — and that the man deciding, with nobody between him and the verdict, was a judge from another county whose name I still cannot tell you.
+What was actually said is worse for them.
+
+Start with what did not exist. My own lawyer walked the deputy through it on the stand: *"Did you have any dash camera on it?" — "No." "Did you have any body worn camera... at that time?" — "No." "Did she?" — "No." "Did you take any video or photos concerning this traffic stop or the subsequent DUI investigation?" — "No."*
+
+So there is no recording of the stop. Fine — patrol vehicles without cameras are a real and unremarkable thing in a rural Mississippi county in 2021.
+
+But the field sobriety test was not performed at the roadside. It was performed in the **sallyport of the Lafayette County Detention Center**, indoors, on a floor with a painted yellow line. And the sallyport has cameras. The deputy conceded at least one, on the northeast corner, positioned to see it. Asked whether there was any procedure for switching it on when an officer brings someone in for a test, the answer was: *"Not that I'm aware of."*
+
+My lawyer then did the thing a good lawyer does, which is to make the absent evidence unavoidable before revealing that it is absent. He established that the line on the floor was yellow. That yellow shows up clearly on video. That the deputy remembered which foot allegedly stepped off it, and at which step of the nine. And then:
+
+> *"Would you agree with me that the video would be the best evidence?"*
+
+It would have been. Every disputed element of that test — the sway, the step off the line, the missed heel-to-toe — is a thing a camera settles and a memory does not.
+
+Then came the part I should have been quoting all along. The sallyport video was not described as destroyed, or lost, or beyond recovery. It was described as **not given out** — withheld as a matter of policy, on the stated ground that the sallyport adjoins the jail and its footage is a security matter. *"We don't give them out."* If a judge ordered it within a certain time, the department would comply. And then the retention window, stated plainly on the record:
+
+> *"But you don't ask within seven days. They're gone. You don't — nobody. They're — they're gone."*
+
+**Seven days.** That is the whole life of the only objective evidence of whether I was impaired. Not gone forever. Gone in a week, unless somebody who did not yet have a lawyer knew to ask a department that does not give them out.
+
+And then the exchange that makes this chapter, which happened because two of my charges were being tried the same morning:
+
+> *"Sheriff, please — we've been producing a copy of the video of the parking lot in another one we're about to take up. **How on earth do we preserve that video and not have the video of the DUI?**"*
+>
+> *"The moment of the arrest, we preserved him at that time."*
+>
+> *"So he was arrested for DUI there in the sallyport. And just like that video was preserved, the sallyport video could have been preserved too."*
+>
+> **"Could have been."**
+
+Could have been. From the stand, in the same courtroom, on the same morning, about the same department, in a case where the parking-lot footage from another charge had been preserved and produced and the sallyport footage had not.
+
+I want to be precise about one thing, because I have just spent a page correcting my own imprecision. The recording of that day carries no speaker labels, and I am inferring from the form of the exchange — it is addressed to the Sheriff, and it is question and answer — that the two-word concession is his. I believe it is. I am telling you it is an inference rather than a caption.
+
+For years I have set East's testimony here against other testimony he gave in a separate matter about a year later, and called that the contradiction. I no longer need to reach that far. **The contradiction is inside this one trial.** One video from that department was preserved and handed over. The other, from the same period, was not — and nobody said it couldn't have been. Somebody said it could have.
 
 The convictions from this trial — most consequentially, the DUI conviction on the record when Mississippi's aggravated-stalking enhancement provisions came into play the following year — are not vacated, reversed, or otherwise disturbed by anything in the available record. They stand. What this chapter adds to them is context: a sheriff's own later words casting doubt on whether the court that convicted me in November 2021 had access to all the evidence it should have had, and a charge-outcome pattern that, while explicable on entirely innocent grounds, sits uncomfortably close to what institutional overreach against a private citizen would look like if it were happening.
 
