@@ -10,7 +10,17 @@ I refused that requirement immediately and unconditionally. Walking back into th
 
 My refusal was grounded in an acute, hard-earned awareness of self-investigation bias—a structural flaw already documented playing out in Lafayette County in a remarkably similar form during the Metro Narcotics scandal. In that high-profile investigation, Sheriff F.D. "Buddy" East was both a designated signatory to a missing-funds lockbox and one of the primary law enforcement officials tasked with investigating his own department's financial shortfall. Expecting a police agency to impartially police its own core actors when confronted with internal corruption is a proven administrative illusion. Requiring an accuser to walk into the building controlled by the accused officers creates an immediate environment of intimidation, surveillance, and coercion designed to deter formal accountability and protect department personnel from outside scrutiny.
 
-Seven days after that telephone conversation with Scott Mills, I drove to Texas. I was on the road the whole of August 10, and I rolled into Galveston at two o'clock in the morning on August 11, 2023. I was pulled over and arrested within minutes of arriving, on a felony DWI charge.
+Between those two events I did the other thing a journalist does, and it is the part of this story I have never put in writing properly.
+
+Days after I got out, I published the recordings. I laid the October 28 call over the certified transcript of Beavers's testimony, lined up so that a viewer could read what she swore and hear what had actually been said, in the same minute. Then I put it out.
+
+It moved fast. I have given the number as forty thousand views in one telling and fifty thousand in another, within about a week — I do not have the analytics in front of me and I am not going to pretend to a figure I cannot produce. What is not in dispute is that a lot of people watched it in a short time.
+
+That is the fact I want standing here, before the arrest, because everything I have ever said about what happened next depends on it. A woman testified against me. I went to prison for a year. I came out, and within days I put her testimony and the recording side by side in front of tens of thousands of people, and then I called her department and tried to file a complaint and was told to come in person and told, four sentences in, that nobody was going to sit there and listen to me.
+
+Seven days after that telephone conversation with Scott Mills, I drove to Texas.
+
+And I should say why I was going, because the manuscript has never made that clear either and the absence of a reason has let this look like a man wandering into trouble. I was driving to Galveston to meet other journalists. I had received anonymous tips about racial profiling by law enforcement there, and that is what I went to look at. I was working. I was on the road the whole of August 10, and I rolled into Galveston at two o'clock in the morning on August 11, 2023. I was pulled over and arrested within minutes of arriving, on a felony DWI charge.
 
 Fix that clock in your head, because the rest of this chapter runs on it. I arrived at 2 a.m. By 2:41 a.m. — forty-one minutes later — a Lafayette County sergeant in Mississippi was on the telephone with the Galveston Police Department about me.
 
