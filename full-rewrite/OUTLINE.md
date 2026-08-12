@@ -92,7 +92,7 @@ about its likely doctrinal weakness (Ch17); the June 28 2022 arrest on the dures
 2017-CV-217 order finally catching up via MS's stalking-enhancement lookback (Ch18); the
 Sept 30 2022 guilty plea, 5yr suspended probation, 5yr county banishment, 45-day vacate window
 (Ch19); the Nov 3 2022 revocation hearing built on Beavers's testimony this book treats as
-perjured given the recorded prior-notice call, plus the Aug 4 2023 Mills complaint attempt and
+examined against the certified transcript (the 'so he lied?' / 'Yes' exchange on hearsay; cross confirms the advance call), plus the Aug 4 2023 Mills complaint attempt and
 the "institutional coverup followed by institutional retaliation" framing per Don's own words
 (Ch20); the ~1yr MS custody closing on the note that it was later vacated (Ch21).
 RUNNING TOTAL: ~29,800 words across prologue + 21 chapters (of 80k target).
