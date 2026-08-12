@@ -12,6 +12,50 @@ An officer who states on camera at the scene of a stop that he detects no odor o
 
 The First Amended Complaint I filed in that same federal case lays out the specifics with more precision than a summary can capture, and the specifics matter, because they show the contradictions were not limited to the single "no odor" admission. The stop occurred at approximately 1:52 to 2:11 a.m. on August 11, 2023, after officers pulled me onto private property near the 4300 block of Broadway Avenue J in Galveston. Osteen's sworn "Affidavit for Search Warrant" asserted, among other things, that my speech was "Slurred & Thick-Tongued," that my eyes were "Watery & Dilated," and that I was "Heavy Footed" while walking. At my later revocation hearing — under oath, on the record, with a transcript — Osteen testified to the opposite on two of those same three points: he described my pupils as "very small" and "pinpoint" (Revocation Tr. p.24, line 10; p.35, line 7), the direct opposite of "dilated," and he testified I was "talking extremely fast" (Revocation Tr. p.35, line 8), the direct opposite of "slurred & thick-tongued." An officer's own affidavit and his own later sworn testimony, describing the same person at the same encounter, cannot both be accurate when they describe literally opposite physical symptoms. I am not the one who created that discrepancy; his own two sworn statements did.
 
+On February 25, 2025, my attorney Benjamin S. Campagna filed a Motion for a Franks Hearing in County Court No. 3 in Galveston County. It is the best piece of work anybody has ever done on my behalf, and I want to lay out what it did, line by line, because it is the moment this case stopped being my word against a police officer's.
+
+A *Franks* motion is a narrow and difficult thing. Under *Franks v. Delaware*, if a defendant makes a substantial preliminary showing that an officer knowingly, intentionally, or with reckless disregard for the truth put a false statement in a warrant affidavit — and that the false statement was necessary to probable cause — the court must hold a hearing. In practice it means the officer takes the stand and answers for the document, under oath, with the recordings in the room.
+
+Campagna took Osteen's affidavit and went through it one checkbox at a time.
+
+**"An odor of an unknown alcoholic beverage."** The toxicology report — Texas DPS Houston Crime Lab, case HOU-2308-10286 — showed no trace of alcohol. There were no alcoholic beverages and no open containers in the vehicle. And here is a fact I had never put in this book: **Galveston disposed of the car.** The motion says it plainly — *"Galveston has disposed of the vehicle, making it impossible for Defendant to exculpate himself."* The one physical thing that could have been examined for a source of that smell was gone.
+
+**"Odor of Alcoholic Beverage on breath: Moderate."** *Moderate* is the second-highest setting on that form. And Osteen said on his own body camera, more than once, that he did not smell alcohol on my breath — only from the vehicle. He later testified under oath that once I stepped out of the car he could not detect an odor coming from me at all. He marked *moderate on my breath* anyway.
+
+**"Eyes: Watery & Dilated."** At the revocation hearing he testified my *"pupils were very small"* and that I had *"pinpoint pupils."* Dilated and pinpoint are opposites. Both were said under oath.
+
+**"Walking: Heavy Footed."** The bodycam shows he was not even facing me during the brief window I was walking. He later testified I was *"extremely jittery"* — which is the opposite of heavy-footed.
+
+**"Speech: Slurred & Thick-Tongued."** On the footage I speak articulately, at a normal pace. He later testified I was *"talking extremely fast."* Thick-tongued and extremely fast are opposites too.
+
+**"REFUSAL EVIDENCE."** This is the one that still turns my stomach. The affidavit says I refused to provide a sample. What is on the bodycam is me **offering to take a breathalyzer** and agreeing to go into custody so it could be done. Campagna's language: Osteen *"intentionally omitted Defendant's willingness to take a breathalyzer so that he could use Defendant's 'refusal' as evidence supporting the Warrant."*
+
+Then Campagna put the whole thing together into the argument that I think is unanswerable. Between writing the affidavit and testifying at my revocation hearing, **Osteen switched profiles.** The affidavit describes a drunk: slurred, thick-tongued, heavy-footed, dilated pupils, alcohol on the breath. The testimony describes something else entirely: fast speech, pinpoint pupils, jittery. As the motion puts it:
+
+> *"Each observation was made under oath, but they obviously aren't both true. Such a fundamental shift in observations, under oath, suggests intentional misrepresentation rather than innocent mistake."*
+
+And underneath all of it, the motion documents when the decision to arrest me was actually made. **Under one minute into the encounter**, before any meaningful observation, Osteen tells Officer Larry Murph they can go ahead and arrest me — that he *"can go off of slurred speech and the smell."*
+
+Which brings me to the two sentences on that body camera that explain the entire night.
+
+At **2:48** into the footage — within moments of walking up to me — one of the first things Osteen asks is:
+
+> **"You an auditor man?"**
+
+And sixteen seconds later, to another officer:
+
+> **"Hey, I'm doing this one, this is an auditor."**
+
+*I'm doing this one.*
+
+I have spent this book carefully refusing to claim I know why people did things to me. I am not going to break that rule now, and I do not need to. Read those two sentences in order and decide for yourself what "I'm doing this one" means when it is said sixteen seconds after "you an auditor man," four minutes before the decision to arrest, on a night that ended with a blood draw that came back at 0.00.
+
+Campagna's motion notes, pleaded on information and belief, that the City of Galveston has a contentious relationship with auditors.
+
+**The State of Texas never answered any of it.** There was no Franks hearing. Osteen never took that stand. Instead, as the next chapters set out, the case was disposed of — and a federal magistrate would later find that avoiding exactly this hearing is why.
+
+I want to say one thing plainly, because this book has been hard on a great many lawyers. **Ben Campagna did his job.** He read every page, he watched every second of the footage, he pulled the lab report and the case report and the revocation transcript, and he built a document so specific that the State's only viable move was to make the case go away rather than put its officer under oath. That is what a defense attorney is supposed to be. I had gone seven years without one.
+
 There is a timing detail buried in the paperwork that deserves its own sentence rather than a footnote. The Texas DPS Houston Crime Lab's toxicology report — Laboratory Case HOU-2308-10286, finding "No alcohol detected" — was issued September 6, 2023, less than a month after my arrest, and its email distribution list included Osteen's own department address, wosteen@galvestontx.gov. That means Osteen had access to the lab result definitively clearing me of any alcohol at all by early September 2023. The felony charge did not get dismissed until May 24, 2024 — nearly eight more months during which I remained in pretrial custody on a $100,000 bond, while the officer whose sworn affidavit put me there had, by his own department's own records, already received the report contradicting it.
 
 The complaint documents two phone calls in the middle of that same night, at 2:41 a.m. and 4:04 a.m., involving Lafayette County. When I drafted that complaint I described them as outgoing — Galveston reaching out to Mississippi. I have the recordings now, and I had the direction wrong. Both calls came the other way.

@@ -62,7 +62,11 @@ But the sentence I used to have to write — *there is no direct evidence of com
 
 What happened on the ground in Galveston that night is serious enough to stand entirely on its own, without reference to any of it.
 
-Galveston Police Officer William Osteen initiated a traffic stop and subsequently authored a sworn affidavit in support of my arrest. In that affidavit, Osteen swore under oath that he detected a "moderate odor of alcohol" coming from my person. On the strength of that single sworn assertion, I was booked into custody, charged with felony Driving While Intoxicated, and held on an extraordinary $100,000 bond.
+One correction I owe the record, because I have told this wrong for two years. **Officer William Osteen did not stop me.** The traffic stop was made by **Officer L. Murph**, at 1:52 in the morning, for allegedly running 47 in a 35 on Avenue J. Osteen was called to the scene afterward. The officer who wrote the affidavit describing my driving is not the officer who saw me drive.
+
+Hold that against the clock in this chapter. Stopped at **1:52**. Sergeant Hoby James of the Lafayette County Sheriff's Office on the phone to Galveston Police at **2:41** — forty-nine minutes later. The warrant for my blood signed by a magistrate at **2:49**. Mississippi was calling Texas about me eight minutes before a judge authorized a needle.
+
+Osteen then authored the sworn affidavit that produced that warrant. In it he swore he detected a *"moderate odor of alcohol"* — and marked it on the line for odor **on my breath**. On the strength of that single sworn assertion, I was booked into custody, charged with felony Driving While Intoxicated, and held on an extraordinary $100,000 bond.
 
 Because I knew with absolute certainty that I had consumed no alcohol whatsoever, I insisted on a definitive forensic test to establish my complete sobriety. Officers transported me to UTMB Health for a forced blood draw. Sergeant Jack Doraty (spelled D-O-R-A-T-Y) was present during this entire procedure, supervising the officers and overseeing the operation. The physical blood draw was performed by UTMB Health medical staff, including a technician identified in court records as Defendant McDougle.
 
