@@ -30,6 +30,20 @@ On the presiding judge, I can now say more than I could before, and still not en
 
 He spoke of Union County's practice as a thing he knew, while presiding in Lafayette County. A month later, in a recorded call reproduced in the next chapter, I described him to a court administrator the same way — without any idea that this remark was sitting on my own audio.
 
+And I now know *why* a judge came from another county at all, which I did not when I first wrote this chapter.
+
+Eight months before that trial, in a Justice Court hearing I recorded, a judge took himself off my cases. From the bench, in his own words:
+
+> *"After the trial I was made aware that you had reported that clerk and myself have been put on YouTube. Because of this, I believe it would be in the best interest of all parties for me to recuse myself. I'm going to recuse myself... assigned to another judge, or a judge would be brought in from another county."*
+
+*Or a judge would be brought in from another county.* That is the sentence, said in early 2021, that explains the man sitting on the bench in November.
+
+I want to be straight about this recusal, because for a long time I treated it as one more piece of a pattern and I no longer think that is fair. He recused himself **because I had been publishing about him and about a clerk**. That is not misconduct. A judge who learns he has become a subject of a litigant's public commentary and steps aside rather than sitting on the case anyway is doing the careful thing — arguably the correct thing — and he did it on his own motion, out loud, on a record I was making. He also continued all my pending cases so I could go find a lawyer.
+
+There is something worth sitting with in that, given everything else in this book. Of all the officials who responded to my camera, this is the one who responded by removing himself from power over me.
+
+And he corrected me on something, which I am including because it does not help me. I have said that I was barred from recording. What he said was narrower and, on the recording, sounds right: I *was* permitted to make an audio record **at my trial**. What had been refused was a **teleconference or in-person conference between the prosecutor and the judge** — *"there is a difference."* That distinction matters, and my own account has blurred it.
+
 Two sources, a month apart, one of them the judge himself. **I still do not know his name.** He is addressed as "Your Honor" through every minute of recovered audio, and I am not going to guess at it. There is a judge whose assignment to my consolidated Justice Court charges is documented as of July 2021, and he is the obvious candidate, and "obvious candidate" is not a finding. Until a docket sheet says the name, this book does not.
 
 It is worth sitting with how unusual that split is, statistically and structurally, before drawing any conclusion from it. A single trial, resolving nine charges from three different sources, in which every charge from one source results in conviction and every charge from a second, entirely separate source results in acquittal, is not the pattern one would expect from a docket of genuinely independent, randomly distributed allegations. It is, instead, exactly the pattern one would expect if the charges brought by Crowder — filed by a private individual with a documented history, established in Chapters 6 through 9, of unsubstantiated accusations recurring on a roughly annual cycle — were weaker on their evidentiary merits than the charges brought by a law enforcement agency with subpoena power, forensic resources, and institutional credibility a private citizen's allegations simply do not carry into a courtroom.
