@@ -26,13 +26,21 @@ On May 20, 2017, I bought a rifle from a private seller I found through the clas
 
 May 8 is twelve days before I had the rifle.
 
-Now the honest part. I have said for nine years that a bill of sale proves this, and I have described that document from memory more times than I can count. **It is not in the evidence archive this book was built from.** Nobody working on this project has read it. I believe it exists. I cannot put it in front of you, and a book that tells you to trust a receipt it cannot produce has no business asking you to trust anything else in it.
+I have said that for nine years, and for nine years I have said a bill of sale proves it. Here is the bill of sale, in full, exactly as it is written on a sheet of ruled notebook paper:
 
-What I can put in front of you is better than my memory and it does not depend on paperwork anyone has to find. In a livestream from that same week — recorded before any of this mattered, for an audience with no reason to care — I am on camera explaining a 72-hour Facebook suspension I had picked up for asking whether anyone had an AR-15 for sale. And I say, in my own voice, at the time: *"I got my fully decked out AR-15 yesterday."*
+> *"I Larry D Watkins, am selling this AR-15 Del-ton, serial # S086662, with extra parts & some ammo. To Matthew Reardon, for the amount of 550.00. ON the this Day May 20, 2017."*
 
-That recording exists. It is in the archive. It places the purchase where I have always said it was — after, not before, the conduct the state charged me with.
+Below that, a signature. Below the signature, in the same hand: **5/20/17**.
 
-So this is not a receipt against a police report. It is a man's own contemporaneous voice against a police report, and the tape was made two weeks before anyone had a reason to lie.
+Let me be precise about what that is and what it isn't, because precision is the only thing this book has going for it. It is a private handwritten receipt between two adults for a lawful private firearm sale — which is exactly what Mississippi law contemplates, and exactly all it requires. It is not notarized. It is not witnessed. It is not registered with any agency, because Mississippi has no agency to register it with. What it establishes on its own is that a man named Larry D. Watkins wrote down that he sold a Del-Ton AR-15, serial number S086662, to me for five hundred and fifty dollars on May 20, 2017.
+
+So do not take the receipt alone. Put it next to a recording nobody made for a courtroom.
+
+In a livestream from that same week — recorded before any of this mattered, for an audience with no reason to care — I am on camera explaining a 72-hour Facebook suspension I had picked up for asking whether anyone had an AR-15 for sale. And I say, in my own voice, at the time: *"I got my fully decked out AR-15 yesterday."*
+
+Fully decked out. *With extra parts & some ammo.* Two documents made by two different people for two entirely different reasons, days apart, neither one aware it would ever matter, and they say the same thing.
+
+That is what the State of Mississippi was up against, and it never checked. Not once. Not a phone call to Watkins, not a request for the receipt, not a question at the initial appearance. Four senior officers swore to a date, and nobody in the chain went looking for the twelve days sitting underneath it.
 
 To grasp the full legal weight of that chronological impossibility, one must examine the statutory mechanics of Mississippi criminal procedure. Under Mississippi Code § 97-3-107, aggravated stalking is a felony carrying severe prison sentences, requiring the state to establish a credible threat of death or serious bodily injury made with a deadly weapon. When senior law enforcement officers execute an arrest warrant affidavit, they swear an oath before a magistrate or justice court judge that probable cause rests on concrete, verified facts. When Chief Deputy Scott Mills, Major Alan Wilburn, Lieutenant Jared Bundren, and Sheriff Joey East executed that warrant on May 26, they relied on a sworn factual narrative asserting an armed threat on or before May 8. In a functioning judicial environment governed by the Fourth Amendment, a defendant offering to prove the firearm was not acquired until May 20 should have prompted the state to check — to pull the transaction record, to contact the seller, to establish when the weapon entered my hands before swearing that I had used it twelve days earlier. An arrest affidavit rooted in a chronological impossibility lacks probable cause as a matter of law. Yet in Lafayette County, exposing a twelve-day impossible gap did not trigger a dismissal or an internal investigation into how four high-ranking law enforcement officials swore to a false timeline. Instead, it marked the beginning of years of aggressive litigation designed to preserve the state's posture while keeping me tied up in the court system.
 
