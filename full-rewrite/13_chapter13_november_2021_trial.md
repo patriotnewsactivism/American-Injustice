@@ -44,7 +44,27 @@ There is something worth sitting with in that, given everything else in this boo
 
 And he corrected me on something, which I am including because it does not help me. I have said that I was barred from recording. What he said was narrower and, on the recording, sounds right: I *was* permitted to make an audio record **at my trial**. What had been refused was a **teleconference or in-person conference between the prosecutor and the judge** — *"there is a difference."* That distinction matters, and my own account has blurred it.
 
-Two sources, a month apart, one of them the judge himself. **I still do not know his name.** He is addressed as "Your Honor" through every minute of recovered audio, and I am not going to guess at it. There is a judge whose assignment to my consolidated Justice Court charges is documented as of July 2021, and he is the obvious candidate, and "obvious candidate" is not a finding. Until a docket sheet says the name, this book does not.
+Two sources, a month apart, one of them the judge himself.
+
+**His name is Chris Childers, and he was a Justice Court judge in Union County.**
+
+I went through several judges in that Justice Court ordeal, and it is worth laying the chain out in order, because it is the clearest illustration in this book of how a case gets moved.
+
+Circuit Judge John Kelly Luther assigned my Justice Court cases to **Judge David Garrison** — also of Union County. Garrison came to Lafayette County on August 2, 2021, read the file, and did something no one in this story had done before: he concluded I needed a lawyer, and reset the cases to August 30 so I could get one.
+
+Nine days later he took himself off the case. His written order of recusal says why, and I am going to quote it, because it is the document this book spent years looking for:
+
+> *"After the initial appearance on August 2nd, I learned that Mr. Reardon had threatened Tannehill Law Firm, in which my daughter... is employed. With this occurrence I feel that at this time I need to recuse myself in accordance to the Judicial Code of Conduct, as I feel this would be a conflict in the hearing."*
+
+I am not naming his daughter. She is a private person who worked at a law firm and did nothing to me, and the only reason her name exists in this record at all is that her father did the right thing.
+
+And he did do the right thing. Garrison disclosed a real conflict, in writing, in specific detail, on his own motion, and stepped aside. Nobody made him. That is what the Code of Judicial Conduct is for and it is what it looks like when it works.
+
+It also cuts against me, and I am not going to let that slide past. The reason Garrison had to recuse is that I had threatened the Tannehill Law Firm. Chapter 3 has what I actually said, in my own voice, on a livestream — *"I will see, personally, to the fall of Ray Tannehill... I am coming for you. I will not stop."* Until now that was a thing I said on the internet that I have owned in these pages. It is now also a fact recorded in a signed judicial order, consequential enough to move a criminal case off one judge's docket and onto another's. My words did that. Not Lafayette County.
+
+So Lafayette County brought in Chris Childers, from Union County, and Childers is the man who tried me on November 4, 2021 — the man who said *"I believe Union County has the same type of fee to drop a charge,"* the man who convicted me on every charge the Sheriff's Department brought and acquitted me on every charge Crowder brought.
+
+One caution about the name, because I have been strict about this everywhere else. **I know it was Childers because I stood in front of him.** I have not put a docket sheet or an assignment order in front of you, and until I do, that identification is my own — corroborated by the Union County remark on the audio and by the fact that a judge from another county had to be found at all, but mine. If a docket says otherwise, the docket wins.
 
 It is worth sitting with how unusual that split is, statistically and structurally, before drawing any conclusion from it. A single trial, resolving nine charges from three different sources, in which every charge from one source results in conviction and every charge from a second, entirely separate source results in acquittal, is not the pattern one would expect from a docket of genuinely independent, randomly distributed allegations. It is, instead, exactly the pattern one would expect if the charges brought by Crowder — filed by a private individual with a documented history, established in Chapters 6 through 9, of unsubstantiated accusations recurring on a roughly annual cycle — were weaker on their evidentiary merits than the charges brought by a law enforcement agency with subpoena power, forensic resources, and institutional credibility a private citizen's allegations simply do not carry into a courtroom.
 
