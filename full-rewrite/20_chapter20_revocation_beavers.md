@@ -60,6 +60,14 @@ The answer I got, from the FBI, on my own recording, before any of this happened
 
 > **"We do walk-ins as opposed to a phone call."**
 
+And then — this is the sentence I nearly lost, because the first transcription of this call garbled it and a second, cleaner copy of the same audio turned up in the same folder — I tell the FBI **why** I need a set time:
+
+> *"...so I can let Oxford know, or let Lafayette County Sheriff's Department know, and come in there."*
+
+Read that again. On October 28, 2022, on the telephone with a federal agency, before I had spoken to anybody at the Sheriff's Department, I said out loud that I wanted an appointment time **so that I could notify them.** That is not a man evading a notification condition. That is a man organizing his day around one.
+
+The FBI gave me their hours — *"any time between the hours of 8 to 4 Monday through Friday would be fine"* — and then, when I asked whether there was a lunch period when nobody would be there, told me it varied, and that *"if you could come before 12 would be perfect."*
+
 I asked for an appointment. The FBI told me they do not do appointments. Then the same person gave me a window — *"I would say if you could come before 12 would be perfect"* — and I said I would load the evidence onto a jump drive and drive up.
 
 I drove up. Nobody came out. There is a second recording, from the parking lot, of me saying *"I came all the way up here to speak with the FBI and now nobody's here,"* and repeating the exchange to whoever would listen: *"I specifically said this to that guy — can I not make an appointment so that everybody or somebody could be there? He said we don't do appointments, we do walk-ins."* I swore, and then I apologized to the staff member for swearing, because none of it was her fault.
