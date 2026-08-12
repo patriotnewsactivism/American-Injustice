@@ -1,6 +1,14 @@
 Source: user-pasted transcript (Don, 2026-08-03)
 Date: May 3, 2021
-Description: 5th call to the FBI (mistranscribed as "MBI"/"NBI" in places) - no call ever returned
+Description: 5th call to the MISSISSIPPI BUREAU OF INVESTIGATION (MBI) - no call ever returned.
+CORRECTED 2026-08-12 (ledger row P0462): this header previously read "5th call to the FBI
+(mistranscribed as MBI/NBI in places)". That was backwards. The raw ASR said MBI and a prior
+annotator "corrected" it to FBI, then that correction propagated into the body text below, so
+every "FBI" in the transcript body should be read as MBI. Don confirmed directly that he called
+the Mississippi Bureau of Investigation five times. Internal corroboration: the staffer refers
+complaints about her agency to "the attorney general's office", which is the escalation path for
+a state bureau, not a federal one. Underlying audio not re-listened to; verify by ear if the
+distinction is load-bearing.
 
 Uh, yes, ma'am. I was calling to see if the FBI had any remarks for, um, accusations of it being complicit in an ongoing scandal involving the Oxford mayor.
 Okay. Uh, and what is your name?

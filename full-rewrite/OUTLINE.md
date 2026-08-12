@@ -38,7 +38,7 @@ PART III: THE SECOND CASE (2022)
 21. A Year in Mississippi Custody [x]
 
 PART IV: VINDICATION (2023–2025)
-22. Release, and Galveston (Aug 2023 — six days after the Mills complaint) [x]
+22. Release, and Galveston (Aug 11 2023 — seven days after the Mills complaint) [x]
 23. Osteen Lied Under Oath [x]
 24. The Long Fight for Vacatur (2024) [x]
 25. Full Vacatur (Jan 21 2025) [x]
@@ -76,7 +76,7 @@ new file to github.com/patriotnewsactivism/American-Injustice/full-rewrite/.
 2026-07-31 session 3 complete: Ch11-15 drafted and pushed (~5,000 more words). PART II NOW
 COMPLETE (Ch6-15, ~15,500 words for the Part). Covers Oxford USAO confrontation/"blowhard Bob"
 (Ch11), drone crash w/ minor present -- honest counterweight chapter (Ch12), the Nov 2021 trial
-+ LCSD-guilty/Crowder-not-guilty split + East's "gone forever" sworn testimony (Ch13), the
++ LCSD-guilty/Crowder-not-guilty split + the 7-day sallyport retention window and East's "could have been" concession from the stand, corrected from the recovered trial audio (Ch13) -- NOTE: "gone forever" was never said and has been removed, see P0466-P0467; the
 Dec 6 Busby confrontation + East blocking Reardon's car (Ch14), the Dec 7-23 commitment under
 Judge Little, closing Part II on the "escalation reflex" pattern thesis (Ch15).
 RUNNING TOTAL: ~21,500 words across 15 chapters + prologue (of 80k target).
@@ -92,12 +92,12 @@ about its likely doctrinal weakness (Ch17); the June 28 2022 arrest on the dures
 2017-CV-217 order finally catching up via MS's stalking-enhancement lookback (Ch18); the
 Sept 30 2022 guilty plea, 5yr suspended probation, 5yr county banishment, 45-day vacate window
 (Ch19); the Nov 3 2022 revocation hearing built on Beavers's testimony this book treats as
-perjured given the recorded prior-notice call, plus the Aug 4 2023 Mills complaint attempt and
+examined against the certified transcript (the 'so he lied?' / 'Yes' exchange on hearsay; cross confirms the advance call), plus the Aug 4 2023 Mills complaint attempt and
 the "institutional coverup followed by institutional retaliation" framing per Don's own words
 (Ch20); the ~1yr MS custody closing on the note that it was later vacated (Ch21).
 RUNNING TOTAL: ~29,800 words across prologue + 21 chapters (of 80k target).
 NEXT UP: Part IV (Ch22-26), Vindication 2023-2025 -- starts with Ch22 "Release, and Galveston"
-(the Aug 11 2023 arrest, six days after the Beavers perjury complaint attempt).
+(the Aug 11 2023 arrest, seven days after the Beavers complaint attempt).
 
 2026-07-31 session 5: PART IV NOW COMPLETE (Ch22-26, ~5,600 words). Covers: Aug 1 2023 release
 + Aug 4 Mills complaint attempt + Aug 11 Galveston arrest, "coverup then retaliation" framing
