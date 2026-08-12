@@ -99,6 +99,15 @@ RUNNING TOTAL: ~29,800 words across prologue + 21 chapters (of 80k target).
 NEXT UP: Part IV (Ch22-26), Vindication 2023-2025 -- starts with Ch22 "Release, and Galveston"
 (the Aug 11 2023 arrest, seven days after the Beavers complaint attempt).
 
+JUSTICE COURT JUDGE CHAIN, RESOLVED 2026-08-12 (ledger P0491/P0493): Circuit Judge Luther
+assigned Judge DAVID GARRISON (Union Co.) -> Garrison ordered counsel appointed Aug 2 2021 ->
+Garrison RECUSED Aug 11 2021, in writing, because his daughter worked at Tannehill Law Firm (the
+firm Reardon had threatened) -> Lafayette Co. brought in Judge CHRIS CHILDERS (Union Co.) ->
+Childers presided over the Nov 4 2021 BENCH trial (no jury). Garrison = NOT a bad actor; his
+daughter is NOT to be named. Childers named on Don's identification, not a docket - flag stands.
+A SEPARATE, EARLIER recusal (P0489) was oral and given for a different reason entirely (YouTube
+posts about the judge and a clerk); that judge is still unnamed and is NOT Garrison.
+
 2026-07-31 session 5: PART IV NOW COMPLETE (Ch22-26, ~5,600 words). Covers: Aug 1 2023 release
 + Aug 4 Mills complaint attempt + Aug 11 Galveston arrest, "coverup then retaliation" framing
 flagged [CLAIM] (Ch22); Osteen's on-camera no-alcohol admission vs his affidavit, Dkt.79 ¶14,

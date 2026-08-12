@@ -30,7 +30,53 @@ On the presiding judge, I can now say more than I could before, and still not en
 
 He spoke of Union County's practice as a thing he knew, while presiding in Lafayette County. A month later, in a recorded call reproduced in the next chapter, I described him to a court administrator the same way — without any idea that this remark was sitting on my own audio.
 
-Two sources, a month apart, one of them the judge himself. **I still do not know his name.** He is addressed as "Your Honor" through every minute of recovered audio, and I am not going to guess at it. There is a judge whose assignment to my consolidated Justice Court charges is documented as of July 2021, and he is the obvious candidate, and "obvious candidate" is not a finding. Until a docket sheet says the name, this book does not.
+And I now know *why* a judge came from another county at all, which I did not when I first wrote this chapter.
+
+Eight months before that trial, in a Justice Court hearing I recorded, a judge took himself off my cases. From the bench, in his own words:
+
+> *"After the trial I was made aware that you had reported that clerk and myself have been put on YouTube. Because of this, I believe it would be in the best interest of all parties for me to recuse myself. I'm going to recuse myself... assigned to another judge, or a judge would be brought in from another county."*
+
+*Or a judge would be brought in from another county.* That is the sentence, said in early 2021, that explains the man sitting on the bench in November.
+
+I want to be straight about this recusal, because for a long time I treated it as one more piece of a pattern and I no longer think that is fair. He recused himself **because I had been publishing about him and about a clerk**. That is not misconduct. A judge who learns he has become a subject of a litigant's public commentary and steps aside rather than sitting on the case anyway is doing the careful thing — arguably the correct thing — and he did it on his own motion, out loud, on a record I was making. He also continued all my pending cases so I could go find a lawyer.
+
+There is something worth sitting with in that, given everything else in this book. Of all the officials who responded to my camera, this is the one who responded by removing himself from power over me.
+
+And he corrected me on something, which I am including because it does not help me. I have said that I was barred from recording. What he said was narrower and, on the recording, sounds right: I *was* permitted to make an audio record **at my trial**. What had been refused was a **teleconference or in-person conference between the prosecutor and the judge** — *"there is a difference."* That distinction matters, and my own account has blurred it.
+
+Two sources, a month apart, one of them the judge himself.
+
+**His name is Chris Childers, and he was a Justice Court judge in Union County.**
+
+I went through several judges in that Justice Court ordeal, and it is worth laying the chain out in order, because it is the clearest illustration in this book of how a case gets moved.
+
+Circuit Judge John Kelly Luther assigned my Justice Court cases to **Judge David Garrison** — also of Union County. Garrison came to Lafayette County on August 2, 2021, read the file, and did something no one in this story had done before: he concluded I needed a lawyer, and reset the cases to August 30 so I could get one.
+
+Nine days later he took himself off the case. His written order of recusal says why, and I am going to quote it, because it is the document this book spent years looking for:
+
+> *"After the initial appearance on August 2nd, I learned that Mr. Reardon had threatened Tannehill Law Firm, in which my daughter... is employed. With this occurrence I feel that at this time I need to recuse myself in accordance to the Judicial Code of Conduct, as I feel this would be a conflict in the hearing."*
+
+I am not naming his daughter. She is a private person who worked at a law firm and did nothing to me, and the only reason her name exists in this record at all is that her father did the right thing.
+
+And he did do the right thing. Garrison disclosed a real conflict, in writing, in specific detail, on his own motion, and stepped aside. Nobody made him. That is what the Code of Judicial Conduct is for and it is what it looks like when it works.
+
+And now the part I have to be careful about, because when I first read this order I read it too fast and drew the wrong conclusion from it.
+
+Look at the verb. *"I learned that Mr. Reardon had threatened Tannehill Law Firm."*
+
+**He learned it.** Somebody told him. The order does not say who, does not say when, does not say what I was supposed to have said or done, and does not attach a date. There was no hearing on it. No evidence was taken. Nobody asked me.
+
+And I did not threaten the Tannehill Law Firm. What I did — Chapter 3 has it in my own voice, without a defense — was threaten **Rhea Tannehill**, a lawyer, on a livestream, in 2017. That is a real thing I said and I own it. It is not the same as threatening a firm. A firm has staff who never had anything to do with my case. Four years separate the livestream from this order, and the order never mentions the livestream, so I do not actually know what he was told or by whom.
+
+Here is why that matters more than it looks. **I did not know this was his stated reason at the time.** I found out years later. Which means an allegation about me — unsourced, undated, never tested, never put to me — went into my case file and then travelled with it to the next judge. The man who inherited that file three months later, and tried me, and convicted me on every charge the Sheriff's Department brought, opened it with a signed order from a colleague saying I had threatened a law firm.
+
+I am not saying Garrison did that on purpose. And I am not saying he should have held a hearing before protecting his own daughter's workplace from a conflict — he should not have; that is exactly when a judge steps aside first and asks questions later, and I said above that he did the right thing.
+
+But there is no mechanism anywhere in that process for me to answer it, and there never was. The pool got poisoned by a document I could not see, for a reason I could not contest, and the only thing that made it into the record was somebody's account of me.
+
+So Lafayette County brought in Chris Childers, from Union County, and Childers is the man who tried me on November 4, 2021 — the man who said *"I believe Union County has the same type of fee to drop a charge,"* the man who convicted me on every charge the Sheriff's Department brought and acquitted me on every charge Crowder brought.
+
+One caution about the name, because I have been strict about this everywhere else. **I know it was Childers because I stood in front of him.** I have not put a docket sheet or an assignment order in front of you, and until I do, that identification is my own — corroborated by the Union County remark on the audio and by the fact that a judge from another county had to be found at all, but mine. If a docket says otherwise, the docket wins.
 
 It is worth sitting with how unusual that split is, statistically and structurally, before drawing any conclusion from it. A single trial, resolving nine charges from three different sources, in which every charge from one source results in conviction and every charge from a second, entirely separate source results in acquittal, is not the pattern one would expect from a docket of genuinely independent, randomly distributed allegations. It is, instead, exactly the pattern one would expect if the charges brought by Crowder — filed by a private individual with a documented history, established in Chapters 6 through 9, of unsubstantiated accusations recurring on a roughly annual cycle — were weaker on their evidentiary merits than the charges brought by a law enforcement agency with subpoena power, forensic resources, and institutional credibility a private citizen's allegations simply do not carry into a courtroom.
 
