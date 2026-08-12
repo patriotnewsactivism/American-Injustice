@@ -8,7 +8,9 @@ Chief Deputy Mills declined to accept the complaint over the phone or by electro
 
 My refusal was grounded in an acute, hard-earned awareness of self-investigation bias—a structural flaw already documented playing out in Lafayette County in a remarkably similar form during the Metro Narcotics scandal. In that high-profile investigation, Sheriff F.D. "Buddy" East was both a designated signatory to a missing-funds lockbox and one of the primary law enforcement officials tasked with investigating his own department's financial shortfall. Expecting a police agency to impartially police its own core actors when confronted with internal corruption is a proven administrative illusion. Requiring an accuser to walk into the building controlled by the accused officers creates an immediate environment of intimidation, surveillance, and coercion designed to deter formal accountability and protect department personnel from outside scrutiny.
 
-Six days after that telephone conversation with Scott Mills, on August 11, 2023, I was pulled over and arrested in Galveston, Texas, on a felony DWI charge.
+Seven days after that telephone conversation with Scott Mills, I drove to Texas. I was on the road the whole of August 10, and I rolled into Galveston at two o'clock in the morning on August 11, 2023. I was pulled over and arrested within minutes of arriving, on a felony DWI charge.
+
+Fix that clock in your head, because the rest of this chapter runs on it. I arrived at 2 a.m. By 2:41 a.m. — forty-one minutes later — a Lafayette County sergeant in Mississippi was on the telephone with the Galveston Police Department about me.
 
 For years, this is where I had to stop and admit I could not prove the next sentence. I had a six-day gap and a conviction in my gut. I would say the arrest was retaliation, and the honest answer to *prove it* was that I had a calendar and nothing else — no emails, no phone logs, no inter-agency memo. I said so in print and I meant it.
 

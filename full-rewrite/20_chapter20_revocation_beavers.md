@@ -66,7 +66,7 @@ On August 4, 2023, I called the Lafayette County Sheriff's Department, asked for
 
 I refused, and I will state the reason plainly rather than dressing it up: I had been out of a Mississippi jail cell for seventy-two hours, and I was being told that the only way to accuse a Lafayette County deputy of lying under oath was to walk into the Lafayette County Sheriff's Department and hand the accusation to her supervisors, in their building, in person. That is not a complaint process. That is a toll booth. And this county has already demonstrated what happens when it investigates itself — in the Metro Narcotics scandal, Sheriff East was simultaneously a signatory on a lockbox with missing funds and one of the officials responsible for looking into where the funds went.
 
-So the complaint was never filed. The *yes* stayed in the record. And six days after that phone call with Scott Mills, I was arrested in Galveston, Texas.
+So the complaint was never filed. The *yes* stayed in the record. And seven days after that phone call with Scott Mills, I was arrested in Galveston, Texas, at two in the morning, having just finished driving there.
 
 For years I have called what happened next retaliation, and for years the honest answer to "prove it" was that I couldn't — I had a six-day gap and a theory. That is no longer where the record stands. In the early morning hours after that arrest, while I sat in a Texas holding cell, three telephone calls were recorded. I have them now. One of them is Deputy Kandi Beavers, at four minutes past four in the morning, calling Galveston Police from Mississippi and asking to be put through to the officer who arrested me, by name.
 

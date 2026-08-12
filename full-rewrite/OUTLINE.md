@@ -38,7 +38,7 @@ PART III: THE SECOND CASE (2022)
 21. A Year in Mississippi Custody [x]
 
 PART IV: VINDICATION (2023–2025)
-22. Release, and Galveston (Aug 2023 — six days after the Mills complaint) [x]
+22. Release, and Galveston (Aug 11 2023 — seven days after the Mills complaint) [x]
 23. Osteen Lied Under Oath [x]
 24. The Long Fight for Vacatur (2024) [x]
 25. Full Vacatur (Jan 21 2025) [x]
@@ -97,7 +97,7 @@ the "institutional coverup followed by institutional retaliation" framing per Do
 (Ch20); the ~1yr MS custody closing on the note that it was later vacated (Ch21).
 RUNNING TOTAL: ~29,800 words across prologue + 21 chapters (of 80k target).
 NEXT UP: Part IV (Ch22-26), Vindication 2023-2025 -- starts with Ch22 "Release, and Galveston"
-(the Aug 11 2023 arrest, six days after the Beavers perjury complaint attempt).
+(the Aug 11 2023 arrest, seven days after the Beavers complaint attempt).
 
 2026-07-31 session 5: PART IV NOW COMPLETE (Ch22-26, ~5,600 words). Covers: Aug 1 2023 release
 + Aug 4 Mills complaint attempt + Aug 11 Galveston arrest, "coverup then retaliation" framing
