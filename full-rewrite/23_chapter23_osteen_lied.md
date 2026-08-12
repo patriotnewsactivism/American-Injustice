@@ -30,6 +30,36 @@ Campagna took Osteen's affidavit and went through it one checkbox at a time.
 
 **"REFUSAL EVIDENCE."** This is the one that still turns my stomach. The affidavit says I refused to provide a sample. What is on the bodycam is me **offering to take a breathalyzer** and agreeing to go into custody so it could be done. Campagna's language: Osteen *"intentionally omitted Defendant's willingness to take a breathalyzer so that he could use Defendant's 'refusal' as evidence supporting the Warrant."*
 
+**And then there is the document that needs no bodycam, no lab result, and no later testimony to do its work.**
+
+Osteen wrote two things that night. One was the sworn affidavit that went to a magistrate at 2:49 a.m. to get a warrant for my blood. The other was his own DWI Case Report, Galveston PD case 2023-005559. Both are in the exhibits to Campagna's motion. Put them side by side.
+
+**On the smell.** The case report says: *"Affiant smelled a **strong** odor of an unknown alcoholic beverage emitting **from the vehicle**."* The affidavit checks the box for odor **on breath**, at **moderate**.
+
+Read that twice. In his own narrative report, the smell is strong and it is coming from the car. In the document that had to convince a judge, the smell has moved out of the car and onto my breath — and dropped from strong to moderate, because "moderate on the breath" is what a form needs to justify taking blood.
+
+**On my speech.** The case report says *"slightly slurred."* The affidavit checks **"Slurred"** and adds **"Thick-tongued."**
+
+**On my eyes.** The case report says *"watery, glossy."* The affidavit checks **"Watering"** and adds **"Dilated."**
+
+**The word "dilated" appears nowhere in his own report.** It appears for the first time on the form that goes to the magistrate. Then, at my revocation hearing, he testified my pupils were *pinpoint.*
+
+Three observations. Three upgrades, every one of them in the direction that helps the warrant. Nothing here requires a jury to believe me over a police officer. It requires reading two pages he wrote himself, hours apart, on the same night.
+
+**One more thing in that report, and I do not know what to make of it yet, so I am going to tell you that rather than pretend.**
+
+The report records that Osteen contacted an assistant district attorney, that she agreed to charge me with DWI third-or-more, and that the case went to the jail **"with a recommended bond of $10,000."** The figure appears twice on the page.
+
+I have said in this book, and everywhere else, for two years, that I sat in Galveston County Jail on a **$100,000** bond. That is what I have always understood. It is ten times what his own report says was recommended.
+
+I do not have the bond order in front of me. So one of three things is true: the recommendation was ten thousand and somebody set it at a hundred; or my hundred-thousand figure is wrong and I have been repeating an error; or something happened after booking — the Mississippi hold, the felony enhancement — that moved it. **I am not going to guess, and I am not going to quietly print the number that helps me.** The bond order settles it, and until I have it, what I can tell you is exactly this: the officer who arrested me wrote down that ten thousand dollars was recommended, and I did not get out for eleven months.
+
+And there is one more line in that report worth holding, because of what was happening on the telephone at the same time. Osteen wrote that after reviewing my criminal history he found two prior DUI charges — one in Cobb County, Georgia in 2014, and one he lists as a **February 2021 Lafayette County, Mississippi** conviction. That prior is what turned this into a third-degree felony.
+
+But Chapter 22 has the dispatch recordings from that same building on that same night. At **3:44 in the morning**, Galveston personnel are on tape hunting for exactly that Mississippi prior and failing to find it — *"there's no charge affiliated with that 2022 cycle six"* — and two minutes later they are on the phone to Lafayette County asking for the court and the cause number, and a Mississippi sergeant is telling them he cannot get it on his shift.
+
+So the report states a specific Mississippi conviction, with a specific date, on a night when the people writing it were audibly still trying to find one. I am not going to tell you which way that cuts. I am telling you both documents exist and that they sit badly together, and that the Justice Court's own disposition record would resolve it in about five minutes.
+
 Then Campagna put the whole thing together into the argument that I think is unanswerable. Between writing the affidavit and testifying at my revocation hearing, **Osteen switched profiles.** The affidavit describes a drunk: slurred, thick-tongued, heavy-footed, dilated pupils, alcohol on the breath. The testimony describes something else entirely: fast speech, pinpoint pupils, jittery. As the motion puts it:
 
 > *"Each observation was made under oath, but they obviously aren't both true. Such a fundamental shift in observations, under oath, suggests intentional misrepresentation rather than innocent mistake."*
