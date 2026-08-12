@@ -42,6 +42,44 @@ And on the strength of a telephone call somebody made to the FBI building — th
 
 I did not lie. I went to the FBI's Oxford office on a walk-in basis. Walking in without an appointment is not a lie about having an appointment. It is a description of how a citizen reports a crime to the federal government.
 
+**And I have the call.**
+
+I wrote an earlier draft of this chapter saying the October 28 recording was not in the evidence archive, that what existed was my description of it, and that a description is not a document. That was true when I wrote it. It is not true now. The recording was found, and it is not the call I expected — it is better.
+
+It is my call to the FBI.
+
+Here is what happens on it. I telephone the Oxford FBI office and say I need to speak to an agent about corruption in the Holly Springs Police Department, that I have video, body-cam footage and audio. Then I explain the problem that makes this whole chapter possible:
+
+> *"I'm actually banished from the city of Oxford... I've got to get permission to come into the City, and I know y'all are in the city."*
+
+And so I ask — explicitly, in as many words:
+
+> *"Basically I need to make an appointment with y'all to come in there, if somebody can set a time with me."*
+
+The answer I got, from the FBI, on my own recording, before any of this happened:
+
+> **"We do walk-ins as opposed to a phone call."**
+
+I asked for an appointment. The FBI told me they do not do appointments. Then the same person gave me a window — *"I would say if you could come before 12 would be perfect"* — and I said I would load the evidence onto a jump drive and drive up.
+
+I drove up. Nobody came out. There is a second recording, from the parking lot, of me saying *"I came all the way up here to speak with the FBI and now nobody's here,"* and repeating the exchange to whoever would listen: *"I specifically said this to that guy — can I not make an appointment so that everybody or somebody could be there? He said we don't do appointments, we do walk-ins."* I swore, and then I apologized to the staff member for swearing, because none of it was her fault.
+
+Now put that beside what happened in the courtroom six days later.
+
+The Sheriff's Department called the FBI building. The FBI told them **Mr. Reardon did not have an appointment.** A prosecutor took that answer and asked a sworn deputy, *"Okay, so he lied?"* The deputy said *"Yes."* And a year of my life came off the back of it.
+
+**I did not have an appointment because the FBI told me they do not give them.** That is not a technicality and it is not my characterization. It is on a recording I made before I had any reason to think it would ever matter, and the person saying it works for the Federal Bureau of Investigation.
+
+There is one more thing in that recording that I did not notice until I set the two documents side by side, and it is the kind of detail that cannot be manufactured. Beavers testified — under oath, from the State's side of the room — that I called saying I needed to come into Oxford to meet an FBI agent **before lunch**.
+
+The FBI staffer on my recording told me: **"before 12 would be perfect."**
+
+Two sources. One of them mine, one of them hostile. Neither aware of the other. Same detail.
+
+She was telling the truth about the time. The State just attached the wrong conclusion to it.
+
+I want to be exact about one limit, because I have been exact about every other one in this book. **This is the call to the FBI, not the call to the Sheriff's Department.** It does not, by itself, prove what I said to Beavers on the phone that morning — that remains my account. What it does is make the question moot. The State did not need to know what I told Beavers to know that the appointment I supposedly lied about was one the FBI does not issue to anybody.
+
 There is a further layer to this, and I am going to flag its evidentiary status carefully rather than let it sit next to the transcript as though it carried the same weight.
 
 On a recorded call nine months later — the August 2023 call to Chief Deputy Mills that closes this chapter — I described what I had said to Beavers on October 28 in more detail than I gave at the hearing:
@@ -50,7 +88,7 @@ On a recorded call nine months later — the August 2023 call to Chief Deputy Mi
 
 If that is accurate, it does not merely rebut the appointment point. It inverts it. It would mean I told the Lafayette County Sheriff's Department, in advance and on a recorded line, that the FBI's Oxford office does not take appointments and takes walk-ins only — the very fact that was later presented to a court as evidence I had lied. It would mean the department was told the truth about the appointment before the visit, and then testified about the absence of an appointment afterward as though it were a discovery.
 
-Here is the honest part, and it costs me the cleanest version of this chapter. **That October 28 recording is not in the evidence archive behind this book.** Nobody working on this project has heard it. What exists is me, on tape in August 2023, telling a chief deputy what is on it.
+Here is the honest part. **The recording of my call to the Sheriff's Department that morning is still not in the evidence archive behind this book** — the call recovered above is the one to the FBI, not the one to Beavers. What exists on this specific point is me, on tape in August 2023, telling a chief deputy what is on it.
 
 I have learned exactly what that distinction is worth. Two chapters back I described a bill of sale from memory for nine years before the page itself turned up — and when it did, it said precisely what I had said it said, down to the serial number. I may well be right about this one too. But "I have a recording that proves it" is not the same class of thing as a recording, and after everything this book has said about the difference between an allegation and a document, I am not going to blur that line in my own favor on the one page where it would help me most.
 
