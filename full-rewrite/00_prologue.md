@@ -1,6 +1,6 @@
 PROLOGUE — THE FIRST DOMINO
 
-The video runs a little over a minute, and that minute is the only ten years of the rest of my life needed to turn on.
+The video runs a little over a minute, and that single minute is the only push the next ten years of my life needed to start falling.
 
 I stand on public property — the public sidewalk in front of the main Lafayette County Courthouse in Oxford, Mississippi, directly in front of the statue and monument on the courthouse square — holding a video camera at chest height, the way people hold cameras when they have already learned that lowering the camera is the first thing an officer will ask for. I am not shouting. I am not blocking a door. My purpose that afternoon is to send a message of support and protection for that historical monument, and — just as important to me that particular day — for the flag of the State of Mississippi. Standing on a public sidewalk to make that statement is a thing the Constitution of the United States says I am allowed to do, and which several thousand court decisions have said I am allowed to do, and which, in just over a minute's time, is about to get me arrested anyway, because I make the mistake of questioning a deputy's authority and asking him for his badge number.
 
