@@ -2,6 +2,44 @@ CHAPTER 15 — COMMITMENT
 
 On December 7, 2021, one day after Sheriff Joey East blocked my car and barred me from Circuit Court in the confrontation detailed in the previous chapter, East sought my involuntary psychiatric commitment. Judge Lawrence Little signed the supporting affidavit. I was committed from December 9 to December 23, 2021 — a detention of roughly two weeks.
 
+I recorded my phone calls in that period, as I recorded everything by then, and two of those recordings survive from the thirty hours immediately before the affidavit. I am going to put both of them in this chapter, in order, before I make any argument at all. One of them is the best evidence I have that I was not in crisis. The other is the worst. They are twenty-nine hours apart.
+
+**December 6, 11:05 in the morning.** I called Kathy, court administrator to Circuit Judge John Kelly Luther, and this is the man I was on that call:
+
+I told her I had filed a Rule 59 motion the previous Friday, December 3. I told her the circuit clerk's office had confirmed it was assigned to Judge Kent Smith — "it's done via algorithm," as they put it — and that by Sunday or Monday it had been reassigned to Judge Luther. I told her the identical thing had happened the year before to my post-conviction relief petition: assigned to Smith, moved to Luther. I said I had no complaint whatsoever about Judge Smith. I said the conflict was that Luther had presided over my 2017 plea and had already denied me an evidentiary hearing on the new evidence.
+
+Kathy did not dispute a word of it, and she was decent to me. She told me assignment is a clerk's function — "a computer generated, random assignment on civil matters" — that she was "not a Juris doctor," and that my earlier motion was "on his desk for review." When she ran out of things she was able to say, she said the truest thing on the call: *"I'm just a dead end for you."* She apologized twice. Her phones were, in her words, blowing up. She was a person being asked a question above her pay grade by a man who had nowhere else to ask it.
+
+Everything I said on that call was specific, checkable, and calm. A docket entry either shows a case assigned to Kent Smith on December 3 or it doesn't. It either shows a reassignment to John Kelly Luther by December 6 or it doesn't. That is not a delusion. That is a records question with an answer.
+
+I also told her, on that same call, what had happened at the courthouse an hour or two earlier — and I want to flag that this recording is the reason the previous chapter's account is more than my memory. I described it to her within hours: I went to the circuit clerk's office asking who had reassigned the case; Circuit Clerk Jeff Busby told the staffer at the counter *"don't answer any questions"*; Busby got on his cell phone; and, in my words to Kathy that morning, *"apparently, he called the Lafayette County sheriff. And I walk out of the courthouse, I go to my car, and sheriff pulls up behind me blocking me in and then pulls into the spot next to me, gets out telling me not to go back into the courthouse unless I have to to file something."*
+
+That is the version I gave a court official, unprompted, the same day, before I knew any of what was coming.
+
+**December 7, 4:23 in the afternoon.** Now the other one.
+
+I called what I understood to be Judge Kent Smith's court administrator, to ask the same question. I opened the same way — the two cases, the reassignment, and, verbatim: *"it's nothing with Judge Kent Smith. I don't know Judge Kent Smith. I haven't ever had him as a judge."* The woman who answered said the administrator had left for the day. Then a second person picked up the line.
+
+That person asked what the issue was. I told them: the 2017 charge, the bond, the six weeks in jail, the election. They asked me to spell my name so they could look up my file. They looked it up. They said the case in front of them was aggravated stalking, not an election dispute.
+
+And then they asked me this:
+
+*"Are you under the care of a psychiatrist?"*
+
+I did not handle it. I said, *"No, I'm not. What kind of f***ing question is that?"* It went downhill from there in about nine seconds. They called me a psycho. I told them to shut the f*** up and called them a stupid b****. That is what I said. I said it to a woman, on a telephone, over a docket question.
+
+I am not going to dress that up, and I am not going to explain it away by telling you what the previous four years had been like, though they had been what this book has spent fourteen chapters describing. A man who reacts that way to a stranger on the phone is not making his case. He is making theirs.
+
+Two more things about that call, said plainly so nobody has to catch me at them. I told that person Lafayette County's conduct amounted to *"a tremendous violation of the RICO Act."* It did not, and this book does not make that claim anywhere; I was a man reaching for the biggest word he knew. And I said I had asked the FBI to charge me with lying to them, so that the evidence could finally have a trial. I meant it. That is also not the sentence of a man who is winning.
+
+I do not know who that second person was. The line was answered as a law office, and nothing in the recording establishes they worked for Judge Smith, for any court, or for anyone in this story. I am not going to name them and I am not going to assign them a role they may not have had.
+
+Here is the sequence, then, with nothing added.
+
+December 6, morning: courteous, precise, on the record. December 6, midday: the clerk shuts down, the sheriff blocks my car. December 7, afternoon: the same question, an inquiry about my psychiatric care, and me detonating on the phone. December 7: Sheriff Joey East signs an affidavit seeking my involuntary commitment. December 9: I am taken. December 23: I come out.
+
+I want to be careful with one thing, because it is the exact kind of connection this book refuses to make on vibes. **Nothing in the record establishes that East knew about the December 7 phone call.** I am not claiming he did. The two things happened on the same day; that is all I can tell you, and if I told you more I would be doing the thing I have accused four different agencies of doing to me.
+
 Mississippi's civil commitment process, as a procedural matter, typically runs like this: an affiant — often a family member or a law enforcement officer — signs a sworn statement before a chancery or county judge alleging the statutory grounds for commitment, the judge can issue an order for the person to be taken into custody for an emergency evaluation, and a subsequent commitment hearing, usually before a special master or chancellor, determines whether continued confinement is warranted based on examining physicians' findings. Mississippi's civil commitment statute, like those of most states, requires an affiant to attest that the person in question presents a substantial likelihood of physical harm to themselves or others, or is otherwise unable to care for themselves, as a result of mental illness. The underlying affidavit's specific factual allegations are not accessible here, so whether the standard was met on its own terms, independent of the surrounding context already laid out, cannot be said with certainty. What can be said is that the sequence — a confrontation over a documented judicial irregularity, followed within twenty-four hours by the same law enforcement official who had just physically obstructed the citizen's vehicle initiating a two-week involuntary detention — sits at the very center of the central, unresolved tension running through this whole period of my life.
 
 It is worth being explicit about why this tension cannot simply be resolved by picking a side. Involuntary commitment exists, as a legal and clinical mechanism, because some people genuinely are in acute psychiatric crisis and genuinely do need to be protected from themselves or from harming others, and family members, doctors, and law enforcement officers who initiate that process in good faith are performing a difficult and sometimes life-saving function. It is also true, as a matter of well-documented history that long predates any of this and extends far beyond Lafayette County, Mississippi, that psychiatric commitment has been used, in other times and places, as a tool of convenience by officials who found a particular person's ongoing legal challenges, public accusations, or simple persistence inconvenient — a mechanism that offers the appearance of care while producing the practical effect of silencing and removing someone from circulation, without the due-process protections that would attach to a criminal detention for the same underlying conduct.
