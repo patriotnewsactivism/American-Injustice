@@ -10,6 +10,30 @@ During the hearing itself, according to my account, Judge Bell cut me off twice 
 
 The outcome of that hearing was a $150,000 bond, set on a charge whose central factual allegation a written receipt already disproved.
 
+There is a second defect in that hearing that I have never given its own paragraph, and it has nothing to do with the amount. It has to do with when it happened.
+
+Under Mississippi practice an arrestee is to be brought before a judicial officer within **48 hours**. I was arrested on May 26, 2017. My initial appearance was on May 30. Three years later, in October 2020, I sat down with Sheriff Joey East, put a recorder on the table, and said it to his face:
+
+> *"By law, 48 hours you have before you go before a judge on a bond. It was about 96 for me."*
+
+He did not dispute the figure. He was not obliged to — I was a man with a camera in his office, not a lawyer taking a deposition — but I said the number out loud to the sheriff of the county that held me and nobody in the room told me I had it wrong.
+
+Ninety-six hours is four days in a cell before anyone with a robe looks at whether you should be there. And the practical consequence compounds everything else in this chapter: by the time I finally reached Judge Bell, I had been in custody long enough to be exhausted, uncounseled, and ready to sign something — which, as the rest of this chapter shows, is exactly what happened next. I flag it now as a checkable claim rather than an established finding, because the booking record and the docketed time of that appearance would settle it in a minute and neither is in front of me.
+
+In that same recorded interview I raised something else with East, and it belongs beside the bond. According to press coverage of my arrest, Major Alan Wilburn had told reporters that I repeatedly made threats against the victim's wife and that I would regularly drive by their home.
+
+My answer to that, on tape, in 2020, is the same answer I give now:
+
+> *"I never even knew where they lived."*
+
+The business I had criticized sits in the middle of the Oxford Square. Driving past a bar on the Square in a town that size is not a pattern of surveillance; it is how you get anywhere. If a senior officer publicly attributed a course of stalking conduct to me on the strength of proximity to a Square business, that is not an investigative finding. It is a sentence that sounds like one.
+
+And on that same recording, unprompted, I gave away the thing that actually was true, which I include because a chapter that only prints my denials is worth nothing:
+
+> *"The only thing they even used unfairly against me was whenever I got drunk on Fireball that night and was doing livestreams. But I still never threatened anybody's life. In fact I said that I would never put anybody's life in jeopardy, I would never cause physical harm unless they posed a threat to me."*
+
+That is the honest shape of it. I was drunk on camera, angry, and running my mouth at people who had wronged me, in public, at length. That is genuinely ugly and I am not asking anyone to admire it. It is also not a threat, it is not stalking, and it is not a rifle I did not own yet.
+
 To understand the practical impact of a $150,000 bond on an ordinary citizen, one must look at the statutory framework governing bail in Mississippi and the mechanics of the commercial bail industry. Under the Eighth Amendment to the United States Constitution and Section 29 of the Mississippi Constitution of 1890, excessive bail is explicitly prohibited. Bail is not intended to function as pre-trial punishment, nor is it meant to serve as a mechanism for preventive detention in non-violent misdemeanor or felony cases where the accused poses no documented flight risk or threat to public safety. Standard bail-setting factors under Mississippi law—such as local family ties, length of residence in the community, history of court appearances, and the non-violent nature of the alleged offense—all favored a modest, accessible bond. Instead, setting bail at $150,000 for a first-offense non-violent charge meant that securing pretrial release through a commercial bondsman would require a non-refundable cash premium of ten percent—$15,000 cash upfront—alongside substantial real property collateral to secure the remaining ninety percent. For a citizen whose financial resources were already strained by ongoing legal disputes, an unpayable bond operates as a de facto order of indefinite detention, transforming the jail cell into an engine of institutional pressure.
 
 It is worth placing that $150,000 number next to another one that surfaces later in my recollection of my roughly six weeks in jail on this charge: that the same judge set a $10,000 bond, in an unrelated case, for a man accused of rape. That comparison is flagged here as my own claim — it is not independently sourced or docket-verified in the material available to me, and it should be read that way, not as an established fact. But it is worth including precisely because of how it is flagged, not despite it: the honest posture toward a claim like this is neither to suppress it because it cannot be verified, nor to present it as settled because it is damning. It sits in the historical record as something I say happened, worth investigating further, not yet worth citing as proof of anything beyond my own perception of the stark disparity in how pretrial liberty was priced in Lafayette County. Setting a $10,000 bond for a crime involving direct physical violence while imposing a $150,000 bond for a non-violent charge resting on a demonstrably flawed timeline underscores why the initial appearance felt less like a neutral judicial proceeding and more like an enforcement mechanism designed to keep me confined.
