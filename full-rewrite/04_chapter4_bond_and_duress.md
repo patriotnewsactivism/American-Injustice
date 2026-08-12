@@ -62,7 +62,7 @@ Here is the honest accounting of that list. **These figures come from newspaper 
 
 But hold the top and bottom of it together, because the gap does not need any theory to be strange. **A man accused of murdering his wife was given a bond one-third lower than mine.** And mine was set on a charge whose central allegation a receipt in my pocket made impossible.
 
-There is one more thing about that murder bond, and it belongs here because it is a moment where I was wrong out loud and got corrected in real time. When I first saw the article, I assumed it was Judge Bell — by then I assumed most things were Judge Bell. I called someone at the court to check. She told me, plainly, that it was not Bell, and it was not another judge I had guessed at either. It was **Judge Mickey Avent**.
+There is one more thing about that murder bond, and it belongs here because it is a moment where I was wrong out loud and got corrected in real time. When I first saw the article, I assumed it was Judge Bell — by then I assumed most things were Judge Bell. I called someone at the court to check. She told me, plainly, that it was not Bell, and it was not another judge I had guessed at either. It was **Judge Mickey Avant**.
 
 I said, on the recording, *"I'm shocked."* And I was, because the number cut against the story I had been telling myself about which judge was the problem.
 
