@@ -116,7 +116,49 @@ Two written reports, by two officers, describing three refusals and a command to
 
 Here is the discipline I owe you, and it costs me the punchline. **I have not put those two reports side by side with that audio in these pages, because neither report is in the evidence archive this book was built from.** What I have is my own testimony, under oath, in November 2021, describing what they say and what the tape does not. That is a good deal more than an allegation — it was given on the record, under penalty of perjury, with the recording playing in the courtroom and the State free to contradict it — and it is still not the same thing as a document you can check. If Dixon's report surfaces, and the second officer's, this becomes the most concrete provable falsehood in nine years of my life. Until then it is sworn testimony about a document, and I am labeling it that way.
 
+**And then Dixon took the stand himself.**
+
+I did not know, when I wrote the paragraphs above, that the cross-examination of the arresting deputy was sitting in the same batch of recovered audio. It is. And he gave it up:
+
+> *"You were telling him to move, right?"* — *"Yes."*
+>
+> *"...You weren't telling him to stand still. **Did you ever say stand still?**"* — **"No."**
+>
+> *"**Did you ever tell him to drop whatever was in his hands?**"* — **"No."**
+
+That is the officer. Not me describing his report. Him, under oath, confirming he never told me to stand still and never told me to drop what I was holding — the two commands the paperwork has him giving.
+
+What I was holding was a phone that was recording.
+
+My lawyer put the legal consequence in the closing, and it is the cleanest statement of this whole case anyone has ever made on my behalf:
+
+> *"There has to be some intent to resist arrest. This is an intentional crime. Without being told to do anything, simply moving away is not resisting arrest... he's trying to protect his electronic gear, trying to protect the recording that shows he was never given these instructions."*
+
+Protecting the recording that proves the instruction was never given, and being charged with resisting for protecting it. That is the whole machine in one sentence.
+
+**Underneath all of it was a parking space.** The lot is county-owned. On cross, my lawyer asked a supervising officer whether any ordinance made that spot off limits to the public. What came back was custom, not law — that common sense tells you it is for deputies, that everybody pretty much knows. So he asked again, three ways:
+
+> *"Is it legal for Matt to park there? Is he breaking a law when he parks in that spot? Is there an ordinance which would have the effect of law that says the public cannot park in those spots?"*
+
+**No ordinance was ever named.** The witness's own suggestion was that they would probably put up a couple more signs.
+
+The sign that was there read *Reserved for Sheriff's Dept.* And the building it sits in front of is both the jail and the Sheriff's Department. My lawyer made the point in one move: someone coming to bond a relative out reads that sign and knows it is not for them — but a man who is there **to see the sheriff** reads *Reserved for Sheriff's Department* and thinks that is exactly where he belongs. Which is what I was there to do.
+
+I want to be fair about the law here rather than let that land harder than it should. Disorderly conduct in Mississippi does not turn on the parking. It turns on failing to comply with a lawful order. So the absence of a parking ordinance does not by itself make the conviction wrong. What it does is remove the ground floor: there was no offense in progress when a deputy walked up to my car, and the entire charge rests on what was said in the next ninety seconds — which is precisely the thing the reports and the recording disagree about, and precisely the thing the deputy conceded he never said.
+
 I am also not naming the second officer. The only version of his name I have comes off a machine transcription and I do not trust it enough to attach a man's surname to an accusation.
+
+**One more thing was said at that trial, and it is the single most consequential sentence anyone spoke about me in 2021.** Sheriff Joey East took the stand and was asked, in effect, what he thought of me. He answered:
+
+> *"What I have found about Matt Reardon is he's unpredictable, and he seems to be getting worse as time goes on. He seems to be believing, in my opinion, a conspiracy theory that only he believes... **Anyone that has plead guilty to a crime and believes that it was orchestrated does not make good sense to me.** So, yeah, I think he's a threat. I think he's a threat to anybody that disagrees with him."*
+
+Read that middle sentence again, because it is the thesis of this entire book stated out loud by the man on the other side of it. *Anyone that has plead guilty to a crime and believes that it was orchestrated does not make good sense to me.* I pleaded guilty in 2017 under the conditions Chapter 4 describes. I have said ever since that the case against me was built backwards. And the sheriff of the county told a court, under oath, that continuing to say so is itself evidence that a man is not stable.
+
+That was November 4, 2021.
+
+On December 7, 2021 — thirty-three days later — the same man signed an affidavit seeking my involuntary psychiatric commitment.
+
+I said in the next chapter, and I say again here, that nothing establishes East knew about the phone call I made the day before he signed it. That is still true. But I no longer have to guess at what he thought of me before he signed, or reconstruct it after the fact from the timing. **He put it on the record himself, five weeks early, and gave his reason: that I would not stop saying I had been framed.**
 
 One last thing from that morning, because the State had a theory about why I kept turning up at the Sheriff's Department at all — that I was there, in the prosecution's framing, to ambush somebody. The answer I gave was mundane and true: I had not seen my daughter in roughly twelve months. She was six. I was going to the sheriff because I had run out of other doors. Sheriff East, on the stand, confirmed he had followed up — that he had reached her mother, that the child was fine, and that her mother said she was doing what child services told her and waiting on the court.
 
