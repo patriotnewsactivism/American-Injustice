@@ -48,9 +48,17 @@ Two sources, a month apart, one of them the judge himself.
 
 **His name is Chris Childers, and he was a Justice Court judge in Union County.**
 
-I went through several judges in that Justice Court ordeal, and it is worth laying the chain out in order, because it is the clearest illustration in this book of how a case gets moved.
+I went through several judges in that Justice Court ordeal, and it is worth laying the chain out in order, because it is the clearest illustration in this book of how a case gets moved — and because the ordinary explanation covers more of it than I used to allow.
 
-Circuit Judge John Kelly Luther assigned my Justice Court cases to **Judge David Garrison** — also of Union County. Garrison came to Lafayette County on August 2, 2021, read the file, and did something no one in this story had done before: he concluded I needed a lawyer, and reset the cases to August 30 so I could get one.
+It started with the two Justice Court judges Lafayette County actually has: **Johnny Wayne McClarty** and **Mickey Avant**. I could not tell you today which of them had my cases first. What I can tell you is that **both of them recused.** One of those recusals is on a recording in this archive — a judge stating from the bench that he was stepping aside because I had been posting about him and a court clerk on YouTube. I do not know which of the two he was, and I am not going to guess.
+
+That left the local bench empty. And when that happens, somebody has to appoint a judge from somewhere else.
+
+That somebody was **Circuit Judge John Kelly Luther** — and I want to be precise about his role here, because I have been loose about it and it matters. **Luther never presided over a single one of my Justice Court cases.** He is the senior circuit judge. When every Justice Court judge in a county has recused, appointing a replacement is his job. It is the mechanism working, not the mechanism being abused.
+
+I have real complaints about John Kelly Luther, and they are in Chapters 8 and 14 — the post-conviction denial, the case that moved onto his own circuit docket twice. Those are separate, and I am not going to let them bleed into this. Here, he did the administrative thing the rules told him to do.
+
+What he did was appoint **Judge David Garrison** — of **Union County**. Garrison came to Lafayette County on August 2, 2021, read the file, and did something no one in this story had done before: he concluded I needed a lawyer, and reset the cases to August 30 so I could get one.
 
 Nine days later he took himself off the case. His written order of recusal says why, and I am going to quote it, because it is the document this book spent years looking for:
 
@@ -74,7 +82,9 @@ I am not saying Garrison did that on purpose. And I am not saying he should have
 
 But there is no mechanism anywhere in that process for me to answer it, and there never was. The pool got poisoned by a document I could not see, for a reason I could not contest, and the only thing that made it into the record was somebody's account of me.
 
-So Lafayette County brought in Chris Childers, from Union County, and Childers is the man who tried me on November 4, 2021 — the man who said *"I believe Union County has the same type of fee to drop a charge,"* the man who convicted me on every charge the Sheriff's Department brought and acquitted me on every charge Crowder brought.
+So a fourth judge was picked: **Chris Childers**, also from Union County. And Childers is the man who tried me on November 4, 2021 — the man who said *"I believe Union County has the same type of fee to drop a charge,"* the man who convicted me on every charge the Sheriff's Department brought and acquitted me on every charge Crowder brought.
+
+Both replacements came from the same place. Garrison from Union County, then Childers from Union County. I have my own view about Union County and what it has meant in my life, and I am going to keep it where it belongs — as my view, stated as such, not dressed up as a finding. What is documented, and what a reader can weigh without taking my word for anything, is the pattern itself: when Lafayette County's own bench could no longer hear my cases, the replacements came twice from the same neighbouring county.
 
 One caution about the name, because I have been strict about this everywhere else. **I know it was Childers because I stood in front of him.** I have not put a docket sheet or an assignment order in front of you, and until I do, that identification is my own — corroborated by the Union County remark on the audio and by the fact that a judge from another county had to be found at all, but mine. If a docket says otherwise, the docket wins.
 
