@@ -42,35 +42,37 @@ PART IV: VINDICATION (2023–2025)
 23. Osteen Lied Under Oath [x]
 24. The Long Fight for Vacatur (2024) [x]
 25. Full Vacatur (Jan 21 2025) [x]
-26. Reardon v. State — The Reversal (Feb 2026) [x]
-26A. Layton, Utah (Feb 1 – Apr 25 2025) [x] — **ADDED 2026-08-12. 4,197 words.**
-    Numbered 26A *only* to avoid renumbering Ch.27–37 and breaking the cross-references already
-    written into their prose. Chronologically it sits between Ch.25 (vacatur, Jan 21 2025) and
-    Ch.27 (the BOLO, Jun 23 2025); Ch.26 is out of sequence already, being the Feb 2026 appellate
-    decision. **In the nine-Part structure this chapter is the whole of Part 7.**
-    **RENUMBER IN ONE MECHANICAL PASS AT FINAL ASSEMBLY** — there is a drafting note at the top of
-    the file to delete at the same time.
-    Sourced to ledger rows **P0346–P0358** (the Layton federal case, read directly 2026-08-09) plus
-    **P0498–P0503**. Both emails are verbatim court exhibits; everything else is pleaded, never
-    served, never answered, never adjudicated, and voluntarily dismissed — the chapter says so
-    repeatedly and ends on it.
+26. Layton, Utah (Feb 1 – Apr 25 2025) [x] — was 26A, RENUMBERED 2026-08-15 final assembly pass.
 
 PART V: THE WIDENING WAR (2025–2026)
-(reordered 2026-07-31 to keep the federal case one continuous track before switching fronts)
+(reordered 2026-07-31 to keep the federal case one continuous track before switching fronts;
+Reardon v. State reversal reinserted here 2026-08-15 in its correct chronological slot)
 27. The BOLO — Two Months Before [x]
 28. Lafayette — August 25 [x]
-29. Trial and Verdict [x] (moved up from slot 33 -- federal case track)
-30. The New Orleans Assault [x] (was slot 29)
-31. The Records Cover-Up [x] (was slot 30)
-32. Retaliatory Arrest in an Ice Storm [x] (was slot 31)
-33. The Union County Thread [x] (was slot 32)
-34. Reardon v. Osteen — The Objections [x]
-35. Sentencing [x]
+29. Trial and Verdict [x]
+30. The New Orleans Assault [x]
+31. The Records Cover-Up [x]
+32. Retaliatory Arrest in an Ice Storm [x]
+33. Reardon v. State — The Reversal (Feb 24 2026) [x] — was 26, RENUMBERED 2026-08-15 to its
+    correct chronological slot between the ice-storm arrest (Jan 28 2026) and the Union County
+    thread (starts April 15 2026). Completes the Busby 3-way contradiction (2024 letter / 2025
+    affidavit / 2026 reversal).
+34. The Union County Thread [x] (was 33)
+35. Reardon v. Osteen — The Objections [x] (was 34)
+36. Sentencing [x] (was 35)
 
 PART VI: SYSTEMIC ANALYSIS
-36. The Financial Warfare of Constitutional Litigation [x]
+37. The Financial Warfare of Constitutional Litigation [x] (was 36)
 
 EPILOGUE — The Fight Continues [x]
+
+---
+RENUMBERING PASS 2026-08-15 (final assembly, per the drafting note left in the old 26A file):
+26A (Layton) -> 26. Old 26 (Reversal) -> 33, moved to its correct chronological slot. Old
+33/34/35/36 (Union County / Osteen Objections / Sentencing / Financial Warfare) -> 34/35/36/37.
+All in-file "Chapter N" cross-references across every chapter file remapped in the same pass
+(single-lookup substitution, not sequential, to avoid double-remapping collisions). Files
+physically renamed on disk + in GitHub to match. Numbering above is now final/canonical.
 
 ---
 PROGRESS LOG
