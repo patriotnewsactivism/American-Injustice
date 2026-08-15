@@ -54,6 +54,4 @@ It took the MacArthur Justice Center — a nationally recognized civil rights li
 
 None of this is meant to overstate what that contrast proves. It does not mean my earlier pro se filings were meritless, and it does not mean every properly represented petition succeeds where an unrepresented one fails — represented litigants lose constantly, and pro se litigants occasionally win. What it does illustrate, cleanly, is the structural reality underlying nearly every chapter in Parts II and III: that access to competent counsel is not a minor procedural convenience in the American legal system, but frequently the entire difference between a documented grievance going nowhere and that same grievance producing an actual remedy — a reality that falls hardest, as it did on me for years, on people who cannot afford to hire it and lack the institutional connections to attract it pro bono until their case has already generated enough public attention or enough accumulated harm to draw an organization like MacArthur's notice.
 
-The next chapter covers what Howard's petition produced: on January 21, 2025, a Mississippi court vacated the 2022 conviction and its associated sentence in full.
-
----SHA---: 1bba2051070ef797f21241f36f2bed682ce47156
+The next chapter covers what Howard's petition produced: on January 21, 2025, a Mississippi court vacated the illegally long sentence from the July 2024 revocation and ordered my release — a real and important outcome, but a narrower one than I first understood it to be, corrected plainly in the next chapter.
