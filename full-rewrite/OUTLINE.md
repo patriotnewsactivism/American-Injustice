@@ -8,10 +8,27 @@ is now canonical -- use it going forward, ignore any earlier draft numbering.
 
 STATUS KEY: [ ] not started  [x] done/pushed
 
-PROLOGUE — The First Domino [x]
+PROLOGUE — Camp Devil Dog [x] — **RESTRUCTURED 2026-08-15 per Don.** The prologue is now the
+Marine Corps origin ONLY (Parris Island -> Camp Devil Dog -> Lance Cpl. Bradley Foust -> the
+"training accident" relabel -> the 2011 discharge -> the 2017 FOIA and the SOP change), closing on
+the evidentiary-method and dual-thesis paragraphs and handing off to Lydia. **It ends after the
+Marine Corps.** The May 1 2017 Pruitt arrest scene on the square, and the May 20 receipt / dual-
+thesis block that followed it, were MOVED OUT into Ch.1 — they are 2016–2017 material.
+Prologue is now ~1,670 words (was ~5,000).
 
-PART I: THE ORIGIN (2016–2017)
-1. The Flag Petition [x]
+PART I: THE ORIGIN (2014–2017)
+1. Lydia, and the Flag Petition [x] — **RESTRUCTURED 2026-08-15 per Don.** Now opens with
+   **Lydia born August 19, 2014, eleven weeks early at 25 weeks, one pound nine ounces, to Phyllis
+   Marie Crowder**, then the breakup, then **2016 — Andy Arant retained, Rhea Tannehill opposing**,
+   which is where the Tannehill name enters the book. The flag petition follows after a section
+   break, then the material moved down from the prologue. **~6,900 words — too long, and carrying
+   two engines.**
+   **OPEN QUESTION FOR DON (he raised it, I recommend SPLIT):** keep the Change.org petition in
+   this chapter, or make it its own? Recommendation is to split at the `---` seam already in the
+   file: **Ch.1 = the custody origin (2014–2016)**, **Ch.2 = the flag petition and the May 2017
+   arrest**. Reason: they are two different causal chains — a private custody fight and a public
+   activism campaign — and the book's thesis depends on keeping straight which grievance produced
+   which retaliation. Splitting requires renumbering 2–37 again; NOT done unilaterally.
 2. A City Hall Suppressed (incl. Frank & Marlee's boycott, May 20 rifle purchase) [x]
 3. The Setup — Twelve Days (the 12-day impossibility, May 26 ambush arrest) [x]
 4. $150,000, and an Order Signed Under Duress (Judge Bell, Horan, 2017-CV-217) [x]
@@ -64,7 +81,8 @@ Reardon v. State reversal reinserted here 2026-08-15 in its correct chronologica
 PART VI: SYSTEMIC ANALYSIS
 37. The Financial Warfare of Constitutional Litigation [x] (was 36)
 
-EPILOGUE — The Fight Continues [x]
+EPILOGUE — The Fight Continues [x] — **file renamed 37_epilogue.md -> 38_epilogue.md on
+2026-08-15: the renumber pass had left TWO files numbered 37** (it collided with Financial Warfare).
 
 ---
 RENUMBERING PASS 2026-08-15 (final assembly, per the drafting note left in the old 26A file):
