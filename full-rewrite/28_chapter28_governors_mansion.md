@@ -32,21 +32,31 @@ Here is the personal part, and it is the reason I picked *that* sidewalk and not
 
 In 2023, sitting in the Galveston County Jail on the felony DWI charge that Chapters 22 and 23 take apart, I was extradited to Mississippi on a probation-revocation hold — **about two weeks before I was due to go to trial in Galveston.** The instrument that moved me was a governor's warrant, bearing the **seal of the State of Mississippi**, signed by the governor and countersigned by the Secretary of State, whose whole legal function is to certify that the supporting papers from the demanding state are **authentic**.
 
-My allegation is that the papers it certified were not.
+I have the document. It is one page, signed at the Capitol in Jackson on **November 9, 2023**, addressed to Governor Greg Abbott of Texas, with the **Great Seal of the State of Mississippi** on it. And I am going to do something here that I would like the State of Mississippi to try once, which is to read a document out loud and then correct my own account of it where the two do not match.
 
-By my reading of that document, it recited a **cause number that does not exist**. It recited a **charge that does not exist**. And it stated that I was on probation for **possession of a controlled substance** — a crime I have never in my life been charged with, let alone convicted of. Anyone can check that last one against my record in an afternoon.
+Here is the operative sentence:
 
-And then there is the sentence that I think ends the argument by itself. The warrant recites, in the standard form language:
+> *"I, Tate Reeves, Governor of the State of Mississippi, do hereby certify that **the annexed papers are duly authenticated under Mississippi law** and present that MATTHEW OLIVER REARDON... stands charged in CITY OF OXFORD, COUNTY OF LAFAYETTE, MISSISSIPPI, with the crime of VIOLATION OF THE TERMS OF HIS PROBATION IN CONNECTION WITH A CONVICTION in Cause No: LK22-358..."*
 
-> *"...it has been represented to me that the fugitive was in Mississippi at the time of the alleged offense... and thereafter fled from Mississippi and has taken refuge in your state and is presently in the custody of the Galveston County Jail."*
+And here is the one I have spent two years describing:
 
-Read that against the actual facts. **The alleged offense was a DWI committed in Galveston, Texas.** So the document asserts that I was *in Mississippi* at the moment of an offense committed *in Texas*; that I then *fled Mississippi* and *took refuge in Texas*; and that I was, at that same time, already *in the Galveston County Jail*.
+> *"It has been represented to me that the fugitive **was in Mississippi at the time of the alleged offense(s), and thereafter fled from Mississippi and has taken refuge in your State** and is presently in the custody of the GALVESTON COUNTY JAIL, 5700 AVENUE, GALVESTON, TEXAS 77551."*
 
-I have made the joke on camera and I will make it here: I teleported. I was in two places at once, and then I fled to the place I was already locked up in.
+I have said on camera, more than once, that this warrant carried a fictitious cause number, a fictitious charge, and a recital that I was on probation for possession of a controlled substance.
 
-That is not a close call about who to believe. That is a document contradicting itself inside a single sentence — and a governor put a seal on it and a Secretary of State certified it as authenticated under Mississippi law. Nobody read it. Somebody rubber-stamped it, and it cost me a trial I was two weeks from having.
+**Having the page in front of me: it does not say those things.** The cause number on it is LK22-358, which is an ordinary-looking Lafayette County 2022 number. The charge on it is violation of probation, which is what I was actually taken back for. And **there is no mention of a controlled substance anywhere on it.** If that language exists it is in the *annexed papers* — the ones this warrant certifies and does not reproduce — and I do not have those. I am leaving that correction in the text rather than quietly deleting three sentences, because a book that demands the state show its work does not get to hide its own.
 
-**One honest caveat, and it matters.** Everything in this section is my reading of that warrant, described from memory and from the copy I have worked from. **This book does not reproduce the document itself, and until it does, this is my account of what it says rather than the thing itself speaking.** That is a distinction I have demanded of the State of Mississippi for nine years and I am not going to quietly drop it when it is convenient for me. Get the warrant, and this becomes the strongest single page in the book. Until then it is an allegation with a very specific, very checkable shape.
+**What the document does support is narrower and, I think, worse.**
+
+Start with what the certification actually is. Tate Reeves did not certify that I was guilty of anything. He certified **that the annexed papers were duly authenticated** — and Michael Watson, the Secretary of State, countersigned it, and the Great Seal went on it. That is two statewide constitutional officers vouching for the authenticity of a packet of documents whose contents do not appear anywhere on the page they signed.
+
+Then read the fugitive recital against what actually happened. I did not flee anywhere. I walked out of Mississippi custody on August 1, 2023, drove to Texas in the open with a camera running, and was arrested there ten days later. By the time this warrant was signed I had been sitting in the Galveston County Jail — **at the address printed on the warrant itself** — for three months. There is no flight in this story. There is no refuge. Somebody filled in the blanks on a form built for a man who runs, and two officials put a seal on it without anyone noticing that the form does not describe the person it names.
+
+That is the finding, and it is smaller than the one I have been making and harder to wave off. Not *the state forged a document*. **The state used a template, nobody read it, and the Great Seal of Mississippi went on a sentence that isn't true about me.**
+
+One more line worth sitting with. The warrant directs that I be delivered to a specific person, by name: **Sheriff Joey East, Lafayette County Sheriff's Department.** After everything in the preceding twenty-seven chapters, the instrument that took me out of Texas ends by handing me back to him personally.
+
+**What I still need, and do not have:** the annexed papers. That is where a fictitious charge or a controlled-substance recital would live if it lives anywhere, and until I produce them I am not going to keep saying they exist.
 
 Both of those things — a fee on the speech of the homeless, and a seal on a warrant nobody read — are the same act performed at different altitudes. Paperwork used as a weapon, by people who never expected anyone to actually read the paperwork.
 
