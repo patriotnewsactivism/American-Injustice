@@ -65,21 +65,31 @@ PART V: THE WIDENING WAR (2025–2026)
 (reordered 2026-07-31 to keep the federal case one continuous track before switching fronts;
 Reardon v. State reversal reinserted here 2026-08-15 in its correct chronological slot)
 27. The BOLO — Two Months Before [x]
-28. Lafayette — August 25 [x]
-29. Trial and Verdict [x]
-30. The New Orleans Assault [x]
-31. The Records Cover-Up [x]
-32. Retaliatory Arrest in an Ice Storm [x]
-33. Reardon v. State — The Reversal (Feb 24 2026) [x] — was 26, RENUMBERED 2026-08-15 to its
+28. The Governor's Mansion (July 3 2025) [x] — **NEW, ADDED 2026-08-16 per Don.** ~1,750 words.
+    The Jackson protest and the Mississippi Highway Patrol trooper who charged him, knocked his
+    phone off the gimbal and stepped on it, refused to identify himself, and was physically
+    restrained by three colleagues while trying to get back to him. Sourced to ledger row **P0548**
+    (his own live audio + prepared statement, from the July 10 2025 interview transcript), with the
+    attorney analysis at **P0550**. **The trooper is UNNAMED — he refused, and nobody made him. Do
+    not guess.** No prosecution, no civil suit, no finding by anyone: the chapter says so.
+    **OPEN: the exact wording of the protest sign is not in the source record — there is a marked
+    DRAFTING NOTE in the file for Don to supply it, and that note must be deleted once he does.**
+    Chapters 29-38 and the epilogue were renumbered up by one to make room (was 28-37 + 38).
+29. Lafayette — August 25 [x]
+30. Trial and Verdict [x]
+31. The New Orleans Assault [x]
+32. The Records Cover-Up [x]
+33. Retaliatory Arrest in an Ice Storm [x]
+34. Reardon v. State — The Reversal (Feb 24 2026) [x] — was 26, RENUMBERED 2026-08-15 to its
     correct chronological slot between the ice-storm arrest (Jan 28 2026) and the Union County
     thread (starts April 15 2026). Completes the Busby 3-way contradiction (2024 letter / 2025
     affidavit / 2026 reversal).
-34. The Union County Thread [x] (was 33)
-35. Reardon v. Osteen — The Objections [x] (was 34)
-36. Sentencing [x] (was 35)
+35. The Union County Thread [x] (was 33)
+36. Reardon v. Osteen — The Objections [x] (was 34)
+37. Sentencing [x] (was 35)
 
 PART VI: SYSTEMIC ANALYSIS
-37. The Financial Warfare of Constitutional Litigation [x] (was 36)
+38. The Financial Warfare of Constitutional Litigation [x] (was 36)
 
 EPILOGUE — The Fight Continues [x] — **file renamed 37_epilogue.md -> 38_epilogue.md on
 2026-08-15: the renumber pass had left TWO files numbered 37** (it collided with Financial Warfare).

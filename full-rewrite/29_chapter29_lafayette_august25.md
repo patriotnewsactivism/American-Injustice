@@ -1,4 +1,4 @@
-CHAPTER 28 — LAFAYETTE: AUGUST 25
+CHAPTER 29 — LAFAYETTE: AUGUST 25
 
 On August 25, 2025, I was arrested at the John M. Shaw United States Courthouse in Lafayette, Louisiana — the same building where the two-month surveillance pattern detailed in the previous chapter had begun. I was charged with violating 41 CFR § 102-74.390(b), a federal regulation governing conduct on General Services Administration property, arrested by Deputy U.S. Marshal Hayden Nugent. It was my fourth documented visit to that courthouse.
 

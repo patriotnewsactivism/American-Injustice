@@ -1,4 +1,4 @@
-CHAPTER 33 — REARDON V. STATE: THE REVERSAL
+CHAPTER 34 — REARDON V. STATE: THE REVERSAL
 
 On February 24, 2026, the Mississippi Court of Appeals decided Reardon v. State, case number 2024-KM-00839-COA. I won. The court reversed a June 28, 2024 dismissal that had gone against me, in a ruling where the State's own counsel on appeal was attorney Bela J. Chain III.
 

@@ -1,4 +1,4 @@
-CHAPTER 35 — REARDON V. OSTEEN: THE OBJECTIONS
+CHAPTER 36 — REARDON V. OSTEEN: THE OBJECTIONS
 
 On July 14, 2026, a federal magistrate judge entered a Report and Recommendation in Reardon v. Osteen — the consolidated federal civil rights lawsuit, filed in the Southern District of Texas before Judge Jeffrey V. Brown and referred to Magistrate Judge Andrew M. Edison, that names the Galveston officials from Chapter 23's affidavit contradiction alongside Circuit Clerk Jeff Busby and Deputy Kandi Beavers from Mississippi as co-defendants in a single pro se action. That R&R resolved seven separate motions at once, and it marks the moment where a federal court, for the first time in this entire eight-year saga, formally engaged with — and in one specific instance, validated — the credibility findings built chapter by chapter since Part I.
 

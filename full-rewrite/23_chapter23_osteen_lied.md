@@ -106,7 +106,7 @@ Campagna's motion notes, pleaded on information and belief, that the City of Gal
 
 **The State of Texas never answered any of it.** There was no Franks hearing. Osteen never took that stand. Instead, as the next chapters set out, the case was disposed of — and **Magistrate Judge Andrew M. Edison** would later find that avoiding exactly this hearing is why.
 
-The same judge recommended throwing my federal lawsuit out, and the district court did. Chapter 35 is that story, and I am not going to pretend the two rulings came from different men.
+The same judge recommended throwing my federal lawsuit out, and the district court did. Chapter 36 is that story, and I am not going to pretend the two rulings came from different men.
 
 I want to say one thing plainly, because this book has been hard on a great many lawyers. **Ben Campagna did his job.** He read every page, he watched every second of the footage, he pulled the lab report and the case report and the revocation transcript, and he built a document so specific that the State's only viable move was to make the case go away rather than put its officer under oath. That is what a defense attorney is supposed to be. I had gone seven years without one.
 
@@ -154,4 +154,4 @@ When all these documented elements are brought together—Officer Osteen's on-ca
 
 A federal magistrate judge would later reach a version of that same conclusion himself, in writing, in the civil case that grew out of this arrest. Reviewing the same contradiction laid out above—Osteen's affidavit versus his own later testimony before Judge Tollison—Magistrate Judge Andrew M. Edison wrote in his July 14, 2026 Report and Recommendation: "I take no pleasure in this result. The record shows that Osteen lied to Judge Tollison. That is disturbing." A sitting federal judicial officer, reviewing the identical documents examined in this chapter, used the word "lied." Not "contradicted himself." Not "was inconsistent." Lied.
 
-What that same federal judge did next with his own finding—and what a different federal judge did with the case after that—is its own story, and Chapter 35 tells it in full, including the doctrine that let the officer who was found to have lied walk away from the case anyway.
+What that same federal judge did next with his own finding—and what a different federal judge did with the case after that—is its own story, and Chapter 36 tells it in full, including the doctrine that let the officer who was found to have lied walk away from the case anyway.

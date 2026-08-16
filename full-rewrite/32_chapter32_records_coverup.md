@@ -1,4 +1,4 @@
-CHAPTER 31 — THE RECORDS COVER-UP
+CHAPTER 32 — THE RECORDS COVER-UP
 
 On November 17, 2025, five days after Jerome Ard struck me with a metal flashlight at New Orleans City Hall, I filed a public records request through the city's NextRequest system, seeking footage and documentation of the incident. It was assigned request number 25-21253. On December 10, 2025, the city denied it.
 
@@ -26,9 +26,9 @@ That scoping decision deserves its own scrutiny. An internal affairs unit invest
 The next chapter follows what happened roughly seven weeks after the denial of this public records request, when I — during an ice storm, at a Red Cross warming shelter, in a different city entirely — was taken back into custody on the charge the denial had helped shield from scrutiny.
 
 ===== FILE: 32_chapter32_ice_storm_arrest.md =====
-CHAPTER 32 — RETALIATORY ARREST IN AN ICE STORM
+CHAPTER 33 — RETALIATORY ARREST IN AN ICE STORM
 
-On January 28, 2026, I was taken into custody in Lafayette, Louisiana — not New Orleans, where the underlying charge originated, but Lafayette, where I had gone to escape a severe winter storm and was sheltering at a Red Cross warming location. I was held for approximately six days before being extradited to New Orleans, where I was booked at the NOPD facility at 2800 Perdido Street by Officer McIver, badge number 00625. The charge: simple battery — the same charge, arising from the same November 12, 2025 flashlight assault detailed in Chapter 30, in which I was the person struck.
+On January 28, 2026, I was taken into custody in Lafayette, Louisiana — not New Orleans, where the underlying charge originated, but Lafayette, where I had gone to escape a severe winter storm and was sheltering at a Red Cross warming location. I was held for approximately six days before being extradited to New Orleans, where I was booked at the NOPD facility at 2800 Perdido Street by Officer McIver, badge number 00625. The charge: simple battery — the same charge, arising from the same November 12, 2025 flashlight assault detailed in Chapter 31, in which I was the person struck.
 
 To understand the full scene-level reality of that arrest on January 28, 2026, one must picture the conditions across southern Louisiana at that moment. A rare, severe arctic freeze had swept through the Gulf Coast region, coating highways in sheets of black ice, dropping temperatures far below freezing, and knocking out power across multiple parishes. Roads were hazardous, emergency management agencies urged citizens to stay off the streets, and local authorities opened emergency shelters to prevent hypothermia among vulnerable populations. I had traveled west to Lafayette seeking safety from the extreme weather, finding refuge inside a Red Cross warming facility set up to provide basic shelter, blankets, and hot liquids to displaced travelers and residents. The atmosphere inside the warming shelter was quiet, filled with citizens trying to survive an environmental crisis. 
 
