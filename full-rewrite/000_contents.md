@@ -11,6 +11,7 @@
 
 <div class="toc">
 <h1>Contents</h1>
+<div class="e f"><span class="n"></span><span class="t">A Note from the Author</span></div>
 <div class="e f"><span class="n"></span><span class="t">Prologue — The First Domino</span></div>
 <div class="part">PART I · THE ORIGIN (2014–2017)</div>
 <div class="e"><span class="n">1</span><span class="t">Lydia, and the Flag Petition</span></div>
