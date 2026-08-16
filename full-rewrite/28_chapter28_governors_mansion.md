@@ -2,7 +2,17 @@ CHAPTER 28 — THE GOVERNOR'S MANSION
 
 Six weeks after the BOLO, and seven weeks before Lafayette, I stood on a public sidewalk in Jackson, Mississippi, outside the Governor's Mansion, holding a sign.
 
-It was **July 3, 2025** — the day before Independence Day, which I would like to tell you was deliberate and which I am fairly sure was. I was livestreaming. I was protesting legislation coming out of that building, and the way I saw it, a man with a camera standing on a public sidewalk outside the house where those laws get signed is the most ordinary thing in American civic life. That is what sidewalks outside government buildings are *for*.
+It was **July 3, 2025** — the day before Independence Day, which I would like to tell you was deliberate and which I am fairly sure was. I was livestreaming. And I should say what I was actually there about, because "protesting" is a word that lets a reader skip past the substance.
+
+**Two days earlier, on July 1, a batch of new Mississippi laws had taken effect.** One of them required a person to pay **twenty-five dollars a day for a permit** — to panhandle. I had spent that morning talking about it with **Jeff Gray**, another auditor who works this same ground.
+
+Think about what that statute is. The Supreme Court has held that **panhandling is protected First Amendment activity** — asking a stranger for help is speech. Mississippi's answer was not to ban it outright, because it cannot. Mississippi's answer was to put a **twenty-five-dollar-a-day price tag on it**, and charge that price to the one category of person in the state guaranteed not to have twenty-five dollars. A right you have to rent by the day, at a rate calibrated to the people least able to pay it, is not a right. It is a permission slip with a fee schedule.
+
+Tate Reeves signed it.
+
+So that is the first reason I was on that sidewalk. There is a second one, and it is personal, and I will come to it — but I want the record to show that I did not drive to Jackson because of my own case. I drove there because of a law about homeless people.
+
+I called the stream **"National Fuck the Governor Day."** I am putting that in this book in my own words rather than letting someone else put it in theirs. It is exactly the register you think it is, and it tells you something true about how I was operating in the summer of 2025.
 
 I want to be straightforward about the sign, because everything in this chapter turns on it and because being cute about it would be dishonest.
 
@@ -13,6 +23,32 @@ Three words. No qualifier, no argument, no policy citation — just the plainest
 There is a line here, and it is not a subtle one. *Kill the governor* is a threat and a crime and would have gotten me arrested by lunchtime in any state in the union. *Fuck the governor* is an opinion. In 1971 the Supreme Court decided *Cohen v. California* over a jacket that said **Fuck the Draft**, worn into a Los Angeles courthouse, and Justice Harlan wrote the sentence that has been doing the work in cases like mine for fifty-five years: *one man's vulgarity is another's lyric.* The state does not get to pick the register in which you are permitted to object to it.
 
 That is what I was holding. That is all I was holding.
+
+## The second reason
+
+Here is the personal part, and it is the reason I picked *that* sidewalk and not some other one.
+
+**Tate Reeves signed the governor's warrant that took me out of Texas.**
+
+In 2023, sitting in the Galveston County Jail on the felony DWI charge that Chapters 22 and 23 take apart, I was extradited to Mississippi on a probation-revocation hold — **about two weeks before I was due to go to trial in Galveston.** The instrument that moved me was a governor's warrant, bearing the **seal of the State of Mississippi**, signed by the governor and countersigned by the Secretary of State, whose whole legal function is to certify that the supporting papers from the demanding state are **authentic**.
+
+My allegation is that the papers it certified were not.
+
+By my reading of that document, it recited a **cause number that does not exist**. It recited a **charge that does not exist**. And it stated that I was on probation for **possession of a controlled substance** — a crime I have never in my life been charged with, let alone convicted of. Anyone can check that last one against my record in an afternoon.
+
+And then there is the sentence that I think ends the argument by itself. The warrant recites, in the standard form language:
+
+> *"...it has been represented to me that the fugitive was in Mississippi at the time of the alleged offense... and thereafter fled from Mississippi and has taken refuge in your state and is presently in the custody of the Galveston County Jail."*
+
+Read that against the actual facts. **The alleged offense was a DWI committed in Galveston, Texas.** So the document asserts that I was *in Mississippi* at the moment of an offense committed *in Texas*; that I then *fled Mississippi* and *took refuge in Texas*; and that I was, at that same time, already *in the Galveston County Jail*.
+
+I have made the joke on camera and I will make it here: I teleported. I was in two places at once, and then I fled to the place I was already locked up in.
+
+That is not a close call about who to believe. That is a document contradicting itself inside a single sentence — and a governor put a seal on it and a Secretary of State certified it as authenticated under Mississippi law. Nobody read it. Somebody rubber-stamped it, and it cost me a trial I was two weeks from having.
+
+**One honest caveat, and it matters.** Everything in this section is my reading of that warrant, described from memory and from the copy I have worked from. **This book does not reproduce the document itself, and until it does, this is my account of what it says rather than the thing itself speaking.** That is a distinction I have demanded of the State of Mississippi for nine years and I am not going to quietly drop it when it is convenient for me. Get the warrant, and this becomes the strongest single page in the book. Until then it is an allegation with a very specific, very checkable shape.
+
+Both of those things — a fee on the speech of the homeless, and a seal on a warrant nobody read — are the same act performed at different altitudes. Paperwork used as a weapon, by people who never expected anyone to actually read the paperwork.
 
 ## What happened
 
