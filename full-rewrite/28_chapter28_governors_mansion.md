@@ -44,7 +44,21 @@ And here is the one I have spent two years describing:
 
 I have said on camera, more than once, that this warrant carried a fictitious cause number, a fictitious charge, and a recital that I was on probation for possession of a controlled substance.
 
-**Having the page in front of me: it does not say those things.** The cause number on it is LK22-358, which is an ordinary-looking Lafayette County 2022 number. The charge on it is violation of probation, which is what I was actually taken back for. And **there is no mention of a controlled substance anywhere on it.** If that language exists it is in the *annexed papers* — the ones this warrant certifies and does not reproduce — and I do not have those. I am leaving that correction in the text rather than quietly deleting three sentences, because a book that demands the state show its work does not get to hide its own.
+**Two of those three are wrong, and I am leaving the correction in the text.** The cause number on it is LK22-358, and that is the real number — it is the same one on the State's own motion to revoke. The charge on it is violation of probation, which is what I was actually taken back for. A book that demands the state show its work does not get to hide its own, so there it is: I overstated it.
+
+**The third one is not wrong. It is worse than I said.**
+
+The governor's warrant is a cover sheet. Its entire legal function is to certify **the annexed papers** — the packet from Mississippi that Texas is being asked to rely on. So I went and got one of the annexed papers.
+
+Here is the **bench warrant**, Cause No. LK22-358, signed by a Lafayette County Circuit Court judge on **August 17, 2023**, commanding the Sheriff to bring me in:
+
+> *"...to answer the charge of **Violation of Probation on the original charge of Possession of a controlled substance** filed by the District Attorney..."*
+
+**I have never been charged with possession of a controlled substance in my life.** My original charge — the one everybody in this story knows, the one the State's own motion to revoke recites in its first paragraph — was **aggravated stalking**. There is no version of my record in which those two things are confusable.
+
+So the sequence is this. A judge signed a bench warrant naming a crime I was never charged with. That warrant went into a packet. **Tate Reeves certified the packet as "duly authenticated under Mississippi law." Michael Watson, the Secretary of State, countersigned it. The Great Seal went on it.** And a Texas jail handed me over on the strength of it.
+
+Not one of them read the paper underneath the seal. That is the finding, and it is narrower and more specific than "they forged a document" — which is exactly why it is harder to argue with.
 
 **What the document does support is narrower and, I think, worse.**
 
@@ -56,7 +70,7 @@ That is the finding, and it is smaller than the one I have been making and harde
 
 One more line worth sitting with. The warrant directs that I be delivered to a specific person, by name: **Sheriff Joey East, Lafayette County Sheriff's Department.** After everything in the preceding twenty-seven chapters, the instrument that took me out of Texas ends by handing me back to him personally.
 
-**What I still need, and do not have:** the annexed papers. That is where a fictitious charge or a controlled-substance recital would live if it lives anywhere, and until I produce them I am not going to keep saying they exist.
+**What I still need, and do not have:** the rest of the annexed packet, and the September 30, 2022 Judgment itself. I have the bench warrant. I do not have everything that travelled with it.
 
 Both of those things — a fee on the speech of the homeless, and a seal on a warrant nobody read — are the same act performed at different altitudes. Paperwork used as a weapon, by people who never expected anyone to actually read the paperwork.
 
