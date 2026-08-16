@@ -4,9 +4,15 @@ Six weeks after the BOLO, and seven weeks before Lafayette, I stood on a public 
 
 It was **July 3, 2025** — the day before Independence Day, which I would like to tell you was deliberate and which I am fairly sure was. I was livestreaming. I was protesting legislation coming out of that building, and the way I saw it, a man with a camera standing on a public sidewalk outside the house where those laws get signed is the most ordinary thing in American civic life. That is what sidewalks outside government buildings are *for*.
 
-I want to be straightforward about the sign, because everything in this chapter turns on it and because being cute about it would be dishonest. **The sign was profane.** It was aimed at the governor of Mississippi and it used the kind of language that makes people wince. That was the point. A sign that everyone agrees with is not a test of anything.
+I want to be straightforward about the sign, because everything in this chapter turns on it and because being cute about it would be dishonest.
 
-*[DRAFTING NOTE — the exact wording of the sign is not in the source record I have, and I will not invent it. Don to supply.]*
+The sign said **FUCK THE GOVERNOR.**
+
+Three words. No qualifier, no argument, no policy citation — just the plainest available statement that a citizen holds a public official in contempt. I am not going to dress that up as something more dignified than it was, and I am not going to apologize for it either, because the entire point of the First Amendment is that it does not exist to protect the signs everybody likes. A sign that everyone agrees with is not a test of anything.
+
+There is a line here, and it is not a subtle one. *Kill the governor* is a threat and a crime and would have gotten me arrested by lunchtime in any state in the union. *Fuck the governor* is an opinion. In 1971 the Supreme Court decided *Cohen v. California* over a jacket that said **Fuck the Draft**, worn into a Los Angeles courthouse, and Justice Harlan wrote the sentence that has been doing the work in cases like mine for fifty-five years: *one man's vulgarity is another's lyric.* The state does not get to pick the register in which you are permitted to object to it.
+
+That is what I was holding. That is all I was holding.
 
 ## What happened
 

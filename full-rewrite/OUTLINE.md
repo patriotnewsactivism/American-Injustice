@@ -72,8 +72,9 @@ Reardon v. State reversal reinserted here 2026-08-15 in its correct chronologica
     (his own live audio + prepared statement, from the July 10 2025 interview transcript), with the
     attorney analysis at **P0550**. **The trooper is UNNAMED — he refused, and nobody made him. Do
     not guess.** No prosecution, no civil suit, no finding by anyone: the chapter says so.
-    **OPEN: the exact wording of the protest sign is not in the source record — there is a marked
-    DRAFTING NOTE in the file for Don to supply it, and that note must be deleted once he does.**
+    **CLOSED 2026-08-16: Don supplied the sign — it read "FUCK THE GOVERNOR." Filled in and the
+    drafting note deleted. The chapter now carries the Cohen v. California framing and the explicit
+    kill-the-governor / fuck-the-governor distinction.**
     Chapters 29-38 and the epilogue were renumbered up by one to make room (was 28-37 + 38).
 29. Lafayette — August 25 [x]
 30. Trial and Verdict [x]
