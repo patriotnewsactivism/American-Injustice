@@ -1,4 +1,9 @@
 # AMERICAN INJUSTICE — Full Rewrite Master Outline
+
+**RENUMBERED 2026-08-16:** Ch.1 split per Don — the May 1, 2017 Pruitt arrest is now **Chapter 2**,
+and everything from the old Ch.2 onward shifted **+1** (old 2-39 -> 3-40, epilogue 39 -> 40).
+90 in-prose "Chapter N" cross-references remapped in the same pass. **Back matter added: a legal
+analysis and a comprehensive appendix follow the epilogue (P0634).**
 Target: 80,000+ words. Layered thesis throughout: real institutional misconduct AND
 Reardon's own escalating conduct both belong, presented honestly.
 
@@ -16,56 +21,66 @@ Marine Corps.** The May 1 2017 Pruitt arrest scene on the square, and the May 20
 thesis block that followed it, were MOVED OUT into Ch.1 — they are 2016–2017 material.
 Prologue is now ~1,670 words (was ~5,000).
 
-PART I: THE ORIGIN (2014–2017)
-1. Lydia, and the Flag Petition [x] — **RESTRUCTURED 2026-08-15 per Don.** Now opens with
+PART I: THE ORIGIN (2014-2017)
+1. Lydia, and the Flag Petition [x] — **RE-SPLIT 2026-08-16 per Don (row P0634).** Opens with
    **Lydia born August 19, 2014, eleven weeks early at 25 weeks, one pound nine ounces, to Phyllis
-   Marie Crowder**, then the breakup, then **2016 — Andy Arant retained, Rhea Tannehill opposing**,
-   which is where the Tannehill name enters the book. The flag petition follows after a section
-   break, then the material moved down from the prologue. **~6,900 words — too long, and carrying
-   two engines.**
-   **OPEN QUESTION FOR DON (he raised it, I recommend SPLIT):** keep the Change.org petition in
-   this chapter, or make it its own? Recommendation is to split at the `---` seam already in the
-   file: **Ch.1 = the custody origin (2014–2016)**, **Ch.2 = the flag petition and the May 2017
-   arrest**. Reason: they are two different causal chains — a private custody fight and a public
-   activism campaign — and the book's thesis depends on keeping straight which grievance produced
-   which retaliation. Splitting requires renumbering 2–37 again; NOT done unilaterally.
-2. A City Hall Suppressed (incl. Frank & Marlee's boycott, May 20 rifle purchase) [x]
-3. The Setup — Twelve Days (the 12-day impossibility, May 26 ambush arrest) [x]
-4. $150,000, and an Order Signed Under Duress (Judge Bell, Horan, 2017-CV-217) [x]
-5. Six Weeks, and the Form That Vanished (FBI 302, Bell complaint, Dr Morris eval) [x]
+   Marie Crowder**, then the breakup, then **2016 — Andy Arant retained, Rhea Tannehill opposing**.
+   **CORRECTION LOGGED AT P0633: the 2016 custody matter never saw a courtroom.** It was settled
+   out of court by speakerphone — Reardon in an Atlanta office, Crowder in **Rhea Tannehill's
+   office** — producing the agreed order at P0432. Any passage calling it a custody *battle*,
+   *hearing* or *courtroom* must be rewritten. The flag petition follows after the `---` seam,
+   closing on the dual-thesis block and handing off to the May 1 arrest. **~4,800 words.**
+   **THE PETITION SPLIT REMAINS OPEN FOR DON.** Ch.1 still carries two engines — the custody origin
+   and the flag petition. The `---` seam at line 17 is still there and a second cut is now trivial.
+   **NOT done unilaterally**; Don directed the May 1 split only.
+2. May 1, 2017 [x] — **NEW CHAPTER, created 2026-08-16 per Don's direction (P0634): "I think the
+   may 1st Timmy pruitt arrest is important enough to have its own chapter."** Extracted whole from
+   the back of Ch.1. The Pruitt arrest on the courthouse square: the missing badge, the permit
+   demand, the badge-number question, the arrest, ~$250 bond, the footage going national.
+   **~1,900 words.** Supporting rows already logged and unusually strong: **P0616** (alone, silent,
+   public sidewalk, volunteered he was recording, no permit), **P0573** (the badge-number request as
+   the actual arrest trigger, the "seven steps", CopBlock, the administrative-leave claim — pleaded
+   on information and belief, do NOT print as fact), **P0610** (his 2020 account: *"it was not a
+   protest, it was only me"*), **P0556** (the demonstration-permit thread — the ordinance text is
+   still unobtained and is the legal heart of this chapter).
+
+3. A City Hall Suppressed (incl. Frank & Marlee's boycott, May 20 rifle purchase) [x]
+4. The Setup — Twelve Days (the 12-day impossibility, May 26 ambush arrest) [x]
+5. $150,000, and an Order Signed Under Duress (Judge Bell, Horan, 2017-CV-217) [x]
+6. Six Weeks, and the Form That Vanished (FBI 302, Bell complaint, Dr Morris eval) [x]
 
 PART II: THE CROWDER YEARS (2018–2021)
-6. A False Accusation Weaponized (Nov 2018, Det. Holladay) [x]
-7. Conviction and Contempt (Sept 2020 conviction, non-enforcement, Reardon's own arrest) [x]
-8. The Battle for Evidence (2020 PCR, Smith-Luther circuit judge swap x2, notary-fraud theory) [x]
-9. Three Years Running (CPS pattern, July 2020 home-visit recording) [x]
-10. The February 2021 DUI Setup (Beavers stop, East's contradictory testimony) [x]
-11. The Oxford U.S. Attorney's Office Confrontation (July 2021) [x]
-12. The Drone and Growing Tensions (Sept 2021) [x]
-13. The November 2021 Trial (9 charges/3 events) [x]
-14. Circuit Court Chess Game (judge-swap discovery, East blocks his car) [x]
-15. Commitment (Dec 2021, Judge Little) [x]
+7. A False Accusation Weaponized (Nov 2018, Det. Holladay) [x]
+8. Conviction and Contempt (Sept 2020 conviction, non-enforcement, Reardon's own arrest) [x]
+9. The Battle for Evidence (2020 PCR, Smith-Luther circuit judge swap x2, notary-fraud theory) [x]
+10. Three Years Running (CPS pattern, July 2020 home-visit recording) [x]
+11. The February 2021 DUI Setup (Beavers stop, East's contradictory testimony) [x]
+12. The Oxford U.S. Attorney's Office Confrontation (July 2021) [x]
+13. The Drone and Growing Tensions (Sept 2021) [x]
+14. The November 2021 Trial (9 charges/3 events) [x]
+15. Circuit Court Chess Game (judge-swap discovery, East blocks his car) [x]
+16. Commitment (Dec 2021, Judge Little) [x]
 
 PART III: THE SECOND CASE (2022)
-16. A Second Commitment and A Son Born in Confinement (Feb 2022) [x]
-17. The Federal Lawsuit (April 2022, matter #2) [x]
-18. The June 2022 Arrest — Case B, the Tannehill Case [x]
-19. The Guilty Plea and Banishment (Sept 30 2022) [x]
-20. Revocation — Beavers's Testimony (Nov 3 2022, Judge Tollison) [x]
-21. A Year in Mississippi Custody [x]
+17. A Second Commitment and A Son Born in Confinement (Feb 2022) [x]
+18. The Federal Lawsuit (April 2022, matter #2) [x]
+19. The June 2022 Arrest — Case B, the Tannehill Case [x]
+20. The Guilty Plea and Banishment (Sept 30 2022) [x]
+21. Revocation — Beavers's Testimony (Nov 3 2022, Judge Tollison) [x]
+22. A Year in Mississippi Custody [x]
 
 PART IV: VINDICATION (2023–2025)
-22. Release, and Galveston (Aug 11 2023 — seven days after the Mills complaint) [x]
-23. Osteen Lied Under Oath [x]
-24. The Long Fight for Vacatur (2024) [x]
-25. Full Vacatur (Jan 21 2025) [x]
-26. Layton, Utah (Feb 1 – Apr 25 2025) [x] — was 26A, RENUMBERED 2026-08-15 final assembly pass.
+23. Release, and Galveston (Aug 11 2023 — seven days after the Mills complaint) [x]
+24. Osteen Lied Under Oath [x]
+25. The Long Fight for Vacatur (2024) [x]
+26. Full Vacatur (Jan 21 2025) [x]
+27. Layton, Utah (Feb 1 – Apr 25 2025) [x] — was 26A, RENUMBERED 2026-08-15 final assembly pass.
 
 PART V: THE WIDENING WAR (2025–2026)
 (reordered 2026-07-31 to keep the federal case one continuous track before switching fronts;
 Reardon v. State reversal reinserted here 2026-08-15 in its correct chronological slot)
-27. The BOLO — Two Months Before [x]
-28. The Governor's Mansion (July 3 2025) [x] — **NEW, ADDED 2026-08-16 per Don.** ~1,750 words.
+28. The BOLO — Two Months Before [x]
+29. The Governor's Mansion (July 3 2025) [x] — **NEW, ADDED 2026-08-16 per Don.** ~1,750 words.
     The Jackson protest and the Mississippi Highway Patrol trooper who charged him, knocked his
     phone off the gimbal and stepped on it, refused to identify himself, and was physically
     restrained by three colleagues while trying to get back to him. Sourced to ledger row **P0548**
@@ -76,21 +91,21 @@ Reardon v. State reversal reinserted here 2026-08-15 in its correct chronologica
     drafting note deleted. The chapter now carries the Cohen v. California framing and the explicit
     kill-the-governor / fuck-the-governor distinction.**
     Chapters 29-38 and the epilogue were renumbered up by one to make room (was 28-37 + 38).
-29. Lafayette — August 25 [x]
-30. Trial and Verdict [x]
-31. The New Orleans Assault [x]
-32. The Records Cover-Up [x]
-33. Retaliatory Arrest in an Ice Storm [x]
-34. Reardon v. State — The Reversal (Feb 24 2026) [x] — was 26, RENUMBERED 2026-08-15 to its
+30. Lafayette — August 25 [x]
+31. Trial and Verdict [x]
+32. The New Orleans Assault [x]
+33. The Records Cover-Up [x]
+34. Retaliatory Arrest in an Ice Storm [x]
+35. Reardon v. State — The Reversal (Feb 24 2026) [x] — was 26, RENUMBERED 2026-08-15 to its
     correct chronological slot between the ice-storm arrest (Jan 28 2026) and the Union County
     thread (starts April 15 2026). Completes the Busby 3-way contradiction (2024 letter / 2025
     affidavit / 2026 reversal).
-35. The Union County Thread [x] (was 33)
-36. Reardon v. Osteen — The Objections [x] (was 34)
-37. Sentencing [x] (was 35)
+36. The Union County Thread [x] (was 33)
+37. Reardon v. Osteen — The Objections [x] (was 34)
+38. Sentencing [x] (was 35)
 
 PART VI: SYSTEMIC ANALYSIS
-38. The Financial Warfare of Constitutional Litigation [x] (was 36)
+39. The Financial Warfare of Constitutional Litigation [x] (was 36)
 
 EPILOGUE — The Fight Continues [x] — **file renamed 37_epilogue.md -> 38_epilogue.md on
 2026-08-15: the renumber pass had left TWO files numbered 37** (it collided with Financial Warfare).
