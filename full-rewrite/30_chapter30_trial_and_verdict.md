@@ -1,4 +1,4 @@
-CHAPTER 29 — TRIAL AND VERDICT
+CHAPTER 30 — TRIAL AND VERDICT
 
 My bench trial on the August 25, 2025 courthouse charge was held December 15 and 16, 2025, before Judge LeBlanc. The verdict came down January 16, 2026: guilty. On July 16, 2026, a First Amendment motion to dismiss was denied, the court characterizing the courthouse lobby as a "nonpublic forum" — a legal classification that substantially narrows the constitutional protection available to speech and recording activity conducted there, regardless of how that activity might be protected on a public sidewalk or in a traditional public forum.
 

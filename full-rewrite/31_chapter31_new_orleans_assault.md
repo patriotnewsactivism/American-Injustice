@@ -1,4 +1,4 @@
-CHAPTER 30 — THE NEW ORLEANS ASSAULT
+CHAPTER 31 — THE NEW ORLEANS ASSAULT
 
 On November 12, 2025, while the federal courthouse case detailed in the previous two chapters was still pending, I was struck in the head with a metal flashlight by Allied Universal security guard Jerome Ard, at New Orleans City Hall. The blow split my head open. I was transported to Tulane Medical Center. My phone was destroyed in the encounter — a detail worth flagging without editorializing, given how central my own recordings have been to nearly every other chapter of vindication in my experience.
 
