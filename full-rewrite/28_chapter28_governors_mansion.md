@@ -60,11 +60,9 @@ So the sequence is this. A judge signed a bench warrant naming a crime I was nev
 
 Not one of them read the paper underneath the seal. That is the finding, and it is narrower and more specific than "they forged a document" — which is exactly why it is harder to argue with.
 
-**What the document does support is narrower and, I think, worse.**
+And there is a second thing wrong with that page, independent of anything underneath it.
 
-Start with what the certification actually is. Tate Reeves did not certify that I was guilty of anything. He certified **that the annexed papers were duly authenticated** — and Michael Watson, the Secretary of State, countersigned it, and the Great Seal went on it. That is two statewide constitutional officers vouching for the authenticity of a packet of documents whose contents do not appear anywhere on the page they signed.
-
-Then read the fugitive recital against what actually happened. I did not flee anywhere. I walked out of Mississippi custody on August 1, 2023, drove to Texas in the open with a camera running, and was arrested there ten days later. By the time this warrant was signed I had been sitting in the Galveston County Jail — **at the address printed on the warrant itself** — for three months. There is no flight in this story. There is no refuge. Somebody filled in the blanks on a form built for a man who runs, and two officials put a seal on it without anyone noticing that the form does not describe the person it names.
+Read the fugitive recital against what actually happened. I did not flee anywhere. I walked out of Mississippi custody on August 1, 2023, drove to Texas in the open with a camera running, and was arrested there ten days later. By the time this warrant was signed I had been sitting in the Galveston County Jail — **at the address printed on the warrant itself** — for three months. There is no flight in this story. There is no refuge. Somebody filled in the blanks on a form built for a man who runs, and two officials put a seal on it without anyone noticing that the form does not describe the person it names.
 
 That is the finding, and it is smaller than the one I have been making and harder to wave off. Not *the state forged a document*. **The state used a template, nobody read it, and the Great Seal of Mississippi went on a sentence that isn't true about me.**
 
