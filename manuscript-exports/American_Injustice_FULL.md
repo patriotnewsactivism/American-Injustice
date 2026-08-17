@@ -2,7 +2,7 @@
 
 **Matthew Oliver Reardon**, writing as **Don Matthews**
 
-*Assembled draft — 2026-08-17 — approximately 99,408 words*
+*Assembled draft — 2026-08-17 — approximately 99,949 words*
 
 ---
 
@@ -1366,7 +1366,11 @@ I also asked, on the record, whether Judge Tollison should recuse himself from p
 
 He raised counsel himself, before I asked. *"You may have counsel. Do you want counsel or do you waive right to counsel?"* I told him the bench warrant he had signed said I would not be afforded one. He asked again anyway, and when I said that if there was going to be a formal revocation hearing I wanted the assistance of counsel, he ruled from the bench: *"Give me an opportunity to appoint counsel for Mr. Reardon since he requested it. I think he should be afforded that opportunity."* When I kept pressing my preliminary arguments, he stopped me — *"You've already told me that you would like the assistance of counsel. To me that stops it right there"* — and continued the case a week for the purpose of getting me a lawyer.
 
-I objected to the continuance. I argued that another week would push me past the twenty-one-day window I read Section 47-7-37 to require for reinstatement to probation absent a timely hearing. *"When you continue it,"* he said, *"that totals it out."* So there is the shape of that afternoon, and I am not going to smooth it: the delay I was fighting was a delay ordered to get me the lawyer I had just asked for. Both of those things are true, and a reader who is only shown one of them is being handled rather than informed.
+I objected to the continuance. I argued that another week would push me past the twenty-one-day window I read Section 47-7-37 to require for reinstatement to probation absent a timely hearing. *"When you continue it,"* he said, *"that totals it out."*
+
+For what it is worth — and it took me two years to be able to check this — the statute says what I said it says. Section 47-7-37(3): *"If the revocation hearing is not held within twenty-one (21) days, the probationer shall be released from custody and returned to probation status."* I had that right, in a jail uniform, from memory. Whether a continuance I asked for stops that clock is a different question, and one I take up properly in the Legal Analysis at the back rather than pretend to settle here.
+
+So there is the shape of that afternoon, and I am not going to smooth it: the delay I was fighting was a delay ordered to get me the lawyer I had just asked for. Both of those things are true, and a reader who is only shown one of them is being handled rather than informed.
 
 What arrived on July 18 was not, however, counsel of record. Attorney Mark McClinton of New Albany appeared as my **procedural advisor** — a different thing, and the reason I cross-examined the State's witnesses myself at the hearing that cost me two years. I do not know, and this book cannot tell you, whether that was the appointment Judge Tollison ordered, a limited-scope arrangement, or something that fell through in the seven days between. The transcripts do not say, and I would rather leave a hole in the record than fill it with a guess.
 
@@ -2314,6 +2318,18 @@ Read that last clause slowly, because I did. It means the months I spent in a ce
 What separates *Berdin* from *Rusche* is **notice**. Rusche got a written motion weeks before his formal hearing and knew exactly what he was answering. Berdin had no notice at all — the Supreme Court said she "had no clue that she was in violation."
 
 Where I fall on that axis is a live question and not one I get to settle here. The petition to revoke in my case was drafted in August 2023. I say I first saw it in the courtroom on July 11, 2024. I was then continued one week, and appeared on July 18 with a procedural advisor rather than counsel of record. Whether that is *Berdin* or *Rusche* is a legal judgment, it belongs to a lawyer with the full record, and I have deliberately not put my thumb on it.
+
+There is one more piece, and here the statute is on my side in a way the case law is not. I told Judge Tollison that another continuance would push me past twenty-one days and that Section 47-7-37 required me to be reinstated. I have since read the provision, and it says exactly that:
+
+> If reasonable cause is found, the offender may be confined **no more than twenty-one (21) days** from the admission to detention until a revocation hearing is held. **If the revocation hearing is not held within twenty-one (21) days, the probationer shall be released from custody and returned to probation status.**
+
+That is not a canon of interpretation or a due-process penumbra. It is a sentence in the Mississippi Code with a mandatory verb in it, and I read it correctly standing at a podium in a jail uniform.
+
+Two things temper that, and both belong here. First, the remedy is narrower than I understood at the time: the twenty-one-day provision gets you **out of the cell and back on probation** — it does not end the revocation proceeding. There is a *separate* clock, subsection (10), that does end it — the charge "shall be dismissed if the revocation hearing is not held within thirty (30) days of the warrant being issued" — but that one comes with an express escape hatch, "unless good cause for the delay is established in the record," and the Court of Appeals has repeatedly upheld revocations well past thirty days where a record of good cause existed. In one 2026 case the good cause was a governor's pandemic declaration.
+
+Second, and I want to be honest that this is unresolved rather than pretend it favors me: I have not found a Mississippi case squarely deciding whether a continuance the *defendant* asks for stops the twenty-one-day clock. Judge Tollison's answer — "when you continue it, that totals it out" — is the intuitive one, and the good-cause language is written into subsection (10) rather than subsection (3). I do not know who is right about that, and neither does this book.
+
+What I would need to know, and still do not, is the exact date I was admitted to detention in Mississippi on that warrant. The clock runs from that date, not from the warrant's issuance in August 2023. Somewhere there is a booking record with a date stamp on it that would make this arithmetic instead of argument. It is not in my hands, and I am not going to guess at it in print, because guessing at a date to make a chapter land is the exact behavior I have spent four hundred pages objecting to.
 
 I will say the smaller thing that survives all three cases. Every one of them assumes the probationer knows what he is accused of early enough to prepare. That assumption is the load-bearing wall of the whole framework — and it is the same assumption that failed in Lafayette County in 2017, in Olive Branch in 2020, and in Galveston in 2023. Which is the next section, and by now the pattern is the argument.
 

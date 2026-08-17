@@ -102,6 +102,18 @@ What separates *Berdin* from *Rusche* is **notice**. Rusche got a written motion
 
 Where I fall on that axis is a live question and not one I get to settle here. The petition to revoke in my case was drafted in August 2023. I say I first saw it in the courtroom on July 11, 2024. I was then continued one week, and appeared on July 18 with a procedural advisor rather than counsel of record. Whether that is *Berdin* or *Rusche* is a legal judgment, it belongs to a lawyer with the full record, and I have deliberately not put my thumb on it.
 
+There is one more piece, and here the statute is on my side in a way the case law is not. I told Judge Tollison that another continuance would push me past twenty-one days and that Section 47-7-37 required me to be reinstated. I have since read the provision, and it says exactly that:
+
+> If reasonable cause is found, the offender may be confined **no more than twenty-one (21) days** from the admission to detention until a revocation hearing is held. **If the revocation hearing is not held within twenty-one (21) days, the probationer shall be released from custody and returned to probation status.**
+
+That is not a canon of interpretation or a due-process penumbra. It is a sentence in the Mississippi Code with a mandatory verb in it, and I read it correctly standing at a podium in a jail uniform.
+
+Two things temper that, and both belong here. First, the remedy is narrower than I understood at the time: the twenty-one-day provision gets you **out of the cell and back on probation** — it does not end the revocation proceeding. There is a *separate* clock, subsection (10), that does end it — the charge "shall be dismissed if the revocation hearing is not held within thirty (30) days of the warrant being issued" — but that one comes with an express escape hatch, "unless good cause for the delay is established in the record," and the Court of Appeals has repeatedly upheld revocations well past thirty days where a record of good cause existed. In one 2026 case the good cause was a governor's pandemic declaration.
+
+Second, and I want to be honest that this is unresolved rather than pretend it favors me: I have not found a Mississippi case squarely deciding whether a continuance the *defendant* asks for stops the twenty-one-day clock. Judge Tollison's answer — "when you continue it, that totals it out" — is the intuitive one, and the good-cause language is written into subsection (10) rather than subsection (3). I do not know who is right about that, and neither does this book.
+
+What I would need to know, and still do not, is the exact date I was admitted to detention in Mississippi on that warrant. The clock runs from that date, not from the warrant's issuance in August 2023. Somewhere there is a booking record with a date stamp on it that would make this arithmetic instead of argument. It is not in my hands, and I am not going to guess at it in print, because guessing at a date to make a chapter land is the exact behavior I have spent four hundred pages objecting to.
+
 I will say the smaller thing that survives all three cases. Every one of them assumes the probationer knows what he is accused of early enough to prepare. That assumption is the load-bearing wall of the whole framework — and it is the same assumption that failed in Lafayette County in 2017, in Olive Branch in 2020, and in Galveston in 2023. Which is the next section, and by now the pattern is the argument.
 
 **X. EVIDENCE THAT WAS NEVER PRODUCED**
