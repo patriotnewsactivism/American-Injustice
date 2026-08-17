@@ -2,7 +2,7 @@
 
 **Matthew Oliver Reardon**, writing as **Don Matthews**
 
-*Assembled draft — 2026-08-16 — approximately 97,181 words*
+*Assembled draft — 2026-08-17 — approximately 99,949 words*
 
 ---
 
@@ -1348,15 +1348,37 @@ What the certified transcripts do establish is this: the August 17, 2023 bench w
 
 ### The July 11, 2024 hearing: continuance, and a due-process fight
 
-The July 11 hearing opened with District Attorney Benjamin F. Creekmore explaining that Officer Osteen could not appear by Zoom from Galveston because Hurricane Beryl had knocked out power and connectivity across the Texas coast. Before the court could simply continue the matter, I raised, pro se, a set of preliminary due-process arguments I had been trying to get in front of a judge for months: that Mississippi Rule of Criminal Procedure 27.2 and Mississippi Code Section 47-7-37(3) entitle a probationer to a preliminary hearing within seventy-two hours of arrest and detention on a warrant, and that the Mississippi Supreme Court's own precedent — *Ridley v. State*, 562 So.2d 406 (Miss. 1990); *Gagnon v. Scarpelli*, 411 U.S. 778; *Berdin v. State*, 648 So.2d 73 (Miss. 1994); and the Court of Appeals' *Rusche v. State*, 813 So.2d 787 (Miss. Ct. App. 2002) — required both a prompt preliminary probable-cause hearing and a separate, later, formal revocation hearing. I had never received the first of those.
+The July 11 hearing opened with District Attorney Benjamin F. Creekmore explaining that Officer Osteen could not appear by Zoom from Galveston because Hurricane Beryl had knocked out power and connectivity across the Texas coast. Before the court could simply continue the matter, I raised, pro se, a set of preliminary due-process arguments I had been trying to get in front of a judge for months: that Mississippi Rule of Criminal Procedure 27.2 and Mississippi Code Section 47-7-37(3) entitle a probationer to a preliminary hearing within seventy-two hours of arrest and detention on a warrant, and that the Mississippi Supreme Court's own precedent — *Riely v. State*, 562 So. 2d 1206 (Miss. 1990); *Gagnon v. Scarpelli*, 411 U.S. 778; *Berdin v. State*, 648 So. 2d 73 (Miss. 1994); and the Court of Appeals' *Rusche v. State*, 813 So. 2d 787 (Miss. Ct. App. 2002) — required both a prompt preliminary probable-cause hearing and a separate, later, formal revocation hearing. I had never received the first of those.
 
-I also raised, on the record, what I called a "completely fictitious" defect in the bench warrant itself: it commanded that I be brought before the court to answer for violating probation "on the original charge of possession of a controlled substance" and cited a Galveston case number, 2023-005559, tied to a felony DUI, third offense — I had never been charged with possession of a controlled substance in my life, and I told the court the warrant's own predicate description was simply wrong. The court called this point "moot," reasoning that any error in how the underlying Texas or Mississippi paperwork described the charge should have been raised earlier and did not affect the substance of the revocation. I disagreed with that ruling then and still do — a bench warrant authorizing a person's arrest and detention that misdescribes, on its face, the very offense it claims to be enforcing is not a harmless clerical slip, whatever a court later decides about mootness.
+A note on that first citation, because this book does not get to be sloppy about paper. Standing at the podium I gave the court the name as "Ridly" and the page as 562 So. 2d 406. Both were wrong. There is no Mississippi case called *Ridley v. State*; 562 So. 2d 406 is a Florida decision that has nothing to do with any of this. The case I meant — the case that actually says what I told the judge it says — is *Riely v. State*, 562 So. 2d 1206, decided by the Mississippi Supreme Court on April 18, 1990. I do not know whether the error was mine or the court reporter's, and it does not much matter. I have corrected it here rather than reprint it and hope no one checked.
 
-I also asked, on the record, whether Judge Tollison should recuse himself from presiding over this second revocation, "particularly after the last dealing back in November of 2022" — a reference to his role in the very revocation this new petition was built on top of. The court took the recusal request under advisement rather than ruling on it immediately, and ultimately continued the matter to July 18, appointing attorney Mark McClinton as my procedural advisor for that hearing, over my own objection that a further continuance would push the proceeding past the twenty-one-day window I argued Section 47-7-37 requires for reinstatement to probation absent a timely hearing.
+And since I am being exact, I should tell you what *Riely* does to my own argument, in both directions. The Mississippi Supreme Court held there that Section 47-7-37 survives constitutional scrutiny only *as construed* — conceding outright that the statute "does not expressly accord with the dictates of *Gagnon* and *Morrissey*" and reading the federal minimums into it to save it. It held that a probationer is entitled to both hearings, and that the preliminary determination "should be made by someone not directly involved in the case," which is very nearly the sentence I recited from memory at the podium.
+
+It is also the case the State should have thrown at me, because Riely lost. No hearing in his case was ever labeled "preliminary" either, and the court held that earlier proceedings were "for all practical purposes, equivalent to a preliminary hearing" because they achieved the same purposes. On counsel it is worse for me still: probationers, the court said, "do not have, per se, a right to counsel at revocation hearings," and Riely's own complaint failed precisely because counsel was appointed once he asked for it. Which is, as you are about to read, exactly what Judge Tollison did.
+
+The other two cases I gave him cut in opposite directions from each other, and I have set all three out properly in the Legal Analysis at the back of this book rather than argue them here. The short version: in *Berdin* the probationer won, on facts that included no preliminary hearing **and no notice at all**; in *Rusche* the probationer lost, because the court held that skipping the preliminary hearing is harmless unless you can show a harm other than the time you spent locked up waiting. I did not know any of that when I was standing at the podium. I know it now, and I would rather you read it in my own book than find it yourself and wonder what else I left out.
+
+I also raised, on the record, what I called a "completely fictitious" defect in the bench warrant itself. The warrant commanded that I be brought before the court to answer for violating probation "on the original charge of possession of a controlled substance," and it identified the Texas matter by the number 2023-005559, tied to a felony DUI, third offense. I told the court the number was invented — that I had no idea "where the district attorney pulled this case number from."
+
+**I was half right, and the half I was wrong about I want on the page.** I had never been charged with possession of a controlled substance in my life, and I had never been on probation for it; that recital was false, and one week later the judge himself would say so out loud. But the number was not fabricated. 2023-005559 is the Galveston Police Department's offense report number for that night — it is printed on the Texas indictment, right beside the actual cause number, 23-CR-2981. Somebody had reached into a police file and pulled the wrong identifier onto a warrant for a man's arrest. That is careless, and I think carelessness with a warrant is its own kind of injury. It is not the forgery I stood there and called it.
+
+I also asked, on the record, whether Judge Tollison should recuse himself from presiding over this second revocation, "particularly after the last dealing back in November of 2022" — a reference to his role in the very revocation this new petition was built on top of. He said he would think about it. Then he did something I did not expect, and it belongs here as squarely as everything I have accused him of.
+
+He raised counsel himself, before I asked. *"You may have counsel. Do you want counsel or do you waive right to counsel?"* I told him the bench warrant he had signed said I would not be afforded one. He asked again anyway, and when I said that if there was going to be a formal revocation hearing I wanted the assistance of counsel, he ruled from the bench: *"Give me an opportunity to appoint counsel for Mr. Reardon since he requested it. I think he should be afforded that opportunity."* When I kept pressing my preliminary arguments, he stopped me — *"You've already told me that you would like the assistance of counsel. To me that stops it right there"* — and continued the case a week for the purpose of getting me a lawyer.
+
+I objected to the continuance. I argued that another week would push me past the twenty-one-day window I read Section 47-7-37 to require for reinstatement to probation absent a timely hearing. *"When you continue it,"* he said, *"that totals it out."*
+
+For what it is worth — and it took me two years to be able to check this — the statute says what I said it says. Section 47-7-37(3): *"If the revocation hearing is not held within twenty-one (21) days, the probationer shall be released from custody and returned to probation status."* I had that right, in a jail uniform, from memory. Whether a continuance I asked for stops that clock is a different question, and one I take up properly in the Legal Analysis at the back rather than pretend to settle here.
+
+So there is the shape of that afternoon, and I am not going to smooth it: the delay I was fighting was a delay ordered to get me the lawyer I had just asked for. Both of those things are true, and a reader who is only shown one of them is being handled rather than informed.
+
+What arrived on July 18 was not, however, counsel of record. Attorney Mark McClinton of New Albany appeared as my **procedural advisor** — a different thing, and the reason I cross-examined the State's witnesses myself at the hearing that cost me two years. I do not know, and this book cannot tell you, whether that was the appointment Judge Tollison ordered, a limited-scope arrangement, or something that fell through in the seven days between. The transcripts do not say, and I would rather leave a hole in the record than fill it with a guess.
 
 ### The July 18, 2024 revocation hearing
 
 At the July 18 hearing, I represented myself with McClinton serving as procedural advisor, cross-examining the state's own witnesses directly. The State called Katreena Thompson, a district attorney's office investigator, who introduced abstracts of my prior Lafayette County and Cobb County, Georgia DUI convictions and the Galveston toxicology paperwork. On cross-examination, McClinton got her to confirm that a Mississippi governor's interstate rendition request had referred to me as a fugitive who had "fled to Texas from Mississippi" — and separately introduced, over the State's lack of objection, the actual Galveston court order dismissing the underlying felony DUI, dated May 24, 2024, weeks before this hearing.
+
+I renewed the bench-warrant objection I had raised the week before, and this time I got an answer. Judge Tollison did not defend the warrant. He conceded the substance of it from the bench — *"Sometimes it's a lot of paper, should have been aggravated stalking, and to my knowledge, you don't have any conviction on possession of controlled substance"* — and then overruled the objection as **moot**, on the reasoning that the petition to revoke, which is the operative charging instrument, does not carry the defective recital. That is a technically respectable answer and I want it stated fairly. It is also the answer that lets a document nobody will defend do the work of taking a man into custody for eleven months before anyone reads it aloud in a courtroom. Both halves of that sentence are true. I have stopped expecting the second half to move anyone who is satisfied by the first.
 
 Officer William Osteen then testified by Zoom. Under my own cross-examination, he: denied receiving any advance phone call about me coming into Galveston that night, contradicting the coordination pattern documented in Chapter 23; admitted he told the arresting officer, Officer Murph, that "this guy's an auditor" and suggested stepping aside to take over the stop, though he said he could not be certain of his exact words without his body camera footage, which neither he nor, apparently, anyone else in the courtroom had access to that day; and confirmed, when I asked directly, that he was not a certified drug recognition expert and had never been one, including at the time of my arrest — a fact I argued undercut his own claim that my pinpoint pupils and rapid speech, rather than simple fatigue from a long drive, indicated impairment by something other than alcohol.
 
@@ -1364,7 +1386,7 @@ In closing, I argued — citing *Williams v. State* and *Elkins v. State*, 116 S
 
 Judge Tollison ruled for the State. He found, "by a preponderance of the evidence," that the toxicology result alone was sufficient to establish a probation violation regardless of the underlying charge's dismissal, revoked the remaining four years of my suspended sentence, and sentenced me to four years in the custody of the Mississippi Department of Corrections, with two years suspended — leaving two years to actually serve — followed by two years of post-release supervision. The court noted, in passing, that I still owed $842.50 in unpaid court costs and fines from the original 2022 sentencing.
 
-I am naming, plainly, the specific allegation I have made elsewhere about District Attorney Creekmore's conduct in this proceeding: that he knowingly pursued a revocation built on a bench warrant containing a fabricated predicate charge, and pressed forward on a toxicology result tied to an arrest whose underlying criminal case had already collapsed. The certified transcript supports the first half of that — the warrant's misdescription of the charge is there in black and white, and the court's own "moot" ruling did not deny that the description was wrong, only that it mattered procedurally. The second half — whether relying on a dismissed case's collateral blood-test result to revoke a suspended sentence is prosecutorial overreach or a legally defensible position — is a real legal dispute, one Mississippi's own appellate courts have not resolved cleanly in either direction on facts like these, and I present my own characterization of it as exactly that: my characterization, not a settled legal or factual finding against Creekmore beyond what the transcript itself shows.
+I am naming, plainly, the specific allegation I have made elsewhere about District Attorney Creekmore's conduct in this proceeding: that he knowingly pursued a revocation built on a bench warrant containing a false predicate charge, and pressed forward on a toxicology result tied to an arrest whose underlying criminal case had already collapsed. The certified transcript supports the first half of that — the warrant's misdescription of the charge is there in black and white, and the court's own "moot" ruling did not deny that the description was wrong, only that it mattered procedurally. The second half — whether relying on a dismissed case's collateral blood-test result to revoke a suspended sentence is prosecutorial overreach or a legally defensible position — is a real legal dispute, one Mississippi's own appellate courts have not resolved cleanly in either direction on facts like these, and I present my own characterization of it as exactly that: my characterization, not a settled legal or factual finding against Creekmore beyond what the transcript itself shows.
 
 This second Mississippi sentence — a fresh two years of custody, stacked on top of the year I had already served on the first revocation — is the sentence Chapter 26's January 21, 2025 vacatur ultimately swept away along with everything else tied to the 2022 conviction. I do not have a precise account, independent of my own memory, of exactly how much of those two years I actually served in Mississippi Department of Corrections custody between the July 18, 2024 sentencing and the January 21, 2025 vacatur — six months, roughly — and that gap in the documentary record is one I am flagging rather than filling in with an estimate I cannot support.
 
@@ -2247,11 +2269,17 @@ Whether that violated the Fourth Amendment turns on one question the book cannot
 
 The related Fifth Amendment question — whether compelled production of a phone passcode is testimonial — remains genuinely unsettled and split across jurisdictions. It was never litigated in my case because the phone came back and the charge went to my accuser.
 
-**VI. THE ENHANCEMENT THAT COULD NOT ARITHMETICALLY BE RIGHT**
+**VI. THE ENHANCEMENT, AND HOW IT ACTUALLY ENDED**
 
-Texas grades driving while intoxicated as a third-degree felony on a **third or subsequent** offense. I swore, and repeat here, that I have one final DWI conviction. I was booked for **"Felony DWI (3 or more)."**
+Texas grades driving while intoxicated as a third-degree felony on a **third or subsequent** offense. I was booked for **"Felony DWI (3 or more)."** I swore then, and repeat here, that I have **one final** DWI conviction.
 
-This is the cleanest claim in the book precisely because it requires nobody to believe me about anything. Criminal histories are documents. Charging instruments either allege two prior convictions or they do not. An attorney standing in at my magistrate hearing the next morning caught it and said so on the record. If the enhancement paragraph alleged priors I do not have, that is not a judgment call about an officer's state of mind — it is a countable error, on paper, within hours.
+An earlier draft of this section called this the cleanest claim in the book and framed it as simple arithmetic. That was too easy, and working through the actual paper took the argument apart and put it back together twice. Here is where it landed, with the documents.
+
+The indictment does plead two priors, so the enhancement was not pulled out of the air. But one of the two — Cause No. 9291202 — was a misdemeanor **"D.U.I. 1st Offense,"** and it was under **ongoing appeal**. A conviction on appeal is not a final conviction, which is why the word *final* was doing real work in my sworn statement rather than hedging it.
+
+And I do not have to argue the point, because the State of Texas resolved it. On **May 24, 2024**, the Galveston County District Attorney moved to dismiss Cause No. 23-CR-2981 **without prejudice**, and the 56th District Court dismissed it the same day. On the prosecutor's own printed form — a checklist offering *insufficient evidence*, *missing witness*, *case re-indicted*, and eight other reasons — the box marked is **"Other,"** with a handwritten explanation in which the word **enhancement** is legible.
+
+So the honest version is not "an error anyone could count in an afternoon." It is slower and, I think, worse: the enhancement rested on a prior that was not final, it took **nine months in custody** and a hearing in another state before anyone unwound it, and the instrument that unwound it says the reason in a prosecutor's handwriting rather than in a judicial finding. **Nothing in this book turns on my characterization of that handwriting. I have not been able to read it, and I will not paraphrase what I cannot read.**
 
 **VII. THE COVENANT NOT TO SUE**
 
@@ -2273,7 +2301,39 @@ Three times, in three jurisdictions, across two states and six years, I was made
 
 I have come to think this is the most defensible systemic claim in the book, and I did not recognize it as a claim for years because each instance felt like an isolated frustration. It is more universal than any individual conspiracy alleged here, it does not depend on anyone's motive, and unlike almost everything else in these pages **it is corroborated across three separate courts that had no connection to one another.**
 
-**IX. EVIDENCE THAT WAS NEVER PRODUCED**
+**IX. THE PRELIMINARY HEARING I NEVER GOT, AND WHY MISSISSIPPI MAY NOT CARE**
+
+This is the section where the law turns on me, and I am writing it anyway because a book that only prints the authorities that help it is a brief, not a book.
+
+Standing at a podium in Oxford on July 11, 2024, unrepresented and under oath, I told Judge Tollison that a probationer is entitled to two hearings — a prompt, informal probable-cause hearing after arrest, and a later formal revocation hearing — and I gave him four citations. The framework is real. *Morrissey v. Brewer* (1972) established it for parolees; *Gagnon v. Scarpelli* (1973) extended it to probationers. Mississippi's own Supreme Court has held that **Miss. Code Ann. § 47-7-37 survives constitutional scrutiny only because the courts read those federal minimums into it** — conceding outright, in *Riely v. State*, that the statute "does not expressly accord with the dictates of *Gagnon* and *Morrissey*," and construing it that way to save it. On the black-letter law, I was right.
+
+Then I went and read the three Mississippi cases, and they are not three versions of one point. They are a spectrum, and I sit somewhere in the middle of it.
+
+- **Berdin v. State (Miss. 1994) — the probationer won.** No preliminary hearing, **no notice of any violation, and no affidavit** ever filed. The Supreme Court found that "the trial judge violated the procedural due process requirements of *Morrissey*, *Gagnon*, and Mississippi Code Annotated § 47-7-37," and reversed.
+- **Riely v. State (Miss. 1990) — the probationer lost.** No hearing in his case was labeled "preliminary" either, but the court held that earlier proceedings were "for all practical purposes, equivalent to a preliminary hearing" because they achieved the same purposes.
+- **Rusche v. State (Miss. Ct. App. 2002) — the probationer lost, and this is the one that hurts.** The court agreed, in as many words, that Rusche "quite correctly points out that he did not receive a preliminary probable cause hearing," and called it "the unavoidable fact that he was denied the preliminary informal hearing that *Morrissey* required." It then held the failure **harmless** absent "some showing of prejudice ... **that prejudice necessarily extending beyond the issue of the State's right to continue his confinement in the interim.**"
+
+Read that last clause slowly, because I did. It means the months I spent in a cell waiting are, as a matter of Mississippi law, *the wrong kind of harm*. The very injury that made the missing hearing feel unbearable is the injury the doctrine excludes from the ledger. I am not going to pretend otherwise to make my own chapter land harder.
+
+What separates *Berdin* from *Rusche* is **notice**. Rusche got a written motion weeks before his formal hearing and knew exactly what he was answering. Berdin had no notice at all — the Supreme Court said she "had no clue that she was in violation."
+
+Where I fall on that axis is a live question and not one I get to settle here. The petition to revoke in my case was drafted in August 2023. I say I first saw it in the courtroom on July 11, 2024. I was then continued one week, and appeared on July 18 with a procedural advisor rather than counsel of record. Whether that is *Berdin* or *Rusche* is a legal judgment, it belongs to a lawyer with the full record, and I have deliberately not put my thumb on it.
+
+There is one more piece, and here the statute is on my side in a way the case law is not. I told Judge Tollison that another continuance would push me past twenty-one days and that Section 47-7-37 required me to be reinstated. I have since read the provision, and it says exactly that:
+
+> If reasonable cause is found, the offender may be confined **no more than twenty-one (21) days** from the admission to detention until a revocation hearing is held. **If the revocation hearing is not held within twenty-one (21) days, the probationer shall be released from custody and returned to probation status.**
+
+That is not a canon of interpretation or a due-process penumbra. It is a sentence in the Mississippi Code with a mandatory verb in it, and I read it correctly standing at a podium in a jail uniform.
+
+Two things temper that, and both belong here. First, the remedy is narrower than I understood at the time: the twenty-one-day provision gets you **out of the cell and back on probation** — it does not end the revocation proceeding. There is a *separate* clock, subsection (10), that does end it — the charge "shall be dismissed if the revocation hearing is not held within thirty (30) days of the warrant being issued" — but that one comes with an express escape hatch, "unless good cause for the delay is established in the record," and the Court of Appeals has repeatedly upheld revocations well past thirty days where a record of good cause existed. In one 2026 case the good cause was a governor's pandemic declaration.
+
+Second, and I want to be honest that this is unresolved rather than pretend it favors me: I have not found a Mississippi case squarely deciding whether a continuance the *defendant* asks for stops the twenty-one-day clock. Judge Tollison's answer — "when you continue it, that totals it out" — is the intuitive one, and the good-cause language is written into subsection (10) rather than subsection (3). I do not know who is right about that, and neither does this book.
+
+What I would need to know, and still do not, is the exact date I was admitted to detention in Mississippi on that warrant. The clock runs from that date, not from the warrant's issuance in August 2023. Somewhere there is a booking record with a date stamp on it that would make this arithmetic instead of argument. It is not in my hands, and I am not going to guess at it in print, because guessing at a date to make a chapter land is the exact behavior I have spent four hundred pages objecting to.
+
+I will say the smaller thing that survives all three cases. Every one of them assumes the probationer knows what he is accused of early enough to prepare. That assumption is the load-bearing wall of the whole framework — and it is the same assumption that failed in Lafayette County in 2017, in Olive Branch in 2020, and in Galveston in 2023. Which is the next section, and by now the pattern is the argument.
+
+**X. EVIDENCE THAT WAS NEVER PRODUCED**
 
 A recurring feature of these cases is footage that should exist and does not arrive: one of two requested security cameras produced after the December 2020 parking-lot arrest; no sallyport video and no dashcam after the February 2021 field sobriety test; and the lobby-footage preservation issue that a court addressed in the federal case.
 
@@ -2281,15 +2341,16 @@ The governing frameworks differ and the distinction matters. *Brady v. Maryland*
 
 I want to be precise about something, because the temptation runs the other way. **Missing video does not prove what the video showed.** I have written for years that the sallyport camera would have exonerated me. I do not know that. Nobody does. The honest version is narrower and still damning: I asked for it, it was never produced, and the absence of the record means the only account of that test is the account of the officer who administered it.
 
-**X. WHAT A READER SHOULD TAKE FROM THIS**
+**XI. WHAT A READER SHOULD TAKE FROM THIS**
 
-Five things, and none of them are the thing I believed when I started.
+Six things, and none of them are the thing I believed when I started.
 
 1. **Motive is cheap; comparators are expensive.** *Nieves* means the documented retaliation is often legally inert without proof about everyone who was not arrested.
 2. **Winning the constitutional question is not winning.** Qualified immunity routinely separates the two, and an unbriefed claim is a lost claim.
 3. **Immunities are structural, not conspiratorial.** Judicial immunity, Eleventh Amendment immunity, and *Monell* dispose of an enormous share of civil rights claims before any fact is examined. When my cases died on these grounds, no one had to conspire.
-4. **The unglamorous claims are the strong ones.** A miscounted enhancement, an unproduced camera, an unserved affidavit — these survive contact with an adversary. Grand theories do not.
-5. **Pro se litigants lose on procedure, not merits, and the system is largely indifferent to that.** The right to represent yourself is not a right to be taught the rules. That, more than any individual official in this book, is what actually cost me.
+4. **The unglamorous claims are the strong ones.** An unproduced camera, an unserved affidavit, a prior conviction that was not final — these survive contact with an adversary. Grand theories do not.
+5. **A right can be real and still be unenforceable.** Mississippi guarantees a preliminary revocation hearing and then, in the same body of law, treats its absence as harmless unless you can show a harm that is not the jail time. Rights and remedies are different things, and almost nobody outside a courtroom knows that until it happens to them.
+6. **Pro se litigants lose on procedure, not merits, and the system is largely indifferent to that.** The right to represent yourself is not a right to be taught the rules. That, more than any individual official in this book, is what actually cost me.
 
 None of that makes what happened to me acceptable. It makes it *legal*, in most instances — and the gap between those two words is the reason I wrote this book.
 
@@ -2311,6 +2372,9 @@ None of that makes what happened to me acceptable. It makes it *legal*, in most 
 | LK17-295 | Circuit | Aggravated stalking (the Lynch matter). Guilty plea 2017; amended time-served order Feb 21, 2018 |
 | L17-233 | Circuit | **Habeas corpus / bail reduction**, filed June 8, 2017 by Kristian A. McCray, The Trout Law Firm. IFP granted June 7, 2017; dismissed stale Nov 30, 2018. *A separate matter — not an alternate number for LK17-295* |
 | LK20-316 | Circuit | Post-conviction relief |
+| 9291202 | Justice Court | **D.U.I. 1st Offense** — convicted Nov 24, 2021. Charged as a first offense because the Georgia offense preceded it by more than five years, Miss. Code Ann. § 63-11-30(2) |
+| 21-cv-494 | Circuit | **De novo appeal of 9291202.** Initiated Dec 3, 2021; dismissed **June 28, 2024** for "failing to timely perfect" |
+| L24-388 (36CI1:24cv00388JKL) | Circuit | **Post-conviction relief in LK22-358.** Granted Jan 21, 2025, State not opposing — two-year revocation sentence vacated, resentenced to 120 days, released, probation and banishment reinstated |
 | LK22-358 | Circuit | Aggravated stalking (2022). Guilty plea Sept 30, 2022 — five years' probation, banishment from Lafayette County; revocation motion Nov 1, 2022; bench warrant Aug 17, 2023 |
 
 **Mississippi — other**
@@ -2336,7 +2400,13 @@ None of that makes what happened to me acceptable. It makes it *legal*, in most 
 
 | Cause | Court | Matter |
 |---|---|---|
-| 23-CR-2981 | 56th District Court, Galveston County | *State of Texas v. Matthew O. Reardon* — DWI. Arrest Aug 10–11, 2023; defendant's sworn affidavit Oct 2023 |
+| 23-CR-2981 | 56th District Court, Galveston County | *State of Texas v. Matthew O. Reardon.* Indicted Dec 7, 2023 for **"driving while intoxicated 3rd or more"**, offense date **Aug 11, 2023**, on two alleged priors. **Felony DUI dismissed May 24, 2024** |
+
+**Georgia**
+
+| Cause | Court | Matter |
+|---|---|---|
+| 13T15752 | Cobb County State Court | DUI. Offense **Dec 25, 2012**; convicted **Nov 3, 2014** |
 
 ---
 
@@ -2348,7 +2418,7 @@ None of that makes what happened to me acceptable. It makes it *legal*, in most 
 - **Chief Deputy Scott Mills, Major Alan Wilburn, Lt. Jarrett Bundren** — Lafayette County SD; **Joey East**, then Oxford police chief, later Sheriff. The four officers at the May 26, 2017 arrest.
 - **Deputy Courtney Dixon, Deputy Ethan Tidwell** — the December 28, 2020 parking-lot arrest. **Lt. Omar Ahmed** present.
 - **Deputy Jake Williford, Deputy Kandis Beavers** — the February 20, 2021 traffic stop and field sobriety test.
-- **Officer Osteen** (spelled *Olsteen* throughout my own sworn affidavit), **Sgt. Dougherty** — Galveston PD, August 2023.
+- **Officer William Osteen** (I spell it *Olsteen* throughout my own sworn affidavit; the record spells it **Osteen**), **Sgt. Dougherty** — Galveston PD, August 2023. Osteen was the assisting, not the stopping, officer.
 - **Deputy U.S. Marshal Hayden Nugent** — the August 25, 2025 arrest. **Supervisory Deputy U.S. Marshal William Donald**, Oxford / N.D. Miss. — name and title confirmed by the Marshals Service; *no BOLO attribution is established.*
 
 **Judicial officers**
@@ -2357,7 +2427,7 @@ Judge Carolyn Bell (Justice Court); Judge Alderson (Chancery); Circuit Judge Joh
 
 **Attorneys**
 
-J. Rhea Tannehill Jr. (**Tannehill Law Firm**; husband of Mayor Robyn Tannehill; Crowder's counsel in the 2016 matter and co-petitioner in CV2017-217A); Andy Arant; Brennan Horan; T.R. Trout; Kristian A. McCray; Mitchell Driskell; Mona T. Pittman; Christi McCoy; Bela J. Chain; Dustin Talbot.
+J. Rhea Tannehill Jr. (**Tannehill Law Firm**; husband of Mayor Robyn Tannehill; Crowder's counsel in the 2016 matter and co-petitioner in CV2017-217A); Andy Arant; Brennan Horan; T.R. Trout; Kristian A. McCray; Mitchell Driskell; Mona T. Pittman; Christi McCoy; Bela J. Chain; Dustin Talbot; **Jacob W. Howard, MacArthur Justice Center** — counsel who obtained the January 2025 vacatur.
 
 **Public officials**
 
@@ -2393,6 +2463,10 @@ A woman serving twenty-four years under Mississippi's habitual-offender statute,
 - Order of recusal, Judge David Garrison, Aug 11, 2021.
 - Order of dismissal–stale case, L17-233, Nov 30, 2018.
 - Memorandum opinion and recommendation (Dkt 90), order adopting (Dkt 93), final judgment (Dkt 94), *Reardon v. Osteen*.
+- Grand jury indictment, 23-CR-2981, filed Dec 7, 2023; **Order of Dismissal of the felony DUI, May 24, 2024**.
+- Order & Judgment granting post-conviction relief, L24-388, Jan 21, 2025.
+- Texas DPS Houston Crime Laboratory report **HOU-2308-10286**, Sept 6, 2023 — **"No alcohol detected."**
+- Certified transcript, second revocation hearing, **July 18, 2024**.
 
 **Recordings**
 
@@ -2402,15 +2476,15 @@ My own contemporaneous audio and video are a primary source throughout: the May 
 
 ## D. CONDENSED CHRONOLOGY
 
-**2007** enlistment · **2011** discharge; DWI arrest (Christmas Day; final conviction 2014, Georgia) · **Aug 19, 2014** Lydia born at 25 weeks, 1 lb 9 oz · **Aug 3, 2016** joint paternity complaint filed; settled by agreement · **Sept 2016** flag petition · **Apr 28, 2017** Escambia County, Florida · **May 1, 2017** Pruitt arrest · **May 16** Oxford City Hall · **May 19** Frank & Marlee's · **May 20** rifle purchased, dated bill of sale · **May 22** Tannehill petition filed and served · **May 24–25** AUSA Norman, then the FBI · **May 26** arrest, aggravated stalking · **May 30** $150,000 bond; Chancery hearing · **June–July 2017** habeas filed and abandoned; plea, banishment, covenant not to sue · **Aug 2017** Water Valley · **Nov 2017** marriage · **Nov–Dec 2018** false rape report; Olive Branch PD; phone seized under warrant · **Jan 2019** warrant for Crowder issued, unexecuted for a year · **Dec 2019** Le Bonheur; child-services complaint closed unfounded; warrant finally executed · **Jan 2020** probation terminated early, banishment ends · **Sept–Oct 2020** Crowder pleads no contest; contempt arrest; §1983 filed and dismissed · **Dec 27–28, 2020** emails to Sheriff East; parking-lot arrest · **Feb 20, 2021** ice-storm stop and DUI · **2021** all three Justice Court judges recuse · **June 2021** Father's Day doorstep · **Nov 2021** trial · **Dec 2021** commitment · **June 2022** arrest, Case B · **Sept 30, 2022** plea, banishment · **Nov 2022** revocation motion · **Aug 10–11, 2023** Galveston · **Nov 2023** governor's warrant · **2025** Layton; the BOLO; July 3 Governor's Mansion; **Aug 25, 2025** Lafayette arrest · **Jan 16, 2026** conviction · **Aug 7, 2026** sentencing · **Aug 10, 2026** final judgment, *Reardon v. Osteen*.
+**2007** enlistment · **2011** discharge · **Dec 25, 2012** Georgia DUI offense (convicted Nov 3, 2014, Cobb County) · **Aug 19, 2014** Lydia born at 25 weeks, 1 lb 9 oz · **Aug 3, 2016** joint paternity complaint filed; settled by agreement · **Sept 2016** flag petition · **Apr 28, 2017** Escambia County, Florida · **May 1, 2017** Pruitt arrest · **May 16** Oxford City Hall · **May 19** Frank & Marlee's · **May 20** rifle purchased, dated bill of sale · **May 22** Tannehill petition filed and served · **May 24–25** AUSA Norman, then the FBI · **May 26** arrest, aggravated stalking · **May 30** $150,000 bond; Chancery hearing · **June–July 2017** habeas filed and abandoned; plea, banishment, covenant not to sue · **Aug 2017** Water Valley · **Nov 2017** marriage · **Nov–Dec 2018** false rape report; Olive Branch PD; phone seized under warrant · **Jan 2019** warrant for Crowder issued, unexecuted for a year · **Dec 2019** Le Bonheur; child-services complaint closed unfounded; warrant finally executed · **Jan 2020** probation terminated early, banishment ends · **Sept–Oct 2020** Crowder pleads no contest; contempt arrest; §1983 filed and dismissed · **Dec 27–28, 2020** emails to Sheriff East; parking-lot arrest · **Feb 20, 2021** ice-storm stop and DUI · **2021** all three Justice Court judges recuse · **June 2021** Father's Day doorstep · **Nov 24, 2021** convicted, D.U.I. 1st Offense · **Dec 3, 2021** appeal initiated · **Dec 2021** commitment · **June 2022** arrest, Case B · **Sept 30, 2022** plea, banishment · **Nov 2022** revocation motion · **Aug 11, 2023** Galveston · **Nov 2023** governor's warrant · **May 24, 2024** Texas felony DUI dismissed · **June 28, 2024** appeal of 9291202 dismissed · **July 18, 2024** second revocation hearing · **Jan 21, 2025** sentence vacated, released · **2025** Layton; the BOLO; July 3 Governor's Mansion; **Aug 25, 2025** Lafayette arrest · **Jan 16, 2026** conviction · **Aug 7, 2026** sentencing · **Aug 10, 2026** final judgment, *Reardon v. Osteen*.
 
 ---
 
 ## E. LEGAL AUTHORITIES
 
-*Nieves v. Bartlett*, 587 U.S. 391 (2019) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) · *Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) · *Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971) · *Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978) · *Brady v. Maryland*, 373 U.S. 83 (1963) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) · *Haines v. Kerner*, 404 U.S. 519 (1972) · *Cohen v. California*, 403 U.S. 15 (1971).
+*Nieves v. Bartlett*, 587 U.S. 391 (2019) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) · *Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) · *Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971) · *Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978) · *Brady v. Maryland*, 373 U.S. 83 (1963) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) · *Haines v. Kerner*, 404 U.S. 519 (1972) · *Cohen v. California*, 403 U.S. 15 (1971) · *Griffin v. Illinois*, 351 U.S. 12 (1956) · *Burns v. Ohio*, 360 U.S. 252 (1959).
 
-Statutes and rules: 42 U.S.C. §§ 1983, 1985 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
+Statutes and rules: Miss. Code Ann. §§ 47-7-37, 63-11-30 · Tex. Penal Code § 49.09 · 42 U.S.C. §§ 1983, 1985 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
 
 ---
 
@@ -2420,13 +2494,13 @@ Statutes and rules: 42 U.S.C. §§ 1983, 1985 · 41 C.F.R. § 102-74.390(b) · U
 
 1. **The May 2017 charging affidavit (LK17-295).** The "on or before May 8, 2017" date — which precedes both my purchase of the rifle and my quarrel with the Lynches — rests on my recollection alone. **The date-collision argument is not proved in these pages.**
 2. **The signed covenant not to sue, and the LK17-295 plea petition.** The term is described from memory; the instrument has never been produced.
-3. **The Texas DPS licence-suspension letter** stating I refused to provide a sample. Against a forcibly drawn blood sample, this proves itself on paper — and it is not here.
-4. **A blood-draw warrant, if one exists.** I was never shown one.
+3. **The Texas DPS licence-suspension letter** stating I refused to provide a sample. Against a blood sample drawn under a warrant, this proves itself on paper — and it is not here.
+4. **The blood-draw warrant.** Officer Osteen testified under oath in July 2024 that he obtained one, signed by a judge. I was never shown it, and **the instrument itself has still never been produced.**
 5. **The recorded call** in which Crowder is said to admit the false report was a joint effort.
 6. **The Lafayette County records production** listing roughly fifteen reports filed by Crowder over four years.
 7. **The second security camera** from December 28, 2020; the sallyport and dashcam video from February 20, 2021.
 8. **Deputy John Hill's incident report**, May 30, 2017.
 9. **The Oxford municipal record** for the flag-removal measure. That Mayor Tannehill authored it is my account, twice given, and not yet a document.
 10. **The FOIA production** said to connect a named marshal to the BOLOs.
-11. **The 2011/2014 Georgia DWI record**, which alone can settle whether those are one case or two.
+11. **The full record of the appeal in 21-cv-494** — initiated nine days after conviction, dismissed thirty months later for failing to perfect, in a matter where a judge had already found me indigent.
 12. **The sealed record in the federal criminal case**, which is subject to a court order and is not discussed in this book beyond the public docket.
