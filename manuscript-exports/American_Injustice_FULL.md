@@ -2,7 +2,7 @@
 
 **Matthew Oliver Reardon**, writing as **Don Matthews**
 
-*Assembled draft — 2026-08-17 — approximately 98,362 words*
+*Assembled draft — 2026-08-17 — approximately 99,408 words*
 
 ---
 
@@ -1352,9 +1352,11 @@ The July 11 hearing opened with District Attorney Benjamin F. Creekmore explaini
 
 A note on that first citation, because this book does not get to be sloppy about paper. Standing at the podium I gave the court the name as "Ridly" and the page as 562 So. 2d 406. Both were wrong. There is no Mississippi case called *Ridley v. State*; 562 So. 2d 406 is a Florida decision that has nothing to do with any of this. The case I meant — the case that actually says what I told the judge it says — is *Riely v. State*, 562 So. 2d 1206, decided by the Mississippi Supreme Court on April 18, 1990. I do not know whether the error was mine or the court reporter's, and it does not much matter. I have corrected it here rather than reprint it and hope no one checked.
 
-And since I am being exact, I should tell you what *Riely* does to my own argument, in both directions. It is the best case I had. The Mississippi Supreme Court held there that Section 47-7-37 survives constitutional scrutiny only *as construed* — conceding outright that the statute "does not expressly accord with the dictates of *Gagnon* and *Morrissey*" and reading the federal minimums into it to save it. It held that a probationer is entitled to both hearings, and that the preliminary determination "should be made by someone not directly involved in the case," which is very nearly the sentence I recited from memory at the podium.
+And since I am being exact, I should tell you what *Riely* does to my own argument, in both directions. The Mississippi Supreme Court held there that Section 47-7-37 survives constitutional scrutiny only *as construed* — conceding outright that the statute "does not expressly accord with the dictates of *Gagnon* and *Morrissey*" and reading the federal minimums into it to save it. It held that a probationer is entitled to both hearings, and that the preliminary determination "should be made by someone not directly involved in the case," which is very nearly the sentence I recited from memory at the podium.
 
 It is also the case the State should have thrown at me, because Riely lost. No hearing in his case was ever labeled "preliminary" either, and the court held that earlier proceedings were "for all practical purposes, equivalent to a preliminary hearing" because they achieved the same purposes. On counsel it is worse for me still: probationers, the court said, "do not have, per se, a right to counsel at revocation hearings," and Riely's own complaint failed precisely because counsel was appointed once he asked for it. Which is, as you are about to read, exactly what Judge Tollison did.
+
+The other two cases I gave him cut in opposite directions from each other, and I have set all three out properly in the Legal Analysis at the back of this book rather than argue them here. The short version: in *Berdin* the probationer won, on facts that included no preliminary hearing **and no notice at all**; in *Rusche* the probationer lost, because the court held that skipping the preliminary hearing is harmless unless you can show a harm other than the time you spent locked up waiting. I did not know any of that when I was standing at the podium. I know it now, and I would rather you read it in my own book than find it yourself and wonder what else I left out.
 
 I also raised, on the record, what I called a "completely fictitious" defect in the bench warrant itself. The warrant commanded that I be brought before the court to answer for violating probation "on the original charge of possession of a controlled substance," and it identified the Texas matter by the number 2023-005559, tied to a felony DUI, third offense. I told the court the number was invented — that I had no idea "where the district attorney pulled this case number from."
 
@@ -2263,11 +2265,17 @@ Whether that violated the Fourth Amendment turns on one question the book cannot
 
 The related Fifth Amendment question — whether compelled production of a phone passcode is testimonial — remains genuinely unsettled and split across jurisdictions. It was never litigated in my case because the phone came back and the charge went to my accuser.
 
-**VI. THE ENHANCEMENT THAT COULD NOT ARITHMETICALLY BE RIGHT**
+**VI. THE ENHANCEMENT, AND HOW IT ACTUALLY ENDED**
 
-Texas grades driving while intoxicated as a third-degree felony on a **third or subsequent** offense. I swore, and repeat here, that I have one final DWI conviction. I was booked for **"Felony DWI (3 or more)."**
+Texas grades driving while intoxicated as a third-degree felony on a **third or subsequent** offense. I was booked for **"Felony DWI (3 or more)."** I swore then, and repeat here, that I have **one final** DWI conviction.
 
-This is the cleanest claim in the book precisely because it requires nobody to believe me about anything. Criminal histories are documents. Charging instruments either allege two prior convictions or they do not. An attorney standing in at my magistrate hearing the next morning caught it and said so on the record. If the enhancement paragraph alleged priors I do not have, that is not a judgment call about an officer's state of mind — it is a countable error, on paper, within hours.
+An earlier draft of this section called this the cleanest claim in the book and framed it as simple arithmetic. That was too easy, and working through the actual paper took the argument apart and put it back together twice. Here is where it landed, with the documents.
+
+The indictment does plead two priors, so the enhancement was not pulled out of the air. But one of the two — Cause No. 9291202 — was a misdemeanor **"D.U.I. 1st Offense,"** and it was under **ongoing appeal**. A conviction on appeal is not a final conviction, which is why the word *final* was doing real work in my sworn statement rather than hedging it.
+
+And I do not have to argue the point, because the State of Texas resolved it. On **May 24, 2024**, the Galveston County District Attorney moved to dismiss Cause No. 23-CR-2981 **without prejudice**, and the 56th District Court dismissed it the same day. On the prosecutor's own printed form — a checklist offering *insufficient evidence*, *missing witness*, *case re-indicted*, and eight other reasons — the box marked is **"Other,"** with a handwritten explanation in which the word **enhancement** is legible.
+
+So the honest version is not "an error anyone could count in an afternoon." It is slower and, I think, worse: the enhancement rested on a prior that was not final, it took **nine months in custody** and a hearing in another state before anyone unwound it, and the instrument that unwound it says the reason in a prosecutor's handwriting rather than in a judicial finding. **Nothing in this book turns on my characterization of that handwriting. I have not been able to read it, and I will not paraphrase what I cannot read.**
 
 **VII. THE COVENANT NOT TO SUE**
 
@@ -2289,7 +2297,27 @@ Three times, in three jurisdictions, across two states and six years, I was made
 
 I have come to think this is the most defensible systemic claim in the book, and I did not recognize it as a claim for years because each instance felt like an isolated frustration. It is more universal than any individual conspiracy alleged here, it does not depend on anyone's motive, and unlike almost everything else in these pages **it is corroborated across three separate courts that had no connection to one another.**
 
-**IX. EVIDENCE THAT WAS NEVER PRODUCED**
+**IX. THE PRELIMINARY HEARING I NEVER GOT, AND WHY MISSISSIPPI MAY NOT CARE**
+
+This is the section where the law turns on me, and I am writing it anyway because a book that only prints the authorities that help it is a brief, not a book.
+
+Standing at a podium in Oxford on July 11, 2024, unrepresented and under oath, I told Judge Tollison that a probationer is entitled to two hearings — a prompt, informal probable-cause hearing after arrest, and a later formal revocation hearing — and I gave him four citations. The framework is real. *Morrissey v. Brewer* (1972) established it for parolees; *Gagnon v. Scarpelli* (1973) extended it to probationers. Mississippi's own Supreme Court has held that **Miss. Code Ann. § 47-7-37 survives constitutional scrutiny only because the courts read those federal minimums into it** — conceding outright, in *Riely v. State*, that the statute "does not expressly accord with the dictates of *Gagnon* and *Morrissey*," and construing it that way to save it. On the black-letter law, I was right.
+
+Then I went and read the three Mississippi cases, and they are not three versions of one point. They are a spectrum, and I sit somewhere in the middle of it.
+
+- **Berdin v. State (Miss. 1994) — the probationer won.** No preliminary hearing, **no notice of any violation, and no affidavit** ever filed. The Supreme Court found that "the trial judge violated the procedural due process requirements of *Morrissey*, *Gagnon*, and Mississippi Code Annotated § 47-7-37," and reversed.
+- **Riely v. State (Miss. 1990) — the probationer lost.** No hearing in his case was labeled "preliminary" either, but the court held that earlier proceedings were "for all practical purposes, equivalent to a preliminary hearing" because they achieved the same purposes.
+- **Rusche v. State (Miss. Ct. App. 2002) — the probationer lost, and this is the one that hurts.** The court agreed, in as many words, that Rusche "quite correctly points out that he did not receive a preliminary probable cause hearing," and called it "the unavoidable fact that he was denied the preliminary informal hearing that *Morrissey* required." It then held the failure **harmless** absent "some showing of prejudice ... **that prejudice necessarily extending beyond the issue of the State's right to continue his confinement in the interim.**"
+
+Read that last clause slowly, because I did. It means the months I spent in a cell waiting are, as a matter of Mississippi law, *the wrong kind of harm*. The very injury that made the missing hearing feel unbearable is the injury the doctrine excludes from the ledger. I am not going to pretend otherwise to make my own chapter land harder.
+
+What separates *Berdin* from *Rusche* is **notice**. Rusche got a written motion weeks before his formal hearing and knew exactly what he was answering. Berdin had no notice at all — the Supreme Court said she "had no clue that she was in violation."
+
+Where I fall on that axis is a live question and not one I get to settle here. The petition to revoke in my case was drafted in August 2023. I say I first saw it in the courtroom on July 11, 2024. I was then continued one week, and appeared on July 18 with a procedural advisor rather than counsel of record. Whether that is *Berdin* or *Rusche* is a legal judgment, it belongs to a lawyer with the full record, and I have deliberately not put my thumb on it.
+
+I will say the smaller thing that survives all three cases. Every one of them assumes the probationer knows what he is accused of early enough to prepare. That assumption is the load-bearing wall of the whole framework — and it is the same assumption that failed in Lafayette County in 2017, in Olive Branch in 2020, and in Galveston in 2023. Which is the next section, and by now the pattern is the argument.
+
+**X. EVIDENCE THAT WAS NEVER PRODUCED**
 
 A recurring feature of these cases is footage that should exist and does not arrive: one of two requested security cameras produced after the December 2020 parking-lot arrest; no sallyport video and no dashcam after the February 2021 field sobriety test; and the lobby-footage preservation issue that a court addressed in the federal case.
 
@@ -2297,15 +2325,16 @@ The governing frameworks differ and the distinction matters. *Brady v. Maryland*
 
 I want to be precise about something, because the temptation runs the other way. **Missing video does not prove what the video showed.** I have written for years that the sallyport camera would have exonerated me. I do not know that. Nobody does. The honest version is narrower and still damning: I asked for it, it was never produced, and the absence of the record means the only account of that test is the account of the officer who administered it.
 
-**X. WHAT A READER SHOULD TAKE FROM THIS**
+**XI. WHAT A READER SHOULD TAKE FROM THIS**
 
-Five things, and none of them are the thing I believed when I started.
+Six things, and none of them are the thing I believed when I started.
 
 1. **Motive is cheap; comparators are expensive.** *Nieves* means the documented retaliation is often legally inert without proof about everyone who was not arrested.
 2. **Winning the constitutional question is not winning.** Qualified immunity routinely separates the two, and an unbriefed claim is a lost claim.
 3. **Immunities are structural, not conspiratorial.** Judicial immunity, Eleventh Amendment immunity, and *Monell* dispose of an enormous share of civil rights claims before any fact is examined. When my cases died on these grounds, no one had to conspire.
-4. **The unglamorous claims are the strong ones.** A miscounted enhancement, an unproduced camera, an unserved affidavit — these survive contact with an adversary. Grand theories do not.
-5. **Pro se litigants lose on procedure, not merits, and the system is largely indifferent to that.** The right to represent yourself is not a right to be taught the rules. That, more than any individual official in this book, is what actually cost me.
+4. **The unglamorous claims are the strong ones.** An unproduced camera, an unserved affidavit, a prior conviction that was not final — these survive contact with an adversary. Grand theories do not.
+5. **A right can be real and still be unenforceable.** Mississippi guarantees a preliminary revocation hearing and then, in the same body of law, treats its absence as harmless unless you can show a harm that is not the jail time. Rights and remedies are different things, and almost nobody outside a courtroom knows that until it happens to them.
+6. **Pro se litigants lose on procedure, not merits, and the system is largely indifferent to that.** The right to represent yourself is not a right to be taught the rules. That, more than any individual official in this book, is what actually cost me.
 
 None of that makes what happened to me acceptable. It makes it *legal*, in most instances — and the gap between those two words is the reason I wrote this book.
 
