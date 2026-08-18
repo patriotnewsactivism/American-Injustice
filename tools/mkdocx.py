@@ -68,7 +68,7 @@ r = s.add_run("Don Matthews"); r.font.size = Pt(14); r.font.name = SERIF
 doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 
 for _i, (_txt, _sc, _sp) in enumerate([
-        (u"For my children, and for Meri-Emmelyn,\nwho never deserved any of this.", False, 200),
+        (u"For Lydia-Elise, Anna-Claire, McKenna-Rose,\nEthan-Oliver, and Meri-Emmelyn \u2014\nwho never deserved any of this.", False, 190),
         (u"For Andy Arant \u2014\nattorney, friend, and mentor,\nlost to cancer.", False, 22),
         (u"And for Bradley Foust,\nwhere it all started.", False, 22),
         (u"REST IN PEACE.  SEMPER FI.", True, 30)]):

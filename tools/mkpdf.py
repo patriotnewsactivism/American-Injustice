@@ -190,7 +190,7 @@ DOC = u"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <p>Discussion of testimony given in a sealed hearing in the author's federal criminal case is omitted in compliance with a court order. Where that dispute is described, it is described only from the public docket.</p>
 <p>Nothing in this book is legal advice.</p></div>
 <div class="ded">
-<p class="top">For my children, and for Meri-Emmelyn,<br>who never deserved any of this.</p>
+<p class="top">For Lydia-Elise, Anna-Claire, McKenna-Rose,<br>Ethan-Oliver, and Meri-Emmelyn &mdash;<br>who never deserved any of this.</p>
 <p>For Andy Arant &mdash;<br>attorney, friend, and mentor,<br>lost to cancer.</p>
 <p>And for Bradley Foust,<br>where it all started.</p>
 <p class="sig">Rest in peace. Semper Fi.</p></div>
