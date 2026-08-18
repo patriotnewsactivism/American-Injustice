@@ -17,7 +17,22 @@ for _pat in ("/home/user/American-Injustice/manuscript-exports/cover.*",
 
 import sys; sys.path.insert(0, "/tmp/claude-0/-home-user/bb9b3891-5cc9-5d86-9295-b7ae9ed35788/scratchpad")
 from prep import load
-md, PART_AT = load()
+md, PART_AT, TITLES, FRONT = load()
+def _norm(x):
+    return re.sub(r"[^a-z0-9]+", "", x.lower())
+FRONT_MAP = {_norm(f): f for f in FRONT}
+_ROMAN = re.compile(r"^[IVXLC]+$")
+def _prettypart(t):
+    out = []
+    for w in t.split():
+        out.append(w if _ROMAN.match(w.upper()) and w.upper() != "I" or _ROMAN.match(w)
+                   else w.title())
+    # restore roman numerals exactly as written in the source
+    src = t.split()
+    for k, w in enumerate(src):
+        if _ROMAN.match(w):
+            out[k] = w
+    return " ".join(out)
 lines = md.split("\n")
 PART_AT[9999] = "PART VI \u00b7 SYSTEMIC ANALYSIS"
 
@@ -73,13 +88,16 @@ while i < len(lines):
         pnum = int(cm.group(1)) if cm else None
         if pnum in PART_AT:
             body.append('<section class="partpage"><p class="pt">%s</p></section>' % html.escape(PART_AT[pnum]))
-            toc.append((None, PART_AT[pnum]))
+            toc.append((None, _prettypart(PART_AT[pnum])))
         elif plain.strip().upper().startswith("LEGAL ANALYSIS"):
             body.append('<section class="partpage"><p class="pt">%s</p></section>' % html.escape(PART_AT[9999]))
-            toc.append((None, PART_AT[9999]))
+            toc.append((None, _prettypart(PART_AT[9999])))
         n += 1
         cid = "sec%d" % n
-        label = re.sub(r'^CHAPTER\s+', '', plain)
+        if pnum and pnum in TITLES:
+            label = "%d \u00b7 %s" % (pnum, TITLES[pnum])
+        else:
+            label = FRONT_MAP.get(_norm(plain), plain.title())
         toc.append((cid, label))
         body.append('<section class="chap"><h1 id="%s">%s</h1>' % (cid, inline(title)))
         first_para_pending = True
@@ -179,9 +197,10 @@ th { background:#f0efec; font-weight:700; }
           string-set:none; page:frontmatter; break-before:auto; break-after:avoid; }
 p.toc-line { text-indent:0; margin:.34em 0; text-align:left; }
 p.toc-line a { text-decoration:none; color:#111; }
-p.toc-part { text-indent:0; margin:.7em 0 .22em; font-size:6.4pt; font-weight:700;
-             letter-spacing:.13em; text-transform:uppercase; color:#555; break-after:avoid; }
-p.toc-part:first-of-type { margin-top:0 }
+p.toc-part { text-indent:0; margin:.75em 0 .3em; font-size:7.6pt; font-style:italic;
+             font-weight:400; letter-spacing:0; text-transform:none; color:#333;
+             break-after:avoid; border-bottom:0.4pt solid #ddd; padding-bottom:.2em; }
+p.toc-part:first-of-type { margin-top:.15em }
 section.partpage { break-before:page; page:nofolio; text-align:center; }
 section.partpage .pt { text-indent:0; padding-top:3.5in; font-size:15pt; font-weight:600;
                        letter-spacing:.12em; hyphens:none; }
@@ -189,10 +208,12 @@ section.partpage .pt { text-indent:0; padding-top:3.5in; font-size:15pt; font-we
 .ded p { text-indent:0; margin:0 0 1.15em; font-size:12pt; line-height:1.5; }
 .ded .top { padding-top:2.9in; }
 .ded .sig { font-variant:small-caps; letter-spacing:.09em; margin-top:1.5em; }
-.toc { font-size:7.5pt; line-height:1.24; column-count:2; column-gap:1.7em;
-        column-rule:0.4pt solid #ccc; }
-p.toc-line { hyphens:none; margin:.13em 0; break-inside:avoid; }
-p.toc-line a::after { content: leader('.') " " target-counter(attr(href), page); color:#555; }
+.toc { font-size:8.0pt; line-height:1.38; column-count:2; column-gap:1.55em;
+        column-rule:0.4pt solid #d8d8d8; }
+p.toc-line { hyphens:none; margin:.2em 0; break-inside:avoid; padding-left:1.1em;
+             text-indent:-1.1em; }
+p.toc-line a::after { content: " " leader('.') "  " target-counter(attr(href), page);
+                      color:#666; }
 """
 
 DOC = u"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">

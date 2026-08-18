@@ -12,15 +12,24 @@ def load():
     a = next(i for i, l in enumerate(lines) if l.strip() == '<div class="toc">')
     b = next(i for i, l in enumerate(lines) if i > a and l.strip() == "</div>")
     part_at, cur = {}, None
+    titles = {}          # chapter number -> properly cased title from the source toc
+    front = []           # unnumbered entries, in order
     for l in lines[a:b]:
         m = re.search(r'class="part">([^<]+)<', l)
         if m:
             cur = m.group(1).strip()
             continue
-        m = re.search(r'class="n">(\d+)<', l)
-        if m and cur:
-            part_at[int(m.group(1))] = cur
-            cur = None
+        mn = re.search(r'class="n">(\d*)</span>', l)
+        mt = re.search(r'class="t">([^<]+)</span>', l)
+        if mn and mt:
+            num = mn.group(1).strip()
+            if num:
+                titles[int(num)] = mt.group(1).strip()
+                if cur:
+                    part_at[int(num)] = cur
+                    cur = None
+            else:
+                front.append(mt.group(1).strip())
 
     # strip <style>...</style> and <div class="toc">...</div>
     clean = re.sub(r"<style>.*?</style>", "", raw, flags=re.S)
@@ -35,9 +44,10 @@ def load():
     clean = re.sub(r"\n{3,}", "\n\n", clean)
 
     assert "<style>" not in clean and 'class="toc"' not in clean and "column-count" not in clean
-    return clean, part_at
+    return clean, part_at, titles, front
 
 if __name__ == "__main__":
-    c, p = load()
+    c, p, t, f = load()
     print("cleaned words:", len(c.split()))
-    print("parts:", sorted(p.items()))
+    print("parts:", len(p), "| titles:", len(t), "| front:", f)
+    print("sample:", [t.get(i) for i in (1, 11, 21, 35)])
