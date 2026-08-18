@@ -163,7 +163,7 @@ CSS = u"""
 @page nofolio { @bottom-center { content: none } @top-center { content: none } }
 @page chapopen { @top-center { content: none } }
 html { font-family: "DejaVu Serif","Liberation Serif",Charter,Georgia,serif;
-       font-size: 12.5pt; line-height: 1.56; hyphens: auto;
+       font-size: 11.5pt; line-height: 1.54; hyphens: auto;
        hyphenate-limit-chars: 10 5 4; hyphenate-limit-zone: 9%; }
 body { margin:0; text-align: left; color:#111; }
 .front { page: frontmatter; }

@@ -6,8 +6,8 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.enum.section import WD_SECTION
 
 SRC = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL.md"
-OUT = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL_13pt.docx"
-BODY_PT = 12.5          # 11 -> 12 -> 13 -> 12.5pt
+OUT = "/home/user/American-Injustice/manuscript-exports/American_Injustice_manuscript.docx"
+BODY_PT = 11.5          # 11 -> 12 -> 13 -> 12.5 -> 11.5pt
 SERIF = "Georgia"   # heavier than EB Garamond; Don found the lighter face too thin
 
 doc = Document()
