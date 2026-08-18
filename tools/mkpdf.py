@@ -149,7 +149,7 @@ toc_html = "".join(
     for cid, t in toc)
 
 CSS = u"""
-@page { size: 6in 9in; margin: 0.8in 0.72in 0.9in;
+@page { size: 6in 9in; margin: 0.78in 0.57in 0.88in;
         @bottom-center { content: counter(page); font-family: "DejaVu Serif",serif;
                          font-size: 9pt; color:#444; }
         @top-center { content: string(runhead); font-family: "DejaVu Serif",serif;
@@ -163,7 +163,8 @@ CSS = u"""
 @page nofolio { @bottom-center { content: none } @top-center { content: none } }
 @page chapopen { @top-center { content: none } }
 html { font-family: "DejaVu Serif","Liberation Serif",Charter,Georgia,serif;
-       font-size: 13pt; line-height: 1.46; hyphens: auto; }
+       font-size: 12.5pt; line-height: 1.56; hyphens: auto;
+       hyphenate-limit-chars: 8 4 3; hyphenate-limit-zone: 6%; }
 body { margin:0; text-align: justify; color:#111; }
 .front { page: frontmatter; }
 h1 { string-set: runhead content(text); font-size: 18pt; line-height:1.2; font-weight:600;
@@ -174,7 +175,7 @@ section.chap { break-before: page; }
 section.chap > h1:first-child { padding-top: 1.1in; }
 h2 { font-size: 13.5pt; font-weight:700; margin:1.7em 0 .5em; text-align:left; break-after: avoid; }
 h3 { font-size: 13pt; font-weight:700; font-style:italic; margin:1.3em 0 .4em; text-align:left; break-after: avoid; }
-p { margin:0; text-indent: 1.15em; orphans:2; widows:2; }
+p { margin:0 0 .42em; text-indent: 1.15em; orphans:2; widows:2; }
 p.first, p.note, p.orn, blockquote p { text-indent: 0; }
 p.note { font-style: italic; color:#333; margin: 0 0 1em; }
 p.orn { text-align:center; margin:1.1em 0; color:#888; text-indent:0; letter-spacing:.3em; }

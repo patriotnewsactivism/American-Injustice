@@ -7,7 +7,7 @@ from docx.enum.section import WD_SECTION
 
 SRC = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL.md"
 OUT = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL_13pt.docx"
-BODY_PT = 13.0          # 11 -> 12 -> 13pt
+BODY_PT = 12.5          # 11 -> 12 -> 13 -> 12.5pt
 SERIF = "Georgia"   # heavier than EB Garamond; Don found the lighter face too thin
 
 doc = Document()
@@ -20,9 +20,9 @@ st = doc.styles["Normal"]
 st.font.name = SERIF
 st.font.size = Pt(BODY_PT)
 pf = st.paragraph_format
-pf.space_after = Pt(0)
+pf.space_after = Pt(5)
 pf.first_line_indent = Inches(0.22)
-pf.line_spacing = 1.18
+pf.line_spacing = 1.32
 
 for name, size, before, after in (("Heading 1", 20, 0, 14),
                                   ("Heading 2", 14, 16, 8),
@@ -54,7 +54,7 @@ def emit_runs(p, text):
 
 import sys, re as _re; sys.path.insert(0,"/tmp/claude-0/-home-user/bb9b3891-5cc9-5d86-9295-b7ae9ed35788/scratchpad")
 from prep import load
-_md, PART_AT = load()
+_md, PART_AT, _TITLES, _FRONT = load()
 PART_AT[9999]="PART VI \u00b7 SYSTEMIC ANALYSIS"
 lines = _md.split("\n")
 
