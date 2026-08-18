@@ -124,7 +124,105 @@ The governing frameworks differ and the distinction matters. *Brady v. Maryland*
 
 I want to be precise about something, because the temptation runs the other way. **Missing video does not prove what the video showed.** I have written for years that the sallyport camera would have exonerated me. I do not know that. Nobody does. The honest version is narrower and still damning: I asked for it, it was never produced, and the absence of the record means the only account of that test is the account of the officer who administered it.
 
-**XI. WHAT A READER SHOULD TAKE FROM THIS**
+**XI. THE RIGHT TO RECORD: THE DOCTRINE THIS ENTIRE BOOK STANDS ON**
+
+*Chapters 3, 12, 13, 27, 29, 30. Verifying material: the livestreams themselves, preserved and checksummed (Appendix C); the BOLO and its distribution list (Chapter 28); the 41 CFR citation and the trial record (Chapter 31).*
+
+Almost every confrontation in this book begins the same way: a camera comes up, and an official decides that is the problem. So the threshold legal question is whether pointing a camera at a public official doing public business is protected activity at all.
+
+In this circuit, it is, and it has been since before the events of 2017.
+
+*Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017), decided February 16, 2017 — **ten weeks before my May 2017 arrest** — held that the First Amendment protects the right to record police officers performing their official duties in public, subject to reasonable time, place, and manner restrictions. Other circuits had already gotten there: *Glik v. Cunniffe*, 655 F.3d 78 (1st Cir. 2011), and *Fields v. City of Philadelphia*, 862 F.3d 353 (3d Cir. 2017). The Fifth Circuit covers Mississippi, Louisiana, and Texas — every jurisdiction in this book.
+
+Two consequences follow, and they cut in opposite directions.
+
+The first is favorable to me and I want to state it precisely rather than broadly. From February 2017 forward, no officer in this circuit could claim that recording him in public was itself unlawful, or that the right was unclear. That matters for qualified immunity, which turns on whether a right was *clearly established*: after *Turner*, in these three states, this one was.
+
+The second consequence is not favorable, and it is the reason this doctrine did not save me. *Turner* protects recording **subject to reasonable time, place, and manner restrictions**, and it expressly does not immunize the recorder from generally applicable rules. A tripod positioned where it blocks an emergency exit in a federal courthouse is a time-place-manner problem, not a speech problem, and 41 CFR § 102-74.390(b) is a facially neutral facility regulation. The right to record is not a right to record from any position, at any volume, in any building. I have sometimes argued as though it were. It is not, and no case in this book was lost because a court failed to understand *Turner*.
+
+**XII. WAS COMMUNICARE A STATE ACTOR? THE QUESTION THE COMMITMENT CLAIMS TURN ON**
+
+*Chapters 16 and 17. Verifying material: the commitment affidavits as recited in the federal court's order; the recorded Alcorn call; the Calhoun County outpatient commitment order (outstanding — Appendix F).*
+
+Section 1983 reaches only persons acting **under color of state law**. A purely private party who wrongs you may have committed a tort, but not a constitutional violation. So every claim arising from the two commitments depends on a question this book has not resolved: what, legally, is Communicare?
+
+On the recorded call, Rachel Alcorn volunteered that Communicare is **not** a county agency — that its programs are certified through the State Department of Mental Health and that it tries to stay separate from county government. I had assumed the opposite for years, and described it in earlier drafts as quasi-governmental. Her answer is evidence, but it is not the legal test, and she was describing organizational reporting lines rather than stating a conclusion of constitutional law.
+
+The actual test is not about labels. Under *West v. Atkins*, 487 U.S. 42 (1988), a private physician under contract to provide medical care to state prisoners acts under color of state law, because the state has delegated to him a function it is constitutionally obliged to perform. Under *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982), a private party is a state actor where the deprivation results from a state-created procedure and the party is one for whom the state is fairly responsible — including a private party who invokes state process jointly with state officials.
+
+Both of those doctrines point toward, not away from, state action here. Involuntary civil commitment is a coercive state power exercised through a chancery court, on a statutory form, executed by deputies with a writ. An entity that supervises court-ordered outpatient treatment and signs the affidavit that starts that machinery is not obviously in the same position as an ordinary private clinic.
+
+I am not going to declare the answer. Mississippi's community mental health centers are established under a regional-commission structure, and I have not obtained Communicare's actual corporate and statutory status. That document is an outstanding item and it is listed as one. But a reader should understand that this is the hinge: **if Communicare is a state actor, the commitment claims are constitutional claims; if it is not, most of them are state-law torts with much shorter fuses and much smaller remedies.**
+
+**XIII. WHAT PROCESS A CIVIL COMMITMENT ACTUALLY REQUIRES**
+
+*Chapters 16 and 17. Verifying material: the writ served December 7, 2021, recorded on video; the deputy's statement that the accompanying affidavit was not present; the second affidavit of February 2022.*
+
+Civil commitment is not a criminal proceeding, but it is a massive deprivation of liberty and the Constitution treats it that way.
+
+*O'Connor v. Donaldson*, 422 U.S. 563 (1975), held that a state cannot constitutionally confine a non-dangerous individual who is capable of surviving safely in freedom by himself or with willing help. *Addington v. Texas*, 441 U.S. 418 (1979), set the burden of proof for civil commitment at **clear and convincing evidence** — higher than the ordinary civil standard, lower than criminal. *Vitek v. Jones*, 445 U.S. 480 (1980), and *Zinermon v. Burch*, 494 U.S. 113 (1990), establish that the procedural protections surrounding commitment are themselves constitutionally required, and that a state can be liable where its established procedure predictably fails to supply them.
+
+Against that framework, the specific factual question in my case is narrow and documented: the deputy who served the writ said on my recording that he did not have the accompanying affidavit and that the paperwork did not show who signed it. Mississippi's statutory scheme contemplates an affidavit alleging the statutory grounds, sworn before the court that issues the order.
+
+What that establishes is a gap between the process the statute describes and the paperwork that arrived at my door. What it does not establish, and I will not claim it does, is that no affidavit existed — the federal court's own order later recited its contents, so one plainly did. The honest version is that the affidavit existed and was not produced to the person being seized on it, which is a real procedural failure and a smaller one than the version I used to tell.
+
+**XIV. MALICIOUS PROSECUTION AFTER *THOMPSON v. CLARK***
+
+*Chapters 7, 19, 20, 31, 35. Verifying material: the 2025 reversal in Reardon v. State (Chapter 35); the dismissal of the contempt charge (Chapter 8).*
+
+For years the federal courts were split on what a §1983 malicious-prosecution plaintiff had to show about how his criminal case ended. Some circuits required an affirmative indication of innocence — a rule under which a dismissal, however favorable, proved nothing.
+
+*Thompson v. Clark*, 596 U.S. 36 (2022), resolved it. A plaintiff need only show that his prosecution **ended without a conviction**. He does not need to show an affirmative indication of innocence.
+
+This matters here more than any other single doctrinal development, because several proceedings in this book ended exactly that way: dismissed, abandoned, or reversed, without any court ever announcing that I was innocent. Before 2022, that pattern was close to unlitigable in some circuits. After *Thompson*, the favorable-termination element is satisfied by the disposition itself.
+
+It is not a cure-all. *Thompson* addressed only favorable termination. The plaintiff still must prove the absence of probable cause, and *Nieves* still governs the First Amendment overlay discussed in Section I. But a reader who assumes that a case ending in dismissal is a case with no remedy is working from the pre-2022 law.
+
+**XV. PROSECUTORIAL IMMUNITY, AND WHY THE ADA IS NOT A DEFENDANT**
+
+*Chapters 19, 20, 21. Verifying material: the November 1, 2022 motion to revoke; the certified transcript of the November 3 hearing.*
+
+A reader who has followed the revocation chapter will have an obvious question: if the prosecution's theory was built on testimony that fell apart on cross-examination, why is the prosecutor not answerable for it?
+
+Because under *Imbler v. Pachtman*, 424 U.S. 409 (1976), a prosecutor has **absolute immunity** from §1983 damages for conduct intimately associated with the judicial phase of the criminal process — initiating a prosecution and presenting the State's case. Absolute, here, means what it says: not defeasible by a showing of bad faith, malice, or knowledge of falsity.
+
+The line is functional rather than titular. *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993), held that a prosecutor performing **investigative** functions — acting as an investigator rather than an advocate — gets only qualified immunity. And *Kalina v. Fletcher*, 522 U.S. 118 (1997), held that a prosecutor who personally attests to facts under oath acts as a complaining witness and loses absolute immunity for that act.
+
+Applied here: filing and arguing the motion to revoke is advocacy, and it is immune. That is the answer, and it is not a satisfying one. It is also why the accountability mechanisms that remain for prosecutorial conduct are bar discipline and elections rather than lawsuits.
+
+**XVI. BANISHMENT AS A SENTENCING CONDITION**
+
+*Chapters 20, 21, 22. Verifying material: the September 30, 2022 sentencing order; the November 3, 2022 revocation order quoted in Chapter 21.*
+
+The condition that sent me to prison for a year was not a prohibition on any act. It was a prohibition on being in a place.
+
+Mississippi permits banishment as a condition of a suspended sentence, but its own Supreme Court has constrained it. The state cases require, in substance, that the banishment bear a reasonable relationship to the purposes of rehabilitation, that public interest be served, that the defendant's rehabilitation not be inhibited, and that the sentencing court make findings supporting it. Courts elsewhere have been more skeptical still, treating broad banishment as in tension with the right to intrastate travel and with the basic proposition that punishment should attach to conduct.
+
+I want to be careful, because this is the doctrine most likely to be overstated in my favor. Banishment conditions are not per se unconstitutional, I accepted this one as part of a negotiated plea, and a defendant who agrees to a condition has a steep climb attacking it later.
+
+But the structural point stands on its own, and Chapter 21 shows it operating: once presence itself is the offense, compliance with every other term becomes legally irrelevant. I telephoned the Sheriff's Department in advance exactly as the order required. The State's own witness confirmed it under oath. The court revoked me anyway, on a finding that I had been present in the county outside an approved purpose. Nothing about that outcome was lawless. That is what makes it worth writing down.
+
+**XVII. SPOLIATION: WHY "IT WASN'T PRESERVED" USUALLY WINS**
+
+*Chapters 9, 11, 31, 33. Verifying material: the sheriff's sworn testimony that the sallyport footage was not preserved; the FOIA and public-records correspondence in Chapter 33.*
+
+Missing evidence recurs in this book often enough that a reader deserves the rule rather than the pattern.
+
+For the State's failure to preserve evidence, *Arizona v. Youngblood*, 488 U.S. 51 (1988), is the wall: unless a criminal defendant can show **bad faith** on the part of police, failure to preserve *potentially useful* evidence is not a denial of due process. *California v. Trombetta*, 467 U.S. 479 (1984), covers the narrower category of evidence whose exculpatory value was apparent before it was destroyed. *Brady v. Maryland*, 373 U.S. 83 (1963), requires disclosure of material exculpatory evidence the State actually has — it does not require the State to have kept it.
+
+The practical effect is that "the video no longer exists" is, in most cases, a complete answer, and proving bad faith requires evidence about the destroyer's state of mind that is almost always in the destroyer's exclusive possession. That asymmetry is the single most consequential piece of doctrine in this book after *Nieves*, and it is why the recording habit that makes me look obsessive in these pages was a rational response to it.
+
+**XVIII. THE CLOCK: SPEEDY TRIAL AND THE 21-DAY QUESTION**
+
+*Chapters 6, 19, 22, 25. Verifying material: the docket entries and continuance orders discussed in Chapter 25.*
+
+*Barker v. Wingo*, 407 U.S. 514 (1972), governs constitutional speedy-trial claims through four factors: length of delay, reason for delay, the defendant's assertion of the right, and prejudice. No factor is dispositive, and delay caused by the defense counts against the defendant.
+
+Mississippi layers a statutory rule on top of the constitutional one, and the interaction is where my own argument has been loosest. I have asserted at various points that a specific statutory period was blown. Whether a defense-requested continuance tolls that period is a question I have argued both ways at different times, and I am not going to resolve it here by picking the reading that helps me. The docket entries are the answer, they are cited in Chapter 25, and the analysis in this book does not go further than they support.
+
+I also want to be honest about *Barker*'s prejudice factor. I have repeatedly pointed to the months I spent in custody as the prejudice. Time served is not automatically *Barker* prejudice — the doctrine looks to oppressive pretrial incarceration, anxiety, and above all impairment of the defense. The strongest prejudice argument available to me was always evidentiary: witnesses and footage that degraded while the case sat. That is the argument I should have made and largely did not.
+
+**XIX. WHAT A READER SHOULD TAKE FROM THIS**
 
 Six things, and none of them are the thing I believed when I started.
 

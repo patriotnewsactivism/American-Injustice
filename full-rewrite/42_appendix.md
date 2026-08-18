@@ -125,9 +125,39 @@ My own contemporaneous audio and video are a primary source throughout: the May 
 
 ## E. LEGAL AUTHORITIES
 
-*Nieves v. Bartlett*, 587 U.S. 391 (2019) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) · *Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) · *Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971) · *Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978) · *Brady v. Maryland*, 373 U.S. 83 (1963) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) · *Haines v. Kerner*, 404 U.S. 519 (1972) · *Cohen v. California*, 403 U.S. 15 (1971) · *Griffin v. Illinois*, 351 U.S. 12 (1956) · *Burns v. Ohio*, 360 U.S. 252 (1959).
+*Grouped by the question each authority answers, with the Legal Analysis section that discusses it. Citations verified against CourtListener where a reporter citation is given.*
 
-Statutes and rules: Miss. Code Ann. §§ 47-7-37, 63-11-30 · Tex. Penal Code § 49.09 · 42 U.S.C. §§ 1983, 1985 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
+**The right to record public officials — Analysis XI**
+*Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017) — controlling in Mississippi, Louisiana, and Texas; decided February 16, 2017 · *Glik v. Cunniffe*, 655 F.3d 78 (1st Cir. 2011) · *Fields v. City of Philadelphia*, 862 F.3d 353 (3d Cir. 2017) · *Cohen v. California*, 403 U.S. 15 (1971).
+
+**Retaliatory arrest and prosecution — Analysis I, XIV**
+*Nieves v. Bartlett*, 587 U.S. 391 (2019) — probable cause generally defeats a retaliatory-arrest claim, subject to the comparator exception · *Thompson v. Clark*, 596 U.S. 36 (2022) — favorable termination requires only that the prosecution ended without a conviction · *Hartman v. Moore*, 547 U.S. 250 (2006).
+
+**Immunities — Analysis II, IV, XV**
+*Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *Imbler v. Pachtman*, 424 U.S. 409 (1976) — absolute prosecutorial immunity for advocacy · *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993) — only qualified immunity for investigative acts · *Kalina v. Fletcher*, 522 U.S. 118 (1997) — no absolute immunity where the prosecutor personally attests to facts · *Harlow v. Fitzgerald*, 457 U.S. 800 (1982) · *Pearson v. Callahan*, 555 U.S. 223 (2009).
+
+**Suing governments and private parties — Analysis III, XII**
+*Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) — no respondeat superior; policy or custom required · *West v. Atkins*, 487 U.S. 42 (1988) — private contractor performing a delegated state function acts under color of law · *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982) — joint invocation of state process · *Will v. Michigan Dep't of State Police*, 491 U.S. 58 (1989) · U.S. Const. amend. XI.
+
+**Civil commitment — Analysis XIII**
+*O'Connor v. Donaldson*, 422 U.S. 563 (1975) · *Addington v. Texas*, 441 U.S. 418 (1979) — clear and convincing evidence · *Vitek v. Jones*, 445 U.S. 480 (1980) · *Zinermon v. Burch*, 494 U.S. 113 (1990).
+
+**Searches, seizures, and the blood draw — Analysis V**
+*Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) — breath incident to arrest yes, blood no · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978).
+
+**Evidence the State did not keep — Analysis XVII**
+*Brady v. Maryland*, 373 U.S. 83 (1963) · *California v. Trombetta*, 467 U.S. 479 (1984) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) — bad faith required for failure to preserve potentially useful evidence.
+
+**Revocation, delay, and the courts — Analysis VIII, IX, XVIII**
+*Morrissey v. Brewer*, 408 U.S. 471 (1972) · *Gagnon v. Scarpelli*, 411 U.S. 778 (1973) · *Barker v. Wingo*, 407 U.S. 514 (1972) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971).
+
+**Access to courts as an indigent litigant — Analysis II, IX**
+*Haines v. Kerner*, 404 U.S. 519 (1972) · *Griffin v. Illinois*, 351 U.S. 12 (1956) · *Burns v. Ohio*, 360 U.S. 252 (1959) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) — release-dismissal agreements.
+
+**Statutes and rules**
+Miss. Code Ann. §§ 47-7-37 (revocation), 63-11-30 (DUI), Title 41 ch. 19 (regional community mental health commissions — *status of Communicare not yet determined, see F*) · Tex. Penal Code § 49.09 (DWI enhancement) · 42 U.S.C. §§ 1983, 1985, 1986 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
+
+**A note on two authorities this book does *not* rely on.** Earlier drafts and filings of mine invoked Section 802 of the USA PATRIOT Act and 26 U.S.C. § 7214 against a county sheriff. Neither applies — § 7214 governs offenses by federal officers, and the domestic-terrorism definition is not a cause of action against a Mississippi sheriff. They are named here because I raised them publicly, and withdrawn here because they are wrong.
 
 ---
 
@@ -147,3 +177,51 @@ Statutes and rules: Miss. Code Ann. §§ 47-7-37, 63-11-30 · Tex. Penal Code §
 10. **The FOIA production** said to connect a named marshal to the BOLOs.
 11. **The full record of the appeal in 21-cv-494** — initiated nine days after conviction, dismissed thirty months later for failing to perfect, in a matter where a judge had already found me indigent.
 12. **The sealed record in the federal criminal case**, which is subject to a court order and is not discussed in this book beyond the public docket.
+
+---
+
+## G. RECORDINGS, VIDEO, AND PRESERVED MEDIA
+
+*The evidentiary spine of this book is not paper. It is recordings, most of them mine, most of them published before anyone knew they would matter.*
+
+**Preserved with checksums.** The August 25, 2025 livestream — the arrest this book's federal case arises from — is held locally as a checksummed copy of the published item, together with its caption tracks and metadata sidecars. It runs 1 hour 5 minutes 51 seconds. The archived resolution is 640×360, which was the only format available for retrieval; that is the resolution of the surviving stream, not a choice.
+
+**Frame extractions.** The final approach and arrest were extracted to individual frames at two frames per second, with contact sheets, permitting the frame-by-frame observations reported in Chapter 30 — the backward camera translation showing retreat, and the roughly seventeen seconds during which the image is unusable.
+
+**Recordings relied on elsewhere in the book.** The December 6, 2021 clerk's-office encounter and the sheriff's arrival outside it. The December 7, 2021 service of the commitment writ. The recorded call with Rachel Alcorn. The recorded call with a defense attorney about judicial reassignment. The October 19, 2020 interview with Sheriff East. Approximately 480 cleaned transcripts of published broadcasts spanning the period.
+
+**A standing caveat on quotation.** Some transcripts in this archive were produced by automatic speech recognition and have not been verified against the audio. ASR is reliable for locating a conversation and unreliable for its exact words — it routinely mangles proper names. Any quotation in this book drawn from an unverified machine transcript is marked **[ASR — pending audio verification]**. Those passages are accurate in substance and provisional in wording.
+
+---
+
+## H. HOW TO CHECK THIS BOOK
+
+*A reader who wants to verify rather than trust should start here.*
+
+| Claim | Where in the book | What to check it against |
+| --- | --- | --- |
+| Sheriff's admission that sallyport video was not preserved | Chapters 9, 11 | His sworn testimony; Analysis XVII |
+| A federal magistrate's finding that an officer lied under oath | Chapter 24 | The magistrate's report and recommendation; Chapter 37 |
+| Judge reassignment on the public docket, August 2020 | Chapters 15, 25 | Delta Computer Systems docket history for the post-conviction matter |
+| The commitment writ served without its affidavit | Chapter 16 | The recording of the service; Analysis XIII |
+| Alcorn's stated basis for the commitment affidavit | Chapter 16 | The recorded call; the Calhoun County outpatient order (not yet obtained) |
+| What Deputy Beavers actually testified | Chapter 21 | Certified transcript, November 3, 2022, 25 pages |
+| The stated ground for revocation | Chapters 21, 22 | The written revocation order; Analysis XVI |
+| Two months of surveillance before the arrest | Chapter 28 | The BOLO and its distribution |
+| Conduct and language on the morning of the arrest | Chapter 30 | The livestream, published by the author |
+| The 2025 reversal | Chapter 35 | The appellate opinion; Analysis XIV |
+
+---
+
+## I. STANDING CORRECTIONS
+
+*Claims this book previously made, and no longer makes. They are listed rather than deleted, because a book that silently revises itself is not a record.*
+
+1. **That Rachel Alcorn named Sheriff East as her source.** She did not. On the recording she says "local law enforcement." The identification of East is the author's inference, and his own federal pleading hedged it as "presumably."
+2. **That perjury at the revocation hearing sent the author to prison.** The State's witness conceded the central fact on cross-examination, and the court's ruling did not turn on the disputed point.
+3. **That the author was denied counsel at a revocation hearing.** He waived counsel on the record in 2022, and in 2024 the court raised the question unprompted and continued the hearing so counsel could be appointed.
+4. **That a docket irregularity implies ballot tampering.** No evidence connects them. The docket record stands on its own; the inference is withdrawn.
+5. **That a county sheriff violated the PATRIOT Act's domestic-terrorism provision.** Withdrawn as legally baseless. See E.
+6. **That emails following a 2017 FOIA request carried implied threats.** Withdrawn as unprovable.
+7. **That the author knew PFC Bradley Foust personally.** He did not, and did not know what Foust was facing. Earlier drafts implied otherwise.
+8. **That Communicare is a quasi-governmental body.** Its supervisor denies it; its actual status is undetermined and is treated as an open question. See Analysis XII.
