@@ -6,9 +6,9 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.enum.section import WD_SECTION
 
 SRC = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL.md"
-OUT = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL_12pt.docx"
-BODY_PT = 12.0          # was 11.0 -> +1pt as requested
-SERIF = "EB Garamond"
+OUT = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL_13pt.docx"
+BODY_PT = 13.0          # 11 -> 12 -> 13pt
+SERIF = "Georgia"   # heavier than EB Garamond; Don found the lighter face too thin
 
 doc = Document()
 sec = doc.sections[0]
@@ -65,6 +65,20 @@ r = t.add_run("AMERICAN INJUSTICE"); r.bold = True; r.font.size = Pt(30); r.font
 s = doc.add_paragraph(); s.alignment = WD_ALIGN_PARAGRAPH.CENTER
 s.paragraph_format.space_before = Pt(18); s.paragraph_format.first_line_indent = Inches(0)
 r = s.add_run("Don Matthews"); r.font.size = Pt(14); r.font.name = SERIF
+doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
+
+for _i, (_txt, _sc, _sp) in enumerate([
+        (u"For my children, and for Meri-Emmelyn,\nwho never deserved any of this.", False, 200),
+        (u"For Andy Arant \u2014\nattorney, friend, and mentor,\nlost to cancer.", False, 22),
+        (u"And for Bradley Foust,\nwhere it all started.", False, 22),
+        (u"REST IN PEACE.  SEMPER FI.", True, 30)]):
+    _p = doc.add_paragraph(); _p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    _p.paragraph_format.first_line_indent = Inches(0)
+    _p.paragraph_format.space_before = Pt(_sp)
+    for _k, _line in enumerate(_txt.split("\n")):
+        if _k: _p.add_run().add_break()
+        _r = _p.add_run(_line); _r.font.size = Pt(11 if _sc else 12); _r.font.name = SERIF
+        if _sc: _r.font.small_caps = True
 doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
 
 i, first_h1, tbl = 0, True, None
