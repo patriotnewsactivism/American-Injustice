@@ -90,6 +90,14 @@ None of that is in this book because a lawyer made me put it there. It is here b
 
 The same rule applies to the people in these pages. I have been careful about names, and I have been more careful about the ones I leave out. Children are not named here, and nothing about their health or their lives appears. A woman serving twenty-four years under Mississippi's habitual-offender statute is discussed but not identified; her case is not mine to publish. A court clerk who was kind to me on a recorded phone call is "a court clerk." Bystanders stay bystanders. Where I believe an official did something wrong, I name him and show you the document. Where I only suspect it, I tell you I only suspect it, and I have removed more accusations from this manuscript than I have kept.
 
+A word about the machinery, so you know what you are looking at when you hit it.
+
+Claims in this book carry their evidentiary weight in the sentence or in brackets beside it. **[CONFIRMED]** means a primary document or certified transcript says it. **[RECORDED]** means it is on tape. **[SELF-REPORTED]** means the only source is me. **[UNRESOLVED]** means the record genuinely does not answer it and I am not going to pretend otherwise. And **[ASR — pending audio verification]** means the quotation comes from an automatic transcription I have not yet checked against the audio — accurate in substance, provisional in its exact words. I would rather hand you a label you find pedantic than a sentence you cannot weigh.
+
+At the back there are three things worth knowing about before you need them. A **Legal Analysis** explains the doctrines this story runs through — retaliatory arrest, qualified and absolute immunity, civil commitment, spoliation, banishment — with the cases behind each one and the chapters they bear on. It is not written for a court and it is not legal advice to anyone, least of all me; several of those doctrines are the reason I lost cases I still believe I should have won, and it says so. An **Appendix** lists the cases, the people, the documents, the chronology, the recordings, the authorities, a table showing how to check the major claims in this book against something outside it — and a list of the documents this book does not have.
+
+And there is a list of **standing corrections**: claims I made in earlier drafts, in filings, or on livestreams, that I no longer make. Some of them are things I believed for years. One of them is a theory I built a whole broadcast around. They are printed rather than deleted, because a man asking you to believe him about a record that was quietly altered does not get to quietly alter his own.
+
 There is one subject I cannot write about at all. A federal court has entered an order restricting discussion of testimony given in a sealed hearing in my own criminal case. I have not seen a reason to test the edges of that order, and I have not asked this book to. Where that dispute has to be described, it is described only from the public docket, and there are places where you will feel me stop short. That is not coyness. That is a court order, and I am obeying it.
 
 Finally, the thing I did not expect to have to say. In 2017 I fought for states' rights, for a state flag, and for monuments, and I believed the people I was fighting were the radicals. By 2023 I had told a federal court, in writing, that I no longer advocate for states' rights at all — and that the reason is the State itself. What happened in between is this book. I did not set out to write a conversion narrative and I am not asking you to share my politics, then or now. I am asking you to notice that the thing that changed my mind was not an argument. It was nine years of documents.
@@ -109,9 +117,9 @@ Boot camp isn't where a Marine learns to fight. That comes next, at Marine Comba
 
 That is where, in May of 2008, everything actually starts.
 
-I was on a roving post that night, moving through my assigned area at regular intervals, stopping at checkpoints, scanning for anything out of place. In a training environment, the most dangerous thing you usually encounter is boredom. Boredom was not on the schedule that night. The Marine assigned to Armory Watch was Lance Corporal Bradley Foust — not particularly outspoken, not someone you would pick out of a crowd, but not invisible either. Like a lot of us, he carried weight that didn't show on the surface. Armory Watch meant he had access to the weapons; it was a responsibility the Corps took seriously, trusting Marines to guard the tools of the profession from each other as much as from anyone else.
+I was on a roving post that night, moving through my assigned area at regular intervals, stopping at checkpoints, scanning for anything out of place. In a training environment, the most dangerous thing you usually encounter is boredom. Boredom was not on the schedule that night. The Marine assigned to Armory Watch was Private First Class Bradley Foust. I did not know him. I want to be exact about that, because it would be easy to write this the other way — to make him a friend, to give the night a closeness it did not have — and it would be a lie on the first page of a book about lies in the record. I could have told you his name and his post. I could not have told you where he was from, who was waiting on him, or what he was carrying. Whatever he was fighting, he fought it where I could not see it, and I have no standing to describe it. Armory Watch meant he had access to the weapons; it was a responsibility the Corps took seriously, trusting Marines to guard the tools of the profession from each other as much as from anyone else.
 
-I had just finished checking the eastern perimeter when it happened. No warning signs. No whispered confession. Just the sound — the unmistakable sound of an M16 set to three-round burst. Live rounds, at that hour, in that place, were never part of the plan. I was close enough to hear it. I was close enough to see it. I was close enough to get there fast, and not fast enough to matter. Lance Corporal Bradley Foust had put his rifle in his mouth and pulled the trigger. I do not need to describe what a body looks like after that, and I am not going to, except to say that it is the kind of thing you do not get to unsee, and the smell of cordite in the air next to a friend's body is a smell I can still call up on command, eighteen years later.
+I had just finished checking the eastern perimeter when it happened. No warning signs. No whispered confession. Just the sound — the unmistakable sound of an M16 set to three-round burst. Live rounds, at that hour, in that place, were never part of the plan. I was close enough to hear it. I was close enough to see it. I was close enough to get there fast, and not fast enough to matter. Private First Class Bradley Foust had put his rifle in his mouth and pulled the trigger. I do not need to describe what a body looks like after that, and I am not going to, except to say that it is the kind of thing you do not get to unsee, and the smell of cordite in the air next to his body is a smell I can still call up on command, eighteen years later.
 
 Within hours, officers were on scene — not just the on-duty supervisors but higher-ranking men whose boots didn't usually touch that particular stretch of concrete. They secured the scene, sent Marines back to quarters, and by the time the paperwork was finished, it said "training accident." That label mattered. A suicide could mean a family loses death benefits; a training accident preserves them — that was the justification we were given, and it may even have been offered with some genuine mercy toward Foust's family behind it. But in choosing that label, the Marine Corps didn't just spare a family a hard conversation. It rewrote what had happened, in the actual permanent record, before Foust's body had even been removed from the armory. Every obituary that ran his name said "training accident." None of them said suicide, because as far as the official record was concerned, there had been no suicide to report.
 
@@ -119,15 +127,15 @@ I was not the same after that night, and I did not have the tools at twenty to u
 
 The story could have stopped at a bad discharge and a drinking problem overcome. It didn't, because in 2017 — the same year everything else in this book begins — I filed a Freedom of Information Act request with the Marine Corps, not for closure exactly, but for proof. I wanted the internal record: the after-action reports, the policy file, anything that would show whether the institution itself knew what I knew. I sent that request to Headquarters Marine Corps' records office at Quantico, Virginia — the same base that, not incidentally, has hosted the FBI's National Academy for training federal agents since the early 1970s. I don't offer that fact as evidence of anything beyond itself; I have no proof that any one arm of the federal government coordinated with any other arm of it because of my FOIA request. But I notice it, and I have never been able to stop noticing it, because of what happened next: buried in the pages the Marine Corps sent back was a quiet, unadvertised change to the Corps' own standard operating procedures — made the same month, in May 2008, at Armory Watch posts at Marine Corps training facilities, disallowing live ammunition at that post going forward. Nobody writes a policy change like that in response to a "training accident." You write it in response to a suicide you don't want to happen again. The document didn't say the word. It didn't have to. The policy change was the institution telling on itself.
 
-That FOIA request did not go unnoticed. Emails started arriving afterward — some straightforward denials of additional records, others carrying an unmistakable undertone, the kind you learn to recognize once you've dealt with people in power who want you to stop digging. I cannot prove, and will not claim, a formal chain connecting a 2017 records request about a 2008 Marine Corps death to everything that happened to me in Mississippi starting that same year. What I can say, plainly, because it is true regardless of what caused it: some of the worst institutional pressure of my life began arriving in 2017, in the months immediately following that request, and it has not meaningfully let up since.
+I cannot prove, and will not claim, a formal chain connecting a 2017 records request about a 2008 Marine Corps death to everything that happened to me in Mississippi starting that same year. I am not going to dress up a coincidence as a conspiracy, and I have cut from this book the suggestions I once made in that direction, because I could not stand them up. What I can say, plainly, because it is true regardless of what caused it: some of the worst institutional pressure of my life began arriving in 2017, in the months immediately following that request, and it has not meaningfully let up since.
 
-I have reached out to Bradley Foust's family more than once over the years. I have not pushed harder than that, because I understand what it means to ask a family that buried a son as an accident nearly two decades ago to reopen that grief on my say-so, and I will not do that without their invitation. But I think about him more than almost anyone else in this book, including myself, because his death — sanitized, reframed, filed away as an accident by an institution that knew better — is the first time I watched official truth and actual truth get separated on purpose, and it would not be the last. Everything that follows, every affidavit that doesn't match a bill of sale, every "gone forever" that turns out to mean "selectively preserved," every obituary-grade euphemism standing in for a harder word — I first learned to recognize that particular shape of lie on a training range in North Carolina in the spring of 2008, standing over a friend who did not get to tell his own story. This book, in more ways than one, is the record he was denied.
+I have reached out to Bradley Foust's family more than once over the years. I have not pushed harder than that, because I understand what it means to ask a family that buried a son as an accident nearly two decades ago to reopen that grief on my say-so, and I will not do that without their invitation. But I think about him more than almost anyone else in this book, including myself, because his death — sanitized, reframed, filed away as an accident by an institution that knew better — is the first time I watched official truth and actual truth get separated on purpose, and it would not be the last. Everything that follows, every affidavit that doesn't match a bill of sale, every "gone forever" that turns out to mean "selectively preserved," every obituary-grade euphemism standing in for a harder word — I first learned to recognize that particular shape of lie on a training range in North Carolina in the spring of 2008, standing over a Marine I did not know, who did not get to tell his own story. This book, in more ways than one, is the record he was denied.
 
 You do not need to take my word for any of that. Nearly everything in the chapters that follow is anchored to something that exists independent of me: a bill of sale, a FOIA release, a docket entry, a recorded phone call, a sworn affidavit that contradicts an earlier sworn letter from the same official. Where the record runs out and only my account remains, I say so plainly, in the text — not in a footnote I hope you skip. Call it a claim if you want a single word for it. You will see that word more than once, and should trust it more, not less, for how often it appears.
 
 This is the story of what happens when a government decides a citizen is a problem before he has broken a law, and then spends the better part of a decade making sure the paperwork eventually agrees with them — and what happens, more rarely and more slowly, when some small number of people inside that same system refuse to go along with it: a detective who investigates a false rape report honestly and charges the woman who filed it, a court of appeals that reverses a conviction on the merits two years after everyone had stopped watching, a federal magistrate who names, in her own recommendation, that a Galveston police officer lied under oath.
 
-That is where this book actually starts: not on a courthouse square in Mississippi, but on a training range in North Carolina in the spring of 2008, standing over a friend whose death the record had already decided to call something else.
+That is where this book actually starts: not on a courthouse square in Mississippi, but on a training range in North Carolina in the spring of 2008, standing over a Marine whose death the record had already decided to call something else.
 
 What follows begins six years later, and a long way from either place, with a daughter born eleven weeks early.
 
@@ -757,6 +765,10 @@ I have audio of the actual moment it happened, and I include it here because it 
 
 This commitment did not happen in a vacuum, and I owe the record the fuller picture rather than the simpler version I believed at the time. I later recorded a call — uploaded roughly ten months afterward, in October 2022 — with Rachel Alcorn, the Communicare employee supervising my case, and pressed her directly on whether Sheriff East had fed her the information behind the affidavit. She would not confirm it. Every time I asked how the information reached her, or whether East had called or come to her office, she deflected to the affidavit itself and declined to describe the process further.
 
+There is one more thing on that call, and it does me no credit, so it goes in. Midway through, still trying to get her to name who had contacted her, I made her an offer. I told her that if I could get all the information that had been passed to her by "Joey," I would be willing to indemnify Communicare and her personally — that I wanted the people actually responsible, not her. She did not take it. She told me, again, that the information was on the affidavit and that was all she had for me.
+
+I have thought about that exchange a great deal since. I was a man with no lawyer, no subpoena power, and no way on earth to compel an answer, trying to buy a fact I could not otherwise get. That is the honest description of it, and it is also the honest description of most of what is in this book. But I am not going to pretend it was a neutral question. I offered a commitment affiant something of value in exchange for testimony pointing at a sheriff, on a recorded line, and I published the recording myself. Anyone who wants to use that against me will find it exactly where I put it.
+
 What she did tell me, and what I did not know before that call, is that I was already under a pre-existing outpatient commitment order out of Calhoun County, and that Communicare's outpatient treatment team had been trying, without success, to engage me in mandated treatment since at least September 2021 — including a letter to that county's circuit clerk documenting the non-compliance. Alcorn's stated position was that this commitment was not invented out of nothing: it was an escalation of an existing order, triggered by newly reported "concerning behavior" — my recording people in public places, and an incident she characterized as "provoking people with a minor child," which I understood to mean the September 2021 drone incident described in Chapter 13, where my stepdaughter was present for what was in fact an accident, not a provocation. I dispute that characterization on the call, and I dispute it here.
 
 I still believe, and said so on that same call, that the timing — a commitment beginning the day after I confronted Sheriff East over the judge-swap discovery — is more than coincidence, and that East had some hand in what reached Communicare. But I want to be precise about what the record actually shows: Alcorn never admitted that on tape, the affidavit's stated basis was an existing outpatient order I had genuinely not complied with, and my suspicion about East's specific role remains my own belief, not something Alcorn confirmed. This is the same institutional pairing — East and Communicare — that would recur two months later under circumstances detailed in Chapter 17, and I named that pattern myself, on camera, before I knew it would repeat. That pattern is real. The precise mechanism behind this first instance of it is less certain than I originally believed.
@@ -887,6 +899,12 @@ On November 3, 2022, I stood in a Lafayette County courtroom in front of Circuit
 I want to slow this chapter down and do something I have not always done when I've talked about that hearing. I want to put on the page exactly what she said, word for word, from the certified court reporter's transcript — not my memory of it, not the version that appears in the complaints I later filed with the Department of Justice, not the version I have said out loud on livestreams. The transcript is twenty-five pages. I have read every one of them. Some of what is in there is worse than I remembered. Some of it is narrower. Both matter, and a book that only prints the first half is a book its subject can dismantle in an afternoon.
 
 Start with the paper. The written order that came out of that hearing states the ground for revocation in language worth quoting exactly: I had violated the terms of my post-release supervision "by appearing in Lafayette County not at his residence or prior approved court business." That is the official, on-paper basis for taking a year of my life. It says nothing about the FBI visit specifically, nothing about notice given in advance, nothing about the grace period. It is a finding that I was present in the county outside an approved purpose — broad enough to cover almost anything I might have done there.
+
+There is something I have said many times about that hearing that I need to state more carefully than I have before. I have said that I was never told what I was being revoked for until I was standing in the courtroom. That is what I remember, and it is what I wrote in my federal pleading in 2023.
+
+Here is what the record shows. Assistant District Attorney Kilpatrick's motion to revoke was filed on November 1, 2022, and it does state the grounds — my presence at the FBI office on October 28 and at a residential address on October 31 — and it asked that I be held until a hearing. I was arrested that evening. So a document naming the reasons existed before the deputies came for me.
+
+What I have not been able to find, anywhere in the record, is any indication that it was ever served on me, or when. A motion sitting on a docket and a motion in the hands of a man in a jail cell are two different objects, and the file does not tell me which one this was. I am not going to claim I was deprived of notice when I cannot prove I was, and I am not going to quietly drop a thing I believe happened because proving it is inconvenient. The grounds were written down on November 1. I say I did not learn them until November 3. The record, as it currently stands, does not resolve which of us is right, and I would rather leave that gap visible than fill it with something I cannot stand behind.
 
 Beavers has appeared in this book once already. In Chapter 11 she is the deputy who initiated the February 2021 traffic stop that became my DUI conviction — a conviction I have never disputed — and the officer whose department produced no dashcam and no bodycam, and whose sheriff later gave sworn testimony that the sallyport footage of my field sobriety test was never preserved despite timely requests. That was eighteen months before this hearing. The two incidents are separate, and I am not going to merge them. The earlier stop does not make her testimony here false, and her testimony here does not retroactively taint that stop. What is fair to say is this: the same deputy's account carried decisive weight at two of the highest-stakes turns in my entire record, a year and a half apart. That is worth naming rather than waving past.
 
@@ -1923,6 +1941,12 @@ I went back. I carried my recording equipment in and set up a camera on a metal 
 
 Nugent moved in. He ordered me to turn around, took my arms, and secured handcuffs behind my back. Security personnel confiscated the camera gear and the tripod. Handcuffed in a public lobby in front of onlookers, I felt the steel close on my wrists — a sharp physical punctuation mark at the end of two months of surveillance I had not been able to see. I was walked past the metal detectors, through the security doors, and into the U.S. Marshals holding facility inside the courthouse.
 
+There is one more thing the recording establishes, and I only learned it by going back through my own video frame by frame rather than watching it at speed.
+
+Through the final seconds before the handcuffs, the columns of the portico stream past behind Nugent, one after another, while he stays centered and close in the frame. A camera that is merely pivoting does not do that. That pattern means the phone was traveling — that I was moving backward along the portico while he advanced and kept pace. Whatever else is true about my conduct that morning, and I have already set out the worst of it, the visual record of those last seconds is a record of retreat.
+
+And then the record stops being a record. At the moment of the takedown the frame overexposes to white, and for roughly seventeen seconds after it, every frame is an unusable blur. My camera, the one I brought to document exactly this, captured nothing of the thing it was there for. I have no footage of the moment that mattered most, from the device I was arrested for setting up.
+
 This chapter demands the same discipline as every other episode in this book where institutional overreach and my own escalating conduct sit side by side, and it demands more of it here than anywhere else, because this is the arrest I was convicted on. The trial record — covered fully in the next chapter — establishes that what I did that day went well beyond recording in a public lobby. It shows a tripod positioned so that it blocked an emergency exit. It shows crude, confrontational language directed at a federal officer. It shows my own livestream, in my own words, framing the confrontation as something the government "asked for."
 
 And it sits alongside everything I said before I ever walked in: the name I gave the broadcast, the order to a federal officer to go back in service, the promise that he would get sprayed down.
@@ -2341,7 +2365,105 @@ The governing frameworks differ and the distinction matters. *Brady v. Maryland*
 
 I want to be precise about something, because the temptation runs the other way. **Missing video does not prove what the video showed.** I have written for years that the sallyport camera would have exonerated me. I do not know that. Nobody does. The honest version is narrower and still damning: I asked for it, it was never produced, and the absence of the record means the only account of that test is the account of the officer who administered it.
 
-**XI. WHAT A READER SHOULD TAKE FROM THIS**
+**XI. THE RIGHT TO RECORD: THE DOCTRINE THIS ENTIRE BOOK STANDS ON**
+
+*Chapters 3, 12, 13, 27, 29, 30. Verifying material: the livestreams themselves, preserved and checksummed (Appendix C); the BOLO and its distribution list (Chapter 28); the 41 CFR citation and the trial record (Chapter 31).*
+
+Almost every confrontation in this book begins the same way: a camera comes up, and an official decides that is the problem. So the threshold legal question is whether pointing a camera at a public official doing public business is protected activity at all.
+
+In this circuit, it is, and it has been since before the events of 2017.
+
+*Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017), decided February 16, 2017 — **ten weeks before my May 2017 arrest** — held that the First Amendment protects the right to record police officers performing their official duties in public, subject to reasonable time, place, and manner restrictions. Other circuits had already gotten there: *Glik v. Cunniffe*, 655 F.3d 78 (1st Cir. 2011), and *Fields v. City of Philadelphia*, 862 F.3d 353 (3d Cir. 2017). The Fifth Circuit covers Mississippi, Louisiana, and Texas — every jurisdiction in this book.
+
+Two consequences follow, and they cut in opposite directions.
+
+The first is favorable to me and I want to state it precisely rather than broadly. From February 2017 forward, no officer in this circuit could claim that recording him in public was itself unlawful, or that the right was unclear. That matters for qualified immunity, which turns on whether a right was *clearly established*: after *Turner*, in these three states, this one was.
+
+The second consequence is not favorable, and it is the reason this doctrine did not save me. *Turner* protects recording **subject to reasonable time, place, and manner restrictions**, and it expressly does not immunize the recorder from generally applicable rules. A tripod positioned where it blocks an emergency exit in a federal courthouse is a time-place-manner problem, not a speech problem, and 41 CFR § 102-74.390(b) is a facially neutral facility regulation. The right to record is not a right to record from any position, at any volume, in any building. I have sometimes argued as though it were. It is not, and no case in this book was lost because a court failed to understand *Turner*.
+
+**XII. WAS COMMUNICARE A STATE ACTOR? THE QUESTION THE COMMITMENT CLAIMS TURN ON**
+
+*Chapters 16 and 17. Verifying material: the commitment affidavits as recited in the federal court's order; the recorded Alcorn call; the Calhoun County outpatient commitment order (outstanding — Appendix F).*
+
+Section 1983 reaches only persons acting **under color of state law**. A purely private party who wrongs you may have committed a tort, but not a constitutional violation. So every claim arising from the two commitments depends on a question this book has not resolved: what, legally, is Communicare?
+
+On the recorded call, Rachel Alcorn volunteered that Communicare is **not** a county agency — that its programs are certified through the State Department of Mental Health and that it tries to stay separate from county government. I had assumed the opposite for years, and described it in earlier drafts as quasi-governmental. Her answer is evidence, but it is not the legal test, and she was describing organizational reporting lines rather than stating a conclusion of constitutional law.
+
+The actual test is not about labels. Under *West v. Atkins*, 487 U.S. 42 (1988), a private physician under contract to provide medical care to state prisoners acts under color of state law, because the state has delegated to him a function it is constitutionally obliged to perform. Under *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982), a private party is a state actor where the deprivation results from a state-created procedure and the party is one for whom the state is fairly responsible — including a private party who invokes state process jointly with state officials.
+
+Both of those doctrines point toward, not away from, state action here. Involuntary civil commitment is a coercive state power exercised through a chancery court, on a statutory form, executed by deputies with a writ. An entity that supervises court-ordered outpatient treatment and signs the affidavit that starts that machinery is not obviously in the same position as an ordinary private clinic.
+
+I am not going to declare the answer. Mississippi's community mental health centers are established under a regional-commission structure, and I have not obtained Communicare's actual corporate and statutory status. That document is an outstanding item and it is listed as one. But a reader should understand that this is the hinge: **if Communicare is a state actor, the commitment claims are constitutional claims; if it is not, most of them are state-law torts with much shorter fuses and much smaller remedies.**
+
+**XIII. WHAT PROCESS A CIVIL COMMITMENT ACTUALLY REQUIRES**
+
+*Chapters 16 and 17. Verifying material: the writ served December 7, 2021, recorded on video; the deputy's statement that the accompanying affidavit was not present; the second affidavit of February 2022.*
+
+Civil commitment is not a criminal proceeding, but it is a massive deprivation of liberty and the Constitution treats it that way.
+
+*O'Connor v. Donaldson*, 422 U.S. 563 (1975), held that a state cannot constitutionally confine a non-dangerous individual who is capable of surviving safely in freedom by himself or with willing help. *Addington v. Texas*, 441 U.S. 418 (1979), set the burden of proof for civil commitment at **clear and convincing evidence** — higher than the ordinary civil standard, lower than criminal. *Vitek v. Jones*, 445 U.S. 480 (1980), and *Zinermon v. Burch*, 494 U.S. 113 (1990), establish that the procedural protections surrounding commitment are themselves constitutionally required, and that a state can be liable where its established procedure predictably fails to supply them.
+
+Against that framework, the specific factual question in my case is narrow and documented: the deputy who served the writ said on my recording that he did not have the accompanying affidavit and that the paperwork did not show who signed it. Mississippi's statutory scheme contemplates an affidavit alleging the statutory grounds, sworn before the court that issues the order.
+
+What that establishes is a gap between the process the statute describes and the paperwork that arrived at my door. What it does not establish, and I will not claim it does, is that no affidavit existed — the federal court's own order later recited its contents, so one plainly did. The honest version is that the affidavit existed and was not produced to the person being seized on it, which is a real procedural failure and a smaller one than the version I used to tell.
+
+**XIV. MALICIOUS PROSECUTION AFTER *THOMPSON v. CLARK***
+
+*Chapters 7, 19, 20, 31, 35. Verifying material: the 2025 reversal in Reardon v. State (Chapter 35); the dismissal of the contempt charge (Chapter 8).*
+
+For years the federal courts were split on what a §1983 malicious-prosecution plaintiff had to show about how his criminal case ended. Some circuits required an affirmative indication of innocence — a rule under which a dismissal, however favorable, proved nothing.
+
+*Thompson v. Clark*, 596 U.S. 36 (2022), resolved it. A plaintiff need only show that his prosecution **ended without a conviction**. He does not need to show an affirmative indication of innocence.
+
+This matters here more than any other single doctrinal development, because several proceedings in this book ended exactly that way: dismissed, abandoned, or reversed, without any court ever announcing that I was innocent. Before 2022, that pattern was close to unlitigable in some circuits. After *Thompson*, the favorable-termination element is satisfied by the disposition itself.
+
+It is not a cure-all. *Thompson* addressed only favorable termination. The plaintiff still must prove the absence of probable cause, and *Nieves* still governs the First Amendment overlay discussed in Section I. But a reader who assumes that a case ending in dismissal is a case with no remedy is working from the pre-2022 law.
+
+**XV. PROSECUTORIAL IMMUNITY, AND WHY THE ADA IS NOT A DEFENDANT**
+
+*Chapters 19, 20, 21. Verifying material: the November 1, 2022 motion to revoke; the certified transcript of the November 3 hearing.*
+
+A reader who has followed the revocation chapter will have an obvious question: if the prosecution's theory was built on testimony that fell apart on cross-examination, why is the prosecutor not answerable for it?
+
+Because under *Imbler v. Pachtman*, 424 U.S. 409 (1976), a prosecutor has **absolute immunity** from §1983 damages for conduct intimately associated with the judicial phase of the criminal process — initiating a prosecution and presenting the State's case. Absolute, here, means what it says: not defeasible by a showing of bad faith, malice, or knowledge of falsity.
+
+The line is functional rather than titular. *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993), held that a prosecutor performing **investigative** functions — acting as an investigator rather than an advocate — gets only qualified immunity. And *Kalina v. Fletcher*, 522 U.S. 118 (1997), held that a prosecutor who personally attests to facts under oath acts as a complaining witness and loses absolute immunity for that act.
+
+Applied here: filing and arguing the motion to revoke is advocacy, and it is immune. That is the answer, and it is not a satisfying one. It is also why the accountability mechanisms that remain for prosecutorial conduct are bar discipline and elections rather than lawsuits.
+
+**XVI. BANISHMENT AS A SENTENCING CONDITION**
+
+*Chapters 20, 21, 22. Verifying material: the September 30, 2022 sentencing order; the November 3, 2022 revocation order quoted in Chapter 21.*
+
+The condition that sent me to prison for a year was not a prohibition on any act. It was a prohibition on being in a place.
+
+Mississippi permits banishment as a condition of a suspended sentence, but its own Supreme Court has constrained it. The state cases require, in substance, that the banishment bear a reasonable relationship to the purposes of rehabilitation, that public interest be served, that the defendant's rehabilitation not be inhibited, and that the sentencing court make findings supporting it. Courts elsewhere have been more skeptical still, treating broad banishment as in tension with the right to intrastate travel and with the basic proposition that punishment should attach to conduct.
+
+I want to be careful, because this is the doctrine most likely to be overstated in my favor. Banishment conditions are not per se unconstitutional, I accepted this one as part of a negotiated plea, and a defendant who agrees to a condition has a steep climb attacking it later.
+
+But the structural point stands on its own, and Chapter 21 shows it operating: once presence itself is the offense, compliance with every other term becomes legally irrelevant. I telephoned the Sheriff's Department in advance exactly as the order required. The State's own witness confirmed it under oath. The court revoked me anyway, on a finding that I had been present in the county outside an approved purpose. Nothing about that outcome was lawless. That is what makes it worth writing down.
+
+**XVII. SPOLIATION: WHY "IT WASN'T PRESERVED" USUALLY WINS**
+
+*Chapters 9, 11, 31, 33. Verifying material: the sheriff's sworn testimony that the sallyport footage was not preserved; the FOIA and public-records correspondence in Chapter 33.*
+
+Missing evidence recurs in this book often enough that a reader deserves the rule rather than the pattern.
+
+For the State's failure to preserve evidence, *Arizona v. Youngblood*, 488 U.S. 51 (1988), is the wall: unless a criminal defendant can show **bad faith** on the part of police, failure to preserve *potentially useful* evidence is not a denial of due process. *California v. Trombetta*, 467 U.S. 479 (1984), covers the narrower category of evidence whose exculpatory value was apparent before it was destroyed. *Brady v. Maryland*, 373 U.S. 83 (1963), requires disclosure of material exculpatory evidence the State actually has — it does not require the State to have kept it.
+
+The practical effect is that "the video no longer exists" is, in most cases, a complete answer, and proving bad faith requires evidence about the destroyer's state of mind that is almost always in the destroyer's exclusive possession. That asymmetry is the single most consequential piece of doctrine in this book after *Nieves*, and it is why the recording habit that makes me look obsessive in these pages was a rational response to it.
+
+**XVIII. THE CLOCK: SPEEDY TRIAL AND THE 21-DAY QUESTION**
+
+*Chapters 6, 19, 22, 25. Verifying material: the docket entries and continuance orders discussed in Chapter 25.*
+
+*Barker v. Wingo*, 407 U.S. 514 (1972), governs constitutional speedy-trial claims through four factors: length of delay, reason for delay, the defendant's assertion of the right, and prejudice. No factor is dispositive, and delay caused by the defense counts against the defendant.
+
+Mississippi layers a statutory rule on top of the constitutional one, and the interaction is where my own argument has been loosest. I have asserted at various points that a specific statutory period was blown. Whether a defense-requested continuance tolls that period is a question I have argued both ways at different times, and I am not going to resolve it here by picking the reading that helps me. The docket entries are the answer, they are cited in Chapter 25, and the analysis in this book does not go further than they support.
+
+I also want to be honest about *Barker*'s prejudice factor. I have repeatedly pointed to the months I spent in custody as the prejudice. Time served is not automatically *Barker* prejudice — the doctrine looks to oppressive pretrial incarceration, anxiety, and above all impairment of the defense. The strongest prejudice argument available to me was always evidentiary: witnesses and footage that degraded while the case sat. That is the argument I should have made and largely did not.
+
+**XIX. WHAT A READER SHOULD TAKE FROM THIS**
 
 Six things, and none of them are the thing I believed when I started.
 
@@ -2482,9 +2604,39 @@ My own contemporaneous audio and video are a primary source throughout: the May 
 
 ## E. LEGAL AUTHORITIES
 
-*Nieves v. Bartlett*, 587 U.S. 391 (2019) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) · *Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) · *Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971) · *Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978) · *Brady v. Maryland*, 373 U.S. 83 (1963) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) · *Haines v. Kerner*, 404 U.S. 519 (1972) · *Cohen v. California*, 403 U.S. 15 (1971) · *Griffin v. Illinois*, 351 U.S. 12 (1956) · *Burns v. Ohio*, 360 U.S. 252 (1959).
+*Grouped by the question each authority answers, with the Legal Analysis section that discusses it. Citations verified against CourtListener where a reporter citation is given.*
 
-Statutes and rules: Miss. Code Ann. §§ 47-7-37, 63-11-30 · Tex. Penal Code § 49.09 · 42 U.S.C. §§ 1983, 1985 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
+**The right to record public officials — Analysis XI**
+*Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017) — controlling in Mississippi, Louisiana, and Texas; decided February 16, 2017 · *Glik v. Cunniffe*, 655 F.3d 78 (1st Cir. 2011) · *Fields v. City of Philadelphia*, 862 F.3d 353 (3d Cir. 2017) · *Cohen v. California*, 403 U.S. 15 (1971).
+
+**Retaliatory arrest and prosecution — Analysis I, XIV**
+*Nieves v. Bartlett*, 587 U.S. 391 (2019) — probable cause generally defeats a retaliatory-arrest claim, subject to the comparator exception · *Thompson v. Clark*, 596 U.S. 36 (2022) — favorable termination requires only that the prosecution ended without a conviction · *Hartman v. Moore*, 547 U.S. 250 (2006).
+
+**Immunities — Analysis II, IV, XV**
+*Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *Imbler v. Pachtman*, 424 U.S. 409 (1976) — absolute prosecutorial immunity for advocacy · *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993) — only qualified immunity for investigative acts · *Kalina v. Fletcher*, 522 U.S. 118 (1997) — no absolute immunity where the prosecutor personally attests to facts · *Harlow v. Fitzgerald*, 457 U.S. 800 (1982) · *Pearson v. Callahan*, 555 U.S. 223 (2009).
+
+**Suing governments and private parties — Analysis III, XII**
+*Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) — no respondeat superior; policy or custom required · *West v. Atkins*, 487 U.S. 42 (1988) — private contractor performing a delegated state function acts under color of law · *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982) — joint invocation of state process · *Will v. Michigan Dep't of State Police*, 491 U.S. 58 (1989) · U.S. Const. amend. XI.
+
+**Civil commitment — Analysis XIII**
+*O'Connor v. Donaldson*, 422 U.S. 563 (1975) · *Addington v. Texas*, 441 U.S. 418 (1979) — clear and convincing evidence · *Vitek v. Jones*, 445 U.S. 480 (1980) · *Zinermon v. Burch*, 494 U.S. 113 (1990).
+
+**Searches, seizures, and the blood draw — Analysis V**
+*Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) — breath incident to arrest yes, blood no · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978).
+
+**Evidence the State did not keep — Analysis XVII**
+*Brady v. Maryland*, 373 U.S. 83 (1963) · *California v. Trombetta*, 467 U.S. 479 (1984) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) — bad faith required for failure to preserve potentially useful evidence.
+
+**Revocation, delay, and the courts — Analysis VIII, IX, XVIII**
+*Morrissey v. Brewer*, 408 U.S. 471 (1972) · *Gagnon v. Scarpelli*, 411 U.S. 778 (1973) · *Barker v. Wingo*, 407 U.S. 514 (1972) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971).
+
+**Access to courts as an indigent litigant — Analysis II, IX**
+*Haines v. Kerner*, 404 U.S. 519 (1972) · *Griffin v. Illinois*, 351 U.S. 12 (1956) · *Burns v. Ohio*, 360 U.S. 252 (1959) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) — release-dismissal agreements.
+
+**Statutes and rules**
+Miss. Code Ann. §§ 47-7-37 (revocation), 63-11-30 (DUI), Title 41 ch. 19 (regional community mental health commissions — *status of Communicare not yet determined, see F*) · Tex. Penal Code § 49.09 (DWI enhancement) · 42 U.S.C. §§ 1983, 1985, 1986 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
+
+**A note on two authorities this book does *not* rely on.** Earlier drafts and filings of mine invoked Section 802 of the USA PATRIOT Act and 26 U.S.C. § 7214 against a county sheriff. Neither applies — § 7214 governs offenses by federal officers, and the domestic-terrorism definition is not a cause of action against a Mississippi sheriff. They are named here because I raised them publicly, and withdrawn here because they are wrong.
 
 ---
 
@@ -2504,3 +2656,51 @@ Statutes and rules: Miss. Code Ann. §§ 47-7-37, 63-11-30 · Tex. Penal Code §
 10. **The FOIA production** said to connect a named marshal to the BOLOs.
 11. **The full record of the appeal in 21-cv-494** — initiated nine days after conviction, dismissed thirty months later for failing to perfect, in a matter where a judge had already found me indigent.
 12. **The sealed record in the federal criminal case**, which is subject to a court order and is not discussed in this book beyond the public docket.
+
+---
+
+## G. RECORDINGS, VIDEO, AND PRESERVED MEDIA
+
+*The evidentiary spine of this book is not paper. It is recordings, most of them mine, most of them published before anyone knew they would matter.*
+
+**Preserved with checksums.** The August 25, 2025 livestream — the arrest this book's federal case arises from — is held locally as a checksummed copy of the published item, together with its caption tracks and metadata sidecars. It runs 1 hour 5 minutes 51 seconds. The archived resolution is 640×360, which was the only format available for retrieval; that is the resolution of the surviving stream, not a choice.
+
+**Frame extractions.** The final approach and arrest were extracted to individual frames at two frames per second, with contact sheets, permitting the frame-by-frame observations reported in Chapter 30 — the backward camera translation showing retreat, and the roughly seventeen seconds during which the image is unusable.
+
+**Recordings relied on elsewhere in the book.** The December 6, 2021 clerk's-office encounter and the sheriff's arrival outside it. The December 7, 2021 service of the commitment writ. The recorded call with Rachel Alcorn. The recorded call with a defense attorney about judicial reassignment. The October 19, 2020 interview with Sheriff East. Approximately 480 cleaned transcripts of published broadcasts spanning the period.
+
+**A standing caveat on quotation.** Some transcripts in this archive were produced by automatic speech recognition and have not been verified against the audio. ASR is reliable for locating a conversation and unreliable for its exact words — it routinely mangles proper names. Any quotation in this book drawn from an unverified machine transcript is marked **[ASR — pending audio verification]**. Those passages are accurate in substance and provisional in wording.
+
+---
+
+## H. HOW TO CHECK THIS BOOK
+
+*A reader who wants to verify rather than trust should start here.*
+
+| Claim | Where in the book | What to check it against |
+| --- | --- | --- |
+| Sheriff's admission that sallyport video was not preserved | Chapters 9, 11 | His sworn testimony; Analysis XVII |
+| A federal magistrate's finding that an officer lied under oath | Chapter 24 | The magistrate's report and recommendation; Chapter 37 |
+| Judge reassignment on the public docket, August 2020 | Chapters 15, 25 | Delta Computer Systems docket history for the post-conviction matter |
+| The commitment writ served without its affidavit | Chapter 16 | The recording of the service; Analysis XIII |
+| Alcorn's stated basis for the commitment affidavit | Chapter 16 | The recorded call; the Calhoun County outpatient order (not yet obtained) |
+| What Deputy Beavers actually testified | Chapter 21 | Certified transcript, November 3, 2022, 25 pages |
+| The stated ground for revocation | Chapters 21, 22 | The written revocation order; Analysis XVI |
+| Two months of surveillance before the arrest | Chapter 28 | The BOLO and its distribution |
+| Conduct and language on the morning of the arrest | Chapter 30 | The livestream, published by the author |
+| The 2025 reversal | Chapter 35 | The appellate opinion; Analysis XIV |
+
+---
+
+## I. STANDING CORRECTIONS
+
+*Claims this book previously made, and no longer makes. They are listed rather than deleted, because a book that silently revises itself is not a record.*
+
+1. **That Rachel Alcorn named Sheriff East as her source.** She did not. On the recording she says "local law enforcement." The identification of East is the author's inference, and his own federal pleading hedged it as "presumably."
+2. **That perjury at the revocation hearing sent the author to prison.** The State's witness conceded the central fact on cross-examination, and the court's ruling did not turn on the disputed point.
+3. **That the author was denied counsel at a revocation hearing.** He waived counsel on the record in 2022, and in 2024 the court raised the question unprompted and continued the hearing so counsel could be appointed.
+4. **That a docket irregularity implies ballot tampering.** No evidence connects them. The docket record stands on its own; the inference is withdrawn.
+5. **That a county sheriff violated the PATRIOT Act's domestic-terrorism provision.** Withdrawn as legally baseless. See E.
+6. **That emails following a 2017 FOIA request carried implied threats.** Withdrawn as unprovable.
+7. **That the author knew PFC Bradley Foust personally.** He did not, and did not know what Foust was facing. Earlier drafts implied otherwise.
+8. **That Communicare is a quasi-governmental body.** Its supervisor denies it; its actual status is undetermined and is treated as an open question. See Analysis XII.
