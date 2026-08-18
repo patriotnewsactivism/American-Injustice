@@ -164,8 +164,8 @@ CSS = u"""
 @page chapopen { @top-center { content: none } }
 html { font-family: "DejaVu Serif","Liberation Serif",Charter,Georgia,serif;
        font-size: 12.5pt; line-height: 1.56; hyphens: auto;
-       hyphenate-limit-chars: 8 4 3; hyphenate-limit-zone: 6%; }
-body { margin:0; text-align: justify; color:#111; }
+       hyphenate-limit-chars: 10 5 4; hyphenate-limit-zone: 9%; }
+body { margin:0; text-align: left; color:#111; }
 .front { page: frontmatter; }
 h1 { string-set: runhead content(text); font-size: 18pt; line-height:1.2; font-weight:600;
      margin: 0 0 1.6em; text-align:left; page: chapopen; break-after: avoid;
@@ -175,13 +175,14 @@ section.chap { break-before: page; }
 section.chap > h1:first-child { padding-top: 1.1in; }
 h2 { font-size: 13.5pt; font-weight:700; margin:1.7em 0 .5em; text-align:left; break-after: avoid; }
 h3 { font-size: 13pt; font-weight:700; font-style:italic; margin:1.3em 0 .4em; text-align:left; break-after: avoid; }
-p { margin:0 0 .42em; text-indent: 1.15em; orphans:2; widows:2; }
+p { margin:0 0 .95em; text-indent: 0; orphans:2; widows:2; }
 p.first, p.note, p.orn, blockquote p { text-indent: 0; }
+li { text-align: left; }
 p.note { font-style: italic; color:#333; margin: 0 0 1em; }
 p.orn { text-align:center; margin:1.1em 0; color:#888; text-indent:0; letter-spacing:.3em; }
 blockquote { margin:.8em 1.3em; font-style:italic; }
 ul,ol { margin:.6em 0 .8em 1.3em; padding:0; }
-li { margin-bottom:.35em; text-align:justify; }
+li { margin-bottom:.45em; text-align:left; }
 code { font-family:"DejaVu Sans Mono",monospace; font-size:.86em; }
 table { width:100%; border-collapse:collapse; margin:1em 0; font-size:10pt; break-inside:avoid; }
 th,td { border:0.5pt solid #bbb; padding:4pt 5pt; text-align:left; vertical-align:top; hyphens:auto; }

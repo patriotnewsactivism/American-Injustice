@@ -20,8 +20,8 @@ st = doc.styles["Normal"]
 st.font.name = SERIF
 st.font.size = Pt(BODY_PT)
 pf = st.paragraph_format
-pf.space_after = Pt(5)
-pf.first_line_indent = Inches(0.22)
+pf.space_after = Pt(9)
+pf.first_line_indent = Inches(0)
 pf.line_spacing = 1.32
 
 for name, size, before, after in (("Heading 1", 20, 0, 14),
