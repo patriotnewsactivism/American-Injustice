@@ -14,7 +14,7 @@ is now canonical -- use it going forward, ignore any earlier draft numbering.
 STATUS KEY: [ ] not started  [x] done/pushed
 
 PROLOGUE — Camp Devil Dog [x] — **RESTRUCTURED 2026-08-15 per Don.** The prologue is now the
-Marine Corps origin ONLY (Parris Island -> Camp Devil Dog -> Lance Cpl. Bradley Foust -> the
+Marine Corps origin ONLY (Parris Island -> Camp Devil Dog -> PFC Bradley Foust -> the
 "training accident" relabel -> the 2011 discharge -> the 2017 FOIA and the SOP change), closing on
 the evidentiary-method and dual-thesis paragraphs and handing off to Lydia. **It ends after the
 Marine Corps.** The May 1 2017 Pruitt arrest scene on the square, and the May 20 receipt / dual-
