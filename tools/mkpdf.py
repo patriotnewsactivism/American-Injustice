@@ -4,6 +4,17 @@ import io, re, html
 SRC = "/home/user/American-Injustice/manuscript-exports/American_Injustice_FULL.md"
 OUT = "/home/user/American-Injustice/manuscript-exports/American_Injustice_ebook.pdf"
 
+import os, glob as _glob
+COVER = None
+for _pat in ("/home/user/American-Injustice/manuscript-exports/cover.*",
+             "/home/user/American-Injustice/cover.*",
+             "/home/user/American-Injustice/art/cover.*"):
+    _hits = [f for f in _glob.glob(_pat)
+             if f.rsplit(".", 1)[-1].lower() in ("jpg", "jpeg", "png", "webp", "tif", "tiff")]
+    if _hits:
+        COVER = sorted(_hits)[0]
+        break
+
 import sys; sys.path.insert(0, "/tmp/claude-0/-home-user/bb9b3891-5cc9-5d86-9295-b7ae9ed35788/scratchpad")
 from prep import load
 md, PART_AT = load()
@@ -127,6 +138,10 @@ CSS = u"""
                       font-size: 8pt; letter-spacing:.06em; color:#666; text-transform: uppercase; } }
 @page :first { @bottom-center { content: none } @top-center { content: none } }
 @page frontmatter { @top-center { content: none } }
+@page cover { size: 6in 9in; margin: 0;
+              @bottom-center { content: none } @top-center { content: none } }
+.cover { page: cover; break-after: page; margin:0; padding:0; }
+.cover img { display:block; width: 6in; height: 9in; object-fit: cover; }
 @page nofolio { @bottom-center { content: none } @top-center { content: none } }
 @page chapopen { @top-center { content: none } }
 html { font-family: "DejaVu Serif","Liberation Serif",Charter,Georgia,serif;
@@ -182,7 +197,7 @@ p.toc-line a::after { content: leader('.') " " target-counter(attr(href), page);
 
 DOC = u"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <title>American Injustice</title><style>%s</style></head><body>
-<div class="titlepage"><span class="t">AMERICAN INJUSTICE</span>
+%s<div class="titlepage"><span class="t">AMERICAN INJUSTICE</span>
 <div class="rule"></div><span class="a">Don Matthews</span></div>
 <div class="copy"><p>Copyright &copy; Matthew Oliver Reardon, writing as Don Matthews.</p>
 <p>All rights reserved.</p>
@@ -195,7 +210,9 @@ DOC = u"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <p>And for Bradley Foust,<br>where it all started.</p>
 <p class="sig">Rest in peace. Semper Fi.</p></div>
 <div class="toc"><h1>Contents</h1>%s</div>
-%s</body></html>""" % (CSS, toc_html, htmlbody)
+%s</body></html>""" % (CSS,
+        ('<div class="cover"><img src="file://%s" alt=""></div>' % COVER) if COVER else "",
+        toc_html, htmlbody)
 
 io.open("/tmp/claude-0/-home-user/bb9b3891-5cc9-5d86-9295-b7ae9ed35788/scratchpad/book.html", "w", encoding="utf-8").write(DOC)
 

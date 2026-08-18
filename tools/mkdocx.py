@@ -58,6 +58,21 @@ _md, PART_AT = load()
 PART_AT[9999]="PART VI \u00b7 SYSTEMIC ANALYSIS"
 lines = _md.split("\n")
 
+# ---- cover (own section, zero margins so the art runs full-bleed) ----
+import os as _os
+_COVER = "/home/user/American-Injustice/art/cover.png"
+if _os.path.exists(_COVER):
+    sec.left_margin = sec.right_margin = Inches(0)
+    sec.top_margin = sec.bottom_margin = Inches(0)
+    _cp = doc.add_paragraph(); _cp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    _cp.paragraph_format.first_line_indent = Inches(0)
+    _cp.paragraph_format.space_before = Pt(0); _cp.paragraph_format.space_after = Pt(0)
+    _cp.add_run().add_picture(_COVER, width=Inches(6.0), height=Inches(9.0))
+    _new = doc.add_section(WD_SECTION.NEW_PAGE)
+    _new.page_width, _new.page_height = Inches(6.0), Inches(9.0)
+    _new.left_margin = _new.right_margin = Inches(0.75)
+    _new.top_margin = _new.bottom_margin = Inches(0.8)
+
 # ---- title page ----
 t = doc.add_paragraph(); t.alignment = WD_ALIGN_PARAGRAPH.CENTER
 t.paragraph_format.space_before = Pt(150); t.paragraph_format.first_line_indent = Inches(0)
