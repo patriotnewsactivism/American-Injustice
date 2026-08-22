@@ -2,25 +2,51 @@ CHAPTER 20 — THE GUILTY PLEA AND BANISHMENT
 
 The second aggravated-stalking case moved from the July 6 preliminary hearing to the grand jury.
 
-The certified November revocation transcript later summarized the procedural history on the record: the Lafayette County grand jury indicted me on **September 6, 2022** for aggravated stalking, and on **September 30** I entered a guilty plea before Circuit Judge Kent E. Smith in Cause No. LK22-358.
+The indictment is now in the source set, and its wording adds detail that earlier versions of this chapter did not have.
 
-That sequence is important because the case did proceed beyond the MBI warrant stage. Judge Smith had found sufficient evidence at the July preliminary hearing; the matter then went to the grand jury; an indictment followed; and the case ended by plea rather than trial.
+The Lafayette County grand jury returned the indictment in Cause No. **LK22-358**, and the document was filed on **September 6, 2022**. It charged aggravated stalking under Mississippi Code § 97-3-107(2).
 
-The September 30 sentencing order is direct. Judge Smith imposed five years in the custody of the Mississippi Department of Corrections, suspended all five years, ordered zero years to serve immediately, and placed me on five years of unsupervised probation. The later revocation transcript states that I was also ordered to pay **$842.50 in court costs**.
+The charging paragraph alleged that, **“on or about June 24, 2022,”** I purposefully engaged in a course of conduct directed at **Robyn Tannehill**, knew or should have known the conduct would cause a reasonable person to fear for her safety, and did so after having been convicted within the preceding seven years of aggravated stalking.
+
+The indictment then identified the earlier case by cause number: **LK17-295**, the 2017 aggravated-stalking conviction. It stated that I had been convicted on July 6, 2017 and identified the earlier offense as having occurred on **May 8, 2017**.
+
+That is another way the disputed May 8 date from the first case became embedded in the architecture of the second prosecution.
+
+The indictment listed **Shane Fortner** and **Joey Mauney** as witnesses.
+
+There is also a date discrepancy that I will not smooth over.
+
+The MBI warrant affidavit discussed in Chapter 19 centers the new investigation on my **June 20** visit to Oxford City Hall and earlier online activity. The indictment alleges the aggravated-stalking offense occurred **“on or about June 24.”** Those are different dates in two official records. The phrase “on or about” is not necessarily limited to a single twenty-four-hour period, but the documents still do not use the same date, and this edition preserves that fact.
+
+The certified November revocation transcript later summarized the procedural sequence on the record: indictment on September 6 and guilty plea on **September 30** before Circuit Judge Kent E. Smith.
+
+That means the case did proceed beyond the MBI warrant stage. Judge Smith had found sufficient evidence at the July preliminary hearing; the matter went to the grand jury; an indictment followed; and the case ended by plea rather than trial.
+
+The September 30 sentencing order is direct.
+
+Judge Smith imposed **five years** in the custody of the Mississippi Department of Corrections, suspended all five years, ordered **zero years to serve immediately**, and placed me on **five years of unsupervised probation**.
+
+The money portion also needs precision.
+
+An earlier version of this chapter called **$842.50** “court costs.” The signed order breaks the figure down differently: **$592.50 in court costs** plus a **$250.00 fine**, for a **total of $842.50**.
+
+The total was right. The description was not.
 
 The special restrictions were what made the sentence unusual in my life.
 
-I was banished from Lafayette County for five years.
+I was **banished from Lafayette County for five years**.
 
 I was prohibited from contacting the Tannehill family.
 
-The court retained a 365-day right of review.
+The court retained a **365-day right of review**.
 
 And because I was still residing at an address inside Lafayette County, the order allowed time for me to relocate.
 
-The word **banish** is not my characterization. It appears in the sentencing record.
+The word **banish** is not my characterization. It appears in the sentencing record itself. A separate Notice of Criminal Disposition likewise records a five-year banishment, five years of unsupervised probation, forty-five days to move from the current Lafayette County address, and no contact with the victim.
 
-But the relocation period needs to be described accurately. An earlier version of this chapter treated the forty-five days as though Judge Smith had given me forty-five days of unrestricted movement throughout Lafayette County while I packed, worked, visited agencies, and wound down my affairs. The State's later revocation motion described the conditions much more narrowly.
+But the relocation period needs to be described accurately.
+
+An earlier version of this chapter treated the forty-five days as though Judge Smith had given me forty-five days of unrestricted movement throughout Lafayette County while I packed, worked, visited agencies, and wound down my affairs. The State's later revocation motion described the conditions much more narrowly.
 
 According to the State's recitation, the sentence allowed me to **enter and exit Lafayette County and travel directly to the residence where I was then staying until November 15, 2022**. It separately allowed me to enter for **court proceedings or scheduled court business**, provided I gave the Lafayette County Sheriff's Department one day's notice.
 
@@ -57,6 +83,8 @@ That distinction was procedurally correct even though I regarded the timing as s
 On **November 14**, Smith denied the withdrawal motion.
 
 Applying the ineffective-assistance framework from *Strickland v. Washington*, he concluded that I had not shown deficient performance by counsel or resulting prejudice. He also relied heavily on the plea colloquy. My later assertions that I was innocent and had been pressured, he wrote, contradicted the answers I gave under oath when the plea was accepted.
+
+The signed order states that immediately before the plea hearing the court had found me legally competent based on the mental-evaluation findings and that defense counsel stipulated to those findings.
 
 That creates a documentary conflict that stays visible throughout the book.
 
@@ -138,4 +166,8 @@ The transcript is more complicated.
 
 The recovered calls make one part of Beavers's testimony deeply problematic. But Judge Tollison's stated ruling rested on the broader question of unauthorized presence under the banishment terms.
 
-The next chapter follows the transcript rather than the slogan.
+One additional records problem belongs in this chronology because it illustrates why I now compare documents instead of trusting a date merely because it appears on a filed form.
+
+A later 2023 petition seeking another revocation states that I was sentenced on **September 20, 2022**. The signed sentencing order, Notice of Criminal Disposition, and November 2022 revocation transcript all identify the sentencing date as **September 30**. I therefore use September 30 as the verified date while preserving the later petition's September 20 entry as a clerical inconsistency rather than silently importing it into the timeline.
+
+The next chapter follows the November 3 transcript rather than the slogan.
