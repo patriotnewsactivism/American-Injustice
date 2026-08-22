@@ -1,37 +1,63 @@
-CHAPTER 22 — A YEAR IN MISSISSIPPI CUSTODY
+CHAPTER 22 — THE ONE-YEAR SENTENCE
 
-I was released from Mississippi custody on August 1, 2023, roughly a year after the November 3, 2022 revocation hearing detailed in the previous chapter. This chapter is deliberately the shortest in Part III, not because the year it covers was uneventful, but because the available record does not include a detailed, date-by-date account of that custodial year, and no texture is manufactured here where none is documented.
+Judge Gray Tollison sentenced me on November 3, 2022 to serve one year of the five-year sentence that had originally been suspended.
 
-What can be said plainly is the shape of the year, viewed from its two endpoints. It began with a revocation that rested formally on my presence in Lafayette County and rested, in the room, on a deputy answering *yes* when a prosecutor asked whether I had lied — about a walk-in visit to an FBI office I had given the Sheriff's Department advance notice of, as Chapter 21 sets out from the certified transcript. It ended with a release on August 1, 2023, three days before I would attempt to report that same deputy to her own department, in the August 4 call detailed in Chapter 21 — a call that itself preceded, by seven days, the Galveston, Texas arrest that opens Part IV.
+I did not spend a full calendar year in custody.
 
-It started on a road, three days after I walked into an FBI office and nobody came out to meet me.
+The State filed its revocation motion on November 1 and expressly asked that I be held in the Lafayette County Detention Center until the earliest available hearing, which the motion identified as November 3 at 2:00 p.m. I was taken into custody November 1. I was released from Mississippi Department of Corrections custody on August 1, 2023. That is roughly nine months of actual confinement on a sentence denominated as one year. I do not have a sufficiently clear MDOC record in the source set before me showing exactly which jail credit, earned-time calculation, or release mechanism accounts for the difference, so I am not going to invent one.
 
-I was driving home from a city hall meeting when the lights came on behind me. I had the camera running, the way I always did by then, so I do not have to reconstruct this from memory.
+The arrest itself was recorded.
 
-The officer opened with the tag on my car, which was a pretext and we both knew it. Then he came to it straight:
+I was returning from Holly Springs when a Lafayette County deputy stopped me and explained that paperwork had been issued directing that I be held for the revocation hearing. The recording matters because the officer did not behave like an antagonist. He showed me the paperwork, offered to let me look at it, explained that once officers had made contact he could not let me drive away, and tried to help work out what would happen to my vehicle. When I told him my wife was in Hernando and my children were at home, he let me call her.
 
-> *"There was paperwork that was issued today and I just wanted to talk to you about it and give it to you, and I figured coming from me would be the best."*
+I told him, "I've done nothing wrong. I just came from Holly Springs."
 
-He showed it to me. An order of holding, out of the Circuit Court of Lafayette County. *"It's a revocation hearing and you're going to have a hearing on it tomorrow morning, and I'm going to need you to come with us tonight."*
+He did not argue with me. He carried out the order.
 
-I said the only thing there was to say. *"I've done nothing wrong. I just came from Holly Springs."*
+That distinction belongs in this book. A government process can be wrong without every person who touches it behaving wrongly. The deputy serving the order treated me decently on the recording.
 
-He did not argue with me and he did not put anything on me. He offered to let me get out and read the document myself — *"if you want to get out, I'd be happy to let you look at it."* When I asked whether I could at least take my car home, he explained, apologetically, that once they had made contact he could not let me drive off, and then he tried to help me solve it: leave it here, get someone to come for it, he wouldn't mind arranging something. I told him my wife was out in Hernando and my kids were at the house.
+There is a more important correction to my own account of the hearing.
 
-I am putting all of that in because it is true and because this book keeps a second ledger. That man did his job decently. He told me what was happening, he offered me the paper, and he worried about my car and my children. Nothing in the year that followed is his fault.
+For years I explained my failure to play the October 28 phone recordings by saying I was arrested on short notice, separated from the recordings, asked the court for more time, and was refused a continuance. The certified transcript does not support that version.
 
-**But look at what he told me: the hearing was the next morning.**
+At the opening of the November 3 hearing, Judge Tollison proposed doing the opposite. He told me he wanted to appoint an attorney and put the proceeding off until the following week. I repeatedly waived counsel and asked to proceed that day. He warned me that I would have a better likelihood of success with an attorney. I said I understood and still wanted to continue without one.
 
-That single fact is the answer to the question the previous chapter leaves hanging, and I have never given it the weight it deserves. Everyone who hears this story asks the same thing: *if you had a recording that contradicted her, why didn't you play it?*
+That was my choice.
 
-Because I was taken off a road at night and put in a cell, and the hearing was at two o'clock the following afternoon, and my recordings were not in the cell with me. I asked for time. **The court would not continue it.**
+I had been in custody since November 1. I was angry, convinced the revocation was retaliatory, and wanted the matter heard immediately. But those circumstances do not change the transcript. The court offered counsel and delay. I waived both.
 
-So the proceeding that took a year of my life went forward with the deputy's account of the October 28 call in the room and the actual October 28 call sitting on a device I could not reach. That is not a close evidentiary call that went against me. That is a man being asked to disprove a characterization of a recording while separated from the recording, on roughly eighteen hours' notice, without counsel.
+The transcript also shows that I told Judge Tollison during the hearing that I had the FBI interaction documented in audio and other evidence. After the court announced its finding, Tollison told me I could submit evidence and said the record would remain open for YouTube videos and similar material. When I asked how, he suggested putting it on a zip or flash drive and said I would be permitted to do that from the jail.
 
-A year is a long time to spend in custody on the strength of a hearing that took an afternoon. It is worth naming, plainly, what that year cost, independent of any of the surrounding legal maneuvering documented across twenty chapters: a year away from children whose custody arrangements had already been the subject of five years of litigation; a year in which the banishment order forcing me out of Lafayette County remained in force regardless of what happened to the revocation that sent me into custody; and a year that would ultimately be vacated — not immediately, and not without a fight, but vacated nonetheless, first in part in June 2024 and then fully, alongside the underlying 2022 stalking-case plea itself, on January 21, 2025, through the work of the MacArthur Justice Center's Jacob Howard, detailed in Part IV.
+That does not mean the recordings were considered before he revoked me; they were not introduced before the ruling reflected in the transcript. It does mean I cannot accurately write that the court refused to let me submit them or refused every opportunity for additional time. The record is more complicated: the judge initially offered a continuance so I could have counsel, I declined it, the hearing proceeded, the court ruled on the evidence then in the room, and afterward the judge said I could supplement the record. I have not located a docket entry proving that the October 28 recordings were subsequently submitted and considered.
 
-That eventual vacatur matters enormously to how this chapter, and this entire Part, should be read. A sentence that is later fully vacated by a court reviewing the same record laid out here — the duress-signed order, the questionable testimony behind the revocation, the disproportionate scope of the banishment itself — is not a footnote to this story. It is closer to a confirmation, arriving years after the fact, that the system's own internal review process eventually reached something close to the conclusion I've been building toward since Chapter 5: that a signature obtained under duress in 2017 should never have been allowed to metastasize, five years later, into a felony-adjacent conviction and a year of custody decided in a single afternoon, on eighteen hours' notice, while the recording that bore on it sat somewhere I could not reach.
+The distinction matters because those recordings now exist in the archive and, as Chapter 21 shows, they materially undercut the prosecutor's "so he lied?" premise. The FBI told me it handled walk-ins. I told Beavers there was no formal appointment. Beavers knew that before I entered Oxford. But the revocation ruling itself rested on Judge Tollison's broader finding that my presence in Lafayette County on October 28 and October 31 violated the banishment condition.
 
-One more document belongs in this chapter, discovered only recently and not previously part of this account. On August 17, 2023 — just six days after the Galveston, Texas arrest that opens Part IV, and less than three weeks after my release from the year of custody this chapter covers — the State of Mississippi filed a bench warrant and a Petition to Revoke Suspended Sentence, signed by Assistant District Attorney Steven Patrick Jubera, under the same 2022 stalking case cause number. The petition cited the Galveston felony DUI arrest as grounds and asked the court to revoke the entire remaining four years of my suspended sentence — not just the one year I had already served, but the whole balance still hanging over me. This was a second, separate Mississippi legal consequence, layered directly on top of the Galveston case itself, and it followed within days of the very perjury complaint detailed in the previous chapter — the one Chief Deputy Mills declined to take over the phone. Whether that petition ever reached a hearing before the January 2025 vacatur made the entire underlying sentence moot is not established in the documents I have. What is established is the sequence: a stonewalled complaint against a deputy on August 4, an arrest in another state seven days later, and a filing six days after that seeking to convert the remainder of a five-year suspended sentence into real time — three institutional actions, stacked one on top of the next, in the space of thirteen days.
+Then came the custody.
 
-None of that vacatur had happened yet, in August 2023, when I walked out of Mississippi custody. What happened next, within days, is the subject of Part IV — beginning not with vindication, but with one more arrest, in a different state, seven days after the complaint I was trying, at that exact moment, to get someone to take seriously -- and, as Chapter 23 sets out from the recordings, with two Lafayette County officers on the phone to the arresting department before dawn.
+The documentary record available for this book does not contain a reliable day-by-day account of the months I spent in MDOC custody between November 2022 and August 2023. I am not going to fill that gap with generic prison scenes, reconstructed conversations, or invented texture. The dates and legal consequences are enough.
+
+There is, however, one legal fact about the one-year sentence that did not become clear to me until much later.
+
+In November 2024, attorney Jacob Howard of the MacArthur Justice Center filed a post-conviction relief petition challenging a second revocation sentence imposed in July 2024. In a footnote, that petition addressed the November 3, 2022 sentence too. Howard argued that the banishment violation was a **technical violation** under Mississippi law and that, because the November 2022 proceeding was the first revocation for technical violations, Mississippi Code § 47-7-37(5)(a) authorized a maximum incarceration period of **ninety days**, not one year.
+
+That is a lawyer's argument in a filed post-conviction petition, not a separate judicial ruling vacating the first revocation. The distinction is essential.
+
+Howard's petition expressly said that I had already served the November 2022 sentence and therefore did **not** ask the court to grant relief from it. The petition challenged only the later July 18, 2024 revocation sentence.
+
+That means another claim from earlier drafts has to be removed: the one-year sentence imposed in November 2022 was not later "fully vacated" by the January 21, 2025 order. It was not.
+
+The January 2025 order dealt with the **second** revocation. It vacated the excessive July 2024 sentence, resentenced me to 120 days, ordered my immediate release because I had already served more than that, and reinstated me to the underlying five-year term of unsupervised probation. The order expressly kept the original conditions in force, including banishment from Lafayette County. It did not erase the September 2022 guilty plea, the underlying aggravated-stalking conviction, or the first November 2022 revocation.
+
+So the legally accurate account of this chapter is less dramatic than the version I once told, but in one respect more troubling.
+
+I served roughly nine months of actual custody under a one-year revocation sentence. Years later, counsel for the MacArthur Justice Center stated in a filed PCR petition that the statutory maximum for that first technical revocation was ninety days. Because I had already served the sentence, that petition did not ask the court to correct it, and no later order in the evidence before me vacated that first revocation.
+
+The time was simply already gone.
+
+On August 1, 2023, I walked out of MDOC custody.
+
+The record immediately becomes dense again after that point. Within days I began publicly attacking the testimony from the November hearing and trying to get law enforcement to take a complaint about it. Then I traveled to Galveston, Texas.
+
+On August 11, ten days after my release, I was arrested there for driving while intoxicated. Within hours, officers from Lafayette County were communicating with Galveston law enforcement about me.
+
+That is where Part IV begins.
