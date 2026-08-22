@@ -17,6 +17,7 @@ OUT.mkdir(parents=True, exist_ok=True)
 
 DATE = "2026-08-22"
 STEM = f"American_Injustice_PUBLICATION_{DATE}"
+MIN_WORD_COUNT = 75_000
 
 
 def source_files(include_manual_toc: bool = True) -> list[Path]:
@@ -214,6 +215,12 @@ a { color: inherit; text-decoration: none; }
 def main() -> None:
     text, files = assemble(True)
     problems = validate(text, files)
+    word_count = len(re.findall(r"\b[\w'’-]+\b", re.sub(r"<[^>]+>", " ", text)))
+    if word_count < MIN_WORD_COUNT:
+        problems.append(
+            f"Publication word count {word_count:,} is below required minimum {MIN_WORD_COUNT:,}"
+        )
+
     if problems:
         raise SystemExit("PUBLICATION QA FAILED:\n- " + "\n- ".join(problems))
 
@@ -226,7 +233,6 @@ def main() -> None:
 
     css_path = write_css()
 
-    word_count = len(re.findall(r"\b[\w'’-]+\b", re.sub(r"<[^>]+>", " ", text)))
     source_digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
     report = (
         f"American Injustice publication build\n"
@@ -235,6 +241,7 @@ def main() -> None:
         f"Source files assembled: {len(files)}\n"
         f"Chapters: 39\n"
         f"Approximate assembled word count: {word_count:,}\n"
+        f"Minimum word-count guardrail: {MIN_WORD_COUNT:,}\n"
         f"Assembled Markdown SHA-256: {source_digest}\n"
         f"QA: PASS\n"
     )
