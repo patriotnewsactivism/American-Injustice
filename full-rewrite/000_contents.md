@@ -37,7 +37,7 @@
 <div class="e"><span class="n">19</span><span class="t">The June 2022 Arrest: Case B</span></div>
 <div class="e"><span class="n">20</span><span class="t">The Guilty Plea and Banishment</span></div>
 <div class="e"><span class="n">21</span><span class="t">Revocation: What Beavers Actually Said</span></div>
-<div class="e"><span class="n">22</span><span class="t">A Year in Mississippi Custody</span></div>
+<div class="e"><span class="n">22</span><span class="t">The One-Year Sentence</span></div>
 <div class="part">PART IV · GALVESTON AND RELEASE (2023–2025)</div>
 <div class="e"><span class="n">23</span><span class="t">Release, and Galveston</span></div>
 <div class="e"><span class="n">24</span><span class="t">Osteen Lied Under Oath</span></div>
@@ -45,14 +45,14 @@
 <div class="e"><span class="n">26</span><span class="t">Released, but Not Vacated</span></div>
 <div class="part">PART V · THE WIDENING WAR (2025–2026)</div>
 <div class="e"><span class="n">27</span><span class="t">Layton, Utah</span></div>
-<div class="e"><span class="n">28</span><span class="t">The BOLO: Two Months Before</span></div>
+<div class="e"><span class="n">28</span><span class="t">The Alerts: Two Months Before</span></div>
 <div class="e"><span class="n">29</span><span class="t">The Governor's Mansion</span></div>
 <div class="e"><span class="n">30</span><span class="t">Lafayette: August 25</span></div>
 <div class="e"><span class="n">31</span><span class="t">Trial and Verdict</span></div>
 <div class="e"><span class="n">32</span><span class="t">The New Orleans Assault</span></div>
 <div class="e"><span class="n">33</span><span class="t">The Records Request</span></div>
 <div class="e"><span class="n">34</span><span class="t">The Ice-Storm Arrest</span></div>
-<div class="e"><span class="n">35</span><span class="t">Reardon v. State: The Reversal</span></div>
+<div class="e"><span class="n">35</span><span class="t">Reardon v. State: Reversed and Remanded</span></div>
 <div class="e"><span class="n">36</span><span class="t">The Union County Thread</span></div>
 <div class="e"><span class="n">37</span><span class="t">Reardon v. Osteen: The Objections</span></div>
 <div class="e"><span class="n">38</span><span class="t">Sentencing</span></div>
