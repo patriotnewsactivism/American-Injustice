@@ -30,24 +30,28 @@ It is equally important not to stretch East's words beyond what the recording sa
 
 The unresolved issue was the one I had come to ask about: why a case I had been told was randomly assigned to Smith now displayed Luther.
 
-I also made a recorded call to court administration about the assignment. The existence of that call matters because it shows the judge-assignment complaint did not originate after the events of the next day. I was raising it contemporaneously, before any commitment proceeding began.
+I also made a recorded call to court administration about the assignment. The existence of that call matters because it shows the judge-assignment complaint was being raised contemporaneously, not invented later after the commitment proceedings.
 
-That sequence is the evidentiary hinge:
+The commitment file adds a timing detail that earlier drafts had wrong. The Uniform Civil Commitment Affidavit in Cause No. 2021-691(L) is dated and filed **December 6, 2021** — the same date as the clerk's-office and East encounters — not December 7. The record presently before me does not establish whether Alcorn signed the affidavit before or after the specific recorded confrontation with East. I therefore cannot truthfully write that the East encounter caused the affidavit merely because both occurred on the same date.
+
+The next day, December 7, deputies came to take me into custody on the commitment writ. That seizure is separately captured on a contemporaneous recording.
+
+The defensible chronology is therefore narrower than the version I told for years:
 
 **December 3:** I filed the Justice Court challenge and was told, according to my sworn account and recording, that the case was assigned to Kent Smith by a random process.
 
-**December 6:** I returned after seeing John Kelly Luther associated with the case, questioned courthouse staff on video, and was confronted outside by Sheriff East, who said he had received a call that I was harassing people.
+**December 6:** I returned after seeing John Kelly Luther associated with the case, questioned courthouse staff on video, and was confronted outside by Sheriff East, who said he had received a call that I was harassing people. The commitment file also shows Rachel Alcorn's Uniform Civil Commitment Affidavit was filed that day.
 
-**December 7:** Communicare supervisor Rachel Alcorn signed an involuntary-commitment affidavit after Communicare was contacted by local law enforcement about what she later described as concerning behavior.
+**December 7:** deputies executed the commitment process and took me into custody.
 
-The chronology is real. The inference I drew from it — that the commitment was retaliation for my courthouse questions — is mine. The record does not permit me to collapse those two propositions into one.
+The inference I drew from that sequence — that the commitment process was retaliation for my courthouse questions — is mine. The record does not permit me to collapse chronology and motive into the same fact.
 
-That distinction became much clearer when I later spoke directly with Alcorn. For years I summarized that conversation as though she had identified Joey East personally as the source of the information behind the commitment. The recording does not support that. She said **local law enforcement** contacted Communicare. When I supplied East's name, she did not confirm it.
+That distinction became much clearer when I later spoke directly with Alcorn. For years I summarized that conversation as though she had identified Joey East personally as the source of the information behind the commitment. The recording does not support that. She said **local law enforcement** contacted Communicare about what she described as concerning behavior. Later in the call, she also referred to information from "law enforcement and community members." When I supplied East's name, she did not confirm it.
 
-She also gave context I had often left out when telling the story: I was already subject to an outpatient commitment order originating in Calhoun County, and Communicare said its treatment teams had previously tried to engage me. That pre-existing order matters to any fair assessment of why an affidavit could be filed so quickly.
+She also gave context I had often left out when telling the story: I was already subject to an outpatient commitment order originating in Calhoun County, and Communicare said its treatment teams had previously tried to engage me. That pre-existing order matters to any fair assessment of why Communicare was involved at all.
 
 Those corrections do not make the timing disappear. They make the question narrower and more defensible.
 
-The next chapter is therefore not the story of a sheriff personally signing a psychiatric affidavit because I asked about a judge. The record does not show that. It is the story of a Communicare supervisor signing the affidavit one day after the recorded courthouse confrontation, after a referral from local law enforcement, against the backdrop of an already-existing outpatient commitment order.
+The next chapter is therefore not the story of a sheriff personally signing a psychiatric affidavit because I asked about a judge. The record does not show that. It is the story of a Communicare supervisor filing a commitment affidavit on the same date as a recorded courthouse confrontation, after Communicare had been engaged by local law enforcement, against the backdrop of an already-existing outpatient commitment order — followed by deputies taking me into custody the next day.
 
 That is what the documents and recordings establish. Anything beyond it has to remain identified as my allegation.
