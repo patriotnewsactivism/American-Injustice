@@ -4,46 +4,92 @@ On the morning of June 28, 2022, I went to the Lafayette County Chancery Court b
 
 That is the first correction this chapter requires.
 
-The Lafayette County Sheriff's Office report written by Deputy Hoby James records the sequence from the officers' side. At approximately 8:00 that morning, James received a call advising him that the Mississippi Bureau of Investigation had issued a warrant for me. He was told to meet officers at Chancery Court at 9:00 "because Matt had court today." James wrote that he served the MBI arrest warrant at approximately 9:32 a.m., that I was arrested without incident, and that I was transported to the Lafayette County Detention Center.
+The Lafayette County Sheriff's Office report written by Deputy Hoby James records the sequence from the officers' side. At approximately 8:00 that morning, James received a call advising him that the Mississippi Bureau of Investigation had issued a warrant for me. He was told to meet officers at Chancery Court at 9:00 “because Matt had court today.” James wrote that he served the MBI arrest warrant at approximately 9:32 a.m., that I was arrested without incident, and that I was transported to the Lafayette County Detention Center.
 
-The warrant had been built the day before.
+The MBI file now gives a much fuller account of how the warrant reached that point.
 
-MBI case M22-00000897 records that Oxford Police Chief Jeff McCutchen contacted MBI on June 23, 2022 and asked for assistance with an aggravated-stalking investigation involving Oxford's mayor. On June 27, MBI Lieutenant Joey Mauney met with Oxford Police investigator Shane Fortner, reviewed the material Oxford had gathered, and assisted in preparing an arrest warrant. Mauney's supplement states that the warrant was emailed to Circuit Judge Kent E. Smith. At approximately 3:00 p.m., Smith contacted Mauney by FaceTime, placed him under oath regarding the information in the warrant, and signed it.
+The case is M22-00000897. Its internal table of contents identifies the matter as a stalking/aggravated-stalking investigation and lists the supporting records MBI assembled: the arrest affidavit and warrant, the existing restraining order, an Oxford Police report, a written statement from Ashley Atkinson, criminal-history material, and other investigative documents. The file expressly says that it contains neither MBI's recommendation nor conclusions. That disclaimer matters. The file is an investigative packet, not a judicial finding that every allegation in it was true.
 
-The conduct the MBI file describes did not occur at Chancery Court on June 28. It centered on my June 20, 2022 visit to Oxford City Hall and on earlier social-media posts.
+MBI's first dated supplement is June 23.
 
-The MBI affidavit describes a publicly posted video of my City Hall visit. Mauney wrote that he watched me enter the building, look at the directory, walk through the first floor, go upstairs toward the mayor's office, stand outside the office doors, leave, and return. The affidavit says that at approximately 7:49 in the video I attempted to use the doorknob but was unsuccessful. I dispute the characterization that I attempted to enter the office, and my own video is the obvious evidence by which that assertion should be judged. What matters for this chronology is that this was the conduct MBI was evaluating when it sought the warrant.
+At approximately 9:00 that morning, Lieutenant Joey Mauney wrote that Oxford Police Chief Jeff McCutchen contacted him seeking MBI assistance with an aggravated-stalking investigation involving Oxford's mayor. After the conversation, McCutchen requested guidance through MBI headquarters and Mauney's chain of command about further investigative action.
 
-The affidavit also cites the standing Chancery Court protection order and earlier posts on Twitter and YouTube. In other words, the State's theory was not that my June 28 arrival for court somehow activated three independent legal "gears" and automatically became aggravated stalking. That was an explanation used in an earlier draft of this book, and it was wrong.
+Four days later, on Monday, June 27, Mauney was told to assist Oxford Police “in any way possible.” He met Detective Shane Fortner at approximately 9:00 a.m. to discuss the case. Around noon, Mauney and Master Sergeant Jason Roe gathered the investigative information from Fortner. The supplement identifies me as the person of interest. An arrest warrant was then prepared and emailed to Third Circuit Judge Kent E. Smith.
 
-The State's theory, as reflected in the MBI paperwork, was that the City Hall visit and earlier online activity formed a prohibited course of conduct directed toward the mayor while the protection order remained in effect, and that the circumstances supported a charge under Mississippi's stalking statute. Whether that theory properly criminalized protected political speech or ordinary access to a public building is a different question from what the theory actually was. This chapter has to get the latter right before arguing about the former.
+At approximately 3:00 p.m., Judge Smith contacted Mauney by FaceTime. Mauney wrote that Smith placed him under oath concerning the information in the warrant and then signed and issued it.
 
-The corrected chronology is therefore straightforward:
+So before I went to Chancery Court the following morning, the investigative sequence was already complete enough to produce a judicially signed arrest warrant.
 
-June 20: I went to Oxford City Hall with a camera and recorded inside the building.
+The conduct MBI relied upon was not my June 28 arrival at Chancery Court. It centered on my **June 20 visit to Oxford City Hall** and on earlier social-media posts.
 
-June 23: Chief Jeff McCutchen contacted MBI and requested assistance with the investigation.
+Mauney's affidavit describes him reviewing Fortner's report and then going to my public Facebook page, where he found a link to a YouTube video. He wrote that the City Hall video ran twenty-three minutes and thirty-five seconds.
 
-June 27: Mauney and Oxford Police reviewed the case material; Mauney prepared the arrest-warrant affidavit; Judge Kent Smith swore Mauney by video and issued the warrant.
+The affidavit then gives timestamps.
 
-June 28: Lafayette County deputies knew I had a Chancery Court proceeding, waited there, and served the already-issued warrant when I arrived.
+At approximately 3:53 in the video, I entered City Hall. I looked at a directory identifying departments and walked around the first floor recording. At roughly five minutes, I returned to the directory. I then went upstairs and approached the doors Mauney associated with the mayor's office.
 
-That distinction matters to me for more than narrative accuracy. In the earlier version, I made the arrest sound as though officers were treating my mere appearance at the courthouse as the new felony. The sheriff's report shows something both more ordinary and, in another sense, more troubling: they used a place they knew I was required to be in order to execute a warrant arising from conduct that had already occurred elsewhere.
+The affidavit says I stood there briefly, walked away, and returned. At approximately 7:49, Mauney wrote that I “attempt[ed] to enter the door by using the doorknob but was unsuccessful.”
 
-This was the second aggravated-stalking prosecution in my Mississippi history, separate from the 2017 Lynch case. The 2017 case involved Todd and Ashley Lynch and the later Criminal Information alleging an AR-15 threat on or before May 8, 2017. The 2022 case involved Mayor Robyn Tannehill, the standing 2017 Chancery Court order, the June 20 City Hall visit, and older online activity identified in the MBI file. The cases cannot be merged simply because the statute and county were the same.
+I dispute that characterization. My position has been that the video does not show an attempted unlawful entry into the mayor's office. The video itself, rather than either my description or Mauney's, is the best evidence of what my hand did at that door.
 
-The 2017 Chancery order nevertheless mattered. It was part of the factual and legal foundation cited by the 2022 investigators. I had signed that order five years earlier while jailed on the Lynch case, on the advice of attorney Brennan Horan. I have consistently described that signature as coerced by the circumstances of my detention and by my overriding desire to get out of jail. Chapter 5 sets out what the record can and cannot prove about that episode. What I should not do here is turn my view of the 2017 order into a false description of the 2022 statute.
+Mauney's affidavit also records what happened immediately afterward. It says I walked away until I encountered a woman on the second floor and told her that I remembered the mayor's office being on the first floor when the prior mayor was in office.
 
-A prior version of this chapter said that a prior stalking conviction, a standing protective order, and physical presence automatically locked together to create aggravated stalking without the State having to prove new stalking conduct. I am removing that explanation. The charging affidavit itself alleges a course of conduct and identifies the June 20 City Hall video and prior social-media activity. The record does not support describing the June 28 courthouse arrival as the third element that mechanically completed the felony.
+That detail is important because it shows the affidavit was not based on the door moment alone. Investigators were building a broader course-of-conduct theory.
 
-The constitutional argument is narrower and stronger when stated accurately. City Hall was a public government building. I went there with a camera. Much of the older material cited in the investigative file was political commentary about an elected mayor. Speech criticizing public officials occupies protected constitutional territory, while stalking statutes may lawfully reach conduct that satisfies their elements even when some communication is involved. The dispute in my case is therefore not solved by labeling every tweet protected or every contact stalking. The question is whether the actual conduct the State assembled satisfied the statute without punishing constitutionally protected activity. That question should be answered from the video, the posts, the protection order, and the charging documents — not from a metaphor about automatic gears.
+The affidavit says I had “continually violated parts” of the restraining order both in person and through social-media outlets including Twitter and YouTube. It listed dates of tweets—May 23, 2021; August 3, 2021; August 11; August 12; August 17; August 23; and September 1—as examples rather than reproducing every post in the affidavit itself.
 
-The arrest itself, according to James's report, was without incident. That detail also belongs here. There was no tactical struggle at Chancery Court and no new confrontation that morning supplying the basis for the charge. I arrived for court. Officers who had been told I would be there served the MBI warrant. I was taken to jail.
+That is the State's actual investigative theory.
 
-What followed was far more consequential than the mechanics of the arrest. The case proceeded to a lengthy preliminary hearing. I remained in custody. Mitchell Driskell was appointed to represent me and was later replaced by Mark McClinton. On September 30, 2022, I entered a guilty plea that produced a five-year suspended sentence, unsupervised probation, a banishment condition, and an order requiring me to leave Lafayette County.
+An earlier version of this book described three automatic legal “gears”: a prior stalking conviction, an active protective order, and my physical presence, which supposedly combined mechanically to create aggravated stalking. That was wrong.
 
-Those later events belong to the chapters that follow. The point here is to fix the foundation before building on it.
+The MBI affidavit alleges a **course of conduct**. It cites the June 20 City Hall video, the restraining order, and earlier online activity. My prior 2017 aggravated-stalking conviction was legally important to the felony charging theory, but the State still alleged new stalking conduct. The June 28 Chancery appearance was not the final gear that completed the crime. It was where officers knew they could find me to serve a warrant already signed the day before.
 
-Case B began with the June 20 City Hall encounter and the investigative file Oxford Police sent into MBI. MBI entered the matter on June 23. The warrant was sworn and signed June 27. It was served June 28 at Chancery Court because law enforcement knew I would be there for court.
+The affidavit is also revealing for what it says about its own source base. Mauney wrote that it was based on his personal knowledge, information from other state and local law-enforcement officers, other sources he considered reliable, and his training and experience. That means not every factual assertion originated in something Mauney personally witnessed.
 
-That is what the records say. The legal and constitutional fight over what those records mean comes next.
+On June 28, after the arrest, MBI also generated an Advice of Rights form. The form explains the right to remain silent, the right to counsel, the right to appointed counsel if indigent, and the right to stop answering questions. It contains a waiver section stating that the signer understands the rights and is willing to answer questions without a lawyer. That document is part of the case file and is another reason the chronology should be written from the record rather than reduced to the arrest itself.
+
+The warrant page contains a handwritten bond notation that appears to read **$12,000**. Whatever that notation initially meant, it did not determine the ultimate pretrial custody decision. The MBI file records what happened next.
+
+On **Wednesday, July 6, 2022**, at approximately 1:00 p.m., Mauney and Roe attended my preliminary hearing at the main courthouse in Oxford. Judge Kent Smith presided. Mauney's July 7 supplement says the hearing lasted several hours. After the hearing, Smith found sufficient evidence for the case to be presented to the Lafayette County grand jury during its August session.
+
+The supplement then records the consequence that mattered most to me: Judge Smith considered me a threat to the community and ordered me held **without bond** at the Lafayette County Detention Center pending the grand-jury date.
+
+That corrects another date that had drifted in earlier versions of my timeline. The MBI file says the preliminary hearing was **July 6**, not July 5.
+
+The distinction between the initial warrant notation and the preliminary-hearing order is important. The paper trail may show a bond figure on the warrant, but after several hours of hearing the Circuit Court ordered me held without bond. The book should not collapse those separate procedural moments into one number.
+
+By then this was no longer simply a dispute about access to City Hall.
+
+I was back in the same county jail where I had spent more than forty days in 2017. I was again facing an aggravated-stalking felony. The prior 2017 conviction—the case I had been trying to reopen through post-conviction litigation—was now part of the legal landscape of the second case. The standing Chancery restraining order also remained part of the file.
+
+But the two criminal cases were distinct and have to stay distinct in this book.
+
+The **2017 case** concerned Todd and Ashley Lynch. Its later Criminal Information alleged AR-15 conduct “on or before May 8, 2017.” It ended in the July 6, 2017 guilty plea, banishment, probation, and covenant not to sue.
+
+The **2022 case** concerned Mayor Robyn Tannehill. Its investigative record cited the June 20 City Hall visit, the standing protection order, earlier social-media posts, and the prior conviction. The MBI warrant was obtained June 27 and served June 28.
+
+The fact that both cases used the aggravated-stalking statute and both occurred in Lafayette County does not make them the same prosecution or allow evidence from one to be silently imported into the other.
+
+The constitutional argument is stronger when the factual theory is stated correctly.
+
+City Hall was a government building open to the public. I entered with a camera. Much of the older material investigators cited consisted of political expression about an elected official. Political speech receives powerful First Amendment protection. At the same time, constitutionally protected speech does not immunize otherwise criminal conduct, and a stalking statute can reach conduct satisfying its elements even where expression is involved.
+
+The question therefore is not whether every tweet was automatically protected or whether every approach toward a mayor's office was automatically stalking. It is whether the particular conduct assembled by Oxford Police and MBI lawfully satisfied the statute without treating protected petitioning, recording, or political criticism as criminal merely because it was unwanted.
+
+That is a legal dispute. The investigative facts come first.
+
+June 20: I recorded inside Oxford City Hall.
+
+June 23: McCutchen asked MBI to become involved.
+
+June 27: Mauney and Roe met with Fortner; MBI reviewed the video and other material; an affidavit and arrest warrant were prepared; Judge Smith swore Mauney by FaceTime and signed the warrant around 3:00 p.m.
+
+June 28: deputies knew I had Chancery Court, waited there, arrested me without incident at approximately 9:32 a.m., and transported me to jail.
+
+July 6: after a several-hour preliminary hearing, Judge Smith found sufficient evidence to send the case toward the grand jury and ordered me held without bond as a perceived threat to the community.
+
+Those dates now come directly from the MBI and Sheriff's records.
+
+The case later produced an indictment and a second guilty plea. The indictment itself would cite the 2017 conviction and identify the earlier offense date as May 8, 2017—showing how the disputed date from Case A became embedded in the charging architecture of Case B.
+
+That is where the next chapter begins: not with a new arrest, but with the pressure of fighting the second case from jail while the first conviction was being used as part of the State's theory against me.
