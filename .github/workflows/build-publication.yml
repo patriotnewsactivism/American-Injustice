@@ -3,6 +3,7 @@ name: Build publication edition
 on:
   push:
     branches:
+      - main
       - prepublication-red-team-2026-08-22
     paths:
       - 'full-rewrite/**'
@@ -24,10 +25,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out publication branch
+      - name: Check out triggering revision
         uses: actions/checkout@v4
         with:
-          ref: prepublication-red-team-2026-08-22
           fetch-depth: 0
 
       - name: Set up Python
@@ -157,8 +157,8 @@ jobs:
             manuscript-exports/prepublication/PDF_INFO.txt
             manuscript-exports/prepublication/SHA256SUMS.txt
 
-      - name: Commit publication exports to branch
-        if: github.event_name != 'pull_request'
+      - name: Commit publication exports to triggering branch
+        if: github.event_name == 'push'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -167,5 +167,5 @@ jobs:
             echo 'No publication export changes to commit.'
           else
             git commit -m 'Build publication-ready manuscript exports'
-            git push origin HEAD:prepublication-red-team-2026-08-22
+            git push origin HEAD:"${GITHUB_REF_NAME}"
           fi
