@@ -2,7 +2,7 @@ CHAPTER 5 — $150,000, AND AN ORDER SIGNED UNDER DURESS
 
 My initial appearance on the aggravated-stalking charge was held May 30, 2017, before Lafayette County Justice Court Judge Carolyn Bell. I had been arrested on Friday, May 26. The long Memorial Day weekend passed with me in custody before I was brought before the court on Tuesday.
 
-The bond set at that appearance was $150,000. That amount is confirmed in the project evidence ledger and in the case materials I later filed while attacking the 2017 conviction. I argued then, and still believe, that the amount was excessive for the charge and circumstances. The legal merits of that argument belong in the legal-analysis section. The historical fact here is that I could not post it, and I remained in jail.
+The bond set at that appearance was $150,000. That amount is confirmed by the contemporaneous Oxford Eagle report and later court materials. I argued then, and still believe, that the amount was excessive for the charge and circumstances. The legal merits of that argument belong in the legal-analysis section. The historical fact here is that I could not post it, and I remained in jail.
 
 My memory of the hearing includes two things that I have repeated for years but cannot prove from a transcript because I do not have one. First, I remember Judge Bell meeting with sheriff's investigators before the hearing. Second, I remember trying to raise the dated rifle bill of sale and being stopped rather than having the document examined. Those are my recollections. I am not going to convert them into an independently established ex parte violation or quote words from a hearing I cannot reproduce.
 
@@ -26,11 +26,15 @@ In later years I went further. In an unfiled draft motion challenging the order,
 
 The Lynch case was not dismissed when I agreed to the civil order. It continued until the July 6 plea.
 
-I have also described Horan's family relationship to then-state legislator Kevin Horan as a conflict of interest. The family relationship appears repeatedly in my own files and project ledger. What I do not have is evidence that Kevin Horan participated in my case or that the family relationship affected Brennan Horan's advice. The publication copy therefore should not call the relationship, by itself, a proven conflict. The relevant question is the advice Brennan Horan actually gave me, and on that question the strongest source presently available is my own recollection.
+I have also described Horan's family relationship to then-state legislator Kevin Horan as a conflict of interest. The family relationship appears repeatedly in my own files and project ledger. What I do not have is evidence that Kevin Horan participated in my case or that the family relationship affected Brennan Horan's advice. The publication copy therefore does not call the relationship, by itself, a proven conflict.
+
+There is another correction that belongs here because I repeated it publicly for years. I said Brennan Horan and Rhea Tannehill had gone to law school together. A June 27, 2020 message from attorney Christi McCoy contradicts that account: after checking the bar website, she told me Brennan had graduated roughly ten years before Rhea and that they had not been in law school together. I do not have evidence overriding that contemporaneous correction. The claim that they attended law school together is withdrawn.
 
 Another issue I raised later concerned security under Mississippi Rule of Civil Procedure 65(c). In a recorded call with Judge Lawrence Little's law clerk years later, the clerk could not confirm that a security bond had been posted in the Tannehill restraining-order case. That is useful evidence of a records question. It is not the same as a judicial ruling that the order was void, and this edition will not describe it as one.
 
-The same caution applies to the courthouse confrontation involving Rhea Tannehill. A Lafayette County Sheriff's Office report identified in the project archive as L17-05125 is described in earlier source compilations as documenting Tannehill threatening to "bash" my head and Major John Hill intervening. That primary report should be placed directly in the final evidence ledger before the quote is treated as verbatim in the publication copy. My own recollection is that Hill prevented the encounter from becoming physical, and I have never considered Hill a wrongdoer in that episode.
+The courthouse confrontation involving Rhea Tannehill no longer rests on my memory alone. Major John Hill's May 30, 2017 Sheriff's Office narrative is in the records production. Hill wrote that after the Chancery hearing he seated me in the back hallway while paperwork was completed. He recorded me telling Rhea, "FUCK YOU. YOU ARE A FUCKING LIAR." According to Hill, Rhea then walked toward me with a water bottle and said, "I'LL BASH YOUR HEAD IN." Hill stepped in front of Rhea, told him to leave, and Rhea walked away. Hill's report does not say that he physically restrained Rhea or that an assault occurred. It documents a threat, an approach, and Hill placing himself between us.
+
+That is the version this book uses because the contemporaneous report is better evidence than my later reconstruction.
 
 What happened to the civil order five years later also needs to be stated more carefully than earlier editions stated it.
 
