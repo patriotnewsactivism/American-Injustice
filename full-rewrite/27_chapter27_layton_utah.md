@@ -2,7 +2,7 @@ CHAPTER 27 — LAYTON, UTAH
 
 I moved to Layton, Utah on **February 1, 2025**, ten days after the Mississippi court entered the order correcting my second-revocation sentence and nine days after my actual release from custody.
 
-An earlier version of this chapter opened by saying that I arrived in Utah after Mississippi had fully vacated my 2022 conviction, probation, and five-year banishment. The January 21 order does not say that. As Chapter 26 now explains, the court corrected the July 2024 revocation sentence to the statutory 120-day maximum and ordered my release, but it reinstated the underlying probation and its conditions, including banishment from Lafayette County.
+An earlier version of this chapter opened by saying that I arrived in Utah after Mississippi had vacated my 2022 conviction, probation, and five-year banishment. The January 21 order does not say that. As Chapter 26 now explains, the court corrected the July 2024 revocation sentence to the statutory 120-day maximum and ordered my release, but it reinstated the underlying probation and its conditions, including banishment from Lafayette County.
 
 I therefore arrived in Layton with the Mississippi conviction still on the books.
 
