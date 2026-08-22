@@ -1,44 +1,76 @@
-# Sentencing Hearing Transcript — United States v. Reardon, 6:25-cr-00227
+# Sentencing Hearing — United States v. Reardon, 6:25-cr-00227
 
-Source: "SENTENCING HEARING FEDERAL COURT. We The People News is live!" — We The People News YouTube channel, streamed live Aug 7, 2026.
-https://www.youtube.com/live/m4giIbyfcC0
+**Date:** August 7, 2026  
+**Public source:** “SENTENCING HEARING FEDERAL COURT. We The People News is live!” — We The People News YouTube livestream  
+**Video:** https://www.youtube.com/live/m4giIbyfcC0  
+**Judge:** U.S. Magistrate Judge Thomas P. LeBlanc  
+**Judge location:** chambers in Lake Charles, Louisiana  
+**Reardon location:** Our Daily Bread, Galveston, Texas  
+**Defense:** Dustin Talbot  
 
-Transcribed via YouTube's auto-generated caption transcript panel (audio download was blocked by YouTube's bot detection; caption extraction via browser used instead). Auto-caption artifacts (misheard names, filler words) preserved as-is; corrections/notes added in [brackets] where obvious.
+The court confirmed on the record that the hearing was proceeding by video at the defense's request because an in-person appearance would create an extreme hardship. Reardon consented on the record to sentencing by video.
 
-Duration: 1:31:26. Location: Judge appearing from chambers, Lake Charles, LA. Reardon appearing via video from Our Daily Bread (missionary org), Galveston, TX. Defense: Mr. Talbot. Government: Mr. Murphy (also self-identified once as "Dante Burke"). Courtroom deputy: "Ms. Lome"/"Loomer" (unclear spelling in captions).
+## Source hierarchy
 
-## KEY OUTCOME
-- **Sentence: TIME SERVED (~13 days) + 2 YEARS UNSUPERVISED PROBATION.**
-- Special condition: barred from John M. Shaw federal courthouse (Lafayette, LA) **and any other federal courthouse in the STATE OF LOUISIANA** (not nationwide, contra government's broader ask) — UNLESS conducting "legitimate business" with an occupant/tenant of the courthouse, in which case Reardon must give the U.S. Marshals Service **2 business days' advance notice**.
-- Standard conditions: no new federal/state/local crimes; no unlawful controlled-substance possession/use (drug TESTING requirement suspended — court found no evidence of high drug-abuse risk); no knowing association with someone engaged in criminal activity; no firearms/ammunition/destructive devices/dangerous weapons.
-- No fine imposed; special assessment WAIVED — court found Reardon financially unable to pay.
-- Defense (Talbot) formally objected on the record that the "legitimate business" condition is impermissibly vague — objection noted, OVERRULED.
-- Judge: 14 days from entry of judgment to file Notice of Appeal. Judgment to be entered "this afternoon or Monday" (i.e., ~Aug 7-10, 2026) — appeal clock trigger.
-- Judge's stated rationale: sentence is not intended to punish/chill 1A activity itself, but the specific convicted conduct (loitering/obstruction) on federal courthouse premises; "there are lines... you crossed that line."
+1. **Official court reporter transcript / written judgment**, when available, controls the court's rulings and exact official record.
+2. **Livestream audio/video and `full_transcript.txt`** establish what was actually spoken during the publicly streamed hearing. `full_transcript.txt` is based on auto-captions and must be checked against the audio before quotation in a legal filing.
+3. **`prepared_allocution_2026-08-07.md`** is the prepared 29-page large-print allocution supplied by Reardon. It establishes the intended text but must not silently replace deviations in the actually delivered speech.
 
-## Notable content from Reardon's allocution (delivered ~27:50-52:20, closely tracking the prepared draft)
-- Cites June 24 & 26, 2025 USMS emails to lwd.uscourts.gov court-staff addresses titled "First Amendment Auditor Matthew Rearen" — sent ~2 months before Aug 25, 2025 arrest, before any charge existed.
-- Cites his June 27, 2025 FOIA request to USMS; USMS stonewalled ~2 months, produced 14 heavily redacted pages Aug 22, 2025 (3 days before arrest) confirming District Alert Notices/BOLO bulletins with his name, photo, DL number, DOB, height, weight distributed to MS and LA marshals/CSOs.
-- States government admitted ON THE SEALED TRIAL RECORD that it failed to preserve courthouse lobby surveillance footage — only video evidence at trial was his own recording; argues this proves compliance not obstruction and that the prosecution "was built entirely on the product of my own First Amendment activity."
-- Describes arrest: Deputy US Marshal Hayden Nugent (captioned "Nent") told him to move equipment, he complied, was arrested anyway; alleges Nugent "slammed me to the ground" destroying his 4K camera/gimbal/tripod, "drove his knuckles into my chest" in the holding cell, threatened felony assault-on-federal-officer charge when Reardon knocked his arm away; heart rate 140-160bpm per paramedics, accused by Nugent/paramedics of "faking to avoid jail."
-- Transported to St. Martin Parish Jail under a "Deputy Alvette" (captioned spelling, likely phonetic) with NO charge — told only "a hold for the US Marshals"; cites this as kidnapping under 18 U.S.C. §1201. New detail not previously in dossier: tight handcuffs cutting into wrist bones during transport, described as "torturing."
-- Cites Magistrate Judge Carol B. Whitehurst's Nov 12, 2025 recusal order verbatim: "An objective and reasonable observer could believe the undersigned is predisposed to find Rearen guilty of the offense later charged... Avoiding the appearance of impropriety is as important... as avoiding impropriety itself."
-- Cites government's Oct 15, 2025 motion for protective order that explicitly sought to restrict "communications between the Marshal Service and the federal judges at the John Shaw courthouse" — argues government sought to conceal the ex parte contacts it doesn't deny existed.
-- Cites Cohen v. California (1971) re: profanity-bearing protest sign ("Fuck the US Marshal Service") as protected speech.
-- Draws the 2017 Mississippi banishment (Lynch case) and 2022 Lafayette County banishment (Tannehill/second stalking case, led to ~1yr custody on perjured Beavers testimony, missed son's C-section birth) as the direct precedent for why he opposes ANY banishment-style probation condition — asks court for time-served-only or full 30-day statutory max INSTEAD of unsupervised probation, explicitly rejecting probation with courthouse restrictions as an unacceptable "trip wire."
-- States on record: writing a book covering all of this (BOLO alerts, ex parte emails, arrest, assault, destroyed footage, protective order, recusal, conviction) — "not a threat... a fact."
-- Explicit non-consent statement for the record: "I do not consent to any condition of probation that restricts my constitutional rights... It will never have my consent."
+An older repository file is misnamed `Sentencing Hearing Livestream 8-7-2025.srt`. The content is the August 7, **2026** sentencing hearing. This folder uses the verified 2026 date.
 
-## Post-sentencing breakout-room exchange (~1:05-1:16) — off-the-cuff, with a friendly US Marshal named "Roger" from Lake Charles (~54 days from retirement)
-- Casual, non-adversarial tone; Roger confirms he personally knew the US Marshal recently killed in the Western District (mid-30s, replaced Roger in Alexandria post-hurricane) — NOT Nugent, a different marshal, unrelated death.
-- Reardon predicts Fifth Circuit reversal on appeal, draws Cohen v. California parallel again.
-- Reardon gives out contact info on-record: donmatthews.live, AI voice agent phone 385-350-3998.
+## Sentencing outcome — corrected
 
-## Sidebar dispute (~1:04-1:25) — worth flagging for appellate record
-- Talbot requested a sidebar; judge clarified (after initial confusing phrasing) that the sentence is time-served CREDIT toward a possible future revocation, not "time served, period" — i.e., if unsupervised probation is later revoked, Reardon returns to original-offense resentencing exposure (up to 30-day statutory max) with credit for time already served.
-- Reardon repeatedly pressed judge for a direct yes/no on whether the court could hold him longer than 30 days total across a probation-violation cycle — judge declined to answer hypotheticals, directed him to counsel; Reardon stated on record "I wave [waive] on the legal advice... I deserve the answer to this" — did not get a direct answer in the hearing.
-- Talbot formally objected that "legitimate business" is vague; government (Murphy) argued the standard is the same one broadcast/print journalists already comply with (no filming inside courthouse corridors); judge overruled the objection, found the language "sufficiently clear."
+The government's position was that additional imprisonment was unnecessary. It recommended **at least three years of unsupervised probation**, noting that a Class C misdemeanor could support as much as five years.
 
----
-## FULL RAW TRANSCRIPT (verbatim, auto-caption timestamps)
-See full_transcript.txt in this folder.
+Judge LeBlanc imposed **two years of unsupervised probation**.
+
+The judge initially described the disposition in language that sounded like “time served” plus probation. After a breakout discussion, however, he expressly clarified that this was **not a completed time-served sentence plus a separate probation term**. Reardon was placed on two years of unsupervised probation; the approximately thirteen days previously spent in custody would be credited if probation were later revoked and he were resentenced on the original offense.
+
+That clarification controls this source note. Do not summarize the final sentence merely as “time served + two years probation.”
+
+### Special courthouse condition
+
+Reardon may not be physically present at:
+
+- the John M. Shaw Federal Courthouse in Lafayette, Louisiana;
+- another federal courthouse within Louisiana; or
+- adjacent property owned or leased by the United States,
+
+unless he has **legitimate business** with an occupant of the courthouse. When such business exists, he must notify the U.S. Marshals Service in that locality at least **two business days in advance**.
+
+Talbot objected that “legitimate business” was vague. The government responded that Reardon remained subject to the same courthouse rules, standing orders, and regulations governing similarly situated members of the public. LeBlanc overruled the objection and found the term sufficiently clear. The objection was preserved.
+
+### Other conditions / monetary sentence
+
+The court stated standard conditions including no new federal, state, or local crime; no unlawful controlled-substance possession; and no possession of firearms, ammunition, destructive devices, or dangerous weapons. Drug testing was suspended because the court did not have information suggesting a significant drug-abuse risk.
+
+No fine was imposed. The special assessment was waived based on the court's assessment of Reardon's ability to pay.
+
+### Appeal advice
+
+LeBlanc advised Reardon that he could appeal the conviction and sentence to a **United States district judge within fourteen days after entry of judgment**. Because the case was tried and sentenced by a magistrate judge, the initial appeal route is under Federal Rule of Criminal Procedure 58(g)(2), not a direct appeal to the Fifth Circuit.
+
+## Allocution
+
+The delivered allocution began at approximately **27:50** and closely followed the prepared statement. It addressed:
+
+- the June 23 and June 26, 2025 courthouse encounters;
+- June 2025 U.S. Marshals Service emails and later alert/BOLO material;
+- the June 27 FOIA request and August 22 production;
+- the August 25 protest and arrest;
+- Reardon's allegations concerning force, equipment damage, medical treatment, and later detention;
+- the courthouse-surveillance preservation dispute;
+- Magistrate Judge Carol B. Whitehurst's November 12, 2025 recusal;
+- the October 15 protective-order motion;
+- Reardon's Mississippi banishment/revocation history and his objection to a new courthouse-access condition;
+- his request for time served or, alternatively, a finite custodial sentence rather than probation with a continuing access restriction; and
+- his statement that he was writing a book about the underlying events.
+
+Many statements in the allocution are **advocacy assertions**, not judicial findings. In particular, descriptions of an unlawful “campaign,” judicial prejudice, deliberate concealment, kidnapping, destruction of evidence, and criminal misconduct by officers must remain attributed to Reardon's sentencing argument unless independently established by public records or adjudicated findings.
+
+## Transcript files
+
+- `full_transcript.txt` — condensed substantive transcript based on public livestream captions, with timestamps.
+- `prepared_allocution_2026-08-07.md` — normalized transcription of the prepared 29-page allocution supplied by Reardon.
+
+For any court filing or verbatim quotation, re-check the livestream audio and use the official reporter's transcript when available.
