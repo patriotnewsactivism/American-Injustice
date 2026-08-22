@@ -42,7 +42,7 @@ I have repeatedly requested the original affidavit, complaint, or warrant applic
 
 What I can prove is what the prosecution formally charged later.
 
-The Criminal Information in Cause No. CK17-295 is captioned "Aggravated Stalking" under Mississippi Code § 97-3-107(2). On the face of the document, a typed date was crossed out. The handwritten replacement reads: "or before May 8, 2017." The charging paragraph says that I committed stalking while displaying a deadly weapon, "to wit: an AR15 rifle," with intent to place Todd and/or Ashley Lynch in reasonable fear of great bodily injury.
+The Criminal Information in Cause No. LK17-295 is captioned "Aggravated Stalking" under Mississippi Code § 97-3-107(2). On the face of the document, a typed date was crossed out. The handwritten replacement reads: "or before May 8, 2017." The charging paragraph says that I committed stalking while displaying a deadly weapon, "to wit: an AR15 rifle," with intent to place Todd and/or Ashley Lynch in reasonable fear of great bodily injury.
 
 The document was filed July 6, 2017.
 
@@ -62,7 +62,13 @@ That distinction makes the case harder to summarize in a slogan, but it makes th
 
 I still do not have a satisfactory documentary answer.
 
-The other disputes surrounding late May belong where their records place them. The Tannehills had obtained a separate civil restraining order against me. I made threatening-sounding statements about Rhea Tannehill on livestream that I regret and do not excuse. A Sheriff's Office report from the same general period also records a courthouse confrontation in which Rhea allegedly threatened to "bash" my head and Major John Hill intervened. Those matters help explain the volatility of the period, but they are not the Lynch charging instrument and should not be merged into it.
+The other disputes surrounding late May belong where their records place them. The Tannehills had obtained a separate civil restraining order against me. I made threatening-sounding statements about Rhea Tannehill on livestream that I regret and do not excuse.
+
+The Sheriff's Office also contains a May 30 report written by Major John Hill about what happened after the Tannehill hearing that day. Hill wrote that Chief Deputy Scott Mills and he escorted me from the courtroom and seated me in the back hallway while paperwork was completed. According to Hill, I told Rhea Tannehill, "FUCK YOU. YOU ARE A FUCKING LIAR." Hill then wrote that Rhea started walking toward me with a water bottle in his hand and said, "I'LL BASH YOUR HEAD IN." Hill stepped in front of Rhea, told him to leave, and Rhea walked away. When I said something else that Hill could not hear, Rhea briefly came back around the corner; Hill again told him to leave, and he did.
+
+That report is more precise than the version I told for years. It documents Rhea's threat and Hill's intervention. It does **not** say Hill physically restrained Rhea, pinned him against a wall, or prevented an assault already in progress. It also records my own profanity immediately before Rhea approached. Those details stay in because the report is stronger evidence than my later reconstruction.
+
+That hallway confrontation and the Tannehill civil proceeding help explain the volatility of the period, but they are not the Lynch charging instrument and should not be merged into it.
 
 Likewise, Crowder's family-court litigation added pressure and instability to my life, but I do not know that she caused the Lynch arrest. The temptation to make every contemporaneous conflict part of one coordinated machine is exactly the temptation this edition is trying to resist unless a document actually supplies the connection.
 
