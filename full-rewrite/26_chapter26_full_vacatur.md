@@ -16,7 +16,7 @@ The January order replaced that with the statutory 120-day sentence, gave me cre
 
 The written order also reinstated me to the underlying unsupervised probation. Its conditions remained in force, including the Lafayette County banishment.
 
-That language matters because an earlier version of this book said the January ruling had fully vacated the 2022 conviction, probation, and banishment. That was wrong.
+That language matters because an earlier version of this book said the January ruling had vacated the 2022 conviction, probation, and banishment. That was wrong.
 
 The relief was real: the court recognized that the July 2024 sentence exceeded the statutory ceiling and ended the excess imprisonment. But I did not walk out with the underlying conviction erased.
 
