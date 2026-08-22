@@ -1,12 +1,12 @@
 <style>
-.toc{column-count:2;column-gap:2.2em;font-size:8.5pt;line-height:1.28;column-rule:0.5pt solid #ccc}
-.toc h1{column-span:all;font-size:13pt;letter-spacing:.14em;text-align:center;margin:0 0 .9em;font-weight:600;text-transform:uppercase}
-.toc .part{font-size:7.6pt;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin:.85em 0 .28em;break-after:avoid;page-break-after:avoid}
-.toc .part:first-of-type{margin-top:0}
-.toc .e{display:flex;gap:.4em;margin:.06em 0;break-inside:avoid}
-.toc .e .n{flex:0 0 1.35em;text-align:right;font-variant-numeric:tabular-nums;color:#555}
+.toc{font-size:9.6pt;line-height:1.34;max-width:31em;margin:0 auto}
+.toc h1{font-size:14pt;letter-spacing:.14em;text-align:center;margin:0 0 1.15em;font-weight:600;text-transform:uppercase}
+.toc .part{font-size:8.2pt;letter-spacing:.11em;text-transform:uppercase;font-weight:700;margin:1.05em 0 .35em;break-after:avoid;page-break-after:avoid}
+.toc .part:first-of-type{margin-top:.75em}
+.toc .e{display:flex;gap:.65em;margin:.13em 0;break-inside:avoid}
+.toc .e .n{flex:0 0 1.7em;text-align:right;font-variant-numeric:tabular-nums;color:#555}
 .toc .e .t{flex:1 1 auto}
-.toc .f .t{font-weight:600;letter-spacing:.03em}
+.toc .f .t{font-weight:600;letter-spacing:.02em}
 </style>
 
 <div class="toc">
@@ -38,7 +38,7 @@
 <div class="e"><span class="n">20</span><span class="t">The Guilty Plea and Banishment</span></div>
 <div class="e"><span class="n">21</span><span class="t">Revocation: What Beavers Actually Said</span></div>
 <div class="e"><span class="n">22</span><span class="t">A Year in Mississippi Custody</span></div>
-<div class="part">PART IV · VINDICATION (2023–2025)</div>
+<div class="part">PART IV · GALVESTON AND RELEASE (2023–2025)</div>
 <div class="e"><span class="n">23</span><span class="t">Release, and Galveston</span></div>
 <div class="e"><span class="n">24</span><span class="t">Osteen Lied Under Oath</span></div>
 <div class="e"><span class="n">25</span><span class="t">The Long Fight for Vacatur</span></div>
@@ -50,8 +50,8 @@
 <div class="e"><span class="n">30</span><span class="t">Lafayette: August 25</span></div>
 <div class="e"><span class="n">31</span><span class="t">Trial and Verdict</span></div>
 <div class="e"><span class="n">32</span><span class="t">The New Orleans Assault</span></div>
-<div class="e"><span class="n">33</span><span class="t">The Records Cover-up</span></div>
-<div class="e"><span class="n">34</span><span class="t">Retaliatory Arrest in an Ice Storm</span></div>
+<div class="e"><span class="n">33</span><span class="t">The Records Request</span></div>
+<div class="e"><span class="n">34</span><span class="t">The Ice-Storm Arrest</span></div>
 <div class="e"><span class="n">35</span><span class="t">Reardon v. State: The Reversal</span></div>
 <div class="e"><span class="n">36</span><span class="t">The Union County Thread</span></div>
 <div class="e"><span class="n">37</span><span class="t">Reardon v. Osteen: The Objections</span></div>
