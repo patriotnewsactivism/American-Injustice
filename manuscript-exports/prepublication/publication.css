@@ -1,0 +1,84 @@
+@page {
+  size: 6in 9in;
+  margin-top: 0.72in;
+  margin-bottom: 0.70in;
+  @bottom-center { content: counter(page); font-family: Georgia, 'Times New Roman', serif; font-size: 8pt; color: #666; }
+}
+@page:left { margin-left: 0.66in; margin-right: 0.80in; }
+@page:right { margin-left: 0.80in; margin-right: 0.66in; }
+
+html { font-size: 100%; }
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 10.4pt;
+  line-height: 1.43;
+  color: #111;
+  hyphens: auto;
+  text-rendering: optimizeLegibility;
+}
+p {
+  text-align: justify;
+  margin: 0 0 0.64em;
+  widows: 3;
+  orphans: 3;
+}
+h1 {
+  break-before: page;
+  page-break-before: always;
+  font-size: 16.5pt;
+  line-height: 1.18;
+  text-align: center;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+  margin: 2.0in 0 1.05in;
+  font-weight: 600;
+}
+h2 {
+  font-size: 12.2pt;
+  line-height: 1.25;
+  margin: 1.15em 0 0.55em;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+h3 { font-size: 10.8pt; break-after: avoid; page-break-after: avoid; }
+blockquote {
+  margin: 0.9em 1.05em;
+  padding-left: 0.8em;
+  border-left: 1.5pt solid #aaa;
+  font-size: 9.7pt;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.8em 0 1.05em;
+  font-size: 8.3pt;
+  line-height: 1.28;
+  break-inside: auto;
+}
+thead { display: table-header-group; }
+tr { break-inside: avoid; page-break-inside: avoid; }
+th, td { padding: 0.32em 0.38em; vertical-align: top; border-bottom: 0.5pt solid #bbb; }
+th { text-align: left; font-weight: 700; border-bottom: 1pt solid #555; }
+ul, ol { margin-top: 0.35em; margin-bottom: 0.7em; }
+li { margin-bottom: 0.2em; }
+hr { border: 0; border-top: 0.6pt solid #aaa; margin: 1.2em auto; width: 42%; }
+
+.title-page, .copyright-page, .dedication-page { break-before: auto; }
+.title-page h1 {
+  break-before: auto;
+  page-break-before: auto;
+  font-size: 25pt;
+  margin: 0 0 0.6em;
+  letter-spacing: 0.08em;
+}
+.copyright-page h2, .dedication-page h2 {
+  break-before: auto;
+  page-break-before: auto;
+  margin-top: 0;
+}
+.toc { break-before: page; page-break-before: always; }
+.toc h1 { break-before: auto; page-break-before: auto; }
+
+em { font-style: italic; }
+strong { font-weight: 700; }
+a { color: inherit; text-decoration: none; }
