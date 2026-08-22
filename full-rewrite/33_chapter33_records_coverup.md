@@ -118,7 +118,47 @@ That is a consequential result. It is not proof that anyone created the criminal
 
 A legitimate statutory exemption can frustrate a defendant or journalist without becoming evidence of a conspiracy merely because it is frustrating.
 
-The November and December calls also document something less dramatic but more concrete: there was no single New Orleans office I could call and immediately obtain a complete institutional answer. The non-emergency call center routed me toward police districts. Public Integrity routed me to another contact. The City Attorney's staff initially had no knowledge of the incident. The Mayor's Office distinguished Allied from City personnel and could not answer the screening-policy question. The records unit processed the request under its own statutory rules.
+Later in December, there was a development the earlier version of this chapter omitted entirely.
+
+I place the call on or around **December 18, 2025**. The recording itself is preserved, but I have not yet tied it to independent call-detail metadata precise enough to fix the exact day, so I am not pretending that date is more certain than it is.
+
+The caller identified himself as **Sergeant Davis** of the New Orleans Police Department. He told me he had been assigned my complaint for investigation through NOPD's **Public Integrity Bureau**. More specifically, he said he had been assigned a misconduct investigation concerning the NOPD officer who responded to the City Hall incident.
+
+I immediately objected that the person I said assaulted me was not an NOPD officer at all. My allegation concerned the Allied Security guard. Davis clarified that his assignment concerned an allegation of misconduct against the responding NOPD officer.
+
+That distinction is important because it establishes that NOPD had not simply ignored every complaint I made. By later December, at least one formal internal misconduct investigation had been assigned within the department.
+
+It also establishes the limit of what Davis said he was doing.
+
+I pressed him repeatedly about what I regarded as the underlying felony assault. I told him I believed the guard had struck me in the back of the head with a metal flashlight, that I had been bleeding on the ground, that nobody had called 911 while I lay there, and that the guard had picked up my livestreaming phone and struck or mashed it against the ground. Those were my allegations to Davis. They were not findings he adopted during the call.
+
+I also told Davis that the City's records response made me believe officials were constructing a false narrative against me while protecting the guard. I connected the public-records withholding to the still-pending criminal case and warned that prosecuting me while refusing to pursue the guard would create a malicious-prosecution issue.
+
+Davis did not agree with that theory.
+
+He repeatedly tried to narrow the conversation back to the assignment he had actually received. He said he had been officially assigned a misconduct investigation and was attempting to send me a form letter required by policy and procedure. The first transmission had failed because the email address in the system omitted part of the `wtpnews.org` domain. We corrected the address during the call.
+
+Then I asked the question that mattered most to me: why was Internal Affairs investigating officer misconduct if no one would tell me what was happening with the underlying crime I said had been committed against me?
+
+Davis did **not** tell me that no criminal investigation existed. He said the criminal aspect was not what he had been assigned to investigate. At one point he was explicit that he was not saying it was not being investigated; he was saying that his portion was the misconduct investigation.
+
+That is a much narrower fact than the conclusion I was trying to force from him.
+
+I accused the department of investigating itself and predicted that Internal Affairs would find no misconduct. I told Davis that the order of operations made no sense to me because, in my view, the crime should be investigated before the officer's response to that crime was evaluated. I accused the Mayor's Office and City Attorney's Office of influencing what was happening.
+
+Davis denied that. He said he had been assigned by his commander, not by the Mayor's Office or City Attorney's Office.
+
+The exchange deteriorated. I interrupted him repeatedly. He told me more than once that he was simply trying to perform the investigation he had been assigned. I told him I believed the situation looked "very shady." Near the end, after another argument about whether he should be addressing the criminal side of my complaint, Davis terminated the call.
+
+The value of that recording is not that it proves the cover-up theory I was asserting. It does not.
+
+Its value is documentary.
+
+By later December 2025, NOPD's Public Integrity Bureau had assigned Sergeant Davis to investigate an allegation of misconduct involving the responding NOPD officer from the November 12 City Hall incident. Davis distinguished that internal investigation from whatever criminal investigation did or did not exist concerning the guard. He did not give me the criminal-case answer I wanted, but neither did he tell me that no criminal investigation was occurring. And the recording preserves my own increasingly accusatory response to that distinction.
+
+That makes the institutional picture more complicated than the one I was describing publicly at the time.
+
+The November and December calls document something less dramatic but more concrete: there was no single New Orleans office I could call and immediately obtain a complete institutional answer. The non-emergency call center routed me toward police districts. Public Integrity routed me to another contact. The City Attorney's staff initially had no knowledge of the incident. The Mayor's Office distinguished Allied from City personnel and could not answer the screening-policy question. The records unit processed the request under its own statutory rules. And by later December, NOPD Public Integrity had opened an internal misconduct investigation focused on the responding officer, while the criminal aspect I kept asking about remained outside Sergeant Davis's assignment.
 
 I experienced that fragmentation as institutional indifference.
 
@@ -132,8 +172,10 @@ Within five days I had submitted a detailed written request identifying the exac
 
 By December 10 the City had identified the active criminal case as the basis for withholding key categories of records through the public-records process.
 
+By later December, NOPD had assigned an internal misconduct investigation concerning the responding officer.
+
 And the warrant remained active.
 
-Seven weeks later, during severe winter weather in Lafayette, that warrant would move the New Orleans case from paperwork back into physical custody.
+Seven weeks after the December 10 records response, during severe winter weather in Lafayette, that warrant would move the New Orleans case from paperwork back into physical custody.
 
 That is the next chapter.
