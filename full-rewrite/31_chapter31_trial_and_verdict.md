@@ -1,19 +1,81 @@
 CHAPTER 31 — TRIAL AND VERDICT
 
-My bench trial on the August 25, 2025 courthouse charge was held December 15 and 16, 2025, before Judge LeBlanc. The verdict came down January 16, 2026: guilty. On July 16, 2026, a First Amendment motion to dismiss was denied, the court characterizing the courthouse lobby as a "nonpublic forum" — a legal classification that substantially narrows the constitutional protection available to speech and recording activity conducted there, regardless of how that activity might be protected on a public sidewalk or in a traditional public forum.
+My federal bench trial was held on **December 15 and 16, 2025** before Magistrate Judge **Patrick J. LeBlanc**.
 
-A bench trial is one in which the judge alone decides both the facts and the law — there is no jury. Defendants are entitled to a jury trial for most federal offenses, but for certain misdemeanors, and in cases where a defendant waives that right, a single judge hears the evidence and renders the verdict directly. There is no available record here establishing why this case proceeded as a bench trial rather than a jury trial, and none is speculated. What matters for a reader trying to understand what happened next is simply that Judge LeBlanc was the sole finder of fact as well as the sole arbiter of law — the same person who ruled on the First Amendment motion also weighed the evidence and reached the guilty verdict.
+On **January 16, 2026**, LeBlanc issued nineteen pages of written Reasons for Judgment. He denied my renewed Rule 29 motion for judgment of acquittal and adjudged me **guilty** of violating **41 C.F.R. § 102-74.390(b)**.
 
-The "nonpublic forum" classification is a term of art from First Amendment doctrine describing government property that is not, and has never been, opened up for general public expressive activity — a category distinct from a "traditional public forum" like a sidewalk or park, and from a "designated public forum," which is government property the government has deliberately opened to speech. In a nonpublic forum, the government can restrict speech and recording based on reasonable, viewpoint-neutral rules tied to the property's actual function, without facing the strict scrutiny that would apply on a public sidewalk. A federal courthouse lobby can, as a matter of settled First Amendment doctrine, be treated as a nonpublic forum, subject to reasonable, content-neutral restrictions the government would not be permitted to impose on a public street. That doctrine exists for legitimate reasons — courthouses are working government facilities with security concerns a public park does not share — and nothing here disputes that Judge LeBlanc's classification was legally available to him. What follows instead is the strongest available challenge to the verdict, a challenge grounded not in the strength of my First Amendment claim on its own terms, but in a due-process and evidentiary problem that matters regardless of how the forum question is resolved.
+The written ruling is the best source for what the conviction actually rests on.
 
-Two events in the run-up to trial deserve their own place here, because both bear directly on how seriously the pre-arrest surveillance detailed in Chapter 28 should be taken by anyone evaluating this case. On October 15, 2025, the government filed a protective order motion seeking to restrict communications between U.S. Marshals and court staff regarding me going forward. The framing of that motion matters: it did not deny that such communications had occurred — the BOLO evidence and the June 2025 emails detailed in Chapter 28 make any such denial untenable — it sought only to restrict them prospectively. A motion to restrict future marshal-judge communications about a defendant, filed by the same government that had already generated the surveillance record documented here, reads less like a denial that a problem existed and more like an implicit acknowledgment that the existing pattern of communication needed to stop.
+The government had originally charged one count under subsections (a) and (b) of the federal disturbance regulation. At trial it proceeded only under subsection (b): whether I had unreasonably obstructed the usual use of a courthouse entrance.
 
-Then, on November 12, 2025, Magistrate Judge Carol B. Whitehurst recused herself from the case, citing an appearance of bias. The available record does not establish the specific factual basis Judge Whitehurst cited for that recusal, and none is speculated here. What can be said is that a sitting federal magistrate judge, presiding over this exact case, concluded independently that the appearance of bias was serious enough to warrant stepping aside — a judicial determination reached entirely independent of anything argued here, and one that sits uncomfortably close in time to the protective-order motion the government itself had just filed a month earlier. Two separate signals, a month apart, both suggesting that whatever had happened between marshals and court staff regarding me was serious enough to require formal institutional correction — arriving well before the bench trial itself, detailed below, had even begun.
+The court identified three elements: that the incident occurred on federal property; that I engaged in conduct unreasonably obstructing the usual use of the kinds of spaces listed in the regulation; and that I acted with the required state of mind. The court also treated notice of the GSA Conduct Rules as a necessary issue because those rules must be conspicuously posted on covered federal property.
 
-The sealed trial record — portions of which can be discussed here, and portions of which remain under a gag order I am complying with through my August 7, 2026 sentencing, per my own explicit decision to challenge that order through a post-sentencing motion to unseal rather than risk contempt by speaking now — establishes that the government admitted it failed to preserve all of the courthouse lobby's surveillance footage from August 25, 2025. The defense's argument, based on the footage that does survive and on testimony given at trial described here only in the terms already made public through the court record, is that the missing footage would have shown federal marshals actively waving me toward the specific door I was later convicted of obstructing — footage that, if it exists in the form the defense contends, would transform the entire character of the encounter from a defendant obstructing a court facility into my being directed toward the exact location that became the basis for my conviction, by the same officials who then arrested me for being there.
+LeBlanc found each requirement satisfied beyond a reasonable doubt.
 
-This is, in the vocabulary of federal constitutional law, potentially both a Brady violation — the suppression of evidence favorable to a defendant — and a claim under California v. Trombetta and Arizona v. Youngblood, the line of Supreme Court cases governing a defendant's due process rights when the government fails to preserve potentially exculpatory evidence. The appellate strategy I and my advisors have developed treats this spoliation argument as considerably stronger than a pure First Amendment retaliation claim standing alone — not because the First Amendment issues are meritless, but because a structural due-process argument grounded in missing evidence does not require a reviewing court to resolve the harder, more doctrinally contested question of how much First Amendment protection courthouse-lobby recording deserves. It only requires the court to determine whether the government's failure to preserve potentially exculpatory footage, footage the defense contends would show the very obstruction charge being manufactured by the government's own personnel, deprived me of a fair trial.
+On federal-property status, he relied on the courthouse itself, the evidence identifying the John M. Shaw building and its GSA-controlled rules, and the conspicuously posted Rules and Regulations Governing Conduct on Federal Property.
 
-This chapter closes on the same note struck consistently since Chapter 28: two things are true simultaneously. My own conduct on August 25, 2025 — the tripod, the language, the livestream caption — was not blameless, on any honest accounting. And the trial that convicted me rests on a foundation that cannot be verified as complete, because the government itself has admitted the foundation is missing pieces, pieces the defense contends would have changed the entire narrative of what happened that day. A conviction obtained on an incomplete evidentiary record, against a defendant federal law enforcement had already been tracking for two months before the incident that produced the charge, is not automatically an unjust conviction — but it is not a clean one either, and it is the conviction I will be sentenced on August 7, 2026, the event that closes this Part and my reporting on the federal case.
+On obstruction, he relied heavily on the video and photographic record described in Chapter 30. He found that I placed the tripod directly in front of an emergency-exit door, with one leg touching the door and the camera against the glass, then left the equipment unattended for about twenty minutes. He also found that I stood in front of other doors with posterboard against the glass and at one point propped a poster across the handles of the ordinary entrance doors.
 
-Before reaching that sentencing, though, the story turns to two other fronts that opened while the federal case was still working its way toward trial: a brutal assault at New Orleans City Hall in November 2025, and a separate, ongoing confrontation with officials in Union County, Mississippi that would not begin until the following spring.
+I did not deny at trial that I had placed equipment, signs, and at times my body against multiple doors. My argument was about what the regulation meant by **"usual use."** I maintained that a locked emergency door, or a door nobody was trying to use at that exact moment, was not being obstructed in the sense the regulation prohibited.
+
+The court rejected that reading.
+
+LeBlanc reasoned that a courthouse entrance serves more than the immediate act of one person walking through a door. It also serves security, emergency, safety, and access functions. On that construction, placing the tripod against an emergency exit could obstruct the entrance system even while the door was locked from outside and nobody was attempting to use it at that instant.
+
+The court also rejected my argument that the conduct was accidental or legally innocent because I did not understand it to be obstruction.
+
+The written judgment points to my prior familiarity with the GSA Conduct Rules from the June visits, my statements on August 25 about "taking the arrest," the decision to move the tripod from a place away from the doors to the emergency-exit door, and my refusal to move the equipment after Nugent identified it as a hazard and warned me that arrest would follow.
+
+Those findings matter because they sharply narrow what I can fairly claim about the conviction. I can dispute the court's interpretation. I can appeal it. I can argue that constitutional and evidentiary issues affected the proceeding. I cannot accurately say that the federal court convicted me merely because I filmed inside a courthouse lobby.
+
+That is not what the written judgment says happened.
+
+There were, however, separate proceedings before trial that became important to my broader concern about how information concerning me moved among courthouse personnel.
+
+On **October 15, 2025**, the United States filed a Motion for Protective Order.
+
+An earlier manuscript described that motion incorrectly as an attempt to prohibit future communications between the Marshals Service and federal judges. The motion did **not** seek that relief.
+
+Instead, the government asked the court to restrict the defense's dissemination of discovery materials containing sensitive courthouse-security information. In explaining why it wanted the protective order, the government expressly identified discoverable materials that included **"communications between the Marshal service and the Federal Judges at the John Shaw Courthouse"** and **"communications between security officers of other courthouses and the Marshal service."**
+
+The government argued that disclosure could compromise courthouse-security methods and pointed to my practice of publishing government material online. Its proposed order would allow defense counsel, me, investigators, and retained experts to review protected material for purposes of the case while restricting broader copying and dissemination.
+
+That filing establishes an important fact without proving the inference I once drew from it: communications between Marshals personnel, courthouse-security personnel, and federal judges were among the discovery materials the government regarded as sensitive. The motion does **not** itself establish that those communications were improper, ex parte in a legally forbidden sense, or evidence of a conspiracy.
+
+I have challenged their significance. The motion itself only establishes their existence as described by the government and the government's request to restrict dissemination.
+
+A second development occurred before trial involving Magistrate Judge **Carol B. Whitehurst**, who had previously been assigned to the case.
+
+The project archive contains a later public sentencing transcript in which I quoted Whitehurst's November 12, 2025 recusal language: **"An objective and reasonable observer could believe the undersigned is predisposed to find Reardon guilty of the offense later charged"** and that avoiding the appearance of impropriety is as important as avoiding impropriety itself.
+
+I am preserving the substance of that recusal, but I am not using it to claim Whitehurst found that anyone else was biased or that misconduct by the Marshals Service had been proven. A judge's decision to recuse addresses the judge's own continued participation and the appearance of impartiality. It does not adjudicate a conspiracy claim against other actors.
+
+The manuscript also previously described testimony and evidence from a sealed portion of the trial concerning the preservation of courthouse surveillance footage.
+
+I am removing that material from the narrative.
+
+There is a court-imposed sealing issue surrounding that portion of the proceeding, and the publication policy for this book is to discuss that dispute only to the extent it is disclosed in public docket materials. I will not reproduce sealed testimony, characterize what a sealed witness supposedly admitted, or disclose details simply because I personally heard them.
+
+That restraint affects how I state the evidence-preservation issue as well.
+
+I contend that potentially relevant courthouse surveillance footage was not preserved and that the missing material could have affected the presentation of the August 25 encounter. That contention has formed part of my post-trial and appellate position. Unless and until the supporting testimony or exhibits are unsealed or otherwise appear in a public filing that can be quoted, this book will not disclose the contents of the sealed proceeding.
+
+The same discipline applies to the First Amendment issue.
+
+A later July 2026 ruling rejected my post-trial First Amendment challenge and treated the relevant courthouse interior as a **nonpublic forum** for purposes of the argument before the court. I disagree with the resulting analysis and have treated it as an appellate issue. But the conviction entered January 16 rests on the obstruction findings described above, not on a judicial declaration that recording or criticizing federal officers is itself criminal.
+
+By the time I reached sentencing in August 2026, the posture was therefore complicated but clear.
+
+I had a federal misdemeanor conviction under § 102-74.390(b).
+
+I had a written judgment finding that my own video and conduct established obstruction beyond a reasonable doubt.
+
+I had public records showing that federal court-security personnel had circulated information about me months before the August arrest.
+
+I had a government protective-order filing acknowledging that discovery included communications among Marshals personnel, courthouse security, and federal judges.
+
+And I had unresolved appellate arguments, including constitutional and evidence-preservation issues that had not erased the conviction.
+
+The book should not make those categories interchangeable.
+
+The next events occurred while that federal case was still moving toward judgment and sentencing, beginning with an encounter at New Orleans City Hall in November 2025.
