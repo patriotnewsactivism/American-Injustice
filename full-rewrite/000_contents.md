@@ -41,7 +41,7 @@
 <div class="part">PART IV · GALVESTON AND RELEASE (2023–2025)</div>
 <div class="e"><span class="n">23</span><span class="t">Release, and Galveston</span></div>
 <div class="e"><span class="n">24</span><span class="t">Osteen Lied Under Oath</span></div>
-<div class="e"><span class="n">25</span><span class="t">The Long Fight for Vacatur</span></div>
+<div class="e"><span class="n">25</span><span class="t">The Second Revocation</span></div>
 <div class="e"><span class="n">26</span><span class="t">Released, but Not Vacated</span></div>
 <div class="part">PART V · THE WIDENING WAR (2025–2026)</div>
 <div class="e"><span class="n">27</span><span class="t">Layton, Utah</span></div>
