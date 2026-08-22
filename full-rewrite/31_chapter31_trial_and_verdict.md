@@ -1,6 +1,6 @@
 CHAPTER 31 — TRIAL AND VERDICT
 
-My federal bench trial was held on **December 15 and 16, 2025** before Magistrate Judge **Patrick J. LeBlanc** in the Western District of Louisiana.
+My federal bench trial was held on **December 15 and 16, 2025** before U.S. Magistrate Judge **Thomas P. LeBlanc** in the Western District of Louisiana.
 
 The charge arose from August 25, but the trial record did not begin there. The court's later written Reasons for Judgment reconstructed all three of my 2025 visits to the John M. Shaw United States Courthouse because those earlier encounters bore on notice, intent, and what I understood about the federal-property rules by the time I returned in August.
 
