@@ -1,236 +1,201 @@
 LEGAL ANALYSIS
 
-*A note on what this section is. It is an analysis of the legal architecture this story runs through — written for a reader, not for a court, and not legal advice to anyone, including me. Where the law cuts against me, it says so. Several of the doctrines below are the reason I lost cases I still believe I should have won, and a reader who does not understand them will misread this book as a story about villains when a great deal of it is a story about rules.*
+*A note on what this section is. This is an explanation of the legal doctrines that shaped the events described in the manuscript. It is written for a reader, not as a brief and not as legal advice. Where a doctrine cuts against my position, I say so. Where the law remains unsettled or the record is incomplete, I do not convert uncertainty into a holding.*
 
 ---
 
-**I. THE CENTRAL PROBLEM: PROBABLE CAUSE SWALLOWS RETALIATION**
+**I. RETALIATORY ARREST: PROBABLE CAUSE, NIEVES, AND GONZALEZ**
 
-The through-line of this book is retaliation — that I was arrested, charged, surveilled, and prosecuted because of what I said, filmed, and published. The law has a specific and largely unforgiving answer to that claim.
+A central allegation running through this book is retaliation: that protected speech, recording, reporting, and criticism influenced decisions to investigate, arrest, charge, or restrict me. Federal law makes that kind of claim difficult even when motive evidence exists.
 
-Under *Nieves v. Bartlett* (2019), a plaintiff bringing a First Amendment retaliatory-arrest claim must generally plead and prove the **absence of probable cause** for the arrest. If probable cause existed, the claim usually fails no matter how retaliatory the officer's actual motive was, and no matter how well documented that motive is. The Court left a narrow exception: where a plaintiff shows objective evidence that he was arrested when **otherwise similarly situated individuals not engaged in the same protected speech had not been**.
+In *Nieves v. Bartlett*, 587 U.S. 391 (2019), the Supreme Court held that a retaliatory-arrest plaintiff generally must plead and prove the absence of probable cause. The Court recognized a narrow exception where objective evidence shows that the plaintiff was arrested while otherwise similarly situated people not engaged in the protected speech were not.
 
-That exception is where my strongest federal claim died. The record reflects that my retaliation claim failed on comparator evidence — I could not produce the proof that others doing what I did, without the camera and the criticism, were left alone. That is not a technicality. It is the whole ballgame, and it explains an outcome that otherwise looks inexplicable: a documented two-month surveillance record, and a claim that still loses.
+That exception was clarified in *Gonzalez v. Trevino*, 602 U.S. 653 (2024). The Supreme Court rejected the Fifth Circuit's demand for virtually identical, individually identified comparators. Objective evidence can take other forms. In *Gonzalez*, a survey showing that a longstanding criminal statute had never been used for comparable conduct was the kind of evidence a court could consider.
 
-The practical lesson runs the other way from the intuition. **A well-documented motive is worth less than a boring spreadsheet of who else got arrested.** If I had spent a fraction of the energy I spent filming on gathering comparator data — arrest logs for the same ordinance, the same lobby, the same conduct — the analysis would have been different.
+That matters to my own civil-rights litigation. The lesson is not simply that I needed a list of named people who did the exact same thing and were not arrested. The stronger lesson is that retaliation claims need objective proof of differential enforcement. Motive evidence may matter, but under *Nieves* it often does not carry the claim by itself when probable cause exists.
 
-**II. QUALIFIED IMMUNITY, AND THE CLAIM I WON AND LOST AT THE SAME TIME**
+**II. QUALIFIED IMMUNITY: A CLAIM THAT SURVIVED ONE STEP AND STILL LOST**
 
-The most instructive thing that ever happened to me in federal court is that I **won a Fourth Amendment seizure claim on the merits and lost the case anyway.**
+Earlier versions of this book said I "won" a Fourth Amendment seizure claim on the merits in *Reardon v. Osteen*. That overstated the ruling.
 
-Qualified immunity shields a government official from damages unless the plaintiff shows the official violated a right that was **clearly established** at the time — meaning, in practice, that some prior case with closely similar facts had already held the same conduct unconstitutional. It is entirely possible, and routine, for a court to find that your rights *were* violated and that nobody owes you anything.
+Magistrate Judge Andrew Edison wrote that because impounding my vehicle was unreasonable on the facts alleged, I had **stated a constitutional claim for unreasonable seizure**. That was a pleading-stage determination in a Report and Recommendation addressing motions to dismiss. It was not a final merits judgment and it did not establish damages liability.
 
-Two things compounded it in my case. First, the doctrine itself. Second, and worse: part of the claim was **not briefed**. A pro se litigant who wins a legal point and fails to brief its companion has forfeited it as surely as if he had lost it. Courts do read pro se filings liberally — *Haines v. Kerner* (1972) requires that — but liberal construction is not a substitute for argument, and it will not raise an issue you did not raise.
+Edison nevertheless recommended qualified immunity because I had not carried the separate burden of identifying clearly established law sufficient to overcome the defense. Judge Jeffrey V. Brown later adopted the recommendation and entered final judgment against me.
 
-**III. WHY THE 2020 FEDERAL SUIT NEVER HAD A CHANCE**
+Qualified immunity therefore creates two distinct questions: whether the alleged conduct states a constitutional violation, and whether the right was clearly established with sufficient specificity at the time of the conduct. A plaintiff can clear the first question and lose on the second. In my case, the court concluded that my pleading cleared the constitutional-claim threshold on the impoundment issue but did not overcome qualified immunity.
 
-In late 2020 I filed a §1983 complaint over the Olive Branch contempt arrest, read it aloud on camera before filing it, and lost it to a dismissal for failure to state a claim. I have spent years describing that dismissal as part of the pattern. It was not. It was a pleading failure, and the defects are visible on the face of what I read into my own camera.
+My objections invoked *Hope v. Pelzer*, 536 U.S. 730 (2002), and its warning that officials can have fair notice even without a prior case containing identical facts. The district court adopted the R&R despite those objections. Whatever I may argue on review, the publication record must describe the actual result: I did not obtain a merits judgment in my favor.
 
-- **I sued the State of Mississippi.** The **Eleventh Amendment** bars suits against a state in federal court. That defendant was gone before the clerk stamped it.
-- **I sued the City of Olive Branch as an entity** without pleading a policy or custom. Under *Monell v. Department of Social Services* (1978), a municipality is not liable for its employees' acts on a respondeat superior theory. You must identify a policy, a custom, or a final policymaker's decision. I identified none.
-- **I described the defendants as "federal corporations."** That theory has no basis in law, is associated with sovereign-citizen filing practice, and does nothing but tell a judge not to take the rest of the document seriously.
+**III. WHY AN EARLY PRO SE §1983 CASE FAILED**
 
-I include this because the book is worthless if it only reports the losses that flatter me. **The system did not take that case from me. I gave it away.**
+One of my earlier federal cases arising from Olive Branch was dismissed for failure to state a claim. I have sometimes folded that dismissal into a broader story of institutional resistance. The pleading itself shows more ordinary legal problems.
 
-**IV. JUDICIAL IMMUNITY: THE WALL AROUND THE CONTEMPT ARREST**
+Section 1983 does not provide damages against a state simply because a state actor is alleged to have violated federal rights. States generally retain sovereign immunity from federal damages suits absent waiver or valid congressional abrogation, and a State is not a "person" for ordinary §1983 damages purposes. Prospective relief against an appropriate state official presents a different question, but that was not how I framed the case.
 
-The Olive Branch contempt arrest is, to me, the single most outrageous thing in this book — I was summoned by a judge, warned for appearing, asked a question, and jailed for answering it.
+Municipal liability presents another barrier. Under *Monell v. Department of Social Services*, 436 U.S. 658 (1978), a city is not automatically liable under §1983 for every constitutional wrong committed by an employee. The plaintiff must connect the violation to a municipal policy, custom, or qualifying decision by a final policymaker. My early pleading did not do that adequately.
 
-It is also close to unsuable. Under *Stump v. Sparkman* (1978) and *Mireles v. Waco* (1991), judges have **absolute immunity** from damages for judicial acts, even acts alleged to be malicious, corrupt, or in excess of authority. Immunity fails only for non-judicial acts, or acts taken in the complete absence of all jurisdiction. Holding a person in contempt in a courtroom is the paradigm of a judicial act.
+I also used a "federal corporation" theory that had no sound basis in §1983 doctrine. That language weakened the pleading instead of helping it.
 
-The meaningful remedy was never damages. It was the one I actually got: **the contempt charge was dismissed outright**, and the recording is public.
+Those defects matter because they distinguish a lost constitutional claim from a complaint that never pleaded the required legal elements. A fair account of my litigation has to admit when procedure and pleading—not a factual finding against me—ended the case.
 
-There is a separate and better argument I did raise at the time, and it has real doctrinal support. Where a judge is personally the object of the contempt, due process can require that **a different judge** try it — the concern in *In re Murchison* (1955) and *Mayberry v. Pennsylvania* (1971), that no man may be judge in his own case. On the record of that initial appearance, I argued I could not get a fair trial "before my accuser as my jury." The judge answered the jury question and never reached the same-judge question. That was the strongest point available and it went unanswered.
+**IV. JUDICIAL IMMUNITY AND THE OLIVE BRANCH CONTEMPT ARREST**
 
-**V. THE FOURTH AMENDMENT AND THE GALVESTON BLOOD DRAW**
+Judges generally have absolute immunity from damages for judicial acts performed within their jurisdiction, even where the act is alleged to have been erroneous, malicious, or in excess of authority. *Stump v. Sparkman*, 435 U.S. 349 (1978); *Mireles v. Waco*, 502 U.S. 9 (1991). Immunity does not extend to nonjudicial acts or acts taken in the complete absence of jurisdiction.
 
-The blood draw is governed by a clear line of authority. *Missouri v. McNeely* (2013) held that the natural dissipation of alcohol does not create a per se exigency justifying a warrantless blood draw. *Birchfield v. North Dakota* (2016) held that while a **breath** test may be taken incident to a lawful DWI arrest, a **blood** test may not — blood requires a warrant or an exception. *Mitchell v. Wisconsin* (2019) carved out a narrow allowance for unconscious drivers.
+That doctrine makes a damages claim arising directly from a courtroom contempt ruling exceptionally difficult. The stronger constitutional issue in my Olive Branch episode concerned impartiality. *In re Murchison*, 349 U.S. 133 (1955), and *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971), recognize that due process can require a different judge when the presiding judge has become personally embroiled in the contempt controversy.
 
-Against that framework, the salient facts are: I demanded a breath test repeatedly and was refused; I was taken to a hospital instead of a station; I was told a warrant was being sought; and **I was never shown a warrant**. Roughly eight officers held me face-down while blood was drawn.
+The contempt charge against me was later dismissed. That disposition does not itself establish civil liability, and judicial immunity does not disappear because a charge was dismissed. The episode therefore illustrates a distinction repeated throughout this book: conduct can be subject to serious constitutional criticism while a damages remedy remains unavailable.
 
-Whether that violated the Fourth Amendment turns on one question the book cannot yet answer: **did a warrant exist?** A warrant that existed but was never shown to me is lawful and merely discourteous. A blood draw with no warrant and no applicable exception, over an express demand for the less intrusive test the law prefers, is a different matter entirely. That document is an outstanding item, and I will not assert the conclusion before I have it.
+**V. THE GALVESTON BLOOD WARRANT: THE ISSUE IS VALIDITY, NOT WHETHER A WARRANT EXISTED**
 
-The related Fifth Amendment question — whether compelled production of a phone passcode is testimonial — remains genuinely unsettled and split across jurisdictions. It was never litigated in my case because the phone came back and the charge went to my accuser.
+Earlier drafts treated the August 2023 blood draw as though the existence of a warrant were unresolved. The present record does not support that framing.
 
-**VI. THE ENHANCEMENT, AND HOW IT ACTUALLY ENDED**
+Osteen signed a blood-warrant affidavit. The case record reflects that a magistrate signed a warrant at approximately 2:49 a.m., and Osteen later testified under oath that he filed a blood warrant that was signed by a judge. I was not shown the warrant at the hospital, but failure to hand me a copy at the moment of the draw is not the same thing as absence of a warrant.
 
-Texas grades driving while intoxicated as a third-degree felony on a **third or subsequent** offense. I was booked for **"Felony DWI (3 or more)."** I swore then, and repeat here, that I have **one final** DWI conviction.
+The legal dispute is therefore closer to *Franks v. Delaware*, 438 U.S. 154 (1978): whether an affidavit contained deliberately or recklessly false material statements or omissions, and, if so, whether the corrected affidavit would still establish probable cause.
 
-An earlier draft of this section called this the cleanest claim in the book and framed it as simple arithmetic. That was too easy, and working through the actual paper took the argument apart and put it back together twice. Here is where it landed, with the documents.
+The contradictions are documented. Osteen's affidavit marked a moderate odor of alcohol on my breath and described dilated pupils. Later testimony said he could not smell alcohol coming from me once I was outside the vehicle and described my pupils as very small or pinpoint. The laboratory reported **no alcohol detected**. At the July 2024 Mississippi hearing, Osteen nevertheless testified that alcohol had been detected. The same laboratory production separately reported methamphetamine at 0.13 mg/L. No expert testimony at that revocation hearing established that the reported concentration caused impairment.
 
-The indictment does plead two priors, so the enhancement was not pulled out of the air. But one of the two — Cause No. 9291202 — was a misdemeanor **"D.U.I. 1st Offense,"** and it was under **ongoing appeal**. A conviction on appeal is not a final conviction, which is why the word *final* was doing real work in my sworn statement rather than hedging it.
+My attorney later sought a *Franks* hearing in the Texas misdemeanor case. That hearing was not held. In the subsequent federal civil case, Edison concluded that probable cause remained even after addressing disputed portions of the affidavit, but he also wrote that "the record shows that Osteen lied to Judge Tollison." Those are separate propositions. The federal court's use of the word *lied* is not a criminal adjudication of perjury, and the absence of alcohol does not erase the separate methamphetamine result.
 
-And I do not have to argue the point, because the State of Texas resolved it. On **May 24, 2024**, the Galveston County District Attorney moved to dismiss Cause No. 23-CR-2981 **without prejudice**, and the 56th District Court dismissed it the same day. On the prosecutor's own printed form — a checklist offering *insufficient evidence*, *missing witness*, *case re-indicted*, and eight other reasons — the box marked is **"Other,"** with a handwritten explanation in which the word **enhancement** is legible.
+The publication-safe legal conclusion is therefore narrow: the blood draw was warrant-based; the affidavit and later testimony contain documented contradictions; materiality was contested; and no Texas *Franks* hearing resolved that dispute before the criminal matter ended.
 
-So the honest version is not "an error anyone could count in an afternoon." It is slower and, I think, worse: the enhancement rested on a prior that was not final, it took **nine months in custody** and a hearing in another state before anyone unwound it, and the instrument that unwound it says the reason in a prosecutor's handwriting rather than in a judicial finding. **Nothing in this book turns on my characterization of that handwriting. I have not been able to read it, and I will not paraphrase what I cannot read.**
+**VI. THE TEXAS FELONY ENHANCEMENT AND ITS DISMISSAL**
 
-**VII. THE COVENANT NOT TO SUE**
+The Texas indictment charged DWI third or more and alleged two prior offenses. That enhancement therefore did not appear from nowhere. The dispute was whether the alleged priors could legally support the felony level.
 
-The 2017 plea was conditioned on my signing a covenant not to sue the county, the city, their officials, their deputies, and the private complainants — for everything up to and including the arrest.
+One of the alleged predicates was the Lafayette County misdemeanor DUI conviction that I had been trying to appeal since December 2021. The later MacArthur Justice Center PCR petition cited Texas authority for the proposition that an appealed prior conviction used for enhancement does not become final until the appellate mandate issues. The same petition attached the Texas motion to dismiss and described the State's stated reason as that it "cannot prove up jurisdictional enhance[e]ments."
 
-These are called **release-dismissal agreements**, and they are not automatically void. *Town of Newton v. Rumery* (1987) held that such an agreement may be enforceable, but only after a case-specific inquiry into whether it was **voluntary**, whether there is evidence of **prosecutorial overreaching**, and whether enforcing it would harm the **public interest**. The burden is on the party seeking enforcement.
+The felony prosecution in Cause No. 23-CR-2981 was dismissed without prejudice on May 24, 2024. The later record reflects that a misdemeanor DWI matter arising from the same August 11 stop remained pending and became the vehicle for the February 2025 *Franks* motion.
 
-Every fact I have described about how that plea was obtained — the $150,000 bond, the counsel who had gone to law school with the opposing petitioner and appeared in a matter he was not retained for, the warning that the county would stack charges if I went to trial — goes directly to the *Rumery* factors. Whether the covenant would survive that inquiry is not something this book can decide, and it is genuinely uncertain. What is not uncertain is that **a criminal disposition delivered civil immunity to the same institution that brought the charge**, and that this is a structural feature of American plea practice rather than a quirk of my case.
+That chronology is stronger than the old rhetoric. I do not need to call the felony a fabricated enhancement or infer why prosecutors acted beyond what their filing says. The documentary point is that Texas indicted the felony, later moved to dismiss because it could not prove the jurisdictional enhancements, and the felony case was dismissed.
 
-**VIII. NOTICE: THE PATTERN THAT REPEATS ACROSS THREE COURTS**
+**VII. THE 2017 COVENANT NOT TO SUE**
 
-The Sixth Amendment guarantees the accused the right "to be informed of the nature and cause of the accusation." Texas guarantees it independently at Article I, §10.
+The signed covenant is not missing. It is in the appellate record for LK17-295. It states that, as a specific condition of the guilty plea, I agreed not to file civil claims against Lafayette County, the sheriff and deputies, the City of Oxford and its officials, and Todd and Ashley Lynch for matters through the arrest.
 
-Three times, in three jurisdictions, across two states and six years, I was made to defend an accusation I had not been permitted to read:
+Release-dismissal agreements are not automatically unenforceable. *Town of Newton v. Rumery*, 480 U.S. 386 (1987), requires a case-specific inquiry that includes voluntariness, prosecutorial overreaching, and the public interest.
 
-- **2017, Lafayette County** — I received the charging affidavit only by demanding it at the jail.
-- **December 2020, Olive Branch** — I told a judge on the record that I had asked three times and been ignored. He directed the prosecutor to respond.
-- **2023, Galveston** — sworn, in a filed affidavit: the affidavits "have yet to be provided and the motions have not been responded to or ruled upon."
+That is the proper framework for the facts I describe: a $150,000 bond, a negotiated guilty plea, banishment, and a covenant signed as part of the disposition. My later account is that I accepted the bargain under intense pressure. The plea record also contains my sworn answers at the time denying coercion and acknowledging the rights I was giving up. Both pieces belong in any honest analysis.
 
-I have come to think this is the most defensible systemic claim in the book, and I did not recognize it as a claim for years because each instance felt like an isolated frustration. It is more universal than any individual conspiracy alleged here, it does not depend on anyone's motive, and unlike almost everything else in these pages **it is corroborated across three separate courts that had no connection to one another.**
+The book cannot adjudicate whether the covenant would be enforceable in a later civil action. It can document that criminal disposition and civil release were linked in the same bargain and identify the doctrine that would govern a challenge.
 
-**IX. THE PRELIMINARY HEARING I NEVER GOT, AND WHY MISSISSIPPI MAY NOT CARE**
+**VIII. NOTICE AND ACCESS TO THE ACCUSATION**
 
-This is the section where the law turns on me, and I am writing it anyway because a book that only prints the authorities that help it is a brief, not a book.
+The Sixth Amendment guarantees a criminal defendant the right to be informed of the nature and cause of the accusation. How that right applies depends on the stage of the case and the documents at issue.
 
-Standing at a podium in Oxford on July 11, 2024, unrepresented and under oath, I told Judge Tollison that a probationer is entitled to two hearings — a prompt, informal probable-cause hearing after arrest, and a later formal revocation hearing — and I gave him four citations. The framework is real. *Morrissey v. Brewer* (1972) established it for parolees; *Gagnon v. Scarpelli* (1973) extended it to probationers. Mississippi's own Supreme Court has held that **Miss. Code Ann. § 47-7-37 survives constitutional scrutiny only because the courts read those federal minimums into it** — conceding outright, in *Riely v. State*, that the statute "does not expressly accord with the dictates of *Gagnon* and *Morrissey*," and construing it that way to save it. On the black-letter law, I was right.
+Several episodes in this manuscript involve my complaint that I could not obtain the document being used against me when I believed I needed it: the initiating paperwork in the 2017 Lafayette case; charging material in the 2020 Olive Branch matter; and affidavit-related filings in Galveston. The records do not support collapsing those episodes into a single judicial finding that three courts denied notice in the same legal sense.
 
-Then I went and read the three Mississippi cases, and they are not three versions of one point. They are a spectrum, and I sit somewhere in the middle of it.
+The stronger way to present the pattern is evidentiary rather than conclusory: identify what I requested, when I requested it, what the court or agency produced, and what remained unavailable. A reader can then see the recurring access problem without the manuscript declaring a constitutional violation that no court decided.
 
-- **Berdin v. State (Miss. 1994) — the probationer won.** No preliminary hearing, **no notice of any violation, and no affidavit** ever filed. The Supreme Court found that "the trial judge violated the procedural due process requirements of *Morrissey*, *Gagnon*, and Mississippi Code Annotated § 47-7-37," and reversed.
-- **Riely v. State (Miss. 1990) — the probationer lost.** No hearing in his case was labeled "preliminary" either, but the court held that earlier proceedings were "for all practical purposes, equivalent to a preliminary hearing" because they achieved the same purposes.
-- **Rusche v. State (Miss. Ct. App. 2002) — the probationer lost, and this is the one that hurts.** The court agreed, in as many words, that Rusche "quite correctly points out that he did not receive a preliminary probable cause hearing," and called it "the unavoidable fact that he was denied the preliminary informal hearing that *Morrissey* required." It then held the failure **harmless** absent "some showing of prejudice ... **that prejudice necessarily extending beyond the issue of the State's right to continue his confinement in the interim.**"
+**IX. MISSISSIPPI REVOCATION PROCESS: 72 HOURS, 21 DAYS, 30 DAYS, AND TECHNICAL VIOLATIONS**
 
-Read that last clause slowly, because I did. It means the months I spent in a cell waiting are, as a matter of Mississippi law, *the wrong kind of harm*. The very injury that made the missing hearing feel unbearable is the injury the doctrine excludes from the ledger. I am not going to pretend otherwise to make my own chapter land harder.
+*Morrissey v. Brewer*, 408 U.S. 471 (1972), established minimum due-process protections for parole revocation, and *Gagnon v. Scarpelli*, 411 U.S. 778 (1973), extended that framework to probation.
 
-What separates *Berdin* from *Rusche* is **notice**. Rusche got a written motion weeks before his formal hearing and knew exactly what he was answering. Berdin had no notice at all — the Supreme Court said she "had no clue that she was in violation."
+Mississippi now states important timing rules directly in Miss. Code Ann. § 47-7-37. For an offender arrested on a probation-violation warrant, the Department must ordinarily hold an informal preliminary hearing within seventy-two hours unless an exception or waiver applies. If reasonable cause is found, detention pending the revocation hearing is generally limited to twenty-one days; if the hearing is not held in that period, the statute directs release back to probation status. A separate subsection provides that the revocation charge shall be dismissed if the revocation hearing is not held within thirty days of the warrant's issuance unless good cause for delay is established in the record.
 
-Where I fall on that axis is a live question and not one I get to settle here. The petition to revoke in my case was drafted in August 2023. I say I first saw it in the courtroom on July 11, 2024. I was then continued one week, and appeared on July 18 with a procedural advisor rather than counsel of record. Whether that is *Berdin* or *Rusche* is a legal judgment, it belongs to a lawyer with the full record, and I have deliberately not put my thumb on it.
+The same statute caps incarceration for technical violations: up to ninety days for a first technical revocation, 120 days for a second, 180 days or the remainder for a third, and up to the remainder for a fourth or later revocation.
 
-There is one more piece, and here the statute is on my side in a way the case law is not. I told Judge Tollison that another continuance would push me past twenty-one days and that Section 47-7-37 required me to be reinstated. I have since read the provision, and it says exactly that:
+Those distinctions correct one of the most important errors in earlier editions. The January 21, 2025 post-conviction order did **not** vacate my underlying 2022 aggravated-stalking conviction. It vacated the July 2024 two-year revocation sentence, treated the violation as technical, resentenced me to 120 days, ordered my immediate release because I had served more than that, and reinstated the original unsupervised probation and banishment terms. The MacArthur petition separately argued that the earlier November 2022 one-year technical-revocation sentence exceeded the statutory first-revocation cap, but that already-served sentence was not the relief granted by the January 2025 order.
 
-> If reasonable cause is found, the offender may be confined **no more than twenty-one (21) days** from the admission to detention until a revocation hearing is held. **If the revocation hearing is not held within twenty-one (21) days, the probationer shall be released from custody and returned to probation status.**
+The timing issues surrounding my 2024 detention still require exact arrest, warrant, continuance, and hearing dates. The statute supplies the clocks. The record supplies the dates. The manuscript should not invent tolling rules or call a violation established until those two are matched precisely.
 
-That is not a canon of interpretation or a due-process penumbra. It is a sentence in the Mississippi Code with a mandatory verb in it, and I read it correctly standing at a podium in a jail uniform.
+**X. MISSING OR UNPRESERVED EVIDENCE**
 
-Two things temper that, and both belong here. First, the remedy is narrower than I understood at the time: the twenty-one-day provision gets you **out of the cell and back on probation** — it does not end the revocation proceeding. There is a *separate* clock, subsection (10), that does end it — the charge "shall be dismissed if the revocation hearing is not held within thirty (30) days of the warrant being issued" — but that one comes with an express escape hatch, "unless good cause for the delay is established in the record," and the Court of Appeals has repeatedly upheld revocations well past thirty days where a record of good cause existed. In one 2026 case the good cause was a governor's pandemic declaration.
+The law distinguishes evidence that is exculpatory from evidence that is merely potentially useful.
 
-Second, and I want to be honest that this is unresolved rather than pretend it favors me: I have not found a Mississippi case squarely deciding whether a continuance the *defendant* asks for stops the twenty-one-day clock. Judge Tollison's answer — "when you continue it, that totals it out" — is the intuitive one, and the good-cause language is written into subsection (10) rather than subsection (3). I do not know who is right about that, and neither does this book.
+*Brady v. Maryland*, 373 U.S. 83 (1963), concerns suppression of material exculpatory evidence in the government's possession. *California v. Trombetta*, 467 U.S. 479 (1984), addresses evidence whose exculpatory value was apparent before destruction. *Arizona v. Youngblood*, 488 U.S. 51 (1988), generally requires a showing of bad faith when the State fails to preserve only potentially useful evidence.
 
-What I would need to know, and still do not, is the exact date I was admitted to detention in Mississippi on that warrant. The clock runs from that date, not from the warrant's issuance in August 2023. Somewhere there is a booking record with a date stamp on it that would make this arithmetic instead of argument. It is not in my hands, and I am not going to guess at it in print, because guessing at a date to make a chapter land is the exact behavior I have spent four hundred pages objecting to.
+That framework matters because missing video cannot honestly be described as proof of what the video would have shown. The December 2020 security-camera dispute, the Lafayette sallyport/dash-camera questions, the New Orleans RTCC camera that did not capture the City Hall altercation, and the federal courthouse preservation issue are not interchangeable.
 
-I will say the smaller thing that survives all three cases. Every one of them assumes the probationer knows what he is accused of early enough to prepare. That assumption is the load-bearing wall of the whole framework — and it is the same assumption that failed in Lafayette County in 2017, in Olive Branch in 2020, and in Galveston in 2023. Which is the next section, and by now the pattern is the argument.
+The safe rule for this book is simple: if a camera did not cover the event, say so; if footage once existed but was not preserved, say that; if a request produced only part of what was sought, identify what was produced; and never write the contents of footage that nobody has seen.
 
-**X. EVIDENCE THAT WAS NEVER PRODUCED**
+**XI. THE RIGHT TO RECORD AND ITS LIMITS**
 
-A recurring feature of these cases is footage that should exist and does not arrive: one of two requested security cameras produced after the December 2020 parking-lot arrest; no sallyport video and no dashcam after the February 2021 field sobriety test; and the lobby-footage preservation issue that a court addressed in the federal case.
+In *Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017), the Fifth Circuit recognized a First Amendment right to record police officers performing official duties in public, subject to reasonable time, place, and manner restrictions. That decision predates the May 2017 events in this book and governs Mississippi, Louisiana, and Texas.
 
-The governing frameworks differ and the distinction matters. *Brady v. Maryland* (1963) requires disclosure of **material exculpatory** evidence in the prosecution's possession. *Arizona v. Youngblood* (1988) holds that failure to preserve **potentially useful** evidence is not a due process violation **unless the defendant shows bad faith** — a demanding standard that is the reason most spoliation arguments fail.
+The scope matters. *Turner* does not establish an unlimited right to film anywhere government business occurs. It does not eliminate neutral security rules, obstruction laws, restricted areas, or reasonable facility regulations. Recording a police officer on a public sidewalk and placing equipment in a federal courthouse entrance present different legal questions.
 
-I want to be precise about something, because the temptation runs the other way. **Missing video does not prove what the video showed.** I have written for years that the sallyport camera would have exonerated me. I do not know that. Nobody does. The honest version is narrower and still damning: I asked for it, it was never produced, and the absence of the record means the only account of that test is the account of the officer who administered it.
+That distinction is especially important in the 2025 federal courthouse case. My First Amendment activity formed part of the factual context, but the conviction was for conduct under 41 C.F.R. § 102-74.390(b). The trial court found prohibited conduct at the courthouse. Whether that conviction survives review is a separate question from the general existence of a right to record police in public.
 
-**XI. THE RIGHT TO RECORD: THE DOCTRINE THIS ENTIRE BOOK STANDS ON**
+**XII. COMMUNICARE AND THE STATE-ACTION QUESTION**
 
-*Chapters 3, 12, 13, 27, 29, 30. Verifying material: the livestreams themselves, preserved and checksummed (Appendix C); the BOLO and its distribution list (Chapter 28); the 41 CFR citation and the trial record (Chapter 31).*
+Section 1983 reaches conduct under color of state law. Private entities do not become state actors merely because they participate in a heavily regulated field or use a state-created procedure.
 
-Almost every confrontation in this book begins the same way: a camera comes up, and an official decides that is the problem. So the threshold legal question is whether pointing a camera at a public official doing public business is protected activity at all.
+Cases such as *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982), and *West v. Atkins*, 487 U.S. 42 (1988), show that state action can exist where private conduct is fairly attributable to the State—through joint participation, delegation of a public function, or other sufficiently close connection. But the inquiry is fact-specific.
 
-In this circuit, it is, and it has been since before the events of 2017.
+My commitment history involved affidavits, chancery-court process, and execution of writs by law enforcement. Rachel Alcorn also told me in a recorded call that Communicare was not a county agency and described its relationship to the Mississippi Department of Mental Health. Those facts do not by themselves answer whether Communicare or a particular employee acted under color of state law for a particular act.
 
-*Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017), decided February 16, 2017 — **ten weeks before my May 2017 arrest** — held that the First Amendment protects the right to record police officers performing their official duties in public, subject to reasonable time, place, and manner restrictions. Other circuits had already gotten there: *Glik v. Cunniffe*, 655 F.3d 78 (1st Cir. 2011), and *Fields v. City of Philadelphia*, 862 F.3d 353 (3d Cir. 2017). The Fifth Circuit covers Mississippi, Louisiana, and Texas — every jurisdiction in this book.
+That question remains unresolved in the present source archive. The publication version therefore should not label Communicare a government agency or announce that §1983 liability is established. It should document what each actor did and leave the legal classification where the evidence leaves it: open.
 
-Two consequences follow, and they cut in opposite directions.
+**XIII. CIVIL COMMITMENT AND DUE PROCESS**
 
-The first is favorable to me and I want to state it precisely rather than broadly. From February 2017 forward, no officer in this circuit could claim that recording him in public was itself unlawful, or that the right was unclear. That matters for qualified immunity, which turns on whether a right was *clearly established*: after *Turner*, in these three states, this one was.
+Civil commitment is not criminal punishment, but it is a serious deprivation of liberty. *O'Connor v. Donaldson*, 422 U.S. 563 (1975), limits confinement of a nondangerous person capable of living safely in freedom. *Addington v. Texas*, 441 U.S. 418 (1979), requires clear and convincing evidence for civil commitment. Other cases recognize procedural protections appropriate to the nature of the confinement.
 
-The second consequence is not favorable, and it is the reason this doctrine did not save me. *Turner* protects recording **subject to reasonable time, place, and manner restrictions**, and it expressly does not immunize the recorder from generally applicable rules. A tripod positioned where it blocks an emergency exit in a federal courthouse is a time-place-manner problem, not a speech problem, and 41 CFR § 102-74.390(b) is a facially neutral facility regulation. The right to record is not a right to record from any position, at any volume, in any building. I have sometimes argued as though it were. It is not, and no case in this book was lost because a court failed to understand *Turner*.
+My December 7, 2021 recording documents a narrower issue: the deputy serving the writ told me he did not have the accompanying affidavit and the paperwork in hand did not identify who had signed it. Later court records show that an affidavit did exist.
 
-**XII. WAS COMMUNICARE A STATE ACTOR? THE QUESTION THE COMMITMENT CLAIMS TURN ON**
+That evidence supports saying the service packet I received did not include the affidavit. It does **not**, without a statute or controlling case requiring contemporaneous service of that affidavit, establish by itself that the seizure was unconstitutional. Earlier drafts crossed that line. This version does not.
 
-*Chapters 16 and 17. Verifying material: the commitment affidavits as recited in the federal court's order; the recorded Alcorn call; the Calhoun County outpatient commitment order (outstanding — Appendix F).*
+**XIV. FAVORABLE TERMINATION AFTER THOMPSON v. CLARK**
 
-Section 1983 reaches only persons acting **under color of state law**. A purely private party who wrongs you may have committed a tort, but not a constitutional violation. So every claim arising from the two commitments depends on a question this book has not resolved: what, legally, is Communicare?
+*Thompson v. Clark*, 596 U.S. 36 (2022), held that for the favorable-termination element of the Fourth Amendment claim recognized there, a plaintiff need show that the criminal prosecution ended without a conviction; an affirmative indication of innocence is not required.
 
-On the recorded call, Rachel Alcorn volunteered that Communicare is **not** a county agency — that its programs are certified through the State Department of Mental Health and that it tries to stay separate from county government. I had assumed the opposite for years, and described it in earlier drafts as quasi-governmental. Her answer is evidence, but it is not the legal test, and she was describing organizational reporting lines rather than stating a conclusion of constitutional law.
+That rule can matter to proceedings in this book that actually terminated without a conviction—for example, a charge that was dismissed or refused. It does not convert every procedural success into favorable termination.
 
-The actual test is not about labels. Under *West v. Atkins*, 487 U.S. 42 (1988), a private physician under contract to provide medical care to state prisoners acts under color of state law, because the state has delegated to him a function it is constitutionally obliged to perform. Under *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982), a private party is a state actor where the deprivation results from a state-created procedure and the party is one for whom the state is fairly responsible — including a private party who invokes state process jointly with state officials.
+The February 24, 2026 decision in *Reardon v. State* is a good example. The Mississippi Court of Appeals reversed the Circuit Court's dismissal of my misdemeanor appeal and remanded. It did **not** reverse the underlying Justice Court convictions. Likewise, the January 2025 PCR order corrected a revocation sentence; it did not terminate the underlying 2022 stalking conviction.
 
-Both of those doctrines point toward, not away from, state action here. Involuntary civil commitment is a coercive state power exercised through a chancery court, on a statutory form, executed by deputies with a writ. An entity that supervises court-ordered outpatient treatment and signs the affidavit that starts that machinery is not obviously in the same position as an ordinary private clinic.
+A remand, a sentence correction, and a dismissal are legally different dispositions. The manuscript now keeps them separate.
 
-I am not going to declare the answer. Mississippi's community mental health centers are established under a regional-commission structure, and I have not obtained Communicare's actual corporate and statutory status. That document is an outstanding item and it is listed as one. But a reader should understand that this is the hinge: **if Communicare is a state actor, the commitment claims are constitutional claims; if it is not, most of them are state-law torts with much shorter fuses and much smaller remedies.**
+**XV. PROSECUTORIAL IMMUNITY**
 
-**XIII. WHAT PROCESS A CIVIL COMMITMENT ACTUALLY REQUIRES**
+Under *Imbler v. Pachtman*, 424 U.S. 409 (1976), prosecutors generally have absolute immunity from §1983 damages for advocative conduct intimately associated with the judicial phase of a prosecution. *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993), distinguishes investigative or administrative functions, and *Kalina v. Fletcher*, 522 U.S. 118 (1997), recognizes that personally swearing to facts can place a prosecutor in the role of a complaining witness rather than an advocate.
 
-*Chapters 16 and 17. Verifying material: the writ served December 7, 2021, recorded on video; the deputy's statement that the accompanying affidavit was not present; the second affidavit of February 2022.*
+That functional distinction matters more than the prosecutor's title. Filing and arguing a motion to revoke are ordinarily advocative acts. Investigating facts before probable cause, administering policy, or personally attesting to facts can present different questions.
 
-Civil commitment is not a criminal proceeding, but it is a massive deprivation of liberty and the Constitution treats it that way.
-
-*O'Connor v. Donaldson*, 422 U.S. 563 (1975), held that a state cannot constitutionally confine a non-dangerous individual who is capable of surviving safely in freedom by himself or with willing help. *Addington v. Texas*, 441 U.S. 418 (1979), set the burden of proof for civil commitment at **clear and convincing evidence** — higher than the ordinary civil standard, lower than criminal. *Vitek v. Jones*, 445 U.S. 480 (1980), and *Zinermon v. Burch*, 494 U.S. 113 (1990), establish that the procedural protections surrounding commitment are themselves constitutionally required, and that a state can be liable where its established procedure predictably fails to supply them.
-
-Against that framework, the specific factual question in my case is narrow and documented: the deputy who served the writ said on my recording that he did not have the accompanying affidavit and that the paperwork did not show who signed it. Mississippi's statutory scheme contemplates an affidavit alleging the statutory grounds, sworn before the court that issues the order.
-
-What that establishes is a gap between the process the statute describes and the paperwork that arrived at my door. What it does not establish, and I will not claim it does, is that no affidavit existed — the federal court's own order later recited its contents, so one plainly did. The honest version is that the affidavit existed and was not produced to the person being seized on it, which is a real procedural failure and a smaller one than the version I used to tell.
-
-**XIV. MALICIOUS PROSECUTION AFTER *THOMPSON v. CLARK***
-
-*Chapters 7, 19, 20, 31, 35. Verifying material: the 2025 reversal in Reardon v. State (Chapter 35); the dismissal of the contempt charge (Chapter 8).*
-
-For years the federal courts were split on what a §1983 malicious-prosecution plaintiff had to show about how his criminal case ended. Some circuits required an affirmative indication of innocence — a rule under which a dismissal, however favorable, proved nothing.
-
-*Thompson v. Clark*, 596 U.S. 36 (2022), resolved it. A plaintiff need only show that his prosecution **ended without a conviction**. He does not need to show an affirmative indication of innocence.
-
-This matters here more than any other single doctrinal development, because several proceedings in this book ended exactly that way: dismissed, abandoned, or reversed, without any court ever announcing that I was innocent. Before 2022, that pattern was close to unlitigable in some circuits. After *Thompson*, the favorable-termination element is satisfied by the disposition itself.
-
-It is not a cure-all. *Thompson* addressed only favorable termination. The plaintiff still must prove the absence of probable cause, and *Nieves* still governs the First Amendment overlay discussed in Section I. But a reader who assumes that a case ending in dismissal is a case with no remedy is working from the pre-2022 law.
-
-**XV. PROSECUTORIAL IMMUNITY, AND WHY THE ADA IS NOT A DEFENDANT**
-
-*Chapters 19, 20, 21. Verifying material: the November 1, 2022 motion to revoke; the certified transcript of the November 3 hearing.*
-
-A reader who has followed the revocation chapter will have an obvious question: if the prosecution's theory was built on testimony that fell apart on cross-examination, why is the prosecutor not answerable for it?
-
-Because under *Imbler v. Pachtman*, 424 U.S. 409 (1976), a prosecutor has **absolute immunity** from §1983 damages for conduct intimately associated with the judicial phase of the criminal process — initiating a prosecution and presenting the State's case. Absolute, here, means what it says: not defeasible by a showing of bad faith, malice, or knowledge of falsity.
-
-The line is functional rather than titular. *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993), held that a prosecutor performing **investigative** functions — acting as an investigator rather than an advocate — gets only qualified immunity. And *Kalina v. Fletcher*, 522 U.S. 118 (1997), held that a prosecutor who personally attests to facts under oath acts as a complaining witness and loses absolute immunity for that act.
-
-Applied here: filing and arguing the motion to revoke is advocacy, and it is immune. That is the answer, and it is not a satisfying one. It is also why the accountability mechanisms that remain for prosecutorial conduct are bar discipline and elections rather than lawsuits.
+The careful conclusion is not that prosecutors are categorically beyond accountability. It is that §1983 damages are generally unavailable for core prosecutorial advocacy, even when the plaintiff alleges serious misconduct in presenting the case.
 
 **XVI. BANISHMENT AS A SENTENCING CONDITION**
 
-*Chapters 20, 21, 22. Verifying material: the September 30, 2022 sentencing order; the November 3, 2022 revocation order quoted in Chapter 21.*
+The 2022 sentencing order imposed five years of unsupervised probation and banishment from Lafayette County, subject to stated exceptions. I accepted that condition in a negotiated plea.
 
-The condition that sent me to prison for a year was not a prohibition on any act. It was a prohibition on being in a place.
+Banishment conditions are not automatically unconstitutional, and Mississippi has permitted them in appropriate circumstances. Their validity can depend on the relationship between the condition and legitimate sentencing purposes, the scope of the restriction, and the record supporting it.
 
-Mississippi permits banishment as a condition of a suspended sentence, but its own Supreme Court has constrained it. The state cases require, in substance, that the banishment bear a reasonable relationship to the purposes of rehabilitation, that public interest be served, that the defendant's rehabilitation not be inhibited, and that the sentencing court make findings supporting it. Courts elsewhere have been more skeptical still, treating broad banishment as in tension with the right to intrastate travel and with the basic proposition that punishment should attach to conduct.
+The November 2022 revocation transcript adds an important factual limit to my own argument. Deputy Beavers confirmed that I told the Sheriff's Department in advance that I intended to go to the FBI office. Advance notice is documented. But the order did not say that notice alone automatically authorized entry into Lafayette County for any purpose. Judge Tollison found that my presence fell outside the permitted purposes and revoked the suspended sentence.
 
-I want to be careful, because this is the doctrine most likely to be overstated in my favor. Banishment conditions are not per se unconstitutional, I accepted this one as part of a negotiated plea, and a defendant who agrees to a condition has a steep climb attacking it later.
+I continue to dispute that outcome and the evidence used to reach it. The manuscript no longer claims that the phone call itself conclusively established legal authorization under the order.
 
-But the structural point stands on its own, and Chapter 21 shows it operating: once presence itself is the offense, compliance with every other term becomes legally irrelevant. I telephoned the Sheriff's Department in advance exactly as the order required. The State's own witness confirmed it under oath. The court revoked me anyway, on a finding that I had been present in the county outside an approved purpose. Nothing about that outcome was lawless. That is what makes it worth writing down.
+**XVII. PRESERVATION, SPOLIATION, AND WHAT A MISSING RECORD PROVES**
 
-**XVII. SPOLIATION: WHY "IT WASN'T PRESERVED" USUALLY WINS**
+The word *spoliation* can hide several different legal problems. Criminal due process, civil discovery sanctions, evidentiary inferences, and a court's inherent authority do not all use the same test.
 
-*Chapters 9, 11, 31, 33. Verifying material: the sheriff's sworn testimony that the sallyport footage was not preserved; the FOIA and public-records correspondence in Chapter 33.*
+In the criminal context, *Trombetta* and *Youngblood* set demanding standards for destroyed or unpreserved evidence. In civil litigation, rules governing discovery and sanctions can operate differently. And sometimes the factual answer is simpler: a requested camera never recorded the relevant area in the first place.
 
-Missing evidence recurs in this book often enough that a reader deserves the rule rather than the pattern.
+That last point changed the New Orleans chapters. The RTCC record did not establish that footage of the actual altercation was destroyed. It established that the camera produced did not capture the altercation itself. Calling that "lost footage" would create evidence that the source does not contain.
 
-For the State's failure to preserve evidence, *Arizona v. Youngblood*, 488 U.S. 51 (1988), is the wall: unless a criminal defendant can show **bad faith** on the part of police, failure to preserve *potentially useful* evidence is not a denial of due process. *California v. Trombetta*, 467 U.S. 479 (1984), covers the narrower category of evidence whose exculpatory value was apparent before it was destroyed. *Brady v. Maryland*, 373 U.S. 83 (1963), requires disclosure of material exculpatory evidence the State actually has — it does not require the State to have kept it.
+The same discipline applies everywhere else: absence of evidence may matter, but it does not supply the missing evidence's contents.
 
-The practical effect is that "the video no longer exists" is, in most cases, a complete answer, and proving bad faith requires evidence about the destroyer's state of mind that is almost always in the destroyer's exclusive possession. That asymmetry is the single most consequential piece of doctrine in this book after *Nieves*, and it is why the recording habit that makes me look obsessive in these pages was a rational response to it.
+**XVIII. SPEEDY TRIAL AND REVOCATION DEADLINES ARE DIFFERENT QUESTIONS**
 
-**XVIII. THE CLOCK: SPEEDY TRIAL AND THE 21-DAY QUESTION**
+Constitutional speedy-trial claims are governed by *Barker v. Wingo*, 407 U.S. 514 (1972), which balances length of delay, reason for delay, assertion of the right, and prejudice. Pretrial incarceration is one recognized form of prejudice, along with anxiety and impairment of the defense. Delay attributable to the defense also matters in the balance.
 
-*Chapters 6, 19, 22, 25. Verifying material: the docket entries and continuance orders discussed in Chapter 25.*
+Mississippi's 72-hour, 21-day, and 30-day revocation rules are statutory deadlines addressing probation-revocation procedure. They should not be blended into a *Barker* analysis merely because both concern delay.
 
-*Barker v. Wingo*, 407 U.S. 514 (1972), governs constitutional speedy-trial claims through four factors: length of delay, reason for delay, the defendant's assertion of the right, and prejudice. No factor is dispositive, and delay caused by the defense counts against the defendant.
+Earlier versions of my arguments sometimes mixed those frameworks. The corrected manuscript keeps them separate: *Barker* for constitutional speedy-trial analysis; § 47-7-37 for Mississippi probation-revocation timing; and the actual docket for which party requested which continuance.
 
-Mississippi layers a statutory rule on top of the constitutional one, and the interaction is where my own argument has been loosest. I have asserted at various points that a specific statutory period was blown. Whether a defense-requested continuance tolls that period is a question I have argued both ways at different times, and I am not going to resolve it here by picking the reading that helps me. The docket entries are the answer, they are cited in Chapter 25, and the analysis in this book does not go further than they support.
+**XIX. WHAT THE RECORD TAUGHT ME ABOUT CIVIL-RIGHTS LITIGATION**
 
-I also want to be honest about *Barker*'s prejudice factor. I have repeatedly pointed to the months I spent in custody as the prejudice. Time served is not automatically *Barker* prejudice — the doctrine looks to oppressive pretrial incarceration, anxiety, and above all impairment of the defense. The strongest prejudice argument available to me was always evidentiary: witnesses and footage that degraded while the case sat. That is the argument I should have made and largely did not.
+The clearest lessons from my own cases are narrower than the conclusions I once drew.
 
-**XIX. WHAT A READER SHOULD TAKE FROM THIS**
+First, motive evidence is not enough by itself in many retaliatory-arrest cases. Objective enforcement evidence matters, especially after *Nieves* and *Gonzalez*.
 
-Six things, and none of them are the thing I believed when I started.
+Second, stating a constitutional claim is not the same as obtaining a judgment that a constitutional violation occurred, and neither is the same as overcoming qualified immunity.
 
-1. **Motive is cheap; comparators are expensive.** *Nieves* means the documented retaliation is often legally inert without proof about everyone who was not arrested.
-2. **Winning the constitutional question is not winning.** Qualified immunity routinely separates the two, and an unbriefed claim is a lost claim.
-3. **Immunities are structural, not conspiratorial.** Judicial immunity, Eleventh Amendment immunity, and *Monell* dispose of an enormous share of civil rights claims before any fact is examined. When my cases died on these grounds, no one had to conspire.
-4. **The unglamorous claims are the strong ones.** An unproduced camera, an unserved affidavit, a prior conviction that was not final — these survive contact with an adversary. Grand theories do not.
-5. **A right can be real and still be unenforceable.** Mississippi guarantees a preliminary revocation hearing and then, in the same body of law, treats its absence as harmless unless you can show a harm that is not the jail time. Rights and remedies are different things, and almost nobody outside a courtroom knows that until it happens to them.
-6. **Pro se litigants lose on procedure, not merits, and the system is largely indifferent to that.** The right to represent yourself is not a right to be taught the rules. That, more than any individual official in this book, is what actually cost me.
+Third, immunities and pleading rules can end civil-rights cases without a trial on the underlying factual dispute.
 
-None of that makes what happened to me acceptable. It makes it *legal*, in most instances — and the gap between those two words is the reason I wrote this book.
+Fourth, precise documents are stronger than grand theories. A signed order, a transcript line, a laboratory report, a docket notice, or a dated recording can survive adversarial review in a way an inferred motive often cannot.
+
+Fifth, favorable termination, reversal, remand, vacatur of a sentence, vacatur of a conviction, and dismissal are not synonyms. This manuscript once used some of them as if they were. It no longer does.
+
+Sixth, many of my pro se losses turned on procedure, jurisdiction, immunity, or pleading sufficiency. That does not prove the underlying grievances were meritless. It also does not entitle me to rewrite those losses as victories.
+
+That distinction—between what I believe happened, what the documents establish, what a court actually held, and what the law permits me to infer—is the discipline this book ultimately required.
