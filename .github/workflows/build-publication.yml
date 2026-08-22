@@ -8,6 +8,13 @@ on:
       - 'full-rewrite/**'
       - 'scripts/build_publication.py'
       - '.github/workflows/build-publication.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'full-rewrite/**'
+      - 'scripts/build_publication.py'
+      - '.github/workflows/build-publication.yml'
   workflow_dispatch:
 
 permissions:
@@ -97,6 +104,7 @@ jobs:
             manuscript-exports/prepublication/SHA256SUMS.txt
 
       - name: Commit publication exports to branch
+        if: github.event_name != 'pull_request'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
