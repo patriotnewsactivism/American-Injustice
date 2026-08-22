@@ -60,6 +60,44 @@ jobs:
           weasyprint "$OUT/$STEM.html" "$OUT/$STEM.pdf"
           pdfinfo "$OUT/$STEM.pdf" | tee "$OUT/PDF_INFO.txt"
 
+      - name: Validate rendered PDF
+        run: |
+          set -euo pipefail
+          OUT='manuscript-exports/prepublication'
+          STEM='American_Injustice_PUBLICATION_2026-08-22'
+          PDF="$OUT/$STEM.pdf"
+          TXT="$RUNNER_TEMP/american-injustice-rendered.txt"
+          INFO="$OUT/PDF_INFO.txt"
+
+          grep -Fq 'Page size:       432 x 648 pts' "$INFO"
+          PAGES="$(awk '/^Pages:/ {print $2}' "$INFO")"
+          test -n "$PAGES"
+          test "$PAGES" -ge 200
+
+          pdftotext -layout "$PDF" "$TXT"
+          for required in \
+            'AMERICAN INJUSTICE' \
+            'Copyright © 2026 Matthew Oliver Reardon' \
+            'DEDICATION' \
+            'A NOTE FROM THE AUTHOR' \
+            'PROLOGUE — THE FIRST DOMINO' \
+            'CHAPTER 1' \
+            'CHAPTER 39' \
+            'EPILOGUE — THE RECORD' \
+            'LEGAL ANALYSIS' \
+            'APPENDIX' \
+            'STANDING CORRECTIONS FROM EARLIER EDITIONS'
+          do
+            grep -Fq "$required" "$TXT"
+          done
+
+          if grep -Fq 'fully vacated my 2022 conviction' "$TXT"; then
+            echo 'Rendered PDF contains obsolete vacatur wording.' >&2
+            exit 1
+          fi
+
+          echo "Rendered PDF QA PASS: ${PAGES} pages, 6x9 trim, required publication sections present."
+
       - name: Build Word and EPUB editions
         run: |
           OUT='manuscript-exports/prepublication'
