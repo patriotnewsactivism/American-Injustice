@@ -3,6 +3,7 @@ Build date: 2026-08-22
 Source directory: full-rewrite/
 Source files assembled: 46
 Chapters: 39
-Approximate assembled word count: 62,585
-Assembled Markdown SHA-256: 3d6cb97be20357f2d6359b3095acdd42e8a7ba7258081997f1556252a060b038
+Approximate assembled word count: 78,920
+Minimum word-count guardrail: 75,000
+Assembled Markdown SHA-256: 5c4f26202f2f2178ab6673e24a03e09d90688fa8253ef5efc28916e81892aa0b
 QA: PASS

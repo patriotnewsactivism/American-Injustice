@@ -432,102 +432,280 @@ The next chapter is about the pressure surrounding that plea: the $150,000 bond,
 
 # CHAPTER 5 — $150,000, AND AN ORDER SIGNED UNDER DURESS
 
-My initial appearance on the aggravated-stalking charge was held May 30, 2017, before Lafayette County Justice Court Judge Carolyn Bell. I had been arrested on Friday, May 26. The long Memorial Day weekend passed with me in custody before I was brought before the court on Tuesday.
+My initial appearance on the aggravated-stalking charge was held May 30, 2017, before Lafayette County Justice Court Judge Carolyn Bell. I had been arrested on Friday, May 26. The Memorial Day weekend passed with me in custody before I was brought before the court on Tuesday.
 
-The bond set at that appearance was $150,000. That amount is confirmed by the contemporaneous Oxford Eagle report and later court materials. I argued then, and still believe, that the amount was excessive for the charge and circumstances. The legal merits of that argument belong in the legal-analysis section. The historical fact here is that I could not post it, and I remained in jail.
+The bond set at that appearance was $150,000. That amount appears not only in later litigation but in the separate habeas proceeding filed while I was still jailed. The June 8 motion in Cause No. L17-233 states that I was confined in the Lafayette County Detention Center with bail in the amount of $150,000 and alleges that the amount was “excessive, oppressive and beyond the financial means” of me or my family and loved ones.
 
-My memory of the hearing includes two things that I have repeated for years but cannot prove from a transcript because I do not have one. First, I remember Judge Bell meeting with sheriff's investigators before the hearing. Second, I remember trying to raise the dated rifle bill of sale and being stopped rather than having the document examined. Those are my recollections. I am not going to convert them into an independently established ex parte violation or quote words from a hearing I cannot reproduce.
+I argued then, and still believe, that the bond was excessive for the charge and circumstances. The legal merits of that claim belong in the Legal Analysis. The practical effect does not require a legal conclusion: I could not post $150,000, so I stayed in jail.
 
-The reason the bill of sale mattered to me at the time was the same reason it matters now. I had bought the Del-Ton AR-15 from Larry Watkins on May 20. I believed the accusation against me involved that rifle. The later Criminal Information would eventually allege AR-15 conduct "on or before May 8, 2017." But, as the previous chapter explains, I do not presently have the original May 26 warrant affidavit showing that the same May 8 allegation was before Judge Bell on May 30. I can say I tried to raise the purchase date. I cannot say the court was staring at the July 6 Criminal Information before that document existed.
+My memory of the May 30 initial appearance includes two things I have repeated for years but cannot prove from a transcript because I do not have one. First, I remember Judge Bell meeting with sheriff's investigators before the hearing. Second, I remember trying to raise the dated rifle bill of sale and being stopped rather than having the document examined. Those remain my recollections. I am not converting them into an independently established ex parte violation or placing quotation marks around words I cannot reproduce from a record.
 
-The $150,000 bond kept me in the Lafayette County Detention Center while the criminal case and a separate civil case involving Robyn and Rhea Tannehill developed at the same time.
+The bill of sale mattered to me because I had bought the identified Del-Ton AR-15 from Larry Watkins on May 20. I believed the accusation against me involved that rifle. The later Criminal Information would allege AR-15 conduct “on or before May 8, 2017.” But I still do not have the original May 26 probable-cause instrument showing that the May 8 allegation was before Judge Bell at the initial appearance. I can say I tried to raise the purchase date. I cannot say the judge was looking at the July 6 Criminal Information six weeks before it existed.
 
-The Tannehills had filed their Petition for Emergency, Temporary Restraining Order and Permanent Restraining Order on May 22, 2017. The petition is one of the more revealing documents from that month because it quotes and describes my own conduct rather than presenting me as a passive political protester.
+May 30 did not end with the bond hearing.
 
-Rhea Tannehill's sworn petition recounted my May 2017 political attacks on Oxford officials, the "Southern Fury is coming" language, my search for a bulletproof vest, posts involving firearms, statements about "havoc and carnage," and videos he characterized as threats. Robyn Tannehill's affidavit stated that she supported my right to advocate for the Mississippi flag but believed the combination of my words and conduct made her fear violence against herself or her family.
+The same day, Chief Deputy Scott Mills and Major John Hill transported me from the detention center to Chancery Court for the restraining-order proceeding filed by Robyn and Rhea Tannehill. Hill's later Sheriff's Office narrative, Complaint No. 1.17-05125, is unusually useful because it records the sequence from the perspective of the officer assigned to escort me.
 
-The petition also confirms an important preexisting connection: Rhea Tannehill stated under oath that in 2016 he had represented "Lizzie Crowder" in a domestic-violence matter arising from an affidavit I filed. That prior representation is a documented fact. It does not, standing alone, prove that the Tannehills and Crowder coordinated the separate Lynch criminal case.
+Hill wrote that the hearing was continued so I could obtain an attorney. Chancellor Glenn Alderson reset the matter for June 15 and extended the restraining order until the new hearing date.
 
-I dispute portions of the Tannehill petition and the way it interpreted some of my political speech. But I also cannot pretend the filing contained nothing but the state-flag dispute. Some of my own statements were aggressive enough that a reader can understand why the Tannehills presented them to a judge as threatening. The constitutional question of how far a civil order could lawfully restrict future speech is different from whether the petition accurately quoted material I had put online.
+Then the June 6 Board of Aldermen meeting came up in open court.
 
-While I was still jailed, attorney Brennan Horan became involved in my defense. My account — and I want the sourcing level stated plainly — is that Horan advised me to agree to the Tannehill order as part of getting me out of jail. I signed the order because I wanted out. I have consistently described the decision as made under duress created by my continued detention and the $150,000 bond.
+According to Hill, Rhea Tannehill told Judge Alderson that I was on the June agenda of the City of Oxford Board of Aldermen and that he did not want me there while the restraining order was in place. Hill recorded my response too: I said I should be allowed to attend because I had been placed on the agenda before the restraining order existed. Hill wrote that Judge Alderson instructed me to stay away and said that if I showed up, I was to be arrested.
 
-That does not mean the signature was legally involuntary merely because I felt enormous pressure. "Duress" is both an ordinary word and a legal doctrine, and this book should not collapse the two. The fact I can state from personal knowledge is that I did not sign because I agreed with the allegations. I signed while incarcerated because I believed doing so would improve my chances of release.
+That detail matters because the Board record survives independently.
 
-In later years I went further. In an unfiled draft motion challenging the order, I alleged that Horan specifically told me signing it would result in dismissal of the Lynch aggravated-stalking charge. I still remember the advice that way. But the supporting witness affidavit referenced in that draft has never been located, and I do not have a recording of the conversation with Horan. So that specific promise remains **my account**, not a documented admission by Horan.
+The official minutes for the June 6, 2017 regular meeting list item seven as: “Matt Reardon to address the board regarding the state flag.” The minutes then record what happened when the item was reached: “Mr. Reardon was not present to address the board.”
 
-The Lynch case was not dismissed when I agreed to the civil order. It continued until the July 6 plea.
+I was not absent because I had abandoned the flag issue. I was in the Lafayette County Detention Center on the $150,000 bond, and Hill's report says that four days earlier the Chancery judge had specifically instructed me not to attend.
 
-I have also described Horan's family relationship to then-state legislator Kevin Horan as a conflict of interest. The family relationship appears repeatedly in my own files and project ledger. What I do not have is evidence that Kevin Horan participated in my case or that the family relationship affected Brennan Horan's advice. The publication copy therefore does not call the relationship, by itself, a proven conflict.
+I do not need to infer a hidden motive from that chronology. The paper is enough. On May 16 I had been told to return and get on the agenda. The June 6 minutes show that I did. The May 30 Sheriff's report shows the restraining-order issue being raised while I was in custody. And the June 6 minutes show the empty agenda slot where I would have spoken.
 
-There is another correction that belongs here because I repeated it publicly for years. I said Brennan Horan and Rhea Tannehill had gone to law school together. A June 27, 2020 message from attorney Christi McCoy contradicts that account: after checking the bar website, she told me Brennan had graduated roughly ten years before Rhea and that they had not been in law school together. I do not have evidence overriding that contemporaneous correction. The claim that they attended law school together is withdrawn.
+The May 30 Chancery hearing also produced the hallway confrontation with Rhea Tannehill.
 
-Another issue I raised later concerned security under Mississippi Rule of Civil Procedure 65(c). In a recorded call with Judge Lawrence Little's law clerk years later, the clerk could not confirm that a security bond had been posted in the Tannehill restraining-order case. That is useful evidence of a records question. It is not the same as a judicial ruling that the order was void, and this edition will not describe it as one.
+Hill wrote that after court he seated me in a chair in the southeast back hallway while Mills went back inside to check on paperwork I had to sign. Rhea came out through the courtroom door near the judge's chambers. Hill recorded me saying, “FUCK YOU. YOU ARE A FUCKING LIAR.” He then wrote that Rhea started walking toward me with a water bottle in his hand and said, “I'LL BASH YOUR HEAD IN.” Hill stepped in front of Rhea and told him to leave. Rhea walked away, came back briefly after I said something Hill could not hear, and then left when Hill again told him to go.
 
-The courthouse confrontation involving Rhea Tannehill no longer rests on my memory alone. Major John Hill's May 30, 2017 Sheriff's Office narrative is in the records production. Hill wrote that after the Chancery hearing he seated me in the back hallway while paperwork was completed. He recorded me telling Rhea, "FUCK YOU. YOU ARE A FUCKING LIAR." According to Hill, Rhea then walked toward me with a water bottle and said, "I'LL BASH YOUR HEAD IN." Hill stepped in front of Rhea, told him to leave, and Rhea walked away. Hill's report does not say that he physically restrained Rhea or that an assault occurred. It documents a threat, an approach, and Hill placing himself between us.
+That report is stronger than the version I told from memory for years. It documents the threat and Hill's intervention. It does not say Hill pinned Rhea against a wall, physically restrained him, or stopped an assault already underway. It also records my profanity immediately before Rhea approached me. Both sides of the exchange remain in this edition because the contemporaneous report is the better source.
 
-That is the version this book uses because the contemporaneous report is better evidence than my later reconstruction.
+The Tannehills' May 22 petition is equally important because it preserves what they were asking the court to consider.
 
-What happened to the civil order five years later also needs to be stated more carefully than earlier editions stated it.
+Rhea's sworn filing recounted my political attacks on Oxford officials, “Southern Fury is coming” language, discussion of obtaining a bulletproof vest, firearm-related posts, statements about “havoc and carnage,” and videos he characterized as threatening. Robyn's affidavit stated that she supported my right to advocate for the Mississippi flag but believed the combination of my words and conduct made her fear violence against herself or her family.
 
-The order was part of the background cited in the 2022 aggravated-stalking investigation. But it did not automatically turn my June 28, 2022 arrival at Chancery Court into a felony, and it was not one of three mechanical "gears" that completed the crime. The 2022 MBI affidavit alleged a course of conduct based on the June 20 City Hall visit, prior online activity, and the standing order. Chapter 19 now lays out that chronology from the actual MBI file.
+I dispute portions of their interpretation of my speech. I also cannot write the petition off as though it contained nothing but disagreement over a flag. Some of my own words were aggressive. A fair account has to allow the reader to see why the Tannehills presented those statements to a judge as evidence of fear, while separately examining what legal restrictions could constitutionally follow from them.
 
-So the significance of what I signed in 2017 is real without exaggeration. The order remained relevant years later. Law enforcement cited it when evaluating later contacts and speech. It became part of the factual landscape of the second stalking case. But this book will not claim the order, by itself, was the statutory switch that created the 2022 felony.
+The petition also confirms a preexisting connection that matters later without proving a conspiracy: Rhea Tannehill stated under oath that he had represented “Lizzie Crowder” in a 2016 domestic matter arising from an affidavit I had filed. That relationship is documented. It does not establish that Crowder caused Todd Lynch's criminal complaint or participated in the May 26 arrest decision. I do not know that she did.
 
-By late June 2017, I was still incarcerated. The $150,000 bond had done what a bond a defendant cannot afford does in practical terms: it kept me in jail while my lawyers and the State negotiated what would happen next.
+By early June I remained in jail, and the bond itself became the subject of a separate case.
 
-The pressure I felt was not abstract. I had missed the June 6 Board of Aldermen meeting at which I had been placed on the agenda. Robyn Tannehill won the mayoral election that day. My family-court problems continued outside the jail. And the criminal charge carried the possibility of years in prison if I rejected a negotiated resolution and lost.
+On June 8, attorney Kristian A. McCray of the Trout Law Firm filed a Motion for Writ of Habeas Corpus Seeking Bail Reduction in Lafayette County Circuit Court, Cause No. L17-233. The motion did not speak in abstractions. It identified the detention center, the $150,000 bond, and my inability to pay. It alleged that the confinement was illegal because the bail was excessive and beyond my financial means, invoking the Eighth and Fourteenth Amendments and provisions of the Mississippi Constitution. It asked the Circuit Court either to discharge me from what the motion called illegal confinement or reduce the bail to a reasonable amount.
 
-On July 6, 2017, the case ended in a guilty plea. The formal Criminal Information carrying the handwritten "or before May 8, 2017" date was filed that same day. The plea, the sentence, the banishment condition, and the covenant not to sue are the subject of the next chapter.
+The same file contains my in-forma-pauperis affidavit. Through counsel, I stated that because of poverty I could not pay the fees and costs of the proceeding and believed I was entitled to relief. The court entered an order allowing the habeas action to proceed in forma pauperis on June 8.
 
-That is the point at which the pressure of six weeks in custody became permanent paper.
+The docket matters because it corrects another piece of my own later understanding. For years I described learning only afterward that a habeas petition had somehow been filed and approved while I sat in jail. The surviving file shows exactly what existed: a separate Circuit Court cause, L17-233, with McCray as counsel; a June 8 motion specifically attacking the $150,000 bail; and a June 8 order permitting the case to proceed without prepayment of fees.
+
+What the file does not show is an order reducing my bond.
+
+The habeas case remained on the docket long after I was released and was eventually dismissed as a stale case on November 30, 2018 because no step had been taken to prosecute it for more than a year. That later dismissal does not erase the importance of the June 2017 filing. It demonstrates that while I was jailed, an attorney had already put the bond issue before the Circuit Court in a formal proceeding.
+
+Meanwhile, the Tannehill case continued toward the June 15 setting.
+
+Attorney Brennan Horan became involved in my defense during this period. My account—and I want the sourcing level stated plainly—is that Horan advised me that agreeing to make the Tannehill restraining order permanent would help move me toward release. I signed because I wanted out of jail. I have consistently described that decision as being made under duress created by detention, the unaffordable bond, the family-court pressure outside the jail, and the belief that remaining in custody was making it harder to protect my relationship with my daughter.
+
+That is what I mean when I use the word duress in the narrative sense.
+
+It is not the same thing as proving legal duress. The signed plea documents that come later contain sworn statements in which I denied being threatened, intimidated, coerced, or forced. Those statements are part of the record and cannot be written around. My later position is that the practical pressure of incarceration drove my decisions. The contemporaneous plea record says I formally represented the plea as voluntary. The tension between those two things is one of the central evidentiary problems in any later challenge.
+
+In an unfiled draft motion prepared years afterward, I alleged something more specific: that Horan told me signing the permanent Tannehill order would result in dismissal of the Lynch aggravated-stalking case. I still remember the advice that way. But the witness affidavit referenced in that draft has not been located, and I have no recording of the conversation. The specific promise therefore remains my account, not a documented admission by Horan.
+
+The Lynch case was not dismissed after I signed the civil order.
+
+It continued while I remained incarcerated.
+
+I have also described Brennan Horan's family relationship to then-state legislator Kevin Horan as a conflict of interest. The family relationship appears in my own files. What I do not have is evidence that Kevin Horan participated in my criminal case or influenced Brennan Horan's representation. The publication text therefore does not turn kinship into a proven conflict.
+
+The same correction applies to another claim I repeated for years: that Brennan Horan and Rhea Tannehill attended law school together. A June 27, 2020 message from attorney Christi McCoy contradicts that account. After checking bar information, she told me Brennan had graduated roughly ten years before Rhea and that they had not been in law school together. I do not have evidence overriding that correction, so the law-school claim is withdrawn.
+
+By the second half of June, the pressure was no longer just the original $150,000 number.
+
+The official Oxford minutes now contained a public record that I had been scheduled to address the Board and had not appeared. The separate habeas action was on file but had not produced my release. The Tannehill order was still part of my legal landscape. The Lynch felony charge remained pending. My family litigation continued outside the walls of the detention center. Every day I remained jailed made those proceedings harder for me to participate in directly.
+
+That practical reality is why the chronology matters more than generalized language about jail “breaking” a defendant. I do not need to speculate about what detention centers are designed to do. I can identify what the documents show happened while I was there.
+
+May 26: arrest.
+
+May 30: initial appearance, $150,000 bond, Chancery hearing, continuation of the restraining-order case, and a judicial instruction that I not attend the June 6 Board meeting.
+
+June 6: the Board minutes called my agenda item and recorded that I was not present.
+
+June 8: the habeas case formally challenged the bond and was allowed to proceed in forma pauperis.
+
+June 15: the continued restraining-order date arrived while I remained in custody.
+
+June 22: the criminal-case record later reflected Brennan Horan's formal involvement in my defense.
+
+And then came July 6.
+
+By that date I had been detained for more than forty days. The State had not taken the Lynch accusation to a grand jury. Instead, the case would be resolved through a waiver of indictment, a Criminal Information, a guilty-plea petition, a time-served sentence, banishment from Lafayette County, no-contact conditions, and a civil covenant not to sue the local governments and people tied to the prosecution.
+
+Those are not later recollections. Those papers survive.
+
+The next chapter follows them in the order they were signed.
 
 
-# CHAPTER 6 — SIX WEEKS, AND THE FORM THAT VANISHED
+# CHAPTER 6 — SIX WEEKS AND THE PLEA
 
-I spent more than forty days in the Lafayette County Detention Center after the May 26, 2017 aggravated-stalking arrest. The psychological evaluation performed later that year records the incarceration as "40+ days." My later court filings place my release with the July 6 resolution of the criminal case.
+By July 6, 2017, I had been in the Lafayette County Detention Center for more than forty days.
 
-Three records from this period have shaped how I have understood those six weeks: the FBI meeting I attended the day before the arrest, the complaints I made about the court process, and the psychological evaluation ordered after I was out.
+The June 8 habeas case had put the $150,000 bond before the Circuit Court but had not produced my release. The Lynch aggravated-stalking case was still pending. The Tannehill restraining order remained in place. I had missed the June 6 Board of Aldermen meeting where the official minutes recorded my agenda item and my absence.
 
-The FBI record is the least complete.
+Then the criminal case moved very quickly.
 
-On May 25, 2017, I met with FBI personnel in Oxford. I have repeatedly said that the meeting was arranged through Assistant U.S. Attorney Bob Norman and that I discussed threats against me and what I believed was corruption involving local officials. Those details are my account. Later recordings preserve me describing the meeting and Norman's role, but I do not presently have an FBI-created memorandum from May 25 that independently confirms everything I say was discussed.
+The file for Cause No. LK17-295 contains a cluster of documents all generated around the same resolution: a waiver of indictment, a Criminal Information, a petition to plead guilty, a time-served sentencing order, a criminal-disposition form, and a Covenant Not To Sue. Years later, Chief Deputy Scott Mills requested the court reporter's transcript of the guilty-plea hearing. That transcript was filed in August 2020 and now provides the best record of what happened in the courtroom on July 6.
 
-For years I have referred to the missing record as an "FBI 302." That shorthand needs qualification. A Form FD-302 is one type of FBI interview memorandum, but I do not have proof in the present archive that an FD-302 was in fact created for my May 25 meeting and then lost or destroyed. What I can say is that I later sought the Bureau's record of the interview and have not obtained the interview memorandum I expected to exist.
+The hearing was before Circuit Judge John Kelly Luther. Assistant District Attorney Mickey Mallette appeared for the State. Brennan Horan represented me. Court reporter Dana R. Rakestraw took down the proceeding.
 
-So the evidentiary status is simple: **the meeting is part of my documented chronology; the specific missing FD-302 remains a source question.** I should not tell the reader that a particular federal form "vanished" unless I can first establish that the form existed.
+Judge Luther began by putting me under oath and explaining why he was going to ask questions. He said he did not want anyone pleading guilty to a crime the person had not committed and wanted to be satisfied that I understood the charge, the rights I was giving up, and the consequences of the plea.
 
-The second thread is my challenge to the May 30 initial appearance. I have said that I filed a judicial-misconduct complaint against Judge Carolyn Bell based on the $150,000 bond, the delay before the appearance, what I remember as pre-hearing contact with sheriff's investigators, and my unsuccessful attempt to raise the rifle purchase date. I have also said the complaint produced no public discipline.
+That warning matters because what follows is not a record of a silent defendant being processed without questions. It is a record of me answering the court under oath.
 
-Until the complaint and disposition are placed directly in the source archive, those details remain my account. The bond amount and hearing date are independently documented; the contents and disposition of the judicial complaint need their own source before the publication copy treats them as confirmed.
+The first major right I gave up was indictment by a grand jury.
 
-The third record is much stronger because I have the report itself.
+The judge explained that a grand jury would ordinarily hear enough of the State's evidence to decide whether probable cause existed to charge me. He explained that by signing the waiver I was asking the State to skip that stage and proceed immediately by Criminal Information. When he asked whether I understood that right, I answered, “Yes, Your Honor.” When he asked whether I wanted to waive indictment and proceed, I again answered yes.
 
-On September 11, 2017, licensed psychologist Dr. Joe Edward Morris evaluated me after a referral from Lafayette Chancery Court. His report says the purpose was to determine whether I was psychologically and emotionally able to have unsupervised visitation with Lydia.
+The court approved the waiver.
 
-Morris described me as cooperative, appropriately dressed, maintaining good eye contact, motivated, and "a reliable informant." He administered a battery that included the MMPI-2, the 16 Personality Factor Test, Beck anxiety and depression inventories, and a parenting-discipline measure.
+That procedural choice is important because the Lynch case was not resolved after a grand jury returned an indictment. The State proceeded by information with my consent. The waiver form itself says that, after consulting counsel, I relinquished grand-jury presentment and requested immediate prosecution by information.
 
-His mental-status observations were direct. He wrote that I was oriented in all spheres; my affect was congruent; I denied suicidal and homicidal ideation; no psychotic signs or symptoms were indicated; my thoughts were connected and logical; psychomotor activity was normal; and I "presented psychologically as stable."
+Then the charging date changed in open court.
 
-The test results were similarly clear. With mild elevations on the lie and paranoid scales of the MMPI-2 — elevations Morris wrote were typical in the context of my legal issues — the other test results fell within normal or typical ranges. His conclusion stated that I presented with "no significant psychological deficits" and that my scores reflected "an emotionally stable individual who would be an effective and caring parent" to my daughter. He wrote that no red flags surfaced indicating otherwise.
+Judge Luther began reading the Criminal Information as alleging that in June 2016 I committed stalking while displaying an AR-15 rifle with intent to place Todd or Ashley Lynch in reasonable fear of great bodily injury.
 
-That report deserves to be quoted accurately because an earlier version of this chapter gave Morris credit for a conclusion he did not actually make.
+Horan interrupted: “It would have been May, Your Honor.”
 
-The report says that **I told Morris** I had been incarcerated for more than forty days and "was coerced under stress to get out and see his daughter." Morris recorded that statement in my history. He did not independently diagnose the 2017 plea or restraining-order decisions as products of legal coercion. The difference matters. My report to the psychologist is evidence that I was describing the experience as coercive within months of it happening; it is not a clinical adjudication that the plea or civil order was legally involuntary.
+Mallette asked what he had written. Horan answered, “June.” Mallette asked the court for permission to amend the document. Judge Luther allowed him to strike June and write May. Horan stated that he had no objection. Mallette said the change would be made in blue ink and called the original month his error.
 
-That timing is still useful. It shows that my claim of coercion did not originate years later after I began post-conviction litigation. By September 2017, I was already telling a court-referred psychologist that the forty-plus days in custody had pressured my decision-making.
+There was a brief pause while Horan said he was deciding one more issue.
 
-The Morris report also complicates later attempts to reduce every dispute I had with government to mental instability. It does not prove that every decision I made was rational, wise, or constitutionally protected. It does establish that, in September 2017, a licensed psychologist who examined me with multiple instruments found no significant psychological deficits and described me as emotionally stable.
+When the hearing resumed, Judge Luther did not merely say “May.” He stated the amended allegation more precisely: the Criminal Information alleged that the acts occurred “on or before May 8th, 2017.”
 
-That is enough. The report does not need embellishment.
+I asked him to repeat the date.
 
-The same discipline applies to the six weeks in jail. I remember the isolation, the limited access to ordinary life, and the pressure of making decisions while detained. Those are my lived experiences. I do not need to invent the lighting in a jail consultation room, the exact wording of a lawyer's conversation, or a generalized theory about what all detention centers are "designed" to do. The relevant fact is that I was detained because I could not make the bond and made consequential legal decisions while confined.
+He did: “On or before May 8th, 2017?”
 
-On July 6, 2017, the criminal case moved to a plea. The Criminal Information carrying the handwritten "or before May 8, 2017" date was filed that day. The resolution also produced a sentence, banishment conditions, and a covenant not to sue that would matter for years.
+I answered, “Yes, Your Honor.”
 
-Those documents, unlike the missing FBI interview memorandum, survive.
+The judge asked whether I understood the charge as amended. I said yes. He asked whether I committed the crime. I said yes.
 
-The next chapter stays with them.
+That exchange is one of the hardest pieces of evidence in this book for me because it cuts both ways.
+
+The same archive contains the May 20 bill of sale for the identified Del-Ton AR-15. I have spent years arguing that the State's May 8 weapon allegation cannot be reconciled with my acquisition of that rifle twelve days later. But the plea transcript shows that the May 8 date was stated directly to me in open court, that I asked for the date to be repeated, and that after hearing it again I pleaded guilty.
+
+A publication that quoted the May 8 date without also reporting my sworn response would be incomplete.
+
+The transcript does not show me producing the May 20 bill of sale at the guilty-plea hearing. It does not show me telling Judge Luther that the date was impossible. It does not show Horan objecting to May 8. Horan corrected the month from June to May, said he had no objection to the amendment, took a brief pause, and then told the court the defense was ready to proceed.
+
+That record does not resolve why the charging date and rifle purchase date conflict. It does establish that the conflict was embedded in the charge I admitted under oath.
+
+The court then asked the standard voluntariness questions.
+
+Judge Luther asked whether I was under the influence of drugs or alcohol or anything that could affect my ability to understand the proceeding. I answered no. He asked whether I suffered from any physical, emotional, mental, or other disability affecting my understanding. I answered no.
+
+Then he asked the question that any later coercion argument has to confront directly: whether anyone had beaten, threatened, coerced, or done anything to force me to plead guilty.
+
+I answered, “No, Your Honor.”
+
+He asked whether anyone had promised money, a reward, a lighter sentence, or any other inducement to persuade me to plead guilty.
+
+Again I answered no.
+
+The written guilty-plea petition says the same thing in more formal language. In that document I swore that I had not been beaten, threatened, mentally or physically forced, intimidated, or coerced; that I offered the plea freely and voluntarily; that I understood the rights I was waiving; that I believed Horan was competent and had done all anyone could do to counsel and assist me; and that I was satisfied with his advice.
+
+Those sworn statements are not erased because I later described the plea as coerced.
+
+My later account is different in an important way. I have said that after more than forty days in jail on a bond I could not make, with the custody and restraining-order proceedings continuing outside, I believed pleading guilty was the only realistic way to get out and return to my family responsibilities. I have also said Horan's advice made the alternatives sound substantially worse.
+
+Both records have to remain visible.
+
+In July 2017 I told the court under oath that nobody had coerced me and that I was pleading voluntarily.
+
+Within months, I was telling a court-referred psychologist that I had been “coerced under stress to get out and see” my daughter.
+
+Years later I challenged the plea on that basis and on alleged failures of counsel and discovery.
+
+The legal question whether those circumstances could overcome the sworn plea colloquy is different from the historical question of what I said at each point in time. This book answers the historical question by keeping both.
+
+The plea paperwork also makes clear what I received in exchange for the guilty plea.
+
+The Time Served Order imposed a five-year sentence in the custody of the Mississippi Department of Corrections, then reduced the sentence to time served and suspended the balance. I was placed on supervised probation for the balance of the sentence subject to a list of standard and special conditions.
+
+Among the standard conditions were requirements that I commit no new offense, avoid controlled substances and prohibited intoxicants, report as directed, work at suitable employment, remain within approved geographic limits, support dependents where applicable, submit to testing, and waive extradition if Mississippi lawfully required my return.
+
+The special conditions were more consequential to the rest of this story.
+
+The order states that I was to have no contact with Todd and Ashley Lynch. It also states, in capital letters, that I was “BANISHED FROM LAFAYETTE COUNTY MS EXCEPT FOR MANDATORY CHANCERY COURT APPEARANCE.”
+
+That sentence would follow me for years.
+
+Banishment was not simply an instruction to avoid the Lynches. It removed me from the entire county except for the family-court appearances the order specifically preserved. Oxford was inside that county. The courthouse, City Hall, the Board of Aldermen, the Sheriff's Department, the places where the events of May had occurred—all were inside the territory from which the criminal judgment now excluded me unless an exception applied.
+
+The disposition record identifies the result as a guilty plea to aggravated stalking under Mississippi Code § 97-3-107(2), with supervised probation for the balance of the sentence and the special conditions of no contact and banishment.
+
+Then there was the civil-release component.
+
+The Covenant Not To Sue is one page, but its scope is broad.
+
+It begins by stating that the covenant is “a specific condition to the guilty plea entered in LK17-295.” It then says that I agreed not to bring civil claims against four groups: Lafayette County and its elected officials or employees; the Lafayette County Sheriff, identified in the document as Buddy East, and authorized deputies or representatives; the City of Oxford and its elected officials or employees; and Todd or Ashley Lynch.
+
+The release language extends to conduct occurring before the covenant in connection with my charges, my social-media conduct, or conduct undertaken in furtherance of personally held political causes.
+
+That last phrase is unusually expansive. The criminal resolution did not merely dispose of a stalking prosecution. It also required me, as a specific plea condition, to surrender civil claims against the county, the city, their officials and employees, the sheriff's operation, and the two complaining witnesses for a defined body of past conduct that expressly included my political activity.
+
+I signed it.
+
+The Legal Analysis addresses the law governing release-dismissal agreements and why a signed covenant is not automatically invalid simply because it accompanied a criminal disposition. In the narrative, the factual point is enough: my release from six weeks of confinement was tied to a package that included a felony guilty plea, a suspended five-year sentence, supervision, no contact, countywide banishment, and a covenant relinquishing civil claims against many of the institutions and people I had been confronting.
+
+That package also complicates my own later shorthand that I “signed something to get out.” I signed several things.
+
+I waived indictment.
+
+I signed a guilty-plea petition.
+
+I admitted the amended May 8 charge in open court.
+
+I accepted the sentencing conditions.
+
+I signed the covenant not to sue.
+
+And the court reduced the prison sentence to time served.
+
+My later records place my release on July 6. The clerk's appeal index lists the Time Served Order, Covenant Not To Sue, and criminal disposition as filed on July 7. That one-day difference reflects the distinction between what occurred in court and release on the plea date and when some of the resulting papers were entered into the file.
+
+The criminal case did not disappear after I walked out.
+
+The docket eventually showed $630.50 in court costs. In January 2018 the district attorney moved for a contempt citation alleging that the balance had not been paid. The court later amended the sentencing paperwork to specify the $630.50 cost and a $50-per-month payment schedule. Those later events belong chronologically to the next phase of the story, but the obligation originated in this disposition.
+
+The banishment also changed where I could live. By August 2017 I had moved to Water Valley. In November I married. My family life continued, but the county containing Oxford and the litigation that had consumed the previous months was now a place the criminal judgment told me to avoid except when Chancery Court required me there.
+
+On September 11, 2017, another record was created that later became important to my account of the plea.
+
+Licensed psychologist Dr. Joe Edward Morris evaluated me after a referral from Lafayette Chancery Court. His stated purpose was to determine whether I was psychologically and emotionally able to have unsupervised visitation with Lydia.
+
+Morris described me as cooperative, appropriately dressed, maintaining good eye contact, motivated, and “a reliable informant.” He administered testing that included the MMPI-2, the 16 Personality Factor Test, Beck anxiety and depression inventories, and a parenting-discipline measure.
+
+His mental-status observations were direct. He wrote that I was oriented in all spheres; that my affect was congruent; that I denied suicidal and homicidal ideation; that no psychotic signs or symptoms were indicated; that my thoughts were connected and logical; and that I “presented psychologically as stable.”
+
+His testing produced mild elevations on the lie and paranoid scales of the MMPI-2, which he wrote were typical in the context of my legal circumstances, while the other results fell within normal or typical ranges. His conclusion was that I presented with “no significant psychological deficits” and that the scores reflected “an emotionally stable individual who would be an effective and caring parent” to my daughter. He wrote that no red flags surfaced indicating otherwise.
+
+The report also contains the line I later relied on when describing the plea as coercive.
+
+But the wording has to be kept straight.
+
+Morris recorded that I told him I had been incarcerated for more than forty days and “was coerced under stress to get out and see his daughter.” That statement appears in the history I gave the psychologist. Morris did not independently adjudicate the plea as involuntary, diagnose legal coercion, or make a forensic finding that the court proceeding was invalid.
+
+Its significance is temporal, not magical.
+
+By September 2017—only about two months after the plea—I was already describing the jail experience to a court-referred psychologist as coercive. That makes the account contemporaneous enough to matter. It does not override the sworn answers I gave Judge Luther in July.
+
+The two records sit beside each other.
+
+July 6: under oath in Circuit Court, I said nobody had coerced me.
+
+September 11: in the history I gave a psychologist, I described the incarceration and plea decision as coercive stress tied to getting out and seeing my daughter.
+
+That tension would become the foundation of years of post-conviction argument.
+
+One more document remained unresolved from the beginning of the case: the federal interview record from May 25.
+
+I met with FBI personnel the day before the arrest and later spent years seeking what I expected would be an interview memorandum. I often referred to it as an “FBI 302.” I still do not possess an FBI-created memorandum that establishes every subject discussed at that meeting, and I cannot prove from the present archive that an FD-302 was created and then destroyed or disappeared. The meeting belongs in the chronology; the missing federal record belongs in the source-gap list.
+
+That distinction now matters more, not less, because the state-court plea record is so complete.
+
+For July 6, I have the paper and the transcript. I know what the judge asked. I know what Horan corrected. I know what the prosecutor amended. I know what date was repeated back to me. I know what I admitted. I know what rights I waived. I know what sentence was imposed. I know the banishment language. I know the covenant's scope.
+
+The strongest argument about 2017 has to begin there.
+
+I left jail with a felony conviction, a suspended five-year sentence, supervision, a countywide banishment with a Chancery exception, no-contact conditions, court costs, and a signed civil release.
+
+The next phase of the story begins after I left Lafayette County—and with a different accusation, one that an outside police investigator would eventually test against the contents of my phone.
 
 
 # CHAPTER 7 — A FALSE ACCUSATION WEAPONIZED
@@ -599,37 +777,127 @@ By September 2020, the false-reporting case that Detective Ashley Holladay had b
 
 The municipal-court paperwork matters because an earlier version of this book got the money wrong. The signed court order lists a $1,000 fine and $149.25 in assessments, for a total of $1,149.25. It also records thirty days of jail time. The order suspended execution of the jail time and fine for thirty days to allow an appeal. That is the record I should have used from the beginning; the $129.25 figure printed in an earlier draft was wrong.
 
-The significance of the conviction was not simply that a court had entered a judgment against Crowder. It was what the underlying police file said. Holladay's sworn false-reporting affidavit states that Crowder reported that our November 25, 2018 sexual encounter was nonconsensual. I told Holladay that Crowder and I had planned the encounter through text messages and that the sex was consensual. I gave him printed screenshots and later surrendered my phone for examination. Holladay wrote that the downloaded contents matched the messages I had provided and supported my account that the encounter was consensual. He concluded that the rape allegation had been intentionally reported falsely.
+The significance of the conviction was not simply that a court had entered a judgment against Crowder. It was what the underlying police file said. Holladay's false-reporting affidavit states that Crowder reported that our November 25, 2018 sexual encounter was nonconsensual. I told Holladay that Crowder and I had planned the encounter through text messages and that the sex was consensual. I gave him printed screenshots and later surrendered my phone for examination. Holladay obtained a search warrant for the phone. He wrote that the downloaded contents matched the messages I had provided and supported my account that the encounter was consensual. He concluded that the rape allegation had been intentionally reported falsely.
 
 That distinction is important. I am not claiming that no encounter occurred. An earlier version of my story sometimes compressed the episode too far. The police record says an encounter occurred; the dispute was consent. The detective's examination of the messages is what led him to conclude that the rape report was false.
 
-The appeal that followed has its own paper trail, and it is more complicated than simply saying that Crowder announced an appeal and missed a deadline.
+The chronology between the September 22 judgment and the November appeal is unusually well documented because the court clerks and Crowder's attorney communicated by email.
 
-On October 26, 2020, attorney Christi McCoy emailed Olive Branch court clerk Samantha Brock after the municipal court received a notice of appeal in the mail. McCoy wrote: "Yes. We appealed the decision. Judge Shumake gave us 30 days to do so." Court paperwork was being generated around the appeal, including an appeal cost bill. That matters because it shows that there was appeal-related activity before the filing date that ultimately controlled jurisdiction.
+On October 5, attorney Christi McCoy wrote to Olive Branch court personnel asking for a copy of Judge Shumake's order and specifically said she wanted to make sure she did not miss any appeal dates. Court employee Carla Johnson responded that she had reminded Judge Shumake and would forward the order when he provided it. The order was then transmitted by email on October 6.
 
-But the formal de novo appeal in the County Court of DeSoto County was filed on November 19, 2020. The county-court case was State of Mississippi/City of Olive Branch v. Phyllis Crowder, Cause No. S2020-0024(CD). The county court did not describe the timing as ambiguous. In its November 23, 2020 Order of Dismissal, the court gave Crowder the benefit of using October 6 — the date she said the municipal judgment had been emailed to her — and calculated that the thirty-day appeal period still expired on November 5. The order states: "Defendant's appeal is two weeks late."
+That date later became important because Crowder argued that she did not actually receive the written judgment until October 6.
 
-The court then held that the untimely notice deprived it of jurisdiction. It dismissed the appeal and returned the case to the Olive Branch Municipal Court "for execution of the judgment rendered in this matter."
+On October 26, Olive Branch court clerk Samantha Brock emailed McCoy after receiving a notice of appeal in the mail. Brock noted that Crowder was on the municipal docket the next morning and asked McCoy to contact her. McCoy responded: “Yes. We appealed the decision. Judge Shumake gave us 30 days to do so.”
 
-Those words are stronger, and cleaner, than the version I had previously written. This was not a DeSoto County Circuit Court ruling, as an earlier draft said. It was the County Court of DeSoto County. And the county court did not conduct a merits review of the false-reporting conviction. It dismissed the de novo appeal because it was untimely and sent the case back for execution of the municipal judgment.
+The exchange continued minutes later.
 
-The appeal paperwork also explains why different dollar amounts appear in the file. The original municipal judgment listed $1,149.25. The later appeal cost bill listed a $1,000 fine, $209.25 in assessments, and $110 in county-court costs, producing an appeal-related total of $1,319.25. They are not competing versions of the same figure; they are different calculations at different procedural stages.
+Brock asked whether the appeal had already been filed in County Court and said she had not understood that it could be done without a cost bill. She explained that Judge Shumake had just signed the cost bill that day and attached a copy. McCoy replied that they had been waiting for it and would submit the required money that week.
 
-What happened after the remand is where my frustration hardened. The surviving correspondence shows the municipal court setting the matter back on its calendar. I spent that period pressing court personnel and municipal officials for records and asking what would happen to the judgment. I believed the sentence should simply be executed because the county court had ordered the case returned for exactly that purpose.
+Those emails are significant for two reasons.
 
-I need to separate the documented record from my conclusion. The documents establish the conviction, the sentence, the late appeal, the dismissal, and the return to municipal court for execution of judgment. They do not, standing alone, establish why Crowder did not serve the thirty-day jail sentence. I have described that outcome over the years as a judge "refusing" to enforce his own sentence. Unless a record surfaces showing an express refusal, the more precise statement is that the sentence was not carried out in the manner I expected after the remand, and I could not obtain a satisfactory explanation from the records available to me.
+First, they show that appeal-related activity was underway in October. It would therefore be misleading to write that Crowder and her attorney simply did nothing until November 19.
 
-That difference in wording does not erase what the paper trail establishes. A detective investigated the rape allegation, examined the messages, and swore that the evidence supported my account of a consensual encounter. Crowder was charged with false reporting. She entered a no-contest plea. A municipal judgment imposed thirty days and $1,149.25. Her formal de novo appeal was filed late. A county-court judge dismissed it for lack of jurisdiction and returned the case to Olive Branch for execution of the judgment.
+Second, the legal filing date still controlled.
 
-I did not leave the matter alone.
+The formal de novo appeal in the County Court of DeSoto County was not filed until November 19, 2020. The county case was State of Mississippi/City of Olive Branch v. Phyllis Crowder, Cause No. S2020-0024(CD). The fee bill shows a $1,319.25 payment received that day for the appeal.
 
-My records requests became increasingly pointed. I wrote that Crowder had falsely accused me of rape and demanded records showing what the municipal court had done with the case. The confrontation over those requests eventually produced a contempt proceeding against me and a $500 bond. I later filed a pro se lawsuit against the City of Olive Branch seeking $10 million.
+Four days later, on November 23, DeSoto County Court employee Allison Pannell emailed Brock that the Notice of Appeal had been filed on November 19 and that she would forward a copy after processing. In a second email that morning, marked important, Pannell wrote: “This appeal is out of time, I will keep you advised if we need the court records and how our Judge moves forward.”
 
-Those facts belong in the story without pretending that every escalation on my side was strategically wise. By that point, I had stopped trusting routine requests to produce routine answers. I responded by raising the stakes — more records demands, more accusations in writing, and litigation asking for damages far beyond anything I had a realistic basis to expect a Mississippi court to award. That was my decision. It is also part of the record.
+The judge moved forward that same day.
 
-What made the episode so corrosive for me was the contrast. The false-reporting case was one of the rare moments in this story when a police investigator did exactly what I had been asking officials to do: he collected the competing accounts, obtained the phone, checked the messages, and followed the evidence. The municipal court then entered a conviction. The county court later enforced the appeal deadline against Crowder and returned the case for execution of that judgment. Yet I still came away believing that the practical consequence for the false report had disappeared, while my own attempts to force an explanation generated new exposure for me.
+The County Court's November 23 Order of Dismissal did not treat the timing as a close question. The court acknowledged the correspondence showing that Crowder said she did not receive the municipal judgment until October 6. It then gave her the benefit of using October 6 as the operative date and calculated that the thirty-day appeal period expired on November 5.
 
-That belief drove me deeper into pro se litigation and deeper into the records themselves. The next chapter follows that turn: the post-conviction fight over my own 2017 case, the assignment history that I would spend years trying to reconstruct, and the difference between an irregularity that can be shown on paper and a theory that goes farther than the paper will support.
+The order states: “Defendant's appeal is two weeks late.”
+
+The court cited Mississippi Rule of Criminal Procedure 29.1 and concluded that the untimely notice deprived it of jurisdiction to entertain the de novo appeal. It dismissed the appeal and returned the matter to the Olive Branch Municipal Court so execution of the municipal judgment could proceed.
+
+That wording corrects two mistakes from earlier versions of this manuscript.
+
+The reviewing court was the **County Court of DeSoto County**, not the Circuit Court.
+
+And the County Court did not hear the false-reporting case on its merits and then remand it. It dismissed the appeal as untimely because it lacked jurisdiction and returned the case so the municipal judgment could be executed.
+
+The paper trail after the dismissal continues.
+
+At 2:02 p.m. on November 23, Brock emailed McCoy that Olive Branch had received the County Court's dismissal and needed to put Crowder's case back on the municipal docket. Brock offered December 1, December 8, or December 15, morning or afternoon.
+
+A week later, on November 30, McCoy asked Brock to set the matter for December 8 in the afternoon “and get this done as quickly as possible.” Brock set it for December 8 at 2:00 p.m.
+
+Those emails eliminate any basis for saying the remand simply disappeared into silence. The municipal court received the dismissal, contacted defense counsel the same day, and put the case back on the calendar.
+
+What they do not answer is what ultimately happened to the suspended thirty-day jail sentence.
+
+That is where my own account and the surviving record diverge.
+
+I spent the period after the remand pressing for information about enforcement. I expected a late appeal that had been dismissed for lack of jurisdiction to result in execution of the original municipal judgment. I became convinced that Crowder was receiving treatment I would not have received in the same position.
+
+The documents currently in the publication archive do not contain an order stating that Judge Shumake refused to execute his own sentence. They also do not contain a later order explaining that the thirty days were formally eliminated. Without one of those records, I cannot responsibly convert my frustration into a finding about the judge's motive or intent.
+
+The strongest statement is narrower: the municipal judgment imposed thirty days and $1,149.25; execution was suspended for the appeal period; the formal County Court appeal was untimely and dismissed; the County Court returned the case for execution of the municipal judgment; Olive Branch promptly reset the matter for December 8; and the record presently before me does not explain why Crowder did not ultimately serve the thirty-day term in the manner I expected.
+
+The money figures also need to remain separated.
+
+The September 22 municipal judgment lists a $1,000 fine plus $149.25 in assessments, totaling $1,149.25.
+
+The later appeal cost bill is different. It reflects a $1,000 fine, $209.25 in assessments, and $110 in County Court costs, for an appeal-related total of $1,319.25. The receipt in the DeSoto County file shows the $1,319.25 payment on November 19.
+
+Those are not competing versions of a single sentence. They are figures generated at different procedural stages.
+
+The appeal correspondence contains one other revealing detail—not about the merits, but about the atmosphere surrounding the case.
+
+On November 23, Pannell wrote to Brock that Crowder's attorney had told her “the other Party involved in this case records your conversations and puts them on Social Media!!??” followed by “Wow.”
+
+I was that other party.
+
+By then recording public officials and publishing government interactions had become part of how I preserved evidence and applied public pressure. The email is not proof that anyone treated Crowder differently because I recorded people. It is evidence that the practice was known inside the court communications surrounding her appeal.
+
+That matters because I was becoming more aggressive about records at the same time.
+
+On November 19—the same date Crowder's County Court appeal was formally filed—I completed an Olive Branch public-records request seeking records associated with the false-reporting matter. I wanted the underlying reports, court documents, and evidence surrounding the prosecution. The fact that Holladay's investigation had supported me did not reduce my interest in the record. It increased it. For once, I had a police file in which the investigator had checked the electronic evidence and reached a conclusion favorable to me, and I wanted the paper trail preserved.
+
+My approach to government records during this period was not subtle. I called. I emailed. I recorded. I accused officials of misconduct when I believed records were being withheld. I published parts of those confrontations. Sometimes that pressure produced documents. Sometimes it made the relationship with officials more adversarial. Both consequences became part of what followed.
+
+The Crowder conviction also overlapped with my own family-court litigation. In late August and September 2020, new Chancery filings were being prepared and filed in the custody case. I believed some notarized material was being reused improperly and began developing what I later called a notary-fraud theory. As Chapter 9 explains, I do not have a disciplinary or judicial finding establishing notary fraud. What I had were documents I thought did not line up, and I started treating every unexplained irregularity as something that needed to be preserved and challenged.
+
+That mindset was reinforced by the contrast in the false-reporting case.
+
+Holladay had collected evidence rather than simply choosing a story. He compared the screenshots I supplied against the downloaded contents of my phone. His written finding followed that comparison. The municipal court entered a conviction. The County Court enforced its filing deadline against Crowder. The clerks documented what happened in emails with dates and times.
+
+That was what I increasingly wanted from every dispute: a record capable of being checked later.
+
+I did not leave the Olive Branch matter alone. My records demands became confrontational. A courtroom dispute eventually produced a contempt proceeding against me and a $500 bond. I later filed a pro se federal lawsuit against the City of Olive Branch seeking $10 million.
+
+Those decisions belong in this book without pretending that escalating every conflict was strategically wise. By late 2020 I had begun responding to institutional resistance by increasing the pressure—more records demands, more recordings, more public accusations, and more litigation. Some of what I was documenting was real and important. Some of the legal theories I attached to it were weak. The difference would take years for me to learn.
+
+The false-reporting case remains one of the clearest examples of why the distinction matters.
+
+The documented record is substantial enough on its own:
+
+Crowder reported rape.
+
+Holladay investigated.
+
+The phone download supported my account.
+
+He concluded the rape report was intentionally false.
+
+Crowder was charged.
+
+She entered a no-contest plea and was convicted.
+
+The municipal court imposed thirty days and $1,149.25.
+
+Her appeal-related communications began in October, but the formal County Court appeal was not filed until November 19.
+
+The County Court held it was two weeks late, dismissed it for lack of jurisdiction, and returned the matter for execution of judgment.
+
+Olive Branch put it back on the docket.
+
+What happened after that point is less completely documented, so that is where the certainty stops.
+
+At the same time, I was reopening my own 2017 conviction and demanding the records I believed had never been produced before I pleaded guilty.
+
+That fight is where the next chapter begins.
 
 
 # CHAPTER 9 — THE BATTLE FOR EVIDENCE
@@ -638,63 +906,139 @@ By 2020, I was no longer trying only to explain why I believed the 2017 convicti
 
 The first problem was evidence.
 
-On May 20, 2020, I submitted a public-records request to the Lafayette County Sheriff's Department seeking the original affidavit or police report underlying the May 2017 aggravated-stalking case involving Todd and Ashley Lynch. On May 22, I received what I regarded as the wrong document: Bundren's reporting narrative created May 30, four days after the May 26 arrest. I followed up on May 28 asking again for the initiating record.
+On May 20, 2020, I submitted a public-records request to the Lafayette County Sheriff's Department seeking the original affidavit or police report underlying the May 2017 aggravated-stalking case involving Todd and Ashley Lynch. On May 22, I received what I regarded as the wrong document: Bundren's May 30 reporting narrative, created after the May 26 arrest. I followed up on May 28 asking again for the initiating record.
 
-That exchange matters because it is the origin of one of the most important source gaps in this book. I have the May 30 narrative. I have the later July 6 Criminal Information. I do not have the original initiating affidavit or warrant application that lets me compare, word for word, what was presented before the arrest with what the State formally charged later.
+That exchange is the origin of one of the most important source gaps in this book. I have the May 30 narrative. I have the later July 6 Criminal Information. I have the July 6 plea transcript. I do not have the original initiating affidavit, complaint, or warrant application that would let me compare, word for word, what was presented before the arrest with what the State formally charged later.
+
+The distinction sounds technical until the dates are placed beside one another.
+
+The later Criminal Information alleged AR-15 conduct “on or before May 8, 2017.” My surviving bill of sale identifies the Del-Ton rifle I associated with the case as purchased May 20. If the pre-arrest instrument used the same allegation and the same rifle, that would be important. But the document that could establish that connection is exactly the one I was asking the Sheriff's Department to produce.
+
+I did not understand all of those evidentiary limits in 2020. At the time I treated the date conflict as proof that the entire arrest had been fabricated around an impossible allegation. The records I now have support a narrower proposition: the later formal charge contained the May 8 date; the identified Del-Ton rifle was purchased May 20; and the initiating May 26 probable-cause document remains missing from my archive.
 
 On June 1, 2020, I emailed Kathy Sturdivant, the court administrator for Circuit Judge John Kelly Luther, describing the problems I believed I had found in the 2017 case and asking how to obtain judicial review. Sturdivant responded the next day that Judge Luther had reviewed my emails and advised me to follow Mississippi's post-conviction procedures if I wanted to challenge the guilty plea.
 
-I did.
+I began preparing to do exactly that.
 
-On July 7, 2020, I filed a motion for post-conviction collateral relief in the Circuit Court of Lafayette County. That proceeding is Cause No. L20-316. One correction from earlier drafts is important here: L20-316 is the 2020 post-conviction case arising from the 2017 plea. It is not the Crowder custody case, and it should not be interchanged with the older criminal cause number.
+One of the useful things about the 2020 archive is that it preserves my thinking before I filed the post-conviction motion. I was corresponding with attorney Christi McCoy, who was involved in Crowder's separate Olive Branch case. Those messages are not privileged advice to me in the ordinary attorney-client sense; McCoy repeatedly made clear that she was not my lawyer. They are valuable because she was a lawyer looking at pieces of my story while I was assembling it, and she sometimes told me directly when my theories were getting ahead of my proof.
 
-The motion raised, among other things, the missing initiating records, the rifle-purchase chronology, the circumstances of my detention and plea, and constitutional arguments attacking the judgment.
+On June 27, I told McCoy that the 2017 Criminal Information alleged that “on or before May 8” I had put the Lynches in fear with an AR-15 and that I did not purchase the rifle until May 20. I also told her that I had pleaded under duress, that I had not been indicted, and that I believed discovery had never been properly pursued.
 
-On July 30, 2020, Judge Luther entered an order summarily denying post-conviction relief under Mississippi Code § 99-39-11(2). The order did not grant an evidentiary hearing.
+McCoy did not simply endorse my theory.
 
-I responded with motions for rehearing, recusal, and to compel evidence. A later order denied reconsideration and recusal and treated the motion to compel as moot.
+She asked what information I had relied on when entering the plea and whether I had proceeded by information rather than indictment. When I described the covenant not to sue, she called it “a little unusual” in her experience and asked whether it had been part of a bargain in which the State would recommend no jail time if I signed the covenant. She also told me she was not sure the covenant or banishment was valid. Those were her contemporaneous impressions, not judicial rulings.
 
-Those are the clean procedural facts.
+Her most useful advice came when I began treating every irregularity as part of the same conspiracy.
 
-The judge-assignment issue is less clean.
+On June 30, McCoy told me she had no desire to argue with me but wanted to correct one point: based on what she knew, this was not a §1983 case she would file under her own name. She said I might have a decent post-conviction claim but advised me that my best chance was to “stick with the facts and don't muddy the waters.”
 
-In my 2020 filings I asserted that the matter had been assigned to Judge Kent Smith and questioned why Judge Luther was deciding it. I later recorded myself looking at public docket information that I believed showed the assigned-judge field changing from Smith to Luther when my August 12 recusal motion was entered. I treated that as evidence of manipulation.
+That sentence reads differently to me now than it did then.
 
-The present archive does not contain a certified administrative assignment history establishing exactly when the assignment changed, who changed it, or why. Court cases can be reassigned for ordinary administrative reasons. The fact that Luther ruled on L20-316 is established by his signed orders. My claim that the assignment was improperly changed is not yet established by a source that explains the administrative history.
+At the time, I was frustrated by it. I believed I had finally assembled enough interconnected material to explain what had happened in 2017. I was talking about Sheriff Joey East, the old Pruitt arrest, the Lynches, the Tannehills, Crowder, court records, the FBI, the missing Sheriff's call, and the covenant as pieces of one design.
 
-That distinction should remain visible. An unexplained change is a question. It is not proof of corruption merely because I distrusted it.
+McCoy was telling me that even if some pieces were important, joining all of them together could make the claim weaker rather than stronger.
 
-I also remember the online case record becoming temporarily difficult or impossible to access during the same period while my poverty affidavit remained visible. I documented that complaint in later recordings and filings. I do not have system logs from the court's electronic-record platform showing whether the cause was removed, re-indexed, hidden by a technical issue, or merely displayed differently. That remains **AUTHOR ACCOUNT / SOURCE MISSING**, not a proven act of record tampering.
+The advice became even more pointed in early July.
 
-The same summer produced another dispute over the May 24, 2017 investigative material. I made recorded calls and sent records demands trying to identify the source of the information that sent Bundren to my Facebook page and to obtain whatever call logs, notes, or recordings existed. I believed attorney David O'Donnell was involved in resisting disclosure. The surviving material shows that I was making that accusation; I have not located a document from O'Donnell admitting that he directed the Sheriff's Department to suppress evidence. This edition will not turn my accusation into his admission.
+When I told her I expected an evidentiary hearing on my PCR, she warned me that trial courts often rule on post-conviction petitions without one. She asked what evidence I had that could not have been known on the day of the plea and told me to identify that clearly.
 
-The evidence fight also spilled into the Crowder custody case.
+Then she addressed the May 8 date.
 
-In 2020 I began arguing that an affidavit used in Crowder's Chancery Court filings had been duplicated or reused improperly. The specific document I focused on was notarized on August 26, 2020. Later filings arrived in the same litigation, including a September 30 petition and an October 8 emergency petition. I developed what I called a notary-fraud theory: that the same notarized material had been repurposed rather than newly sworn.
+Her response was not what I wanted to hear. She told me the date issue could be treated as a nonissue because **I knew when I bought the gun at the time of the plea**. Her question was straightforward: why had I not brought it up then? She contrasted that problem with two issues she thought were more favorable to me—the claimed lack of access to discovery and the very limited contact I said I had with counsel while I was in custody. She told me to document the number of days in custody, the number and duration of attorney visits, and the lack of discovery review.
 
-The theory is not a court finding. I do not have a notarial investigation or disciplinary ruling concluding that Pittman or Crowder committed fraud. The most I can responsibly say in the narrative is that I compared the filings, believed the notary material had been reused, raised the issue, and treated it as another records irregularity. The underlying documents should be reproduced or tabulated in the evidence appendix so a reader can inspect the signatures and jurats rather than rely on my conclusion.
+That exchange belongs in this edition because it exposes the weakness in the argument before a judge ever ruled on it.
 
-Earlier drafts went much further. They assigned a motive — that the Chancery filing was created to influence Crowder's separate false-reporting sentence — and described the theory as if the timing proved the purpose. The chronology may have fueled my suspicion, but chronology does not establish motive. I am removing that claim unless a communication or court record directly supplies the connection.
+The July 6 plea transcript now makes McCoy's point sharper. Judge Luther stated the May 8 date to me. I asked him to repeat it. He repeated it. I admitted the charge. The transcript does not show me raising the May 20 receipt in response.
 
-This was the pattern of my 2020 litigation life: I would find a discrepancy, ask for the source record, receive either a different document or no answer I considered adequate, and then build a theory around the gap. Some of those theories later found support. Others did not. The discipline of this edition is to preserve the discrepancy without automatically preserving every conclusion I drew from it.
+That does not explain the date discrepancy. It does explain why a post-conviction court could view the discrepancy differently from the way I did. Evidence can be powerful and still be procedurally difficult if the defendant knew the underlying fact before pleading guilty.
 
-That is especially important with the broader political theories I developed about Lafayette County. The Metro Narcotics missing-money controversy, Joey East's later election as sheriff, Jeff Busby's move from the Board of Supervisors to Circuit Clerk, and other institutional relationships are real subjects in the source archive and in my later investigative reporting. They do not prove that Judge Luther denied L20-316 for a corrupt reason. A structural conflict or political network is not evidence of causation in a particular judicial ruling unless the record connects the two.
+I filed the post-conviction motion on July 7, 2020, in the Circuit Court of Lafayette County. The new proceeding was Cause No. L20-316.
 
-So Chapter 9 ends with fewer accusations than earlier versions and a stronger evidentiary problem.
+That number needs to remain distinct from LK17-295, the underlying criminal case, and L17-233, the 2017 habeas matter. Earlier timelines sometimes blurred those files together. They were different proceedings with different procedural purposes.
 
-I asked for the initiating 2017 affidavit.
+L20-316 attacked the guilty plea. I raised the missing initiating records, the rifle-purchase chronology, the circumstances of the detention and plea, alleged deficiencies in counsel's representation, and constitutional arguments challenging the judgment.
 
-I received the May 30 post-arrest narrative.
+On July 30, Judge Luther entered an order summarily denying post-conviction relief under Mississippi Code § 99-39-11(2). He did not grant the evidentiary hearing I expected.
 
-I filed L20-316.
+I filed for rehearing. I sought recusal. I tried to compel records. Later orders denied reconsideration and recusal and treated the motion to compel as moot.
 
-Judge Luther denied it without an evidentiary hearing.
+Those are the procedural facts.
 
-I challenged the assignment and demanded more evidence.
+The judge-assignment dispute is less clean.
 
-And the single document that could settle exactly what probable-cause allegation supported the May 26 arrest still has not surfaced in the archive I possess.
+In my 2020 filings I asserted that L20-316 had originally shown Judge Kent Smith and questioned why Judge Luther was deciding it. I later recorded public-docket information that I interpreted as showing an assignment change. I treated that as proof of manipulation.
 
-The next chapter turns from court records to a different source of pressure that was developing at the same time: repeated reports involving my family and Child Protective Services.
+The present archive does not contain a certified administrative assignment history showing when the assignment changed, who changed it, or why. A docket field that changes does not tell me who made the change or whether it was improper. Multi-judge courts reassign cases for ordinary reasons. The fact that Luther signed the orders is established. My claim that someone fraudulently changed the assignment remains an allegation unless the administrative record proves it.
+
+That was not how I spoke about it at the time.
+
+The contemporary messages show me escalating quickly from discrepancy to accusation. I told people the judge had been changed “fraudulently.” I interpreted difficulty accessing the electronic case as evidence that the cause was being hidden. I connected the assignment to officials I was already accusing of misconduct.
+
+In hindsight, the evidentiary problem is obvious: a system display can show that something changed without showing why.
+
+The same problem affected my records fight with the Sheriff's Department.
+
+I made calls and sent demands trying to identify the source of the May 24, 2017 information that caused Investigator Jared Bundren to review my Facebook material. I wanted call logs, recordings, affidavits, notes, and the actual pre-arrest probable-cause paper. I accused county attorney David O'Donnell and Sheriff's officials of obstructing disclosure when the records I expected did not arrive.
+
+Those communications prove I was demanding the records. They do not prove O'Donnell ordered anyone to destroy or suppress them.
+
+The difference between those propositions is now one of the rules of this manuscript.
+
+A missing document is a missing document.
+
+A refusal or incomplete response can be documented if the correspondence shows it.
+
+A deliberate cover-up requires evidence of intent.
+
+I did not always maintain that distinction in 2020.
+
+The evidence fight also spilled into the Crowder custody litigation. I began comparing affidavits and Chancery filings and concluded that notarized material had been duplicated or reused improperly. The document at the center of that theory was notarized August 26, 2020. Other filings followed in September and October.
+
+I called the pattern notary fraud.
+
+No court, notary authority, or disciplinary body in the present record has made that finding. What I can prove is that I compared the filings, believed the jurats or sworn material were being reused, and raised the issue repeatedly. The documents themselves belong in the evidence archive where the reader can compare them. My conclusion about criminal intent does not become evidence merely because I wrote it in a motion.
+
+Another theory I developed was that new Chancery litigation had been timed to help Crowder in the false-reporting prosecution. The chronology fueled that suspicion: her municipal case was approaching judgment while the custody litigation became active again. But the correspondence I have reviewed does not contain a statement from Crowder, Pittman, McCoy, or a court official saying that the Chancery filings were designed to alter the criminal result. That causal allegation therefore cannot be printed as fact.
+
+By late 2020 my relationship with McCoy illustrates the larger problem.
+
+She was willing to point me toward potentially useful issues. She questioned the unusual covenant. She recognized that limited attorney contact and lack of discovery could matter. She also repeatedly told me that post-conviction relief was difficult and that I was weakening myself when I mixed stronger issues with sweeping theories.
+
+I did not always take the advice.
+
+I was convinced that if I could simply collect enough documents, the whole system would resolve into one explanation. Every new discrepancy seemed to validate the larger picture. That made me persistent. It also made me vulnerable to overclaiming.
+
+The present manuscript has the advantage I did not have in 2020: six more years of records.
+
+Some things I suspected turned out to have documentary support. Some did not. Some remain unresolved. Some of my own factual descriptions were wrong.
+
+That is why the absence of the May 2017 initiating affidavit remains so important. It is not proof that the affidavit was destroyed. It is not proof that it contained the later May 8 allegation. It is not proof that the arrest was fabricated.
+
+It is the missing record that would answer one of those questions.
+
+What I can prove about the post-conviction fight is already substantial:
+
+I requested the original initiating record on May 20, 2020.
+
+The Sheriff's Department produced the May 30 narrative instead.
+
+I followed up.
+
+I contacted Judge Luther's administrator and was directed to use the post-conviction process.
+
+I consulted informally with an attorney who warned me to separate facts from theories and identified discovery and attorney access as stronger issues than I wanted to admit.
+
+I filed L20-316 on July 7.
+
+Judge Luther denied it without an evidentiary hearing on July 30.
+
+I sought rehearing, recusal, and additional evidence.
+
+And the underlying pre-arrest document remained outside the archive.
+
+That was the environment in which the rest of 2020 unfolded: one criminal conviction I was trying to reopen, another criminal case in which the police had concluded that Crowder falsely accused me, renewed family litigation, and an increasing habit of recording and preserving every government interaction I could.
+
+The next chapter turns to the family reports that were occurring at the same time—and to the difference between a documented allegation, an unsubstantiated report, and a proven false report.
 
 
 # CHAPTER 10 — THREE YEARS RUNNING
@@ -911,41 +1255,113 @@ The next major confrontation came in Justice Court in November. That proceeding 
 
 On November 4, 2021, I appeared in Lafayette County Justice Court for a bench trial covering a collection of charges that had accumulated from separate events.
 
-In a later federal pleading, I described that day as "nine separate charges" arising from three events and said the charges included the February 2021 DUI episode, the December 2020 disorderly-conduct and resisting-arrest case, and charges brought separately by Phyllis Crowder. I also said I was acquitted on the charges Crowder brought.
+In a later federal pleading, I described that day as “nine separate charges” arising from three events and said the charges included the February 2021 DUI episode, the December 2020 disorderly-conduct and resisting-arrest case, and charges brought separately by Phyllis Crowder. I also said I was acquitted on the charges Crowder brought.
 
 That is my filed account of the full trial day. The later official court record independently establishes something narrower and important: on November 24, 2021, the Justice Court entered judgments finding me guilty of four offenses — **Driving Under the Influence, First Offense; Improper Equipment; Disorderly Conduct; and Resisting Arrest.** A later Circuit Court order identifies those four convictions expressly, and the corrected notice of appeal filed by appointed counsel in 2022 identifies the same four judgments.
 
-That later record matters because earlier versions of this manuscript treated the entire day's disposition as though every piece of it had already been independently verified. It has not. The four convictions are established by later court records. My description of nine total charges and the disposition of the other charges comes from my own filed account unless and until the complete Justice Court disposition sheets for all nine are placed beside it.
+That later record matters because earlier versions of this manuscript treated the entire day's disposition as though every piece of it had already been independently verified. It has not. The four convictions are established by court records. My description of nine total charges and the disposition of the other charges comes from my filed account unless and until the complete Justice Court disposition sheets for all nine are placed beside it.
 
-The trial audio does preserve substantial portions of the evidence and questioning, including the February DUI case.
+The four convictions arose from two encounters with very different evidence records.
 
-Deputy Jacob Williford testified about the February 21 stop. The physical record discussed in Chapter 11 shows the original justification for the stop was an equipment issue, that I acknowledged prior marijuana use, that the vehicle search produced no contraband, and that the field-sobriety exercises were conducted after I was transported to the detention-center sallyport rather than on the icy roadside.
+The first was the **December 28, 2020 Sheriff's Department parking-lot arrest**.
 
-The missing sallyport video became a central issue at trial. Earlier versions of this book repeatedly said Sheriff Joey East testified that the footage was "gone forever." After going back through the trial audio, I cannot support that quotation. I am removing it rather than preserving a phrase because I repeated it for years.
+Deputy Courtney Dixon's report places the start of the encounter at 5:08 p.m. in the Lafayette County Sheriff's Department parking lot. Dixon wrote that he and Deputy Ethan Tidwell approached me because my black 2013 Kia Soul was double parked across two spaces reserved for Sheriff's Department vehicles.
 
-What the audio does support is more specific.
+Dixon's version is blunt. He wrote that he ordered me to move the Kia; that I said “no” because I needed to speak with Sheriff Joey East; that he repeated the command; and that I again refused. According to Dixon, after a final warning I still said I needed to speak with East, so Dixon told me to put my hands behind my back.
 
-The questioning established that the field-sobriety exercises took place inside the sallyport, an area with fixed cameras. The officer testified that he had not asked for the sallyport video to be preserved. During questioning about the department's video practices, the record also established that video from another sheriff's-department location connected to another charge had been preserved. Defense counsel then put the obvious comparison to the witness: if that video could be preserved, the sallyport video could have been preserved too. The answer was yes.
+The report says I began backing away, turned, and tried to run sideways. Dixon and Tidwell chased me. Dixon tackled me. Both deputies then struggled to get my arms behind my back while I continued saying I needed to speak with the sheriff.
 
-That is the evidentiary point worth keeping. Not a dramatic phrase that the tape does not contain. The issue is that a camera system covered the location where the sobriety exercises occurred, the footage was not preserved for the case, and testimony established that preservation was possible.
+Tidwell wrote his own supplemental narrative the following morning. His account substantially tracks Dixon's: the reserved spaces, the repeated commands to move, my refusal until I could speak with East, the order to put my hands behind my back, my attempt to move away, the tackle, and the struggle to handcuff me.
 
-The absence of that footage does not by itself prove I performed the exercises successfully or that the DUI charge was fabricated. The contemporaneous DUI paperwork contains observations adverse to me, including clues Beavers recorded on parts of the field-sobriety testing. A serious account has to keep those facts on the same page. What the missing video means is that an objective record that could have shown the exercises no longer existed by the time the case was tried, leaving the court to choose between written observations, testimony, and my account.
+Those reports are the officers' accounts, not findings by a jury. But they are contemporaneous primary records, and they are substantially more detailed than the version I usually told afterward.
 
-The December 28, 2020 case was different. Deputies Courtney Dixon and Ethan Tidwell were involved in the encounter outside the Sheriff's Department. I had gone there after emailing Sheriff Joey East about grievances I wanted him to address and parked in an area the deputies told me to leave. The dispute escalated into disorderly-conduct and resisting-arrest charges.
+The reports continue after the parking lot.
 
-I recorded that encounter. One factual dispute became especially important to me: the officers' account said I refused multiple orders to move the vehicle. My recording, as I have described it from the time of the case, captured me arguing about why I was there and insisting on speaking with the sheriff, but I maintain it did not capture me saying the specific repeated "no" attributed to me in the written account. That recording should ultimately be compared line by line with the officers' report before the book makes a stronger claim than that. For now, the accurate statement is that I dispute the officers' characterization and possess a contemporaneous recording that is the proper source for resolving the wording.
+Dixon wrote that I cursed and kicked doors while being escorted through the jail and that staff decided to use a restraint chair because I would not calm down. He said I “chest pumped” him, pulled away when he reached for my arm, fell over the chair, and caused Dixon to fall with me. Dixon photographed injuries to his hands that he attributed to the struggle. The report says no medical treatment was provided to me.
 
-Sheriff East also testified about the December encounter. The surviving trial audio records him describing me in stark terms, including his view that I was unpredictable, that I was becoming worse over time, and that he considered me a threat to people who disagreed with me. Those statements matter for a reason that reaches beyond the misdemeanor case itself. Within weeks, East would again be involved in an encounter with me at the courthouse, and the next day local law enforcement would provide information to Communicare that helped trigger an involuntary-commitment process. Chapter 16 addresses what the later Communicare recording actually establishes about that referral — and, equally important, what it does not establish about who specifically made it.
+Tidwell separately wrote that by the time he brought my property inside, Dixon and Lieutenant Omar Ahmed had placed me in the restraint chair.
 
-The four convictions entered November 24 created the next procedural fight. On December 2, the Justice Court entered an order finding me indigent, allowing an appeal without a supersedeas bond, staying execution of the judgments, and giving additional time to file. On December 3, acting without counsel, I filed in Circuit Court a document styled as a motion to alter or amend or vacate the judgments and stated in it that it was intended to serve as notice of my intent to appeal.
+The booking record lists disorderly conduct and resisting arrest. It shows a $700 bond associated with disorderly conduct, no separate bond amount beside resisting arrest, and my release on December 30 at 1:53 p.m.
 
-Years later, that procedural choice would become a major issue in its own right. The Circuit Court ultimately concluded that the December 3 filing did not satisfy the formal requirements for perfecting a Justice Court appeal. Appointed counsel later filed a corrected notice of appeal, and the fight over whether the original filing was sufficient would remain alive for years before reaching the Mississippi appellate courts.
+I recorded at least part of the parking-lot encounter. That recording is why I dispute a specific part of the reports: the repeated quoted refusals to move the car. I have argued that the audio does not contain the series of “no” statements attributed to me in the officers' narratives.
 
-But before any of that could be resolved, something happened three days after I filed the December 3 papers.
+That is a testable claim, and the publication standard should be to test it line by line against the recording before turning it into an accusation that the reports were falsified. Until that comparison is completed against the original audio, the honest presentation is that Dixon and Tidwell gave mutually reinforcing written accounts of repeated refusals and I possess a contemporaneous recording I believe conflicts with their wording.
 
-I went back to the Circuit Clerk's office on December 6 because the case I had been told was assigned to Judge Kent Smith now displayed Judge John Kelly Luther. That encounter was recorded. Earlier drafts incorrectly said it was not.
+The reports also correct an old naming error. Earlier manuscript versions identified another deputy as “Omar Ahmed” at the beginning of the parking-lot arrest. The primary reports identify **Courtney Dixon and Ethan Tidwell** as the two deputies who approached me outside. Ahmed appears later, inside the jail, in Dixon's description of the restraint chair.
 
-The next chapter starts with the recording.
+That distinction matters because one of the easiest ways to undermine a book like this is to get the people at the scene wrong.
+
+The second major group of charges came from the **February 21, 2021 DUI stop** described in Chapter 11.
+
+Deputy Jacob Williford testified about the stop. The contemporaneous report says the reason he turned around and stopped my Kia was the equipment violation—one functioning headlight—not weaving, speeding, or erratic driving. He reported smelling burned marijuana at the vehicle. I admitted smoking earlier that night. The deputies searched the Kia and found **no contraband**.
+
+The weather was freezing, with snow and ice on the ground, so the field-sobriety exercises were not conducted roadside. Deputy Kandis Beavers transported me to the Lafayette County Detention Center's sallyport and administered the exercises there.
+
+Her written report records a mixed set of observations: no clues on horizontal gaze nystagmus, but other claimed clues on the modified Romberg, lack-of-convergence, walk-and-turn, and one-leg-stand exercises. I told her I considered myself sober. She concluded otherwise and arrested me for DUI first offense.
+
+That made the sallyport video important.
+
+The field-sobriety exercises occurred inside a fixed-camera area. By trial, the footage had not been preserved.
+
+Earlier versions of this book repeatedly put a dramatic phrase in Sheriff East's mouth, saying he testified that the video was “gone forever.” After reviewing the audio, I cannot support that quotation, so it is gone from the publication text.
+
+What the trial record supports is better because it does not depend on rhetoric.
+
+The questioning established that the sobriety exercises took place where fixed cameras operated. The officer acknowledged that he had not asked for that video to be preserved. The questioning also established that video associated with another Sheriff's Department incident involving me had been affirmatively preserved. Defense counsel then put the comparison directly to the witness: if one recording could be preserved, the sallyport recording could have been preserved as well. The answer was yes.
+
+That is the evidentiary issue.
+
+An objective recording existed in a location where the most disputed physical testing occurred. It was not preserved for trial. The absence does not prove that I passed the tests, and it does not erase Beavers's written observations. It means the court had no video by which to compare those written observations with my physical performance.
+
+That missing record matters more because the roadside portion was not captured on deputy body cameras or dash cameras either. The case therefore depended heavily on officer observations and written reports where an objective fixed-camera record could have provided another perspective.
+
+The trial itself was a bench trial. I did not receive a jury verdict on those misdemeanor charges in Justice Court.
+
+That procedural point later became one of the recurring issues in my appeal. Mississippi's justice-court system permits de novo appellate review in a higher court when an appeal is properly perfected. My later fight was over whether I had done enough, and done it on time, to invoke that review.
+
+Sheriff Joey East testified too.
+
+His testimony matters beyond the individual misdemeanor elements because it captures how the county's chief law-enforcement officer viewed me by late 2021. The surviving audio records East describing me as unpredictable and worsening over time and expressing the view that I posed a threat to people who disagreed with me.
+
+I dispute that assessment. But it is evidence of East's state of mind in the limited sense that it records what he said under oath. It becomes relevant to the chronology because only weeks later I would confront him outside the courthouse, and Communicare would receive information from local law enforcement concerning behavior at the court.
+
+I have to resist the temptation to write causation into that sequence. East's November testimony shows what he said about me. The December Communicare recording shows that local law enforcement later supplied information. It does not, by itself, prove East was the specific source of the commitment affidavit.
+
+The November trial also reflects a broader feature of my litigation by then: I was trying to make evidentiary preservation itself part of the case.
+
+I had learned in 2017 what it meant to search years later for a document I wished I had possessed before pleading guilty. By 2021, every missing camera file looked to me like a warning. I asked about video. I recorded my own encounters. I challenged police narratives against audio when I had it. I wanted the government to preserve the evidence it controlled.
+
+Sometimes that instinct was justified. Sometimes I went too far and treated the mere absence of evidence as proof that the evidence had been intentionally destroyed because it favored me.
+
+Those are not the same proposition.
+
+The sallyport video is a good example. I can prove the field testing occurred in the camera-covered area. I can prove the footage was not available at trial. I can point to testimony that footage could be preserved. Without a preservation log, destruction directive, retention-policy violation established in the record, or testimony showing bad faith, I cannot prove why the footage was not retained.
+
+The court convicted me anyway.
+
+The official abstracts identify the February offense date, the November 4 trial date, and November 24 judgment date. The DUI abstract lists a $400 fine plus $404 in assessments. The improper-equipment judgment lists a $30 fine plus $116 in assessments. The later appellate record identifies the disorderly-conduct and resisting-arrest convictions from the December parking-lot case as part of the same appeal.
+
+The convictions did not become final in my mind on November 24 because I intended to appeal them.
+
+On **December 2**, Justice Court entered an order finding me indigent, permitting appeal without a supersedeas bond, staying execution of the judgments, and giving additional time to file. That order matters because it shows the lower court itself was contemplating an appeal and preserving the status quo while I pursued it.
+
+On **December 3**, acting without counsel, I filed in Circuit Court a document styled as a motion to alter, amend, or vacate the judgments. In its final paragraph I stated that the filing was intended to serve as notice of my intent to appeal. A civil cover sheet likewise characterized the matter as a Justice Court appeal.
+
+That filing was procedurally awkward. Years later, the Circuit Court would treat the defects as fatal and dismiss the appeal. In February 2026, the Mississippi Court of Appeals would reverse that dismissal and send the matter back. The appellate court did not acquit me or reverse the four underlying convictions; it held that the Circuit Court had erred in disposing of the appeal the way it did.
+
+But none of that was known on December 3, 2021.
+
+What I knew then was that I had been convicted, I wanted higher-court review, and courthouse staff told me that the new Circuit Court matter had been assigned to Judge Kent Smith.
+
+Three days later, I checked again and saw Judge John Kelly Luther associated with the case.
+
+I had already litigated against Luther in the 2020 post-conviction proceeding. The change immediately triggered my suspicion.
+
+I went to the courthouse to ask what had happened.
+
+That encounter was recorded.
+
+The next chapter begins there.
 
 
 # CHAPTER 15 — CIRCUIT COURT CHESS GAME
@@ -1015,29 +1431,75 @@ That matters because I told this story incorrectly for years. I said the commitm
 
 The record I have does not establish which happened first that day. I therefore cannot say, as fact, that my confrontation with East caused Alcorn to file the affidavit. What I can say is that both events occurred on the same date and that, in a later recorded call, Alcorn said Communicare had been engaged by local law enforcement about what she described as concerning behavior involving me at the court.
 
-The affidavit itself did not say simply that I had asked questions about a judicial assignment. In a later filed motion challenging the commitment, I reproduced its factual description this way: I "go[] into public places recording people," was "paranoid and delusional," was "provoking people with [a] minor child," was "not taking meds," and was "not getting medical help." The original form also marked statutory grounds asserting a recent threat or attempt of physical harm and an inability or failure associated with basic care or safety. Those were the allegations used to start the process. They were not findings that had already been proved in an adversarial hearing.
+The affidavit itself did not say simply that I had asked questions about a judicial assignment. In a later filed motion challenging the commitment, I reproduced its factual description this way: I “go[] into public places recording people,” was “paranoid and delusional,” was “provoking people with [a] minor child,” was “not taking meds,” and was “not getting medical help.” The form also invoked statutory grounds concerning danger and care or safety. Those were allegations used to initiate the process. They were not findings already proved in an adversarial hearing.
 
-Some of the underlying conduct was real even where I disputed the characterization. I was going into public places and recording. By then I was doing it constantly. The September drone incident had occurred with my stepdaughter present, and the Sheriff's Department had generated a report about it. Chapter 13 sets out the facts that report actually contains: I lost control of a drone outside Justice Court, struck the building, relaunched it, and witnesses said the drone had been over people walking into the courthouse. Describing that event as me "provoking people with [a] minor child" was a characterization I rejected, but the presence of a child during a highly visible law-enforcement encounter was not invented from nothing.
+Some of the underlying conduct was real even where I disputed the characterization. I was going into public places and recording. By then I was doing it regularly. The September drone incident had occurred with my stepdaughter present, and the Sheriff's Department had generated a report about it. Chapter 13 sets out the facts that report actually contains: I lost control of a drone outside Justice Court, struck the building, relaunched it, and witnesses said the drone had been over people walking into the courthouse. Describing that event as me “provoking people with [a] minor child” was a characterization I rejected, but the presence of a child during a highly visible law-enforcement encounter was not invented from nothing.
 
 There was another piece of context I did not understand clearly when I first began accusing Communicare of fabricating the entire process. I was already connected to an outpatient commitment order originating in Calhoun County.
 
-Alcorn explained that directly when I spoke with her later that month. The call is recorded. She told me she supervised Communicare teams responsible for people on outpatient commitment orders and said I had been on such an order from Calhoun County. She said Communicare had previously tried to engage me in treatment and had documented difficulty doing so. According to her account, Communicare had reached the point where it would not continue attempting contact unless I reached out or unless law enforcement or the chancery court requested crisis support.
+Alcorn explained that directly when I spoke with her later. The call is recorded, and it is worth slowing down over because it contains both evidence helpful to me and evidence that complicates my theory.
 
-Then she described what led to the Lafayette County affidavit.
+Alcorn told me she supervised Communicare's assisted-outpatient-treatment and related teams responsible for supervising treatment under commitment orders. She said I was already on an outpatient commitment order from Calhoun County and that Communicare had attempted to engage me in treatment.
 
-Her words, in substance, were that **local law enforcement** asked Communicare to become involved because of reported concerning behavior at the court, and that she signed an affidavit within her role, starting the commitment process.
+She referred to a September communication to the Calhoun County Chancery Clerk documenting that the treatment teams had not been able to engage me. She explained that Communicare had reached a point where it would not keep attempting contact indefinitely; in her description, further crisis involvement would occur if I reached out, or at the request of law enforcement or a chancery court.
 
-That recording corrects another claim I repeated for years. Alcorn did **not** tell me that Joey East personally supplied the information. I was the one who introduced his name into the conversation. I told her I had figured it came from East. She did not confirm that. Later in the call she referred more broadly to information she had received from "law enforcement and community members." The recording therefore supports a law-enforcement referral. It does not identify East as the source.
+Then she explained how Lafayette County entered the picture.
 
-That distinction is not cosmetic. I later filed pleadings alleging that East personally gave Alcorn false information and used Communicare to retaliate against me. Those pleadings accurately establish that I made the accusation. They do not transform the accusation into an admission by Alcorn. The audio controls, and the audio is narrower.
+Alcorn said **local law enforcement** engaged Communicare about concerning behavior involving me at the court. In her role supervising the outpatient-commitment programs, she then signed the affidavit that began the new process.
 
-On December 7, deputies came to take me into custody under the commitment process. That encounter is itself recorded. I challenged the paperwork and the basis for taking me, but the operative fact is not disputed: the deputies had a court-issued writ and I was taken into custody.
+That statement is significant because it confirms that her action was not based solely on something she personally saw me do. She was receiving information from others.
 
-The commitment file then records a pre-evaluation process on December 8. On December 9, the court entered an Order of Commitment. The court file records that I was present at the hearing. That is another correction to the broadest version of the story I later told. I have challenged what process I was actually afforded, the quality of the evaluations, the evidence supporting the order, and whether I was meaningfully able to confront the allegations. But the December file itself does not support saying that there was simply no hearing at all. My later motion to vacate attacked the fairness and legality of that process; the court record records a hearing and my presence.
+It is equally significant because she did not identify Joey East.
+
+I did.
+
+On the recording, I told her I had assumed the information came from East. I tried repeatedly to connect what had happened to my confrontation with him. Alcorn did not adopt that identification. Later, when I challenged the affidavit's assertion that I had been “provoking people with my minor child,” she said the information had been reported by **law enforcement and community members**.
+
+That is the source description I can prove.
+
+For years I told the story as though Alcorn had confessed that Sheriff East personally fed her the allegations. The recording does not say that. Any edition that keeps the stronger claim after listening to the call would be knowingly inaccurate.
+
+The call also preserves my response to the “paranoid and delusional” language.
+
+I told Alcorn that I recorded precisely because I was tired of being accused of inventing things. I argued that the evidence I was publishing about court records and government encounters was the opposite of delusion because I was trying to corroborate what I said. I described myself as an investigative reporter and credentialed member of the press and insisted that recording in public places was lawful activity.
+
+That is my side of the call.
+
+Alcorn did not agree that the public-records disputes were the issue she was trying to resolve. She repeatedly redirected the conversation to the outpatient order and Communicare's inability to document my progress because, in her account, I had not participated in treatment.
+
+At one point she told me that if I had been engaged, Communicare would have had a treatment history showing whether I was doing well, taking medication if prescribed, or functioning without medication while participating in therapy. Because I had not engaged with the teams, she said, they lacked that information.
+
+I pushed back that my distrust of Communicare and the county was exactly why I had not wanted to participate. That exchange is important because it reveals a feedback loop without requiring me to speculate about anyone's motive.
+
+I distrusted the system because I believed it had been used against me.
+
+Communicare viewed my failure to participate as a reason it lacked reassuring treatment information.
+
+That lack of information then made new reports of concerning behavior more consequential inside the commitment process.
+
+Alcorn also corrected me on Communicare's institutional identity. She told me Communicare was **not a county agency** and said its programs were certified through the Mississippi Department of Mental Health. That does not conclusively answer whether a particular Communicare actor can be treated as a state actor under federal civil-rights law. It does mean I cannot simply label Communicare a county department because it participated in county commitment proceedings. The Legal Analysis leaves the state-action issue where the present evidence leaves it: unresolved.
+
+The call gives still more context to the affidavit process.
+
+Alcorn emphasized that she was only one person in a multi-step procedure. After she signed the affidavit, she said, a certified pre-evaluation screener had to assess me and make a recommendation; then two doctors would perform additional assessments and agree before hospitalization continued. I challenged the independence and selection of those professionals. But her explanation is part of the record and prevents me from writing as though her signature alone constituted the final commitment decision.
+
+That does not resolve my challenge to the process. It defines the steps I was challenging.
+
+On December 7, deputies came to take me into custody under the commitment writ. That encounter is itself recorded. I challenged the paperwork and the basis for taking me, but the operative fact is not disputed: the deputies had a court-issued writ and I was taken into custody.
+
+The service itself produced another narrower records issue.
+
+I asked for the affidavit that supposedly contained the factual allegations against me. The deputy serving the writ did not have it in the papers he handed me. I later treated that as proof that no affidavit existed. That was too broad. The later Chancery file shows that Alcorn's affidavit did exist and had been filed December 6. The accurate complaint is that the service packet available to me when I was taken into custody did not include the affidavit I wanted to inspect.
+
+That difference is important legally and historically. A missing document at the moment of service is not the same thing as a document never having existed.
+
+The commitment file then records a pre-evaluation process on December 8. On December 9, the court entered an Order of Commitment. The court file records that I was present at the hearing.
+
+That is another correction to the broadest version of the story I later told. I have challenged what process I was actually afforded, the quality of the evaluations, the evidence supporting the order, and whether I was meaningfully able to confront the allegations. But the December file itself does not support saying there was simply no hearing at all. My later motion to vacate attacked the fairness and legality of that process; the court record records a hearing and my presence.
 
 I was then held at the North Mississippi State Hospital's Tupelo Crisis Unit. In the Rule 60 motion I filed in June 2022 challenging the commitment, I stated that I remained there until December 23, 2021. I use that date here as the date reflected in my filed account of the confinement.
 
-The sequence is therefore materially different from the version I once carried in my head:
+The sequence is therefore materially different from the version I once carried in my head.
 
 I was not a man with no mental-health process in his recent history who asked one question about a judge and was suddenly declared insane the next day. I had a pre-existing outpatient commitment order from Calhoun County. Communicare says its teams had attempted to engage me. I had accumulated a record of increasingly confrontational public encounters. The drone incident had occurred. I was regularly recording public employees and arguing with officials. And on December 6, local law enforcement contacted Communicare about what Alcorn later called concerning behavior at the court.
 
@@ -1045,19 +1507,21 @@ All of that belongs in the book.
 
 So does the other side of the record.
 
-The commitment affidavit used broad, judgmental descriptions such as "paranoid and delusional" and "provoking people with his minor child." The affidavit was filed on the same date I was on video questioning a judicial-assignment change and then arguing with the sheriff outside the courthouse. Alcorn later acknowledged that the information triggering her involvement came from local law enforcement and community members rather than from her own personal observation of the courthouse conduct. And when I supplied East's name during the recorded call, she did not validate the specific accusation I was already making against him.
+The commitment affidavit used broad, judgmental descriptions such as “paranoid and delusional” and “provoking people with his minor child.” Alcorn was not describing a courthouse event she personally witnessed. The affidavit was filed on the same date I was on video questioning a judicial-assignment change and then arguing with the sheriff outside the courthouse. Alcorn later acknowledged that information had come from local law enforcement and community members. When I supplied East's name, she did not validate that specific accusation.
 
-Those facts create a legitimate question about source, characterization, and timing. They do not answer the question of motive.
+The call also shows that I was not passive or measured in my response. I accused Lafayette County of covering up 2017. I told Alcorn I believed the county knew my conviction would be reversed. I connected the commitment to the judicial-assignment dispute and to other grievances. I asked her to provide whatever information had been supplied so I could hold the Sheriff's Department accountable. My certainty about the larger theory was much stronger than the evidence I actually possessed at that moment.
 
-I believed the commitment was retaliatory. I said so immediately afterward. I later put that accusation in sworn filings and sued over it. That belief is part of the historical record because it drove what I did next. It is not a judicial finding, and I will not present it as one.
+That is part of why the recording is so useful now. It captures both the institutional explanation and my own state of argument contemporaneously.
 
 There is also an uncomfortable fact on the other side of my interpretation. A Lafayette County Sheriff's lieutenant later spoke with me when I tried to report the commitment as a crime. His report records that he told me he believed I was misconstruing what had happened and that, if East genuinely believed I needed mental-health treatment, requesting help would not itself be criminal. He told me he did not believe there had been malicious intent and thought the sheriff was concerned about me. That was the lieutenant's assessment, not an adjudication, but it belongs here because it shows that even inside the Sheriff's Department the event was being framed as concern rather than retaliation.
 
 By the end of December, then, the documentary record did not give me the clean answer I wanted. It gave me a same-day sequence, a law-enforcement referral whose individual source remained unidentified on the recording, a pre-existing outpatient order I had to account for, an affidavit containing characterizations I disputed, a court file recording a hearing and commitment, and roughly two weeks of lost liberty.
 
-I came out of that confinement convinced that the process had been abused. Instead of letting the issue die, I escalated my challenge. I filed an affidavit accusing East. I pressed Communicare for answers. I challenged the commitment legally. And in February 2022, after a formal grievance to Communicare, a second commitment proceeding began.
+It also left a question that would matter later in federal court: when a private or quasi-private mental-health provider participates in a state-created commitment procedure alongside law enforcement and a Chancery Court, which acts, if any, are attributable to the State for purposes of federal civil-rights liability? I did not understand that doctrine in December 2021. I understood only that a Communicare employee had signed the affidavit and deputies had taken me away. The legal distinction would become one of the reasons my later federal case was harder than I expected.
 
-The second one is harder to write about because the record contains facts that cut sharply both ways — including my own conduct when deputies executed the writ. Those facts come next.
+I came out of the confinement convinced that the process had been abused. Instead of letting the issue die, I escalated my challenge. I filed an affidavit accusing East. I pressed Communicare for answers. I challenged the commitment legally. And in February 2022, after a formal grievance to Communicare, a second commitment proceeding began.
+
+The second one is harder to write about because its documentary record contains facts that cut sharply both ways — including my own conduct when deputies executed the writ. Those facts come next.
 
 
 # CHAPTER 17 — A SON BORN IN CONFINEMENT
@@ -1174,96 +1638,270 @@ On the morning of June 28, 2022, I went to the Lafayette County Chancery Court b
 
 That is the first correction this chapter requires.
 
-The Lafayette County Sheriff's Office report written by Deputy Hoby James records the sequence from the officers' side. At approximately 8:00 that morning, James received a call advising him that the Mississippi Bureau of Investigation had issued a warrant for me. He was told to meet officers at Chancery Court at 9:00 "because Matt had court today." James wrote that he served the MBI arrest warrant at approximately 9:32 a.m., that I was arrested without incident, and that I was transported to the Lafayette County Detention Center.
+The Lafayette County Sheriff's Office report written by Deputy Hoby James records the sequence from the officers' side. At approximately 8:00 that morning, James received a call advising him that the Mississippi Bureau of Investigation had issued a warrant for me. He was told to meet officers at Chancery Court at 9:00 “because Matt had court today.” James wrote that he served the MBI arrest warrant at approximately 9:32 a.m., that I was arrested without incident, and that I was transported to the Lafayette County Detention Center.
 
-The warrant had been built the day before.
+The MBI file now gives a much fuller account of how the warrant reached that point.
 
-MBI case M22-00000897 records that Oxford Police Chief Jeff McCutchen contacted MBI on June 23, 2022 and asked for assistance with an aggravated-stalking investigation involving Oxford's mayor. On June 27, MBI Lieutenant Joey Mauney met with Oxford Police investigator Shane Fortner, reviewed the material Oxford had gathered, and assisted in preparing an arrest warrant. Mauney's supplement states that the warrant was emailed to Circuit Judge Kent E. Smith. At approximately 3:00 p.m., Smith contacted Mauney by FaceTime, placed him under oath regarding the information in the warrant, and signed it.
+The case is M22-00000897. Its internal table of contents identifies the matter as a stalking/aggravated-stalking investigation and lists the supporting records MBI assembled: the arrest affidavit and warrant, the existing restraining order, an Oxford Police report, a written statement from Ashley Atkinson, criminal-history material, and other investigative documents. The file expressly says that it contains neither MBI's recommendation nor conclusions. That disclaimer matters. The file is an investigative packet, not a judicial finding that every allegation in it was true.
 
-The conduct the MBI file describes did not occur at Chancery Court on June 28. It centered on my June 20, 2022 visit to Oxford City Hall and on earlier social-media posts.
+MBI's first dated supplement is June 23.
 
-The MBI affidavit describes a publicly posted video of my City Hall visit. Mauney wrote that he watched me enter the building, look at the directory, walk through the first floor, go upstairs toward the mayor's office, stand outside the office doors, leave, and return. The affidavit says that at approximately 7:49 in the video I attempted to use the doorknob but was unsuccessful. I dispute the characterization that I attempted to enter the office, and my own video is the obvious evidence by which that assertion should be judged. What matters for this chronology is that this was the conduct MBI was evaluating when it sought the warrant.
+At approximately 9:00 that morning, Lieutenant Joey Mauney wrote that Oxford Police Chief Jeff McCutchen contacted him seeking MBI assistance with an aggravated-stalking investigation involving Oxford's mayor. After the conversation, McCutchen requested guidance through MBI headquarters and Mauney's chain of command about further investigative action.
 
-The affidavit also cites the standing Chancery Court protection order and earlier posts on Twitter and YouTube. In other words, the State's theory was not that my June 28 arrival for court somehow activated three independent legal "gears" and automatically became aggravated stalking. That was an explanation used in an earlier draft of this book, and it was wrong.
+Four days later, on Monday, June 27, Mauney was told to assist Oxford Police “in any way possible.” He met Detective Shane Fortner at approximately 9:00 a.m. to discuss the case. Around noon, Mauney and Master Sergeant Jason Roe gathered the investigative information from Fortner. The supplement identifies me as the person of interest. An arrest warrant was then prepared and emailed to Third Circuit Judge Kent E. Smith.
 
-The State's theory, as reflected in the MBI paperwork, was that the City Hall visit and earlier online activity formed a prohibited course of conduct directed toward the mayor while the protection order remained in effect, and that the circumstances supported a charge under Mississippi's stalking statute. Whether that theory properly criminalized protected political speech or ordinary access to a public building is a different question from what the theory actually was. This chapter has to get the latter right before arguing about the former.
+At approximately 3:00 p.m., Judge Smith contacted Mauney by FaceTime. Mauney wrote that Smith placed him under oath concerning the information in the warrant and then signed and issued it.
 
-The corrected chronology is therefore straightforward:
+So before I went to Chancery Court the following morning, the investigative sequence was already complete enough to produce a judicially signed arrest warrant.
 
-June 20: I went to Oxford City Hall with a camera and recorded inside the building.
+The conduct MBI relied upon was not my June 28 arrival at Chancery Court. It centered on my **June 20 visit to Oxford City Hall** and on earlier social-media posts.
 
-June 23: Chief Jeff McCutchen contacted MBI and requested assistance with the investigation.
+Mauney's affidavit describes him reviewing Fortner's report and then going to my public Facebook page, where he found a link to a YouTube video. He wrote that the City Hall video ran twenty-three minutes and thirty-five seconds.
 
-June 27: Mauney and Oxford Police reviewed the case material; Mauney prepared the arrest-warrant affidavit; Judge Kent Smith swore Mauney by video and issued the warrant.
+The affidavit then gives timestamps.
 
-June 28: Lafayette County deputies knew I had a Chancery Court proceeding, waited there, and served the already-issued warrant when I arrived.
+At approximately 3:53 in the video, I entered City Hall. I looked at a directory identifying departments and walked around the first floor recording. At roughly five minutes, I returned to the directory. I then went upstairs and approached the doors Mauney associated with the mayor's office.
 
-That distinction matters to me for more than narrative accuracy. In the earlier version, I made the arrest sound as though officers were treating my mere appearance at the courthouse as the new felony. The sheriff's report shows something both more ordinary and, in another sense, more troubling: they used a place they knew I was required to be in order to execute a warrant arising from conduct that had already occurred elsewhere.
+The affidavit says I stood there briefly, walked away, and returned. At approximately 7:49, Mauney wrote that I “attempt[ed] to enter the door by using the doorknob but was unsuccessful.”
 
-This was the second aggravated-stalking prosecution in my Mississippi history, separate from the 2017 Lynch case. The 2017 case involved Todd and Ashley Lynch and the later Criminal Information alleging an AR-15 threat on or before May 8, 2017. The 2022 case involved Mayor Robyn Tannehill, the standing 2017 Chancery Court order, the June 20 City Hall visit, and older online activity identified in the MBI file. The cases cannot be merged simply because the statute and county were the same.
+I dispute that characterization. My position has been that the video does not show an attempted unlawful entry into the mayor's office. The video itself, rather than either my description or Mauney's, is the best evidence of what my hand did at that door.
 
-The 2017 Chancery order nevertheless mattered. It was part of the factual and legal foundation cited by the 2022 investigators. I had signed that order five years earlier while jailed on the Lynch case, on the advice of attorney Brennan Horan. I have consistently described that signature as coerced by the circumstances of my detention and by my overriding desire to get out of jail. Chapter 5 sets out what the record can and cannot prove about that episode. What I should not do here is turn my view of the 2017 order into a false description of the 2022 statute.
+Mauney's affidavit also records what happened immediately afterward. It says I walked away until I encountered a woman on the second floor and told her that I remembered the mayor's office being on the first floor when the prior mayor was in office.
 
-A prior version of this chapter said that a prior stalking conviction, a standing protective order, and physical presence automatically locked together to create aggravated stalking without the State having to prove new stalking conduct. I am removing that explanation. The charging affidavit itself alleges a course of conduct and identifies the June 20 City Hall video and prior social-media activity. The record does not support describing the June 28 courthouse arrival as the third element that mechanically completed the felony.
+That detail is important because it shows the affidavit was not based on the door moment alone. Investigators were building a broader course-of-conduct theory.
 
-The constitutional argument is narrower and stronger when stated accurately. City Hall was a public government building. I went there with a camera. Much of the older material cited in the investigative file was political commentary about an elected mayor. Speech criticizing public officials occupies protected constitutional territory, while stalking statutes may lawfully reach conduct that satisfies their elements even when some communication is involved. The dispute in my case is therefore not solved by labeling every tweet protected or every contact stalking. The question is whether the actual conduct the State assembled satisfied the statute without punishing constitutionally protected activity. That question should be answered from the video, the posts, the protection order, and the charging documents — not from a metaphor about automatic gears.
+The affidavit says I had “continually violated parts” of the restraining order both in person and through social-media outlets including Twitter and YouTube. It listed dates of tweets—May 23, 2021; August 3, 2021; August 11; August 12; August 17; August 23; and September 1—as examples rather than reproducing every post in the affidavit itself.
 
-The arrest itself, according to James's report, was without incident. That detail also belongs here. There was no tactical struggle at Chancery Court and no new confrontation that morning supplying the basis for the charge. I arrived for court. Officers who had been told I would be there served the MBI warrant. I was taken to jail.
+That is the State's actual investigative theory.
 
-What followed was far more consequential than the mechanics of the arrest. The case proceeded to a lengthy preliminary hearing. I remained in custody. Mitchell Driskell was appointed to represent me and was later replaced by Mark McClinton. On September 30, 2022, I entered a guilty plea that produced a five-year suspended sentence, unsupervised probation, a banishment condition, and an order requiring me to leave Lafayette County.
+An earlier version of this book described three automatic legal “gears”: a prior stalking conviction, an active protective order, and my physical presence, which supposedly combined mechanically to create aggravated stalking. That was wrong.
 
-Those later events belong to the chapters that follow. The point here is to fix the foundation before building on it.
+The MBI affidavit alleges a **course of conduct**. It cites the June 20 City Hall video, the restraining order, and earlier online activity. My prior 2017 aggravated-stalking conviction was legally important to the felony charging theory, but the State still alleged new stalking conduct. The June 28 Chancery appearance was not the final gear that completed the crime. It was where officers knew they could find me to serve a warrant already signed the day before.
 
-Case B began with the June 20 City Hall encounter and the investigative file Oxford Police sent into MBI. MBI entered the matter on June 23. The warrant was sworn and signed June 27. It was served June 28 at Chancery Court because law enforcement knew I would be there for court.
+The affidavit is also revealing for what it says about its own source base. Mauney wrote that it was based on his personal knowledge, information from other state and local law-enforcement officers, other sources he considered reliable, and his training and experience. That means not every factual assertion originated in something Mauney personally witnessed.
 
-That is what the records say. The legal and constitutional fight over what those records mean comes next.
+On June 28, after the arrest, MBI also generated an Advice of Rights form. The form explains the right to remain silent, the right to counsel, the right to appointed counsel if indigent, and the right to stop answering questions. It contains a waiver section stating that the signer understands the rights and is willing to answer questions without a lawyer. That document is part of the case file and is another reason the chronology should be written from the record rather than reduced to the arrest itself.
+
+The warrant page contains a handwritten bond notation that appears to read **$12,000**. Whatever that notation initially meant, it did not determine the ultimate pretrial custody decision. The MBI file records what happened next.
+
+On **Wednesday, July 6, 2022**, at approximately 1:00 p.m., Mauney and Roe attended my preliminary hearing at the main courthouse in Oxford. Judge Kent Smith presided. Mauney's July 7 supplement says the hearing lasted several hours. After the hearing, Smith found sufficient evidence for the case to be presented to the Lafayette County grand jury during its August session.
+
+The supplement then records the consequence that mattered most to me: Judge Smith considered me a threat to the community and ordered me held **without bond** at the Lafayette County Detention Center pending the grand-jury date.
+
+That corrects another date that had drifted in earlier versions of my timeline. The MBI file says the preliminary hearing was **July 6**, not July 5.
+
+The distinction between the initial warrant notation and the preliminary-hearing order is important. The paper trail may show a bond figure on the warrant, but after several hours of hearing the Circuit Court ordered me held without bond. The book should not collapse those separate procedural moments into one number.
+
+By then this was no longer simply a dispute about access to City Hall.
+
+I was back in the same county jail where I had spent more than forty days in 2017. I was again facing an aggravated-stalking felony. The prior 2017 conviction—the case I had been trying to reopen through post-conviction litigation—was now part of the legal landscape of the second case. The standing Chancery restraining order also remained part of the file.
+
+But the two criminal cases were distinct and have to stay distinct in this book.
+
+The **2017 case** concerned Todd and Ashley Lynch. Its later Criminal Information alleged AR-15 conduct “on or before May 8, 2017.” It ended in the July 6, 2017 guilty plea, banishment, probation, and covenant not to sue.
+
+The **2022 case** concerned Mayor Robyn Tannehill. Its investigative record cited the June 20 City Hall visit, the standing protection order, earlier social-media posts, and the prior conviction. The MBI warrant was obtained June 27 and served June 28.
+
+The fact that both cases used the aggravated-stalking statute and both occurred in Lafayette County does not make them the same prosecution or allow evidence from one to be silently imported into the other.
+
+The constitutional argument is stronger when the factual theory is stated correctly.
+
+City Hall was a government building open to the public. I entered with a camera. Much of the older material investigators cited consisted of political expression about an elected official. Political speech receives powerful First Amendment protection. At the same time, constitutionally protected speech does not immunize otherwise criminal conduct, and a stalking statute can reach conduct satisfying its elements even where expression is involved.
+
+The question therefore is not whether every tweet was automatically protected or whether every approach toward a mayor's office was automatically stalking. It is whether the particular conduct assembled by Oxford Police and MBI lawfully satisfied the statute without treating protected petitioning, recording, or political criticism as criminal merely because it was unwanted.
+
+That is a legal dispute. The investigative facts come first.
+
+June 20: I recorded inside Oxford City Hall.
+
+June 23: McCutchen asked MBI to become involved.
+
+June 27: Mauney and Roe met with Fortner; MBI reviewed the video and other material; an affidavit and arrest warrant were prepared; Judge Smith swore Mauney by FaceTime and signed the warrant around 3:00 p.m.
+
+June 28: deputies knew I had Chancery Court, waited there, arrested me without incident at approximately 9:32 a.m., and transported me to jail.
+
+July 6: after a several-hour preliminary hearing, Judge Smith found sufficient evidence to send the case toward the grand jury and ordered me held without bond as a perceived threat to the community.
+
+Those dates now come directly from the MBI and Sheriff's records.
+
+The case later produced an indictment and a second guilty plea. The indictment itself would cite the 2017 conviction and identify the earlier offense date as May 8, 2017—showing how the disputed date from Case A became embedded in the charging architecture of Case B.
+
+That is where the next chapter begins: not with a new arrest, but with the pressure of fighting the second case from jail while the first conviction was being used as part of the State's theory against me.
 
 
 # CHAPTER 20 — THE GUILTY PLEA AND BANISHMENT
 
-On September 30, 2022, I pled guilty in Lafayette County Circuit Court to aggravated stalking under Mississippi Code § 97-3-107(2), Cause No. LK22-358.
+The second aggravated-stalking case moved from the July 6 preliminary hearing to the grand jury.
 
-The sentencing order is direct. Judge Kent E. Smith imposed five years, suspended all five, ordered zero years to serve, and placed me on five years of unsupervised probation. The order also banished me from Lafayette County for five years, allowed me forty-five days to relocate from the Lafayette County address where I was then staying, prohibited contact with the victims, and retained a 365-day right of review. The later revocation transcript states the original court costs were $842.50.
+The indictment is now in the source set, and its wording adds detail that earlier versions of this chapter did not have.
 
-The word "banish" is not my characterization. It is written into the sentencing documents.
+The Lafayette County grand jury returned the indictment in Cause No. **LK22-358**, and the document was filed on **September 6, 2022**. It charged aggravated stalking under Mississippi Code § 97-3-107(2).
 
-But an earlier version of this chapter described the forty-five-day period too broadly. I wrote as though the court had given me forty-five days of unrestricted movement throughout Lafayette County while I wound down my affairs. The later State revocation petition describes the terms more narrowly. According to the State's own filing, the banishment had two exceptions: I could enter and exit Lafayette County and go directly to the residence where I was then lodged until November 15, 2022; and I could attend court proceedings or scheduled court business, with one day's notice to the Lafayette County Sheriff's Department.
+The charging paragraph alleged that, **“on or about June 24, 2022,”** I purposefully engaged in a course of conduct directed at **Robyn Tannehill**, knew or should have known the conduct would cause a reasonable person to fear for her safety, and did so after having been convicted within the preceding seven years of aggravated stalking.
 
-That distinction matters enormously to what happened a month later. The forty-five days were not, on the State's description of the sentence, a general license to move freely around Oxford. They were permission to remain at and travel directly to the residence while relocating, plus a separate exception for court proceedings or scheduled court business after notice.
+The indictment then identified the earlier case by cause number: **LK17-295**, the 2017 aggravated-stalking conviction. It stated that I had been convicted on July 6, 2017 and identified the earlier offense as having occurred on **May 8, 2017**.
 
-The plea itself is also part of the record in a way I cannot write around. The sentencing order states that the court found me competent and found the plea voluntary, knowing, deliberate, and intelligent. When I later tried to withdraw the plea, Judge Smith's November 14 order went further. He wrote that during the plea colloquy I told the court I had discussed the petition with counsel, understood it, had discussed the circumstances and possible defenses, was not forced or coerced, was satisfied with counsel, and was in fact guilty of aggravated stalking. The court also noted a mental evaluation in the case and said the competency findings had been stipulated to by my counsel.
+That is another way the disputed May 8 date from the first case became embedded in the architecture of the second prosecution.
 
-I later disputed all of that.
+The indictment listed **Shane Fortner** and **Joey Mauney** as witnesses.
 
-On October 31, 2022, I filed a pro se Motion to Withdraw Guilty Plea. I alleged that both appointed lawyers had been ineffective and asserted that I was not guilty. At the November 3 revocation hearing, I repeatedly tried to bring that motion to the court's attention. Judge Gray Tollison told me it was not the matter being heard that day and would be processed separately.
+There is also a date discrepancy that I will not smooth over.
 
-Judge Smith denied the motion on November 14. Applying the ineffective-assistance standard from *Strickland v. Washington*, he found I had not shown deficient performance or prejudice. He also held that my later assertions of innocence were contradicted by what I had said under oath during the plea colloquy. The order concluded that I had not shown good cause to withdraw the plea.
+The MBI warrant affidavit discussed in Chapter 19 centers the new investigation on my **June 20** visit to Oxford City Hall and earlier online activity. The indictment alleges the aggravated-stalking offense occurred **“on or about June 24.”** Those are different dates in two official records. The phrase “on or about” is not necessarily limited to a single twenty-four-hour period, but the documents still do not use the same date, and this edition preserves that fact.
 
-That creates a documentary conflict I have to state instead of smoothing over. My later position was that the plea resulted from inadequate representation and pressure created by months in jail and my family's circumstances. The plea record says I told the court, at the time, that I was not coerced, was satisfied with counsel, and was guilty. Judge Smith relied on those sworn answers when he refused to let me withdraw the plea. A reader evaluating my later account is entitled to know both things.
+The certified November revocation transcript later summarized the procedural sequence on the record: indictment on September 6 and guilty plea on **September 30** before Circuit Judge Kent E. Smith.
 
-There is no need to dilute what happened next with a broad constitutional essay about banishment. The actual terms are unusual enough on their face. I had a five-year suspended felony sentence hanging over me. I was prohibited from living in Lafayette County after the relocation period. I was prohibited from contacting the Tannehill family. My authorized reasons for being elsewhere in the county were limited by the terms the State later put before the revocation court.
+That means the case did proceed beyond the MBI warrant stage. Judge Smith had found sufficient evidence at the July preliminary hearing; the matter went to the grand jury; an indictment followed; and the case ended by plea rather than trial.
 
-On October 28, before the relocation period expired, I went to the FBI office in Oxford.
+The September 30 sentencing order is direct.
 
-I did call the Lafayette County Sheriff's Department before going. Deputy Kandi Beavers later confirmed that under oath. She testified that I called and advised that I needed to come into Oxford to meet with an FBI agent before lunch. I have also recovered the separate call I made to the FBI that morning. On that recording, I explicitly explained that I was banished from Oxford, said I needed permission to come into the city, and asked the FBI to set a time so I could notify local authorities. The FBI staffer told me the office handled walk-ins rather than appointments and said coming before noon would be preferable.
+Judge Smith imposed **five years** in the custody of the Mississippi Department of Corrections, suspended all five years, ordered **zero years to serve immediately**, and placed me on **five years of unsupervised probation**.
 
-Those facts are important. They establish that I was not concealing the trip and that, before going, I was actively trying to arrange it around the restrictions imposed on me.
+The money portion also needs precision.
 
-They do not, by themselves, establish that the FBI visit fit one of the sentencing order's exceptions.
+An earlier version of this chapter called **$842.50** “court costs.” The signed order breaks the figure down differently: **$592.50 in court costs** plus a **$250.00 fine**, for a **total of $842.50**.
 
-That is another correction from the earlier manuscript. I repeatedly described the advance call to the Sheriff's Department as though notice alone made the FBI visit authorized. The State's later recitation of the sentence says the notice exception applied to **court proceedings or scheduled court business**. An FBI walk-in was neither on the face of that wording. The other exception allowed me to travel to and from the residence where I was still permitted to stay, not to move freely through Oxford for unrelated purposes.
+The total was right. The description was not.
 
-So the legal dispute on October 28 is narrower than I once made it. I had notified the Sheriff's Department. The FBI recording shows why there was no formal appointment. I believed reporting alleged law-enforcement misconduct to a federal agency was a legitimate reason to enter Oxford, and I acted openly rather than secretly. But the sentencing terms, as later quoted by the State, did not expressly create an exception for a visit to the FBI.
+The special restrictions were what made the sentence unusual in my life.
 
-On October 31, the State alleged a second violation. Its November 1 revocation motion said I had been seen in a residential neighborhood identified as Shelbi's Place. At the hearing I denied that allegation outright and said I had no idea what the witness was talking about. I pointed out that there was no photograph or license-plate record before the court establishing that the vehicle was mine. The court later credited the State's evidence under the preponderance standard.
+I was **banished from Lafayette County for five years**.
 
-The State's motion also referred to alleged unauthorized movement on September 30 and October 3, but expressly stated that no revocation proceedings had been initiated over those earlier incidents.
+I was prohibited from contacting the Tannehill family.
 
-The November 1 motion changed the stakes immediately. One month after the guilty plea, with the entire five-year sentence suspended, the State was asking the court to revoke probation based on the banishment condition.
+The court retained a **365-day right of review**.
 
-The next hearing is one I have often described too broadly. For years I said Deputy Beavers lied under oath and that her lie sent me to prison. The certified transcript does show a prosecutor asking her, "Okay, so he lied?" and Beavers answering, "Yes." But the transcript also shows that the court's actual revocation ruling did not depend on that answer. Judge Tollison found that I had violated the banishment condition by being physically present in Lafayette County for unauthorized purposes.
+And because I was still residing at an address inside Lafayette County, the order allowed time for me to relocate.
 
-The next chapter is about that distinction — what Beavers actually said, what the recovered FBI recording proves, what remains unresolved because the Sheriff's Department call itself has not yet been located in the evidence archive, and what Judge Tollison actually relied on when he imposed one year of the suspended sentence.
+The word **banish** is not my characterization. It appears in the sentencing record itself. A separate Notice of Criminal Disposition likewise records a five-year banishment, five years of unsupervised probation, forty-five days to move from the current Lafayette County address, and no contact with the victim.
+
+But the relocation period needs to be described accurately.
+
+An earlier version of this chapter treated the forty-five days as though Judge Smith had given me forty-five days of unrestricted movement throughout Lafayette County while I packed, worked, visited agencies, and wound down my affairs. The State's later revocation motion described the conditions much more narrowly.
+
+According to the State's recitation, the sentence allowed me to **enter and exit Lafayette County and travel directly to the residence where I was then staying until November 15, 2022**. It separately allowed me to enter for **court proceedings or scheduled court business**, provided I gave the Lafayette County Sheriff's Department one day's notice.
+
+Those were the exceptions the revocation court later applied.
+
+That means the forty-five-day relocation window was not a temporary suspension of banishment. It was an exception structured around the residence, plus another exception for court business.
+
+The difference became clear almost immediately.
+
+At the November 3 revocation hearing, Judge Tollison read from the State's allegations that I had violated the terms on the **same day I was sentenced, September 30**, and again on **October 3**. According to the motion, Assistant District Attorney Tiffany Kilpatrick contacted defense counsel after those incidents and asked that we return while Circuit Court was still in term so the court could remind me that I was not permitted unauthorized movement around Oxford or Lafayette County.
+
+The State expressly told the revocation court that **no revocation proceeding was initiated over those first two incidents**.
+
+That fact matters because it shows the later October 28 and October 31 allegations were not the first time the State believed I had misunderstood or exceeded the geographic restriction. Before the revocation motion was filed, the prosecutor's office says counsel had already been contacted and the restriction had already been reiterated.
+
+That earlier warning complicates the account I later gave of October 28. I was not operating against a blank slate. By the State's account, I had already been reminded that the relocation period did not authorize general movement through the county.
+
+The plea itself is also part of the record in a way I cannot write around.
+
+The sentencing order states that Judge Smith found me competent and found the plea voluntary, knowing, deliberate, and intelligent. When I later tried to withdraw the plea, Smith's November 14 order described the colloquy in more detail. He wrote that I told the court I had discussed the plea petition with counsel; understood the petition; had discussed the facts and possible defenses; was not forced or coerced; was satisfied with counsel; and was in fact guilty of aggravated stalking. The order also referenced a mental evaluation in the case and stated that counsel had stipulated to the competency findings.
+
+My later position was the opposite.
+
+I believed appointed counsel had not represented me adequately. I believed months of incarceration had put me under enormous pressure to accept a deal. I continued to dispute the underlying stalking theory and the use of political speech and the City Hall encounter to support it.
+
+Those beliefs explain why I filed what I did next. They do not erase the sworn plea record.
+
+On **October 31, 2022**, I filed a pro se Motion to Withdraw Guilty Plea. I alleged ineffective assistance by the appointed attorneys, asserted innocence, attacked the plea circumstances, and asked the Circuit Court to set the conviction aside.
+
+The timing immediately became part of my own theory about what followed. The State filed its revocation motion on **November 1**, one day after my motion to withdraw the plea. At the November 3 hearing I pointed that out directly. Judge Tollison acknowledged that the plea-withdrawal motion was in the file but told me it would be processed separately and was not the matter before him that day.
+
+That distinction was procedurally correct even though I regarded the timing as suspicious. The revocation court was deciding whether I had violated probation. Judge Smith later decided whether the guilty plea itself could be withdrawn.
+
+On **November 14**, Smith denied the withdrawal motion.
+
+Applying the ineffective-assistance framework from *Strickland v. Washington*, he concluded that I had not shown deficient performance by counsel or resulting prejudice. He also relied heavily on the plea colloquy. My later assertions that I was innocent and had been pressured, he wrote, contradicted the answers I gave under oath when the plea was accepted.
+
+The signed order states that immediately before the plea hearing the court had found me legally competent based on the mental-evaluation findings and that defense counsel stipulated to those findings.
+
+That creates a documentary conflict that stays visible throughout the book.
+
+My later account is that the plea was the product of confinement, inadequate representation, and pressure to get back to my family and out of the jail.
+
+The court record says that when Judge Smith accepted the plea I denied coercion, expressed satisfaction with counsel, acknowledged discussing defenses, and admitted guilt.
+
+A memoir may explain why I believe those sworn answers did not reflect the reality I felt. It cannot pretend the answers were never given.
+
+The sentencing structure also created a legal vulnerability that I did not fully appreciate on September 30.
+
+The five-year prison term was suspended, not erased. That meant a later probation violation could expose me to incarceration under the suspended sentence. I walked out with no immediate years to serve, but with five years hanging over the case.
+
+The banishment condition was the first place where that vulnerability became concrete.
+
+On **October 28**, before the relocation period expired, I wanted to go to the FBI office in Oxford to report what I believed was law-enforcement misconduct.
+
+I knew enough about the restriction to make calls first.
+
+The FBI call survives.
+
+I told the person who answered that I needed to provide evidence, explained that I was banished from Oxford, and said I needed some kind of time or permission structure so I could notify local authorities before entering the city. I asked, in substance, whether an appointment could be set.
+
+The staffer explained that the office handled **walk-ins rather than appointments** and told me that coming before noon would be preferable.
+
+I then called the Lafayette County Sheriff's Department.
+
+That call survives too.
+
+I told Deputy Kandace Beavers that I needed to come into Oxford to meet with the FBI and that I was calling because of the court restriction. I gave her the expected timing and destination. When she later called back asking what time my “appointment” was, I explicitly told her there was **not really an appointment** because the FBI did not handle visits that way; I had tried to set one and had instead been told to come before lunch.
+
+That recording is one of the cleanest pieces of evidence in this entire chronology because it captures what I told law enforcement **before** the disputed conduct rather than my recollection afterward.
+
+It establishes three things.
+
+I was not hiding the trip.
+
+I had tried to get a defined time from the FBI precisely because of the banishment condition.
+
+And I told Beavers the truth that there was no formal appointment.
+
+It does **not** establish a fourth proposition that I used to treat as automatic: that because I gave notice, the FBI visit was authorized by the sentencing order.
+
+The State's later description says the one-day-notice exception applied to **court proceedings or scheduled court business**. An FBI walk-in does not fit that language on its face. The relocation exception likewise concerned direct travel to and from the residence where I was still permitted to stay.
+
+I believed reporting allegations to the FBI was legitimate public business and should have been allowed. But that is not the same as the written sentence expressly permitting it.
+
+That difference is the heart of the October 28 dispute.
+
+The State's November 1 motion alleged another event on **October 31**. A witness said she saw me in a residential neighborhood identified in the transcript as Shelby's Place. I denied it outright. I told the revocation court I had no idea what the witness was talking about and emphasized that there was no photograph or recorded license plate establishing that the vehicle was mine.
+
+The witness would later testify that she believed she saw me driving slowly through the neighborhood with the interior light on and that her stepmother tried unsuccessfully to obtain the tag number.
+
+The court credited that testimony under a **preponderance-of-the-evidence** standard, not the beyond-a-reasonable-doubt standard of a criminal trial.
+
+That distinction matters because probation revocation is not a new criminal prosecution of the alleged conduct. Judge Tollison told me the State would have to show that it was more probable than not that I had violated the probation terms.
+
+The November 1 motion therefore put two October events before the court:
+
+**October 28:** the FBI visit, which I admitted making but argued was authorized because I had notified the Sheriff's Department and attempted to coordinate with the FBI.
+
+**October 31:** the Shelby's Place allegation, which I denied occurred at all.
+
+The State's theory was that both were unauthorized presence in the county.
+
+My theory was that the first had been handled openly and with notice and that the second was mistaken or false.
+
+The suspended sentence made that factual dispute carry enormous consequences.
+
+One month earlier, I had walked out of court with zero years immediately to serve.
+
+On November 1, the State asked the court to revoke that suspended sentence.
+
+On November 3, I would stand before Judge Gray Tollison without a lawyer—after the judge offered me one and I waived counsel—and cross-examine Beavers and the neighborhood witness myself.
+
+For years afterward I reduced that hearing to one line: Beavers lied and sent me to prison.
+
+The transcript is more complicated.
+
+The recovered calls make one part of Beavers's testimony deeply problematic. But Judge Tollison's stated ruling rested on the broader question of unauthorized presence under the banishment terms.
+
+One additional records problem belongs in this chronology because it illustrates why I now compare documents instead of trusting a date merely because it appears on a filed form.
+
+A later 2023 petition seeking another revocation states that I was sentenced on **September 20, 2022**. The signed sentencing order, Notice of Criminal Disposition, and November 2022 revocation transcript all identify the sentencing date as **September 30**. I therefore use September 30 as the verified date while preserving the later petition's September 20 entry as a clerical inconsistency rather than silently importing it into the timeline.
+
+The next chapter follows the November 3 transcript rather than the slogan.
 
 
 # CHAPTER 21 — REVOCATION: WHAT BEAVERS ACTUALLY SAID
@@ -1604,7 +2242,7 @@ That proceeding is where the next chapter goes.
 
 By the summer of 2024, the Galveston case and the Mississippi probation case had become one procedural chain.
 
-The Texas felony DWI charge arising from August 11, 2023 had been dismissed on **May 24, 2024**. Mississippi nevertheless still had an August 17, 2023 Petition to Revoke Suspended Sentence pending against me in cause number LK22-358. That petition alleged that I had violated the good-behavior condition of my probation by being charged in Galveston with felony DWI.
+The Texas felony DWI charge arising from August 11, 2023 had been dismissed on **May 24, 2024**. Mississippi nevertheless still had an August 17, 2023 Petition to Revoke Suspended Sentence pending against me in Cause No. LK22-358. That petition alleged that I had violated the good-behavior condition of my probation by being charged in Galveston with felony DWI.
 
 The Mississippi warrant was not executed until **June 25, 2024**, roughly ten months after it issued.
 
@@ -1612,7 +2250,7 @@ The document itself contained an error that would later be acknowledged in open 
 
 The warrant also used **2023-005559** as the identifier for the Texas matter. I initially attacked that number as fictitious. It was not. It was the Galveston Police Department offense-report number, not the Texas court cause number. That is an important correction: the predicate-charge description was wrong; the number itself came from an actual police file.
 
-On **July 11, 2024**, Judge Grady Tollison convened the first revocation hearing. District Attorney Benjamin Creekmore told the court that Officer William Osteen could not appear by Zoom because Hurricane Beryl had disrupted power and communications in the Galveston area.
+On **July 11, 2024**, Judge Gray Tollison convened the first revocation hearing. District Attorney Benjamin Creekmore told the court that Officer William Osteen could not appear by Zoom because Hurricane Beryl had disrupted power and communications in the Galveston area.
 
 Before the matter was continued, I raised the lack of a preliminary revocation hearing and cited Mississippi law and federal due-process cases. I also challenged the warrant's false reference to possession of a controlled substance and asked Tollison to consider recusal because he had presided over the November 2022 revocation.
 
@@ -1624,7 +2262,7 @@ On **July 18**, attorney Mark McClinton appeared as a procedural advisor rather 
 
 The State called Katreena Thompson, an investigator for the district attorney's office, and introduced records concerning prior DUI convictions and the Galveston matter. The May 24 Texas order dismissing the felony DWI was admitted without objection.
 
-I renewed my attack on the Mississippi warrant. This time Tollison addressed the false predicate directly. His response, as reflected in the transcript, was that it **"should have been aggravated stalking"** and that, to his knowledge, I did not have a possession-of-a-controlled-substance conviction. He treated the defect as moot because the petition to revoke — rather than the warrant — was the operative charging document before him.
+I renewed my attack on the Mississippi warrant. This time Tollison addressed the false predicate directly. His response, as reflected in the transcript, was that it **“should have been aggravated stalking”** and that, to his knowledge, I did not have a possession-of-a-controlled-substance conviction. He treated the defect as moot because the petition to revoke — rather than the warrant — was the operative charging document before him.
 
 Osteen then testified by Zoom.
 
@@ -1632,57 +2270,121 @@ His testimony supplied several of the contradictions later collected in Benjamin
 
 Osteen testified that after I stepped out of the vehicle he could not detect an alcoholic odor coming from me. He described my pupils as very small or pinpoint and described me as talking extremely fast. Those descriptions did not match the August 2023 blood-warrant affidavit, which had described a moderate odor of alcohol on my breath, dilated pupils, and slurred and thick-tongued speech.
 
-There was an additional contradiction in the toxicology testimony. At the revocation hearing Osteen testified that alcohol had been detected. The Texas laboratory report admitted into the same proceeding stated **"No alcohol detected."** The later MacArthur Justice Center PCR expressly identified that contradiction.
+The cross-examination also clarified the breath-test issue.
 
-The toxicology did contain another result: **0.13 milligrams per liter of methamphetamine**.
+Osteen acknowledged that **I was the one demanding to take a breathalyzer**. When I asked why officers in the traffic-safety unit did not simply use portable breath testing, he said portable breath-test results were not needed because they were not admissible in court. When I asked why he did not take me to the police department for a breath test, he answered that after further investigation he believed I was impaired by more than alcohol.
 
-I have disputed that isolated result and have maintained, along with Campagna, that it indicated a false positive. The laboratory itself did not make that finding, so I will not present our position as though it did. What the revocation record establishes independently is that the State presented **no evidence that 0.13 mg/L of methamphetamine would impair a person's ability to operate a motor vehicle**.
+I then pressed him on drug-recognition qualifications. Osteen acknowledged that he was **not a drug-recognition expert** and had not completed that course. He took the position that an officer did not have to hold DRE certification to recognize impairment by something other than alcohol.
 
-That absence became central later.
+The point is not that a lack of DRE certification automatically invalidates a DWI investigation. It does not. The significance is evidentiary: Mississippi was relying on Osteen's lay and law-enforcement observations to connect the laboratory result to impaired driving, and the State did not present a toxicologist or other expert to explain what **0.13 mg/L** meant in terms of impairment.
 
-At the July 18 hearing, the State argued that the blood result independently established a probation violation even though the Texas felony charge had already been dismissed. I argued that the dismissal mattered and that an arrest or accusation alone did not prove the conduct necessary for revocation.
+There was an additional contradiction in Osteen's toxicology testimony.
 
-Tollison ruled for the State under the revocation proceeding's preponderance-of-the-evidence standard. The transcript reflects that he relied on the testimony, the evidence showing a 0.13 methamphetamine result, and the fact that I had been charged with felony DWI. He revoked the remaining suspended sentence and imposed **four years in MDOC custody with two years suspended**, leaving **two years to serve**, followed by two years of post-release supervision.
+The State asked whether there had been a positive or negative result for alcohol. Osteen answered: **“There was alcohol detected.”** He then identified methamphetamine and the quantity as 0.13 milligrams per liter.
+
+But the alcohol toxicology report admitted as part of the same evidentiary package stated: **“No alcohol detected.”**
+
+That contradiction did not require interpretation. The testimony and the laboratory document said opposite things about alcohol.
+
+The drug report requires more care.
+
+The Texas DPS laboratory first screened the blood across several drug categories. The amphetamines category was marked for further analysis while barbiturates, benzodiazepines, cannabinoids, carisoprodol, cocaine metabolite, opiates, oxycodone, phencyclidine, and zolpidem were reported as none detected. The confirmation analysis then identified **methamphetamine at 0.13 milligrams per liter by LC-MS**. No separate amphetamine concentration was reported.
+
+Campagna and I have disputed that isolated result and maintained that it indicated a false positive rather than actual impairment. That remains our asserted position, not the laboratory's conclusion.
+
+The later MacArthur petition made a point that does not depend on proving a false positive: **the State presented no evidence at the revocation hearing that 0.13 mg/L of methamphetamine would impair a person's ability to operate a motor vehicle.**
+
+No toxicologist testified.
+
+No pharmacologist testified.
+
+Osteen was not a DRE.
+
+And no evidence in the revocation record supplied an impairment threshold for the number the State put before the court.
+
+At the July 18 hearing, the State nevertheless argued that the blood result independently established a probation violation even though the Texas felony charge had already been dismissed. In closing, the prosecutor argued that I had violated the terms imposed by the court by breaking the law, pointing to a toxicology result showing methamphetamine in my system while I was driving in Texas. The State also continued to argue that the proof established felony DWI.
+
+I argued that the felony dismissal mattered and that an arrest, accusation, or unexplained laboratory number did not itself prove the felony conduct alleged in the petition.
+
+Tollison ruled for the State under the revocation proceeding's **preponderance-of-the-evidence** standard. The later PCR described his finding as one that it was more probable than not that I had violated probation through the Texas driving conduct. The court revoked the remaining suspended sentence and imposed **four years in MDOC custody with two years suspended**, leaving **two years to serve**, followed by two years of post-release supervision.
 
 That sentence sent me back into Mississippi custody.
 
-The legal defect that ultimately produced relief was narrower than the broader constitutional case I wanted the court to hear.
+I believed the hearing contained multiple constitutional and factual defects. The legal argument that ultimately produced my release was much narrower.
 
-On **November 26, 2024**, attorney Jacob Howard of the MacArthur Justice Center filed a Motion for Post-Conviction Relief in Lafayette County Circuit Court, civil cause number **36CI1:24-cv-00388-JKL**.
+On **November 26, 2024**, attorney Jacob Howard of the MacArthur Justice Center filed a Motion for Post-Conviction Relief in Lafayette County Circuit Court, civil Cause No. **36CI1:24-cv-00388-JKL**.
 
-Earlier drafts of this book described Howard's petition incorrectly. They said MacArthur used that filing to attack my September 2022 guilty plea, Deputy Beavers's 2022 testimony, ineffective assistance of counsel, and the banishment provision. **That is not what this petition did.**
+The filing was verified by me under oath. My verification was signed and notarized on November 6 while I was still incarcerated. I acknowledged the November 24, 2021 Lafayette County misdemeanor DUI conviction and the August 11, 2023 Galveston DWI arrest but expressly did not concede that I committed either alleged offense.
 
-The petition says so on its first page. It requested post-conviction relief **from the July 18, 2024 order revoking my unsupervised probation and imposing two years of the suspended sentence**. It did not seek to vacate the underlying 2022 conviction.
+Earlier drafts of this book described Howard's petition incorrectly. They said MacArthur used that filing to attack my September 2022 guilty plea, Deputy Beavers's 2022 testimony, ineffective assistance of counsel, and the banishment provision.
 
-Howard's argument was statutory and powerful precisely because it did not require the court to resolve every disputed event that had brought me there.
+**That is not what the petition did.**
 
-The State had alleged a felony DUI. But by the time of the revocation hearing, that felony charge had been dismissed. Howard argued that even assuming Mississippi had proven by a preponderance of the evidence that I drove under the influence, the conduct the State actually proved would amount to a **misdemeanor** under the relevant law.
+It says on its first page that it sought post-conviction relief from the **July 18, 2024 order revoking probation and imposing two years of the suspended sentence**. Howard did not ask the court to erase the underlying 2022 aggravated-stalking conviction.
 
-Under Mississippi's probation statute, a misdemeanor is treated as a **technical violation**. Howard then applied the graduated limits in Mississippi Code Section 47-7-37(5)(a).
+The petition first established why post-conviction relief, rather than an ordinary direct appeal from the revocation order, was the procedural vehicle. It invoked Mississippi Code § 99-39-7 and Mississippi authority treating post-conviction relief as the method for challenging an allegedly unlawful probation-revocation sentence.
 
-Because this was the **second revocation** for technical violations, Howard argued that the maximum authorized period of imprisonment was **120 days** — not the two years Tollison had ordered me to serve.
+Then Howard narrowed the merits to a statutory question.
 
-The petition also contained a footnote that mattered enormously to the history of the case. Howard wrote that the **November 3, 2022 first revocation** had also imposed an illegal sentence. He characterized the banishment violation as a technical violation and stated that the maximum imprisonment authorized for that first technical revocation was **ninety days**. Tollison had imposed one year.
+The State had petitioned on the theory that I committed a **felony DUI** in Texas. But the felony prosecution had been dismissed. Osteen confirmed at the Mississippi hearing that the Texas matter was then proceeding, if at all, as a **misdemeanor**.
 
-But Howard did not ask the court to undo the first revocation because I had already served that sentence. The petition expressly limited itself to the July 18, 2024 revocation order.
+Howard argued that even if every factual inference were drawn in the State's favor and Mississippi had proven by a preponderance that I committed DWI, the offense actually established would be a **misdemeanor**, not a felony.
+
+That classification controlled the punishment question.
+
+Mississippi defines a technical violation broadly as an act or omission violating a condition of probation, while the statutory scheme separately removes certain felony findings and absconding from the graduated technical-violation limits. Howard argued that a misdemeanor violation therefore remained within the technical-violation framework.
+
+He then applied the graduated caps in Mississippi Code § 47-7-37(5)(a): up to **ninety days for a first technical revocation** and up to **120 days for a second**. The statute permits far greater use of the suspended sentence only at later stages or under statutory exceptions.
+
+The July 2024 proceeding was the second revocation of my probation.
+
+So Howard's arithmetic was direct: the most the court could impose for the second technical revocation was **120 days**.
+
+Judge Tollison had imposed two years to serve.
+
+Howard calculated that sentence as exceeding the statutory maximum by **one year and 245 days**.
+
+That number changed the case because it did not require the PCR court to decide whether Osteen intentionally lied in the blood-warrant affidavit, whether the 0.13 result was a false positive, whether Texas should have arrested me, whether Lafayette County retaliated against me, or whether the 2022 conviction itself was valid.
+
+The court could assume, for purposes of the sentencing question, that Mississippi proved a misdemeanor probation violation and still conclude that two years was too much.
+
+Howard supported the argument with Mississippi cases and with orders from other revocation proceedings applying the same graduated-penalty structure. The exhibits included an order in *Henderson v. State* granting relief where a second technical revocation had resulted in a sentence beyond 120 days, along with other authorities illustrating that a misdemeanor violation remains technical unless it falls within a statutory exception.
+
+The filing also contained a footnote that mattered enormously to my history.
+
+Howard wrote that the **November 3, 2022 first revocation** appeared to have imposed an illegal sentence too. He treated the banishment violation as a technical violation and stated that the maximum incarceration authorized for the first technical revocation was **ninety days**.
+
+Judge Tollison had imposed one year.
+
+But Howard did not ask the court to undo that first revocation because I had already served it. The petition expressly limited its requested relief to the July 18, 2024 order.
 
 That is the actual scope of the MacArthur filing.
 
-It was not the sweeping attack on the 2022 conviction that an earlier manuscript claimed. It was a focused argument that Mississippi had imprisoned me for substantially longer than its own technical-violation statute permitted.
+It was not the sweeping attack on the 2022 conviction that an earlier manuscript claimed. It was a focused argument that Mississippi had imprisoned me substantially longer than its own technical-violation statute permitted.
 
 And it worked.
 
-The January 2025 order is covered in the next chapter, but one point belongs here because it defines what Howard accomplished. The court vacated the **July 18, 2024 revocation sentence**, resentenced me to the statutory 120-day period with credit for time served, and ordered my release.
+The January 2025 order is covered in the next chapter, but the relief can be described here at its proper scale. The Circuit Court vacated the **July 18, 2024 revocation sentence**, resentenced the violation to 120 days with credit for time served, directed my release, and returned me to the underlying probation.
 
-It did **not** erase the September 30, 2022 aggravated-stalking conviction. It did **not** vacate the first November 2022 revocation. It did **not** dissolve the underlying probation or banishment conditions.
+It did **not** erase the September 30, 2022 aggravated-stalking conviction.
 
-That narrower outcome is still consequential. Mississippi had sentenced me to two years to serve on a revocation for conduct that Howard demonstrated was governed by a 120-day statutory ceiling. By January 2025 I had already been confined beyond that ceiling.
+It did **not** vacate the November 2022 first revocation.
 
-The filing also changed how I understood one of the recurring problems in this story. For years I had argued broadly about retaliation, false testimony, unconstitutional orders, and collusion. Howard found a point the court could resolve without deciding any of those larger accusations: whatever anyone thought of me, and whatever they thought the blood result proved, **the sentence exceeded the punishment Mississippi law authorized for the violation the State had established**.
+It did **not** eliminate the probation term or banishment conditions.
 
-That was enough to open the prison door.
+That narrower outcome is still consequential.
 
-It was not enough to erase the conviction that had put the probation in place.
+By the time Howard filed the petition, I had already served more than 120 days on the second revocation. The filing did not need to prove every allegation I had spent years making. It needed to show that the punishment the court imposed exceeded what the statute authorized for the violation the record could support.
+
+That was enough.
+
+The lesson was uncomfortable because it cut against my own litigation instincts. I had spent years trying to make courts see the entire structure at once—2017, Crowder, commitments, Beavers, Galveston, Osteen, retaliation, missing evidence, and banishment.
+
+Howard isolated one legal defect, supported it with the exact record and controlling sentencing structure, and asked for one remedy the court could grant.
+
+The difference between those approaches was about to open the prison door.
+
+It was not about to erase the conviction that had put the probation in place.
 
 
 # CHAPTER 26 — RELEASED, BUT NOT VACATED
@@ -2148,247 +2850,773 @@ The next chapter is about that trial and what the court actually decided — inc
 
 # CHAPTER 31 — TRIAL AND VERDICT
 
-My federal bench trial was held on **December 15 and 16, 2025** before Magistrate Judge **Patrick J. LeBlanc**.
+My federal bench trial was held on **December 15 and 16, 2025** before U.S. Magistrate Judge **Thomas P. LeBlanc** in the Western District of Louisiana.
+
+The charge arose from August 25, but the trial record did not begin there. The court's later written Reasons for Judgment reconstructed all three of my 2025 visits to the John M. Shaw United States Courthouse because those earlier encounters bore on notice, intent, and what I understood about the federal-property rules by the time I returned in August.
+
+That made the trial record broader than the arrest itself.
 
 On **January 16, 2026**, LeBlanc issued nineteen pages of written Reasons for Judgment. He denied my renewed Rule 29 motion for judgment of acquittal and adjudged me **guilty** of violating **41 C.F.R. § 102-74.390(b)**.
 
-The written ruling is the best source for what the conviction actually rests on.
+The written ruling is the best source for what the conviction actually rests on because it separates the evidence the court credited from the arguments I made about that evidence.
 
-The government had originally charged one count under subsections (a) and (b) of the federal disturbance regulation. At trial it proceeded only under subsection (b): whether I had unreasonably obstructed the usual use of a courthouse entrance.
+The government had charged one count under subsections (a) and (b) of the federal disturbance regulation. Subsection (a) addresses loud or unusual noise or a nuisance. Subsection (b) addresses conduct that unreasonably obstructs the usual use of entrances, foyers, lobbies, corridors, offices, elevators, stairways, or parking lots.
 
-The court identified three elements: that the incident occurred on federal property; that I engaged in conduct unreasonably obstructing the usual use of the kinds of spaces listed in the regulation; and that I acted with the required state of mind. The court also treated notice of the GSA Conduct Rules as a necessary issue because those rules must be conspicuously posted on covered federal property.
+By trial, the government proceeded **only under subsection (b)**.
 
-LeBlanc found each requirement satisfied beyond a reasonable doubt.
+That correction matters. My profanity, signs, criticism of the Marshals Service, and insistence on recording all formed part of the factual context, but the government did not ask LeBlanc to convict me simply because I had been loud, offensive, or hostile toward officers. The surviving charge was obstruction of entrances.
 
-On federal-property status, he relied on the courthouse itself, the evidence identifying the John M. Shaw building and its GSA-controlled rules, and the conspicuously posted Rules and Regulations Governing Conduct on Federal Property.
+At the close of the government's case, I moved for judgment of acquittal under Federal Rule of Criminal Procedure 29. I argued that the government had not sufficiently proved two things: that the relevant events occurred on federal property and that my conduct constituted obstruction of the **usual use** of an entrance. LeBlanc reserved ruling. I renewed the motion at the close of all evidence.
 
-On obstruction, he relied heavily on the video and photographic record described in Chapter 30. He found that I placed the tripod directly in front of an emergency-exit door, with one leg touching the door and the camera against the glass, then left the equipment unattended for about twenty minutes. He also found that I stood in front of other doors with posterboard against the glass and at one point propped a poster across the handles of the ordinary entrance doors.
+That procedural choice mattered because when a court reserves a Rule 29 ruling made at the close of the government's case, the sufficiency question is judged on the evidence that existed when the ruling was reserved. My later testimony could provide context in the final judgment, but it could not retroactively cure a failure of proof in the government's case-in-chief for purposes of the reserved motion.
 
-I did not deny at trial that I had placed equipment, signs, and at times my body against multiple doors. My argument was about what the regulation meant by **"usual use."** I maintained that a locked emergency door, or a door nobody was trying to use at that exact moment, was not being obstructed in the sense the regulation prohibited.
+LeBlanc ultimately found the government's proof sufficient.
 
-The court rejected that reading.
+The court identified three substantive elements: the incident had to occur on federal property; I had to engage in conduct that unreasonably obstructed the usual use of one of the spaces identified in the regulation; and I had to act with the culpable state of mind the court concluded the offense required. A separate notice issue arose because the governing GSA rules must be posted or otherwise brought to a visitor's attention.
 
-LeBlanc reasoned that a courthouse entrance serves more than the immediate act of one person walking through a door. It also serves security, emergency, safety, and access functions. On that construction, placing the tripod against an emergency exit could obstruct the entrance system even while the door was locked from outside and nobody was attempting to use it at that instant.
+The first two courthouse visits became important to that notice question.
 
-The court also rejected my argument that the conduct was accidental or legally innocent because I did not understand it to be obstruction.
+The judgment describes my **June 23** visit as an intentional effort to determine whether I would be allowed to perform what I regarded as journalistic activity in the unsecured lobby. The court quoted my own video explaining that I was conducting a “stress test” of a constitutional right and that I traveled to public buildings to document whether officials respected those rights.
 
-The written judgment points to my prior familiarity with the GSA Conduct Rules from the June visits, my statements on August 25 about "taking the arrest," the decision to move the tripod from a place away from the doors to the emergency-exit door, and my refusal to move the equipment after Nugent identified it as a hazard and warned me that arrest would follow.
+The physical layout was part of the proof.
 
-Those findings matter because they sharply narrow what I can fairly claim about the conviction. I can dispute the court's interpretation. I can appeal it. I can argue that constitutional and evidentiary issues affected the proceeding. I cannot accurately say that the federal court convicted me merely because I filmed inside a courthouse lobby.
+The John M. Shaw Courthouse faces Lafayette Street. Between the street and building are a public sidewalk, bollards, a paved area, barricades near the steps, ramps leading to the entrance, an uncovered landing, and a covered portico. Beyond the exterior glass doors is a foyer. Beyond the foyer is an unsecured lobby containing turnstiles and the court-security screening station. Visitors who proceed farther into the building must pass through screening into the secured atrium.
 
-That is not what the written judgment says happened.
+The exterior entrance itself consists of multiple sets of glass doors. Two center-area sets were identified as emergency exits, EE-1 and EE-2. Another pair functioned as the customary Entrance/Exit Door. The emergency exits ordinarily remained locked from outside but could be opened by courthouse security when necessary.
 
-There were, however, separate proceedings before trial that became important to my broader concern about how information concerning me moved among courthouse personnel.
+On June 23, I entered through the ordinary door and walked into the unsecured lobby while recording.
 
-On **October 15, 2025**, the United States filed a Motion for Protective Order.
+The judgment notes that a freestanding sign in the foyer displayed the **Rules and Regulations Governing Conduct on Federal Property**. I walked past it. When a Court Security Officer told me recording was not permitted, I asked where the federal rules were posted. The officer pointed me to the sign.
 
-An earlier manuscript described that motion incorrectly as an attempt to prohibit future communications between the Marshals Service and federal judges. The motion did **not** seek that relief.
+I then filmed it repeatedly.
 
-Instead, the government asked the court to restrict the defense's dissemination of discovery materials containing sensitive courthouse-security information. In explaining why it wanted the protective order, the government expressly identified discoverable materials that included **"communications between the Marshal service and the Federal Judges at the John Shaw Courthouse"** and **"communications between security officers of other courthouses and the Marshal service."**
+The provision I was focused on was 41 C.F.R. § 102-74.420, which permits photography of building entrances, lobbies, foyers, corridors, or auditoriums for news purposes except where security regulations, rules, directives, or federal court rules or orders apply. I told the people watching my broadcast that the rules were supposed to be posted at federal buildings and compared them to the familiar rules posted in post offices.
 
-The government argued that disclosure could compromise courthouse-security methods and pointed to my practice of publishing government material online. Its proposed order would allow defense counsel, me, investigators, and retained experts to review protected material for purposes of the case while restricting broader copying and dissemination.
+That footage later hurt me on the notice question.
 
-That filing establishes an important fact without proving the inference I once drew from it: communications between Marshals personnel, courthouse-security personnel, and federal judges were among the discovery materials the government regarded as sensitive. The motion does **not** itself establish that those communications were improper, ex parte in a legally forbidden sense, or evidence of a conspiracy.
+What I had viewed on June 23 as evidence supporting my right to record also proved that I knew where the federal conduct rules were posted and understood that they governed the property. LeBlanc concluded that the sign was conspicuous and that I had actual knowledge of its existence and location.
 
-I have challenged their significance. The motion itself only establishes their existence as described by the government and the government's request to restrict dissemination.
+The June 23 interaction lasted a little more than an hour. The record says Court Security Officers, the Marshals Service, and Lafayette police became involved. I continued insisting that the news-photography provision permitted me to film in the unsecured lobby. Supervisory Deputy Marshal John Farrish ultimately had the courthouse closed approximately fifteen minutes early, and I left.
 
-A second development occurred before trial involving Magistrate Judge **Carol B. Whitehurst**, who had previously been assigned to the case.
+Chapter 28 addresses the Marshals Service's own incident reports and the important statement that I had not done anything warranting arrest that day. The trial judgment uses the same encounter for a different purpose: to establish my familiarity with the posted rules before August 25.
 
-The project archive contains a later public sentencing transcript in which I quoted Whitehurst's November 12, 2025 recusal language: **"An objective and reasonable observer could believe the undersigned is predisposed to find Reardon guilty of the offense later charged"** and that avoiding the appearance of impropriety is as important as avoiding impropriety itself.
+I came back on **June 26** to complain about Farrish and recorded again.
 
-I am preserving the substance of that recusal, but I am not using it to claim Whitehurst found that anyone else was biased or that misconduct by the Marshals Service had been proven. A judge's decision to recuse addresses the judge's own continued participation and the appearance of impartiality. It does not adjudicate a conspiracy claim against other actors.
+According to the judgment, I told Farrish my complaint was that he did not know the rules governing conduct on federal property. Farrish wanted me to return to the posted sign because he believed we were reading the rules differently. I refused and told him I had already shown him the rules.
 
-The manuscript also previously described testimony and evidence from a sealed portion of the trial concerning the preservation of courthouse surveillance footage.
+There was another detail that changed the way I understood the federal response. On June 23 I had identified myself as **Don Matthews**. On June 26, Farrish addressed me by **Matthew Reardon**.
 
-I am removing that material from the narrative.
+I interpreted that as evidence that the Marshals Service had researched me between visits.
 
-There is a court-imposed sealing issue surrounding that portion of the proceeding, and the publication policy for this book is to discuss that dispute only to the extent it is disclosed in public docket materials. I will not reproduce sealed testimony, characterize what a sealed witness supposedly admitted, or disclose details simply because I personally heard them.
+Later FOIA productions showed that federal personnel did in fact circulate information concerning me after the June encounters, including my identity, photographs, prior history, and descriptions of my courthouse activity. Chapter 28 sets out those documents. But the trial judgment itself used the June 26 encounter primarily to show that the dispute over courthouse rules was already established before I returned in August.
 
-That restraint affects how I state the evidence-preservation issue as well.
+By **August 25**, then, I was not encountering the rules for the first time.
 
-I contend that potentially relevant courthouse surveillance footage was not preserved and that the missing material could have affected the presentation of the August 25 encounter. That contention has formed part of my post-trial and appellate position. Unless and until the supporting testimony or exhibits are unsealed or otherwise appear in a public filing that can be quoted, this book will not disclose the contents of the sealed proceeding.
+The judgment states that I returned determined to exercise what I understood to be First Amendment rights and to express my “extreme discontent” with the Marshals Service after learning through FOIA that federal law-enforcement officials had been communicating about me.
 
-The same discipline applies to the First Amendment issue.
+I had a tripod-mounted camera, two smartphones, and handwritten signs criticizing the Marshals Service in explicit language. I initially protested closer to the street, then moved toward the building after seeing a gesture from inside that I interpreted as an invitation.
 
-A later July 2026 ruling rejected my post-trial First Amendment challenge and treated the relevant courthouse interior as a **nonpublic forum** for purposes of the argument before the court. I disagree with the resulting analysis and have treated it as an appellate issue. But the conviction entered January 16 rests on the obstruction findings described above, not on a judicial declaration that recording or criticizing federal officers is itself criminal.
+The court was careful not to convert my interpretation into a factual finding that anyone actually invited me inside.
 
-By the time I reached sentencing in August 2026, the posture was therefore complicated but clear.
+I tried two locked doors first—the emergency exits—then entered through the customary Entrance/Exit Door while recording. Deputy Marshal Hayden Nugent met me as I approached the interior lobby and told me I had not been invited and would be arrested if I tried to film inside.
 
-I had a federal misdemeanor conviction under § 102-74.390(b).
+I left the interior.
 
-I had a written judgment finding that my own video and conduct established obstruction beyond a reasonable doubt.
+Again, that point is important: **the arrest did not happen merely because I entered the lobby with a camera.**
 
-I had public records showing that federal court-security personnel had circulated information about me months before the August arrest.
+I went back outside under the portico and continued the protest.
 
-I had a government protective-order filing acknowledging that discovery included communications among Marshals personnel, courthouse security, and federal judges.
+My own recording captured me saying that they had “asked for it,” that part of me wanted to go back in and “take the arrest,” and that “they want it.” The court later relied on those statements when considering whether what followed was accidental or deliberate.
 
-And I had unresolved appellate arguments, including constitutional and evidence-preservation issues that had not erased the conviction.
+I began holding signs against or immediately in front of several glass doors. The judgment found that the signs sometimes blocked the view through the glass. At one point I propped a roughly twenty-by-thirty-inch posterboard on the handles where the ordinary entrance double doors met, preventing those doors from being opened while the sign was there.
 
-The book should not make those categories interchangeable.
+Then I moved the tripod.
 
-The next events occurred while that federal case was still moving toward judgment and sentencing, beginning with an encounter at New Orleans City Hall in November 2025.
+The court found that I repositioned it directly in front of EE-2, with at least one tripod leg touching the door and the camera close against the glass. I then moved away to the area of a statue platform and left the equipment there for roughly twenty minutes.
+
+That became the central physical fact of the conviction.
+
+The Rule 29 argument therefore turned on what the phrase **“usual use of entrances”** meant.
+
+I took a narrow view. If an emergency door was locked from outside and nobody was trying to pass through it at that moment, I argued that placing equipment there did not obstruct its usual use. If nobody was attempting to enter through another door while I displayed a sign in front of it, I likewise argued that there was no actual obstruction.
+
+LeBlanc adopted a broader view.
+
+The judgment reasoned that a federal courthouse entrance is not merely a hole in a wall through which a person happens to pass at one instant. It is an entrance **system** serving access, emergency egress, security observation, safety, and the transition into a courthouse. On that interpretation, a door can be obstructed even if no visitor is physically trying to pass through it at that second.
+
+The court identified three ways it believed my conduct obstructed that system.
+
+First, it found that I physically impeded the doors by placing my body, signs, and camera equipment in front of them, with the tripod left at an emergency exit for a prolonged period.
+
+Second, it found that holding posterboard against the glass interfered with the ability of security personnel inside to use the glass doors as a means of observing the exterior.
+
+Third, it treated the courthouse entrance as a controlled transitional space whose ordinary security and institutional functions could be disrupted even without a literal collision between a person and my equipment.
+
+I disagreed with that third conception in particular. The court nonetheless incorporated it into the meaning of “usual use.”
+
+Mens rea became a separate question.
+
+The regulation does not spell out a culpable mental state in its text. The court looked to other decisions interpreting the same or predecessor federal-property regulations and concluded that the government needed to prove that I knew the facts making my conduct obstructive, not that I knew the citation number of a regulation or agreed with the government's interpretation of it.
+
+The court then assembled circumstantial evidence of my state of mind.
+
+It emphasized that I had studied and filmed the GSA rules during the June visits. It pointed to my acknowledgment at trial that exits and entrances could not lawfully be blocked. It relied on the August statements about wanting to “take the arrest.” It noted that I moved the tripod from a position away from the door to a position immediately in front of the emergency exit. And it relied on my later refusal to move the equipment when Nugent identified it as a hazard and warned that arrest would follow.
+
+My own testimony supplied another piece of the court's reasoning. I explained that part of First Amendment auditing, as I practiced it, involved trying to obtain **standing** to challenge conduct I believed unconstitutional and that standing could arise from arrest or threat of arrest. I intended that testimony to explain why I documented government confrontations. The court treated it as additional evidence that I knowingly brought myself into situations where enforcement was foreseeable.
+
+That is another example of why testimony cannot be summarized only by what a defendant intended it to prove.
+
+I did not deny placing my equipment and signs where the videos showed them. I argued the legal significance of those placements. LeBlanc rejected my interpretation and found the elements satisfied beyond a reasonable doubt.
+
+The trial also contained a more technical dispute about whether the government had proved that the exact place where the conduct occurred was federal property.
+
+I raised that issue in my Rule 29 motion. LeBlanc relied on testimony and documentary evidence identifying the courthouse as federal property, together with the posted federal conduct rules themselves. He noted that those rules are required to be posted conspicuously on property owned or occupied by the federal government. He concluded that the first element was established.
+
+The conviction therefore rested on a defined chain of findings, not a generalized conclusion that I was a troublemaker:
+
+The property was federal.
+
+The posted rules supplied notice.
+
+My equipment, signs, and body obstructed the entrance system in the manner the court described.
+
+My conduct was knowing rather than accidental.
+
+And the government had proved subsection (b) beyond a reasonable doubt.
+
+That does not end every constitutional question surrounding the case. It does tell me what an appellate challenge has to confront.
+
+There were also significant pretrial proceedings concerning discovery and courthouse communications.
+
+On **October 15, 2025**, the United States moved for a protective order. Earlier editions of this manuscript mischaracterized that filing as an attempt to prohibit future Marshal–judge communications. It was not.
+
+The government sought restrictions on dissemination of sensitive discovery. In explaining the requested protection, it expressly identified discovery categories that included **communications between the Marshals Service and federal judges at the John Shaw Courthouse** and communications between security officers at other courthouses and the Marshals Service.
+
+The government argued that unrestricted publication could expose courthouse-security information. Its requested order would permit use of the material by the defense team for litigation while limiting broader dissemination.
+
+That filing proves that the identified categories of communications existed in discovery and that the government considered them sensitive. It does not prove those communications were unlawful or that judges and marshals had conspired to prosecute me. Earlier versions made that leap. This one does not.
+
+A separate pretrial event involved Magistrate Judge **Carol B. Whitehurst**, who had previously been assigned to the case.
+
+The public record reflects her November 12, 2025 recusal. The language later quoted at sentencing states that an objective and reasonable observer could believe she was predisposed to find me guilty and emphasizes avoiding the appearance of impropriety.
+
+That was a recusal decision concerning her own continued participation. It was not a finding that the Marshals Service, prosecutors, or another judge had acted improperly.
+
+The evidence-preservation dispute requires even greater restraint.
+
+Part of the trial record concerning courthouse surveillance was sealed. I was present and heard that material, but a court order restricts public discussion of testimony from the sealed proceeding. I am therefore not reproducing the testimony, describing what a sealed witness said, or using my memory of the sealed material to fill in public-record gaps.
+
+What I can say from public material is that I have challenged the failure to preserve potentially relevant courthouse surveillance and have treated preservation as an appellate issue. The Legal Analysis explains the distinction between evidence whose exculpatory value was apparent and evidence that was merely potentially useful. The narrative will go no farther than the public record permits.
+
+A later July 2026 ruling rejected my post-trial First Amendment challenge and treated the relevant courthouse interior as a **nonpublic forum** for the argument before the court. I disagree with that analysis and have preserved constitutional issues for review. But the January 16 judgment did not hold that criticizing federal officials or carrying a camera is itself a crime. It held that my particular conduct at the doors violated the obstruction regulation.
+
+That difference is essential to the story I am now willing to publish.
+
+I can show that the Marshals Service had circulated my information before August 25.
+
+I can show that the June 23 supervisory report said I had done nothing warranting arrest at that first encounter.
+
+I can show that government discovery included Marshal–judge and inter-courthouse-security communications.
+
+I can show that Whitehurst later recused herself to avoid an appearance of partiality.
+
+And I can still disagree with LeBlanc's construction of “usual use.”
+
+None of those facts permits me to erase what my own video showed on August 25 or what the trial judge found from it.
+
+By January 16, 2026, the federal docket therefore contained a guilty judgment supported by detailed written findings. The case was moving toward post-trial motions, sentencing, and the appeal route that would ultimately begin with review by a district judge under Rule 58(g)(2).
+
+At almost the same time, an unrelated Louisiana matter was moving against me in New Orleans.
+
+Two months before the federal guilty judgment, I had been involved in an altercation outside New Orleans City Hall. That incident produced a warrant, public-records requests, a surveillance-camera dispute, and another arrest while the Lafayette federal case was still unresolved.
+
+The next chapter follows that separate record.
 
 
 # CHAPTER 32 — THE NEW ORLEANS ASSAULT
 
-On November 12, 2025, while the federal courthouse case described in the previous chapters was still pending, I went to New Orleans City Hall at 1300 Perdido Street.
+On **November 12, 2025**, while the federal courthouse case described in the previous chapters was still pending, I went to New Orleans City Hall at **1300 Perdido Street**.
 
-What happened there is disputed in the police record, so I want to separate my account from what the officers later wrote.
+What happened there became another example of why I eventually stopped trusting a single narrative merely because it appeared in an official document. This time, however, the record contains a sworn warrant affidavit, an NOPD incident report, later arrest paperwork, and my own contemporaneous calls and records request. Those documents let me separate what I alleged from what the police actually concluded.
 
-My account is that Allied Universal security guard Jerome Ard struck me in the head with a metal flashlight during the confrontation at the security area. I sustained a scalp laceration and was transported for medical treatment. My phone and recording equipment were also damaged during the encounter. I have maintained that account consistently in the complaints and filings I later prepared concerning the incident.
+The warrant affidavit places the incident at approximately **9:23 a.m.** NOPD Officer Junious Grady wrote that he and Officer Victor Paz were dispatched to a simple-battery call at City Hall. When they arrived, the affidavit says they observed a man lying face down on the sidewalk and bleeding from the back of his head. Grady later identified that man as me.
 
-The police process that followed did not adopt my version. It produced an arrest warrant for me.
+The affidavit records that I initially refused to provide Grady with identification.
 
-NOPD Officer Junious Grady swore out the affidavit supporting that warrant. The records identify Officer Victor Paz, badge number 26091, as concluding that I was the aggressor. They also identify NOPD supervisor Alfred Harris, ID number 16511, in the approval chain. The warrant was signed later that day by Judge Juana Marine Lombard.
+That is part of the police account and belongs here even though it does not decide what happened moments earlier at the security checkpoint.
 
-The central evidentiary problem is unusually clean.
+My account is that Allied Universal security guard **Jerome Ard** struck me in the back of the head with a metal flashlight during the confrontation at the security area. I have maintained that the blow caused the scalp wound and that my phone and recording equipment were damaged during the encounter. In calls made two days later, I was already telling New Orleans officials that I believed Ard had hit me with the flashlight and that the event had been recorded or livestreamed from my equipment.
 
-The Real Time Crime Center footage did not show the physical altercation itself.
+The police affidavit tells a different story.
 
-The police account states that the camera captured activity at the City Hall security checkpoint but that the physical encounter between Ard and me occurred outside the camera's field of view. That distinction matters. The footage was not described as having recorded the altercation and then disappeared. The available record says the decisive physical contact was never visible on that camera in the first place.
+According to Ard's statement as summarized by Grady, I entered City Hall wanting to record with my cellphone. Ard said he told me that recording was permitted in the public portion of the lobby but not in private offices. He also said I had to pass through the security scanner if I wanted to proceed farther into the building.
 
-That left the officers to reconstruct the encounter principally from witness statements and the surrounding circumstances. The witnesses identified in the record included Ard and Allied Universal employees Wilfred Vidal and Willie Savage. Whatever weight their statements deserved, all three were connected to the same security contractor. The RTCC video therefore could corroborate portions of the lead-up, but it could not independently resolve who initiated the physical contact that produced my head injury.
+Ard told police that he passed a metal-detector wand over me and found a lighter and a vape device, which he said were not permitted inside. According to his account, I initially retreated but then tried to bypass the scanner. Ard said he restricted my path and again directed me through security.
 
-That is much narrower than saying the surveillance system proved my account. It did not. It is also narrower than saying the police had video proving I was the aggressor. They did not have that either.
+The affidavit then describes the physical escalation from Ard's perspective. Ard said he took out his own cellphone and began recording me. He alleged that I slapped his hands and bumped him with my body. Ard said he responded by pushing me away, after which I fell backward, struck my head, and suffered what the affidavit described as a small laceration.
 
-According to the police account, the footage showed me at the security checkpoint after being told that certain items, including a lighter and vape device, could not pass through screening. The officers treated my conduct there and the Allied employees' statements as supporting probable cause for simple battery. I disputed that characterization. My position was that Ard escalated the encounter and struck me with the flashlight.
+That is not my account of the force that caused my injury.
 
-The physical evidence did not make the dispute disappear. I had a visible head injury serious enough to lead to medical transport. But an injury, by itself, does not establish who initiated a confrontation, and I am not going to ask this book to pretend that it does. What the injury establishes is that the encounter became physical and that I came out of it hurt. The question of legal fault still depended on evidence the RTCC camera did not capture.
+But it is the account the police used in the warrant process, and it cannot be omitted simply because I dispute it.
 
-That is why the affidavit matters so much. The warrant process converted one side of a disputed encounter into a criminal accusation against me even though the available surveillance footage did not show the crucial moment. Grady's affidavit and Paz's assessment treated the Allied witnesses' account as sufficient to identify me as the aggressor. I believed then, and still believe, that the investigation should have subjected the competing accounts to substantially more scrutiny before turning the injured participant into the accused.
+The most important surveillance fact is also stated directly in the affidavit.
 
-I also want to be precise about something the earlier manuscript stated too categorically. I cannot prove from the present record that the officers acted for the purpose of protecting Ard or Allied Universal. I can document the result: the contractor's employees gave statements; the RTCC footage did not show the altercation; I had the head injury; the police identified me as the aggressor; and a warrant issued for me. Motive is a separate question, and this book will not manufacture an answer to it.
+Officer Paz contacted a Real Time Crime Center technician and had the available footage reviewed. According to the sworn narrative, the footage showed me attempting to bypass the security checkpoint after being advised that I could not enter with the prohibited items. But Paz was unable to review the **physical altercation itself because the incident occurred outside the camera's field of view**.
 
-Likewise, I have not found a criminal charge against Ard in the source set presently assembled for this manuscript. That is different from claiming that no authority anywhere ever considered one. What I can document is that the criminal process reflected in the records before me proceeded against me, not Ard.
+That distinction is critical.
 
-That asymmetry became consequential almost immediately. Once the warrant existed, it became an official criminal record capable of following me outside New Orleans. It also became relevant to my effort to obtain the City's own records of the incident.
+The RTCC record was not described as having captured the decisive contact and then disappeared. The police record says the camera did not see the physical confrontation in the first place.
 
-Five days later, on November 17, 2025, I filed public-records request 25-21253 seeking material related to what had happened at City Hall, including video and emergency-response records. The request itself would become a second dispute—this time not over what happened in the security area, but over what the City would release while the battery case against me remained open.
+The footage therefore could corroborate portions of the lead-up—my presence at the checkpoint and conduct around the scanner—but it could not independently answer the most important factual question: who initiated the physical contact and what force caused the wound to the back of my head.
+
+The officers then relied on witnesses.
+
+Paz spoke with **Wilfred Vidal** and **Willie Savage**, both identified in the warrant narrative as security personnel who had been present. The affidavit says Vidal told police that I entered the building, refused to go through the scanner, and tried to bypass it; that Ard stepped in front of me; that I slapped Ard's hands and shoved him; and that Ard pushed me back, causing me to fall and hit my head.
+
+Savage gave a materially similar account according to the affidavit. He too said I tried to bypass the scanner, Ard blocked me, I slapped Ard's hands and shoved him, and Ard pushed me backward.
+
+That gave the police three security-side accounts pointing in the same direction: Ard, Vidal, and Savage.
+
+It also meant that all three eyewitness accounts relied upon in the warrant came from people connected to the security operation involved in the dispute. That fact does not make their statements false. It does mean the RTCC footage could not independently verify the crucial physical contact they described.
+
+Paz concluded that I was the aggressor after speaking with those witnesses and reviewing the available surveillance footage. Grady then swore the affidavit seeking a simple-battery warrant under **Louisiana Revised Statute 14:35**. The document bears a supervisor/reviewer signature for **Alfred Harris** and was approved by Orleans Parish Criminal District Court Judge **Juana Marine Lombard** at **3:34 p.m. on November 12**.
+
+The arrest warrant ordered law enforcement to apprehend me on one misdemeanor count of simple battery.
+
+The accompanying NOPD warrant-entry report likewise identified the incident as occurring at City Hall and described me as wanted for simple battery arising from November 12.
+
+The police record also acknowledges that I needed medical attention. Grady's affidavit says I was taken by EMS to **Tulane** for further medical treatment. Whatever the ultimate legal characterization of the confrontation, the injury was not something invented months later for litigation. Officers arrived to find me bleeding from the back of the head, and the sworn warrant narrative itself records the medical transport.
+
+But an injury is not, by itself, proof of who committed a battery.
+
+That point cuts both ways. The wound does not automatically prove my assertion that Ard struck me with the flashlight. It also does not prove the witnesses' assertion that I injured myself when Ard pushed me after I initiated contact. The physical injury establishes that the encounter became violent enough to leave me bleeding. The disputed mechanism remains disputed in the records now before me.
+
+There is a smaller but revealing records inconsistency involving the time of the offense.
+
+The sworn warrant affidavit says the officers were dispatched at approximately **9:23 a.m.** My later public-records request sought records from **9:00 a.m. to 10:30 a.m.** The Orleans Parish arrest register generated after my January arrest, however, lists the offense time as **9:23 p.m.** on November 12.
+
+I am not silently choosing one document and pretending the other does not exist. The warrant affidavit and my contemporaneous records request place the incident in the morning; the later arrest register contains a p.m. entry. The inconsistency is preserved here as part of the record.
+
+The central evidentiary problem remains cleaner than that clerical conflict.
+
+The police had footage of the lead-up but not the physical altercation. They had three security-side witness statements. They had my visible head injury. They chose the witness account that made me the aggressor and obtained a warrant for me.
+
+I believed then, and still believe, that the investigation should have subjected the competing accounts to substantially more scrutiny before turning the injured participant into the accused. That is my assessment of the investigation, not a judicial finding that the officers lacked probable cause.
+
+I also need to preserve another limitation that earlier drafts ignored.
+
+I cannot prove from these records that Paz, Grady, or anyone else chose my version of events for rejection because they wanted to protect Ard or Allied Universal. I can document the result: the contractor's personnel gave mutually reinforcing statements; the RTCC footage did not show the altercation; I had the head injury; Paz identified me as the aggressor; Grady sought the warrant; and Judge Lombard signed it.
+
+Motive is a separate question. This edition does not invent one.
+
+Likewise, I have not located a criminal charge against Ard in the source set supporting this edition. That is different from saying no agency ever considered a complaint against him. What I can document is that the criminal process reflected in these papers proceeded against me.
+
+Within forty-eight hours, I began contacting New Orleans offices about the incident, victim assistance, preservation, and civil liability. Those calls matter because they freeze my allegations close in time to the event—before the January arrest and before the later litigation matured.
+
+Five days after the incident, I submitted a written public-records request seeking the surveillance, body-camera, 911, dispatch, security, and incident records that I believed could help resolve what happened.
+
+The warrant had already transformed the disputed encounter into an active criminal case.
+
+That active case would then become the City's stated reason for withholding some of the very records I was seeking.
 
 That is the next chapter.
 
 
 # CHAPTER 33 — THE RECORDS REQUEST
 
-Two days after the November 12, 2025 City Hall confrontation, I started calling New Orleans offices about what had happened and about preserving the evidence.
+Two days after the November 12, 2025 City Hall confrontation, I started calling New Orleans offices about what had happened, about victim-assistance procedures, and about preserving the evidence.
 
-One of those calls reached the City Attorney's Office on November 14. A staffer who identified herself as Tana told me she did not know about the incident. I told her my account: that a City Hall security guard had struck me, that my equipment had been damaged, and that I wanted the evidence preserved because litigation was likely. When I asked whether there was a written policy, ordinance, or posted rule prohibiting cigarettes, a vape, or a lighter inside City Hall, she said she was not sure and directed me to the municipal code. When I asked where to send a notice of claim, she gave me her city email address.
+Those calls now survive as transcripts. They are useful partly because they preserve my allegations almost immediately after the incident and partly because they show that my own tone was already confrontational. I was not making calm inquiries and waiting patiently for a bureaucracy to respond. I was angry, I believed I had been assaulted, I was talking about litigation, and I told officials so.
 
-That recording matters for a limited reason. It establishes what I told the City Attorney's Office two days after the incident and what the office said in response. It does not establish that the staffer had investigative authority over a criminal complaint, and it does not prove that the City Attorney's Office had already received the police reports. In fact, she repeatedly said the office handled civil matters, not criminal ones.
+That context belongs beside everything I say about the City's response.
 
-Three days later, on November 17, I filed a formal public-records request through the City's NextRequest portal. It was assigned request number 25-21253.
+One November 14 call went to the NOPD non-emergency line. I asked how the department's **Victim Witness Assistance Program** worked. The call-center employee told me that the people answering that number were not police officers, said the program did not appear in the contact list available to her, and suggested that I contact one of the police districts directly and ask for an officer who might know more.
 
-The request was specific. I asked for RTCC footage covering the front entrance sidewalks, public lobby, and security screening area; City Hall interior security footage for the same period; 911 audio, call logs, CAD entries, and dispatch traffic between 9:00 and 10:30 a.m.; incident reports, written statements, and security logs; NOPD body-camera footage; and radio communications referencing the incident.
+I objected that the program was advertised publicly and complained that a policy existing on paper was meaningless if the people answering the department's public number could not direct a victim to it.
 
-The portal shows that the request was received at 9:41 a.m. on November 17. It was initially assigned to the City Attorney and then, later that morning, reassigned to Crime Cameras and 9-1-1. The City sent status messages on November 24 and December 5 saying it was still determining whether responsive records existed.
+That call does not establish that the program did not exist or that every NOPD officer was ignorant of it. It establishes something narrower: the employee who answered the non-emergency line could not identify a direct contact for the program and routed me elsewhere.
 
-On December 10, the City gave its substantive response.
+I made other calls.
 
-At 10:06 a.m., the Law Department told me that my request for RTCC footage and 911 calls concerning item K-11205-25 could not be fulfilled because records relating to pending or reasonably anticipated criminal litigation were not subject to disclosure until the litigation was finally resolved. The City cited Louisiana Revised Statute 44:3(1). It told me that the initial report would instead be invoiced and that the other documents would have to be obtained through criminal discovery.
+A transcript labeled as a call to Public Integrity records me asking a woman I understood to be with that division about the same victim-assistance process. The call quickly became another transfer. I was routed to a voicemail associated with Detective Sonya Pollard. My frustration is audible in the transcript.
 
-One minute later, the portal generated a $25 invoice. At 10:07 a.m., the City stated that the responsive initial report had been compiled and was available for purchase, subject to redactions for identifying and private information. The request was then marked closed.
+Again, that is evidence of what happened to my inquiry, not proof of an agency-wide policy failure.
 
-That sequence is the actual documentary record. The City did not simply deny every record I requested. It withheld the RTCC footage and 911 material under the pending-criminal-litigation exemption, offered the initial report for $25, described the categories of redactions that would be applied to that report, and directed me to the discovery process for the remaining material.
+The most substantive November 14 call reached the **City Attorney's Office**.
 
-The fact that the City invoked a real statutory exemption does not end the story. The reason the exemption mattered to me was that the pending criminal matter was the simple-battery case arising from the same November 12 encounter. The police had treated me as the aggressor, an arrest warrant had issued, and the existence of that criminal case was now the stated legal basis for withholding the City's video and emergency-call records from a public-records request.
+A staff member who identified herself as **Tana** told me she was taking messages because the City Attorney was unavailable. I identified myself and said I was calling about the incident at City Hall two days earlier.
 
-That is a circular result, but I need to describe it accurately. The records request itself does not prove that anyone created the criminal case for the purpose of hiding evidence. It proves something narrower: after the criminal case existed, the City relied on that case to withhold categories of records I wanted in order to challenge the account that produced the case.
+I asked whether the City Attorney's Office acknowledged that a City Hall security guard had physically struck me. She answered that she had no knowledge of the incident and asked how the office would already know about it. I described the security-screening confrontation, my head injury, the equipment damage I alleged, and my intention to pursue civil litigation.
 
-The distinction matters. A legitimate exemption can still have serious consequences without the exemption itself being fraudulent. Here, the consequence was that the public-records route did not give me the RTCC footage or 911 material while the prosecution remained pending. Whether the underlying criminal accusation was sound was a separate question, one the records process did not resolve.
+I also told her I wanted a **pre-litigation hold** on evidence and would be filing public-records requests.
 
-The November 14 calls also showed how fragmented the City's response was before the records request was even filed. The NOPD non-emergency call center told me it was not staffed by officers when I asked about the Victim Witness Assistance Program. In my call to the City Attorney's Office, the staffer said she did not know about the City Hall incident and could not identify the security guard for me. Those recordings document confusion and limited institutional knowledge. They do not, standing alone, prove a coordinated cover-up, and I am not going to label them as one.
+When I asked whether there was a written policy, ordinance, or posted rule prohibiting a visitor from entering City Hall with cigarettes, a vape, or a lighter, she said she was not sure and directed me to the municipal code rather than inventing an answer.
 
-What the documents do establish is enough: I put the City on notice of my account within two days; I made a detailed records request five days after the incident; the City located an initial report; it withheld the requested RTCC footage and 911 calls because of the pending criminal matter identified as K-11205-25; it charged $25 for the report it was willing to release; and it closed the request on December 10.
+That response matters because an earlier version of my own argument treated the absence of an immediate answer as proof that no such rule existed. It was not proof of that. She said she did not know.
 
-The criminal case remained active.
+I asked for the identity of the guard. She said the City Attorney's Office did not have that information and suggested contacting the security company or someone working downstairs. She also emphasized that the City Attorney's Office handled civil matters and was not the office responsible for investigating a criminal assault.
 
-That mattered seven weeks later, when officers in Lafayette encountered me during an ice storm and the New Orleans warrant became executable far from the place where the underlying dispute had begun.
+I pushed back because I was talking about civil liability and the possibility of suing the City. She agreed that if I filed a civil claim against the City, that matter could come to the City Attorney's Office. She gave me an email address to which I could send my notice and told me that if I submitted a public-records request, the City would have to process it.
+
+The call is useful precisely because it is not the simple refusal that an older narrative made it into.
+
+The staffer did not admit fault. She did not say the City knew Ard had assaulted me. She did not promise payment. She said she did not know about the incident, distinguished criminal from civil responsibility, and offered a route for records and a civil notice.
+
+I also called the **Mayor's Office** that day.
+
+The staff member who answered told me that Allied Security was not itself a City department but a contractor providing security at City Hall. When I asked whether the prohibition on cigarettes, a lighter, or a vape was City policy, the employee said she could not answer without checking what Allied personnel had been instructed to enforce.
+
+That was not a legal ruling about municipal liability. It was a factual explanation from the office that the guards were contract security personnel and that the person on the phone did not know the precise screening rule.
+
+During that call I again described my version of the encounter in strong terms. I said I had been violently attacked, that my phone and camera equipment had been damaged, that police had treated me as the problem, and that I wanted criminal and civil accountability. I also complained again about my inability to obtain clear information about victim-assistance procedures.
+
+The Mayor's Office representative did not adjudicate any of those allegations. She advised me to follow up with the City Attorney's Office and to call the Mayor's Office again when more staff were available.
+
+These recordings therefore preserve both sides of the early institutional contact.
+
+They show me rapidly putting multiple offices on notice of my allegations.
+
+They also show those offices giving limited answers because the employees I reached did not themselves have the police file, the security contract details, or authority to decide a civil claim.
+
+Three days later, on **November 17**, I formalized the evidence request.
+
+The written request was addressed to the City of New Orleans Real-Time Crime Center and invoked the Louisiana Public Records Act. I identified the event as the November 12 City Hall incident and requested records for the period between **9:00 and 10:30 a.m.**
+
+I asked for six categories:
+
+RTCC footage covering the front-entrance sidewalks, public lobby, and security-screening area;
+
+all City Hall interior security-camera footage for the same period;
+
+all audio, 911 call logs, CAD entries, and dispatch traffic;
+
+incident reports, written statements, and security logs generated by City Hall security personnel;
+
+NOPD body-worn-camera footage from responding officers;
+
+and all radio communications referencing the incident.
+
+The request was assigned **25-21253**.
+
+The portal shows that it was received at 9:41 a.m. on November 17. It was initially assigned to the City Attorney and later that morning reassigned to Crime Cameras and 9-1-1. The City sent status messages on November 24 and December 5 saying it was still determining whether responsive records existed.
+
+By December 10, I had become openly hostile about the delay.
+
+A recorded call that day reached the City Attorney's Office and eventually a man who identified himself as **Tommy Milliner**. I accused the City of stalling and told him I had a lawsuit prepared. I described the categories of records I had requested and argued that the status messages were merely buying time.
+
+Milliner gave an explanation that belongs in the record even though I did not accept it.
+
+He told me that the City had received more than twenty-one thousand public-records requests that year and characterized my submission as effectively several requests bundled together. He said the office tried to fulfill requests as quickly as it could under that workload.
+
+I responded that workload was not an acceptable answer to a person claiming to be a crime victim. I accused the City of deliberate indifference, repeatedly threatened to file suit, used profanity, and imposed my own noon-the-next-day deadline.
+
+Milliner did not agree that the City was treating me differently. He told me that many of the City's public-records requests involved crime victims and said he was doing the best he could. At one point he objected that I was painting public employees with a broad brush and said that people in his office worked Sundays and unpaid days trying to deal with the volume.
+
+That exchange is important because it prevents me from writing the delay as though the City confessed to stonewalling. I believed it was stonewalling. Milliner expressly denied that and gave workload as the explanation.
+
+The portal then supplied the City's formal position.
+
+At **10:06 a.m. on December 10**, the Law Department told me that my request for RTCC footage and 911 calls concerning item **K-11205-25** could not be fulfilled because records relating to pending or reasonably anticipated criminal litigation were not subject to disclosure until the litigation was finally resolved. The City cited **Louisiana Revised Statute 44:3(1)**.
+
+The response said the initial report would instead be invoiced and that other documents would have to be obtained through criminal discovery.
+
+One minute later, at **10:07 a.m.**, the portal generated a **$25 invoice** and stated that the responsive initial report had been compiled and was available for purchase subject to redactions for identifying and private information. The request was then marked closed.
+
+That sequence is the documentary record.
+
+The City did **not** simply deny every record I requested. It withheld categories of RTCC and 911 material under the pending-criminal-litigation exemption, offered an initial report for $25, described the expected redactions, and directed me toward criminal discovery for other material.
+
+The effect still mattered enormously to me.
+
+The pending criminal matter was the simple-battery case arising from the very encounter whose evidence I was seeking. NOPD had adopted the security witnesses' account, obtained a warrant against me, and the continued existence of that prosecution was now the legal basis the City invoked to withhold video and emergency-response records through the public-records process.
+
+That created a practical loop:
+
+The criminal case depended in part on the City's investigation of the incident.
+
+I wanted the City's records to challenge that account.
+
+The City's response was that because the criminal case was pending, some of those records were not available through the Public Records Act and had to be pursued through the criminal process instead.
+
+That is a consequential result. It is not proof that anyone created the criminal charge **for the purpose** of hiding records.
+
+A legitimate statutory exemption can frustrate a defendant or journalist without becoming evidence of a conspiracy merely because it is frustrating.
+
+Later in December, there was a development the earlier version of this chapter omitted entirely.
+
+I place the call on or around **December 18, 2025**. The recording itself is preserved, but I have not yet tied it to independent call-detail metadata precise enough to fix the exact day, so I am not pretending that date is more certain than it is.
+
+The caller identified himself as **Sergeant Davis** of the New Orleans Police Department. He told me he had been assigned my complaint for investigation through NOPD's **Public Integrity Bureau**. More specifically, he said he had been assigned a misconduct investigation concerning the NOPD officer who responded to the City Hall incident.
+
+I immediately objected that the person I said assaulted me was not an NOPD officer at all. My allegation concerned the Allied Security guard. Davis clarified that his assignment concerned an allegation of misconduct against the responding NOPD officer.
+
+That distinction is important because it establishes that NOPD had not simply ignored every complaint I made. By later December, at least one formal internal misconduct investigation had been assigned within the department.
+
+It also establishes the limit of what Davis said he was doing.
+
+I pressed him repeatedly about what I regarded as the underlying felony assault. I told him I believed the guard had struck me in the back of the head with a metal flashlight, that I had been bleeding on the ground, that nobody had called 911 while I lay there, and that the guard had picked up my livestreaming phone and struck or mashed it against the ground. Those were my allegations to Davis. They were not findings he adopted during the call.
+
+I also told Davis that the City's records response made me believe officials were constructing a false narrative against me while protecting the guard. I connected the public-records withholding to the still-pending criminal case and warned that prosecuting me while refusing to pursue the guard would create a malicious-prosecution issue.
+
+Davis did not agree with that theory.
+
+He repeatedly tried to narrow the conversation back to the assignment he had actually received. He said he had been officially assigned a misconduct investigation and was attempting to send me a form letter required by policy and procedure. The first transmission had failed because the email address in the system omitted part of the `wtpnews.org` domain. We corrected the address during the call.
+
+Then I asked the question that mattered most to me: why was Internal Affairs investigating officer misconduct if no one would tell me what was happening with the underlying crime I said had been committed against me?
+
+Davis did **not** tell me that no criminal investigation existed. He said the criminal aspect was not what he had been assigned to investigate. At one point he was explicit that he was not saying it was not being investigated; he was saying that his portion was the misconduct investigation.
+
+That is a much narrower fact than the conclusion I was trying to force from him.
+
+I accused the department of investigating itself and predicted that Internal Affairs would find no misconduct. I told Davis that the order of operations made no sense to me because, in my view, the crime should be investigated before the officer's response to that crime was evaluated. I accused the Mayor's Office and City Attorney's Office of influencing what was happening.
+
+Davis denied that. He said he had been assigned by his commander, not by the Mayor's Office or City Attorney's Office.
+
+The exchange deteriorated. I interrupted him repeatedly. He told me more than once that he was simply trying to perform the investigation he had been assigned. I told him I believed the situation looked "very shady." Near the end, after another argument about whether he should be addressing the criminal side of my complaint, Davis terminated the call.
+
+The value of that recording is not that it proves the cover-up theory I was asserting. It does not.
+
+Its value is documentary.
+
+By later December 2025, NOPD's Public Integrity Bureau had assigned Sergeant Davis to investigate an allegation of misconduct involving the responding NOPD officer from the November 12 City Hall incident. Davis distinguished that internal investigation from whatever criminal investigation did or did not exist concerning the guard. He did not give me the criminal-case answer I wanted, but neither did he tell me that no criminal investigation was occurring. And the recording preserves my own increasingly accusatory response to that distinction.
+
+That makes the institutional picture more complicated than the one I was describing publicly at the time.
+
+The November and December calls document something less dramatic but more concrete: there was no single New Orleans office I could call and immediately obtain a complete institutional answer. The non-emergency call center routed me toward police districts. Public Integrity routed me to another contact. The City Attorney's staff initially had no knowledge of the incident. The Mayor's Office distinguished Allied from City personnel and could not answer the screening-policy question. The records unit processed the request under its own statutory rules. And by later December, NOPD Public Integrity had opened an internal misconduct investigation focused on the responding officer, while the criminal aspect I kept asking about remained outside Sergeant Davis's assignment.
+
+I experienced that fragmentation as institutional indifference.
+
+The recordings prove the fragmentation and my reaction to it. They do not establish that every person on those calls shared a plan to protect Ard or prosecute me.
+
+What the documents establish is enough.
+
+Within two days of the incident I had put City offices on notice of my allegation that I was the injured victim and that evidence needed to be preserved.
+
+Within five days I had submitted a detailed written request identifying the exact categories and time period I wanted.
+
+By December 10 the City had identified the active criminal case as the basis for withholding key categories of records through the public-records process.
+
+By later December, NOPD had assigned an internal misconduct investigation concerning the responding officer.
+
+And the warrant remained active.
+
+Seven weeks after the December 10 records response, during severe winter weather in Lafayette, that warrant would move the New Orleans case from paperwork back into physical custody.
 
 That is the next chapter.
 
 
 # CHAPTER 34 — THE ICE-STORM ARREST
 
-On January 24, 2026, during severe winter weather in southern Louisiana, I went to an emergency warming shelter in Lafayette.
+On **January 24, 2026**, during severe winter weather in southern Louisiana, I went to an emergency warming shelter in Lafayette.
 
 The New Orleans warrant from the November 12 City Hall case was still active.
 
-According to the factual account preserved in my later civil complaint, law enforcement action at the shelter was triggered by an NCIC hit tied to arrest warrant K-11205-25. I was taken into custody in Lafayette on that warrant.
+According to the factual account preserved in my later civil complaint, law-enforcement action at the shelter was triggered by an NCIC hit tied to arrest warrant **K-11205-25**. I was taken into custody in Lafayette on that warrant.
 
-That is the documented connection. The earlier manuscript went further and attributed the arrest to the federal BOLO network described in Chapter 28. I do not presently have a record establishing that the BOLO caused officers to locate me at the warming shelter, and I am not going to say that it did. The active New Orleans warrant is enough to explain the legal mechanism reflected in my records.
+That is the documented connection.
 
-The setting still mattered to me. I had gone to a warming shelter because of the weather. Instead of leaving when conditions improved, I left in custody on a misdemeanor warrant arising from the City Hall encounter I had been trying to challenge through records requests since November.
+An earlier manuscript went further and attributed the arrest to the federal BOLO network described in Chapter 28. I still view the federal information-sharing history as important context, but I do not presently have a record establishing that a federal BOLO caused officers to find me at the warming shelter. The active Orleans Parish warrant is enough to explain the legal mechanism reflected in the source record.
 
-The dates need to be precise here because an earlier draft collapsed the Lafayette arrest and the Orleans Parish booking into one event.
+The setting still mattered to me. I had gone to a warming shelter because of the weather. I left in custody on a misdemeanor warrant arising from the City Hall encounter I had been trying to challenge through records requests since November.
+
+The dates have to remain separated because an earlier edition collapsed the Lafayette arrest and the Orleans Parish booking into one event.
 
 They were not the same event.
 
-I was arrested in Lafayette on January 24.
+I was arrested in Lafayette on **January 24**.
 
-By January 28, I had been transferred to Orleans Parish and formally booked at 2800 Perdido Street.
+The Orleans Parish paperwork shows a separate booking sequence on **January 28**.
 
-The arrest-register information reproduced in my later complaint identifies Folder No. 2548390, Arrest No. 12485172, Item No. K1120525, and the charge as simple battery under Louisiana Revised Statute 14:35. It identifies P/O McIver, badge 00625, as the arresting officer for the Orleans booking entry and P/O Pierce, badge 02137, as the transporting officer. The register listed the arrest location as 2800 Perdido Street and showed bond as $0.00.
+The arrest register identifies Folder No. **2548390**, Arrest No. **12485172**, and Item No. **K1120525**. It lists the charge as **simple battery** under Louisiana Revised Statute 14:35. The register records the Orleans arrest/booking location as **2800 Perdido Street**, an arrest time of **7:00 p.m.**, and a booking time of **9:05 p.m.** on January 28.
 
-That last figure is important because it contradicts another version of this chapter that described a $100 cash bond and an additional detention caused by a supposed Louisiana-driver's-license requirement. I do not presently have a primary record in the assembled source set establishing that $100-bond account, and the arrest-register information I do have says $0.00. I am therefore not publishing the driver's-license episode as fact in this edition without a source that resolves the conflict.
+It identifies **P/O McIver**, badge 00625, as the arresting officer on that booking entry and **P/O Pierce**, badge 02137, as the transporting officer.
 
-On January 29, the Orleans Parish Criminal District Court Pretrial Services Program completed a Public Safety Assessment. The record reproduced in my complaint states that I received Risk Level 1, the lowest level reflected in that assessment, with a recommendation of unsupervised release. The assessment also recorded no current violent offense, no prior felony conviction, no prior violent conviction, and no failure to appear within the preceding two years.
+The same register lists the bond amount as **$0.00**.
 
-Those entries do not erase the warrant or decide the underlying battery allegation. They do show how the pretrial system classified me once I was in Orleans Parish custody: Risk Level 1, with unsupervised release recommended.
+That entry forced a correction to an older version of my account. I had previously described a $100 cash bond and an additional detention tied to a supposed Louisiana-driver's-license requirement. The primary Orleans arrest register now in the source set does not support that version. It shows zero dollars.
 
-The January arrest also completed a chain that had begun ten weeks earlier.
+Unless another primary record establishes a separate monetary condition and explains when it arose, I am not publishing the $100 story as fact.
 
-On November 12, there had been a physical confrontation at City Hall and I suffered a head injury. NOPD treated me as the aggressor and obtained the simple-battery warrant. On November 17, I asked the City for video and emergency-response records. On December 10, the City withheld RTCC footage and 911 calls under the pending-criminal-litigation provision while offering the initial report for a fee. On January 24, the still-active warrant produced an arrest in Lafayette. Four days later, I was booked in Orleans Parish.
+The Orleans packet contains another timing inconsistency that I am preserving rather than fixing by assumption.
 
-That chronology is enough. I do not need to add a theory that officials timed the arrest to exploit the weather, because I do not have evidence proving that motive. Nor do I need to call the arrest retaliatory as an established fact. The warrant existed, law enforcement encountered me, and the warrant was executed.
+The sworn November 12 warrant affidavit says officers were dispatched to City Hall at about **9:23 a.m.** My November 17 records request sought records from 9:00 to 10:30 that morning. But the January arrest register records the offense time as **9:23 p.m.**
 
-The New Orleans prosecution had not yet reached its final disposition. That would come later in the spring and belongs later in the chronology.
+The documents therefore conflict on the a.m./p.m. designation. The sworn narrative and my contemporaneous request point to the morning; the later arrest register prints the evening. The manuscript will show the conflict instead of silently normalizing it.
 
-For the moment, January ended with me back in the criminal process over the November City Hall encounter.
+The underlying warrant itself is straightforward.
 
-The next major development came in Mississippi on February 24, 2026, when the Mississippi Court of Appeals ruled in the separate misdemeanor-appeal litigation that had been running in parallel for years.
+Judge Juana Marine Lombard signed the arrest warrant on November 12 at 3:34 p.m. after Grady's affidavit accused me of one count of misdemeanor simple battery. The warrant commanded peace officers to apprehend and book me and to keep me in custody until released according to law.
+
+By January 28, that paper had become an Orleans Parish booking record.
+
+On **January 29**, the Criminal District Court's Court Intervention Services, Pretrial Services Program prepared a **Public Safety Assessment**.
+
+For purposes of pretrial risk, the assessment classified me at **Risk Level 1** and identified the eligible supervision type as **Unsupervised Release**. It scored “New Criminal Activity” at 2 out of 6 and “Failure to Appear” at 2 out of 6. It marked “New Violent Criminal Activity” as no.
+
+The underlying risk-factor table recorded no current violent offense, no prior violent conviction, and no failure to appear in the preceding two years.
+
+Those entries are relevant because they show how the Orleans pretrial system evaluated me at that moment.
+
+They are **not** a reliable substitute for the full criminal history developed elsewhere in this book.
+
+In fact, the assessment itself contains information that does not match the broader documentary record. It marks **“Prior Felony Conviction: No.”** By January 2026, however, the September 30, 2022 Mississippi aggravated-stalking conviction existed. The assessment's criminal-history page lists only a **2014 Georgia DUI misdemeanor**, with one day of confinement and probation, and includes a note stating: **“Defendant has arrest in Lafayette with unknown disposition.”**
+
+That means the assessment appears incomplete as a comprehensive criminal-history source.
+
+I therefore use it for what it actually proves: Orleans Parish Pretrial Services assessed me as Risk Level 1 and recommended unsupervised release based on the information present in its system. I do not use its “no prior felony” box to rewrite the Mississippi record.
+
+That is exactly the kind of source conflict this book needs to preserve.
+
+One agency record can be authentic and still be incomplete.
+
+The January arrest completed a documentary chain that had begun more than two months earlier.
+
+On **November 12**, there was a physical confrontation at New Orleans City Hall. Officers arrived to find me bleeding from the back of the head. Allied security personnel told police that I had initiated contact and that Ard pushed me away. I maintained that Ard had struck me with a flashlight. The RTCC camera did not capture the physical altercation. Paz nevertheless concluded that I was the aggressor, and Grady obtained the warrant that afternoon.
+
+On **November 14**, I began calling New Orleans offices about victim assistance, evidence preservation, and civil liability.
+
+On **November 17**, I formally requested surveillance, 911, dispatch, body-camera, security, and incident records.
+
+On **December 10**, the City invoked the pending-criminal-litigation provision to withhold categories of RTCC and 911 material through the public-records process while offering an initial report for a fee.
+
+On **January 24**, the still-active warrant resulted in my arrest in Lafayette.
+
+On **January 28**, I was booked in Orleans Parish.
+
+On **January 29**, Pretrial Services classified me at Risk Level 1 and identified unsupervised release as the supervision type if eligible.
+
+That is the sequence the records support.
+
+I do not need to add a theory that officials timed the arrest to exploit the weather, because I do not have evidence proving that motive. Nor do I need to call execution of the warrant retaliatory as an established fact. The warrant existed, law enforcement encountered me, and the warrant was executed.
+
+The prosecution itself had not yet reached its final disposition. That would come later in the spring and belongs later in the chronology.
+
+For the moment, January ended with me back inside a criminal process over a confrontation in which I had initially regarded myself as the victim.
+
+The next major development came in Mississippi on **February 24, 2026**, when the Mississippi Court of Appeals ruled in the separate misdemeanor-appeal litigation that had been running in parallel for years.
 
 
 # CHAPTER 35 — REARDON V. STATE: REVERSED AND REMANDED
 
-On February 24, 2026, the Mississippi Court of Appeals reversed the dismissal of my appeal from the Lafayette County Justice Court convictions and remanded the matter to the Lafayette County Circuit Court.
+On **February 24, 2026**, the Mississippi Court of Appeals reversed the Lafayette County Circuit Court's dismissal of my appeal from four Justice Court convictions and remanded the case for further proceedings.
 
-The appellate case ultimately carried number 2024-KM-00839-COA. During the record-assembly stage, the clerk's notices identified it as 2024-TS-00839 and tied it to Lafayette County Circuit Court Cause No. 36CI1:21-cv-00494-JKL, also reflected in the lower-court papers as L21-494.
+The appellate case ultimately carried number **2024-KM-00839-COA**. During the record-assembly stage, clerk documents also used the classification 2024-TS-00839. The lower-court case was **36CI1:21-cv-00494-JKL**, commonly reflected in the papers as **L21-494**.
 
-The distinction between what the Court of Appeals did and did not do is important.
+The distinction between what the Court of Appeals did and did not do is essential.
 
-The court did not acquit me of the underlying misdemeanor charges. It did not conduct a new trial. It did not erase the Justice Court judgments on the merits. It reversed the Circuit Court's dismissal of my appeal and sent the case back so the appeal could proceed in the lower court.
+It did **not** acquit me of DUI, improper equipment, disorderly conduct, or resisting arrest.
 
-That procedural victory mattered because the Circuit Court had dismissed the appeal on the theory that I failed to perfect it by timely filing the required bonds or an affidavit of poverty.
+It did **not** hold that Deputy Kandace Beavers, Deputy Jacob Williford, Deputy Courtney Dixon, Deputy Ethan Tidwell, or Sheriff Joey East committed perjury.
 
-The record I had placed before the Court of Appeals contained a December 2021 Justice Court order addressing indigency and appeal security. My appellate brief argued that the Justice Court had expressly found me indigent and allowed an appeal without a supersedeas bond, while the Circuit Court later treated missing bond-related filings as jurisdictionally fatal. I also argued that I had attempted to place a formal notice of appeal in the Circuit Court record and had been prevented from doing so without paying a filing fee.
+It did **not** conduct the de novo trial I had originally sought.
 
-The appellate court's ultimate disposition was reversal and remand. The project evidence ledger records two sentences from the opinion that capture the result more accurately than any broader claim of vindication: the court stated that "the errors in this case were not of Reardon's making" and directed that I "should be appointed counsel before the circuit court on remand, should he still qualify as being indigent."
+It reversed the Circuit Court's procedural dismissal of my appeal and sent the case back.
 
-Those are narrow statements, but they are consequential ones.
+That result makes more sense when the four-year procedural history is laid out instead of reduced to the word “reversal.”
 
-The record also documents that the appeal itself encountered administrative problems before the merits were reached. On July 24, 2024, the appellate clerk acknowledged receipt of documents electronically transferred from the Lafayette County trial court. On October 2, 2024, the Clerk of Appellate Courts sent Circuit Clerk Jeff Busby a Record Delinquency Notification stating that the time for assembly of the record had expired and directing him to file the certificate of compliance and notice of completion or advise the appellate court why the record was not ready.
+The Justice Court judgments were entered on **November 24, 2021**.
 
-Nineteen days later, on October 21, the appellate clerk issued Busby a Show Cause Notice. It stated that the record deficiency remained outstanding and directed him to show cause why sanctions should not be imposed for failure to comply with the appellate rules unless the default was cured within fourteen days.
+Within days, the Justice Court entered an order addressing my ability to appeal. The order allowed attorney Mitchell Driskell to withdraw, found me **indigent**, stated that by reason of poverty I could not furnish the security normally required for an appeal, allowed execution of the judgments to be stayed **without a supersedeas bond**, and granted an additional ten days beyond the existing appeal deadline in which to file an appeal.
 
-Those notices are not allegations from me. They are appellate-clerk documents directed to the Circuit Clerk while my appeal was pending.
+That order became central years later because the Circuit Court ultimately dismissed the appeal on the ground that I had not timely supplied appeal security or a proper affidavit of poverty.
 
-That documentary sequence is also more probative than a theory the earlier manuscript tried to build around a March 2024 Busby letter and a later federal affidavit. The existence of a letter discussing appeal status does not, by itself, prove that Busby transmitted that letter or its contents to Galveston prosecutors. And the February 2026 reversal does not, by itself, prove that any statement Busby later made in federal court was knowingly false. Those are separate evidentiary questions. Unless the transmission record and the exact affidavit language establish the contradiction, this book will not manufacture one.
+On **December 3, 2021**, nine days after the judgments, I filed pro se in Circuit Court a document styled as a motion to alter or amend the judgment under Mississippi Rule of Civil Procedure 59(e), or alternatively to vacate under Rule 60. The pleading was poorly styled for a criminal appeal. I was using civil rules to attack Justice Court criminal judgments.
 
-What the appellate record does establish is enough.
+But the filing also contained language that cannot be ignored. In its concluding section I asked the court to take judicial notice of the filing as my **notice of intent to appeal** the judgments. I also completed a civil cover sheet identifying the nature of the action as an appeal from Justice Court. The Circuit Clerk docketed the matter as civil cause 21-cv-494.
 
-My misdemeanor appeal had not disappeared. It had reached the Mississippi appellate courts. The appellate clerk had to press Lafayette County for the record. The Circuit Clerk received a delinquency notice and then a show-cause notice. And on February 24, 2026, the Court of Appeals reversed the dismissal and returned the matter to Circuit Court with a direction concerning appointed counsel if I remained indigent.
+That is why the later appellate dispute was not simply whether I used the right form. It was whether the filings and orders already in the record were enough to invoke appellate review despite procedural defects.
 
-That result also requires a correction to another claim that appeared in earlier drafts of this book. The January 2025 post-conviction order discussed in Chapters 25 and 26 did not wipe away the underlying 2022 aggravated-stalking conviction or every legal consequence attached to it. It corrected the revocation sentence and resulted in my release. The February 2026 Court of Appeals decision likewise did not erase the Justice Court misdemeanor convictions outright. It restored the appeal process that the Circuit Court had terminated.
+The Justice Court later denied the civil-rule motion, noting that the Mississippi Rules of Civil Procedure govern civil matters rather than criminal proceedings.
 
-The difference between reversal of a dismissal and reversal of a conviction is not semantic. In a book intended to function as a legal record, it is the difference between telling readers what a court actually held and telling them what I wish it had held.
+I did not treat that denial as the end of the appeal effort.
 
-So the February 24 decision belongs here as a real victory, but a precisely defined one: the Mississippi Court of Appeals held that the Circuit Court's dismissal could not stand and sent the case back.
+On **December 27, 2021**, I filed in Justice Court a separate document titled **Formal Notice of Defendant's Intent to Appeal De Novo**. The notice identified the Justice Court cause numbers, stated that I intended to appeal the guilty verdicts to the Lafayette County Circuit Court, and requested a jury trial.
 
-The remand meant the Lafayette County litigation was still alive.
+That document matters because the later Court of Appeals opinion treated it as satisfying the content requirements of a notice of appeal.
 
-By spring, another Mississippi dispute was beginning in Union County. And one day after the first Union County confrontation in April, the New Orleans simple-battery case from Chapters 32 through 34 would reach its own prosecutorial disposition.
+There is a second part of December 27 that requires more careful sourcing.
 
-Both developments belong next, in the order they happened.
+In a January 7, 2022 filing, I swore that I had attempted to take the same formal notice to the Circuit Clerk's office and was told that my in-forma-pauperis status was being revoked for other matters and that I would have to pay approximately **$150** to file it. I attached the Justice Court indigency order and the stamped formal notice as support.
+
+That account is documented as something I asserted contemporaneously in a filed pleading. I do not presently have an audio recording, clerk affidavit, receipt, rejection slip, or independent witness statement proving exactly what was said at the Circuit Clerk's counter that day. This edition therefore does not turn my January 7 allegation into an independently established act by Jeff Busby personally.
+
+The paper trail nonetheless shows that I kept pressing the appeal.
+
+On **January 7, 2022**, I filed a Motion to Schedule Hearing for De Novo Appeal and an Affidavit of Poverty. The motion expressly pointed back to the notice language in my December 3 filing and described the December 27 attempt to place the formal notice into the Circuit Court file.
+
+My January filing was not restrained legal prose. I mixed the appeal issue with accusations that Lafayette County officials had lied at trial and with my claim that the December civil commitment was part of retaliation. That is visible in the document itself. It also illustrates why the appellate issue could become obscured: a relatively straightforward question about whether I had invoked de novo review was surrounded by much broader allegations.
+
+The State eventually answered.
+
+On **April 12, 2022**, Lafayette County Attorney **Bela J. Chain III** filed a Response to Notice of Hearing. His position was that I had not complied with Mississippi Rule of Criminal Procedure 29.1 and therefore had not perfected an appeal to Circuit Court. He emphasized that my December 3 filing invoked the wrong procedural rules and was styled as a Justice Court motion rather than a conventional criminal notice of appeal.
+
+The State's filing did acknowledge one potentially important rule point: pending post-trial motions can affect appellate timing under the applicable procedural framework. But Chain maintained that I still had not done what Rule 29.1 required.
+
+A hearing was held on the pending matters that month.
+
+On **April 14**, Circuit Court entered an order appointing **Mitchell Driskell** to represent me in the misdemeanor appeal. That appointment is significant for a simple reason: the court was appointing a lawyer to represent me in an appeal that the State was simultaneously arguing had never been properly perfected.
+
+Four days later, on **April 18**, Driskell filed a **Corrected Notice of Appeal and Demand for Jury Trial**.
+
+The corrected notice openly addressed the defects raised against my pro se filings. It stated that the December 3 pleading had been intended to serve as a notice of appeal; that I later attempted to file a pleading expressly styled as a notice; and that no written Rule 29.1(c) deficiency notice had been served on me. It then supplied the information Rule 29.1(b) calls for: the appealing party, address, judgments being appealed, identification of the Circuit Court, and an express statement that the appeal was taken de novo.
+
+Driskell also relied on the prior indigency findings. The corrected notice asserted that both Justice Court and Circuit Court had found me entitled to proceed in forma pauperis and therefore argued that cost-bond and appearance-bond requirements did not bar the appeal.
+
+That filing did not instantly resolve anything.
+
+On **May 20, 2022**, Chain responded again. He made two principal arguments.
+
+First, the December 28, 2020 disorderly-conduct/resisting case and the February 21, 2021 DUI/equipment case arose from different events and, in the State's view, should not have been combined into one Circuit Court filing.
+
+Second, he argued that the November 24 judgments had not been appealed and perfected within the thirty days contemplated by Rule 29.1.
+
+The State also disputed my jury demand. Its response argued that because none of the individual charges carried a maximum sentence greater than six months, Mississippi Rule of Criminal Procedure 29.5 permitted the de novo appeal to be tried without a jury.
+
+Those questions then sat.
+
+The appeal did not proceed to a de novo trial in 2022.
+
+It did not proceed to one in 2023.
+
+And it was still unresolved in 2024.
+
+That passage of time later became visible in a motion filed by my own appointed attorney.
+
+On **June 11, 2024**, Driskell filed a Motion to Reinstate Case after the Circuit Court had issued a May 31 motion to dismiss for lack of prosecution. His filing reconstructed what had happened since 2022.
+
+Driskell stated that the matter was a misdemeanor criminal appeal initiated by my pro se December 3 filing; that a hearing had been held April 12, 2022; that he had been appointed April 14; and that he had filed the corrected notice April 18. He wrote that the initial motion, the State's responses, and the corrected notice issues remained pending before the court.
+
+He also wrote that the court file did not contain record evidence of a later hearing resolving the corrected appeal, although he had a recollection that one might have occurred and expressly acknowledged his recollection could be mistaken because of the number of matters in which he had represented me.
+
+Most importantly, his motion explained why there had been no record activity: the pleadings were **ripe for ruling by the court**.
+
+That is different from a litigant simply abandoning a case.
+
+Driskell told the court the unresolved questions were whether my original pro se filing perfected an appeal; if not, whether the corrected notice did; and, if an appeal existed, whether I was entitled to a jury trial.
+
+The Circuit Court reached the first two questions later that month.
+
+On **June 28, 2024**, Judge John Kelly Luther dismissed the appeal for lack of jurisdiction.
+
+His written order recognized that the December 3 filing had been submitted within thirty days of the Justice Court judgments. But he held that the filing was not a proper notice of appeal because it had been filed civilly, relied on the Mississippi Rules of Civil Procedure, sought relief inconsistent with the criminal appellate process, and did not satisfy the content requirements of Rule 29.1(b).
+
+Luther then considered the later corrected filing. He treated it as potentially curing content defects but not the separate requirements involving appeal security.
+
+That became the decisive point in his order.
+
+The judge wrote that what troubled the court was my failure to timely submit either a proper affidavit of poverty or the required cost and appearance bonds. He relied on Mississippi Supreme Court precedent holding that failure to timely furnish required appeal bonds could deprive the Circuit Court of jurisdiction and could not simply be cured after the deadline.
+
+My January 7 Affidavit of Poverty, Luther concluded, was outside the thirty-day period.
+
+On that reasoning, he dismissed L21-494.
+
+The order is important because it did **not** find that I had never expressed an intent to appeal. It found that the procedural steps required to perfect the appeal had not been timely completed in the manner the Circuit Court believed jurisdictionally necessary.
+
+That distinction became the subject of the next appeal.
+
+I sought review in the Mississippi appellate courts. The case became 2024-KM-00839-COA.
+
+Before the Court of Appeals could decide the legal question, the record itself had to be assembled and transmitted from Lafayette County.
+
+That process produced another documentary trail.
+
+On **July 24, 2024**, the appellate clerk acknowledged receipt of material electronically transferred from the Lafayette County trial court.
+
+On **October 2**, the Clerk of Appellate Courts sent Circuit Clerk **Jeff Busby** a **Record Delinquency Notification**. The notice said the time for assembly of the record had expired and directed the Circuit Clerk to file the certificate of compliance and notice of completion or explain why the record was not ready.
+
+The problem remained unresolved nineteen days later.
+
+On **October 21**, the appellate clerk issued Busby a **Show Cause Notice**. It stated that the record deficiency remained outstanding and directed him to show cause why sanctions should not be imposed for noncompliance unless the default was cured within fourteen days.
+
+Those are not my accusations. They are notices generated by the appellate clerk during the processing of my appeal.
+
+They also need to be kept separate from a different dispute over a March 2024 letter associated with Busby. The fact that the appellate clerk later sent delinquency and show-cause notices does not prove that Busby intentionally falsified information to Texas, and the later *Reardon v. Osteen* record indicates that Assistant District Attorney **Steven Jubera**, not Busby, personally transmitted the March 2024 letter relied upon there. This edition does not merge those issues.
+
+The appellate process eventually reached a decision.
+
+On **February 24, 2026**, the Mississippi Court of Appeals reversed Luther's dismissal and remanded.
+
+The opinion's reasoning is especially significant because it did not pretend my pro se filings were models of procedure. They were not.
+
+The appellate record recognized the December 3 filing, the Justice Court's indigency and appeal-security order, the later formal notice, the appointment and withdrawal history involving Driskell, the corrected notice, and the prolonged procedural handling in Circuit Court.
+
+The Court of Appeals concluded that the dismissal could not stand. The project evidence record preserves two points from the opinion that define the holding better than my earlier rhetoric did.
+
+First, the court stated that **“the errors in this case were not of Reardon's making.”**
+
+Second, it directed that I **“should be appointed counsel before the circuit court on remand, should he still qualify as being indigent.”**
+
+The opinion also treated my December formal notice as satisfying the content requirements for a notice of appeal.
+
+Those conclusions mattered because for years the procedural history had been described as though I simply failed to appeal on time and then tried to resurrect the convictions afterward.
+
+The actual record was more complicated.
+
+I had announced an intent to appeal nine days after judgment.
+
+The Justice Court had entered an order finding me indigent, staying execution without a supersedeas bond, and giving additional time.
+
+I had filed a formal notice in Justice Court.
+
+I had continued filing motions to schedule the de novo appeal.
+
+Circuit Court appointed counsel to represent me in that appeal.
+
+Counsel filed a corrected notice designed specifically to cure the defects the State identified.
+
+The matter then remained unresolved for more than two years before the Circuit Court dismissed it.
+
+The Court of Appeals held that dismissal could not stand.
+
+That is a meaningful appellate victory.
+
+It is not the victory earlier versions of this manuscript claimed.
+
+I repeatedly wrote that the February 2026 opinion proved the underlying DUI conviction was “never final,” destroyed every predicate used in Texas, and established that officials had fabricated the legal status of the conviction. Those statements combined several distinct legal questions and treated the appellate decision as resolving more than it did.
+
+The Court of Appeals was deciding whether the Circuit Court properly dismissed my Justice Court appeal. It did not adjudicate Officer Osteen's conduct in Galveston. It did not determine what any Mississippi or Texas official subjectively knew when communicating about my prior record. It did not itself dismiss the four misdemeanor convictions.
+
+The separate MacArthur filing discussed the finality of the Lafayette DUI for **Texas enhancement purposes** and cited Texas law on when an appealed conviction becomes final. That was part of a different legal argument concerning the felony DWI enhancement and the second Mississippi revocation. It should not be silently transformed into the holding of *Reardon v. State*.
+
+Likewise, reversal of a dismissal is not reversal of a conviction.
+
+The four Justice Court judgments remained the judgments being appealed. The effect of the February 24 opinion was to reopen the path by which they could be reviewed in Circuit Court.
+
+That precision does not diminish what happened.
+
+For more than four years I had maintained that I tried to appeal the November 2021 convictions and that procedural handling, not abandonment, prevented the de novo case from being heard. The appellate court rejected the Circuit Court's dismissal and returned the matter for exactly the proceedings the dismissal had cut off.
+
+The phrase “the errors in this case were not of Reardon's making” is powerful precisely because it is narrow. I do not need to inflate it.
+
+The decision also changed how the chronology of the Galveston story must be understood, but only cautiously.
+
+When Texas charged felony DWI in 2023, one of the predicate convictions being discussed was the Lafayette DUI. By July 2024, when Mississippi held the second revocation hearing, the status of that appeal was itself disputed, and the Circuit Court had just dismissed L21-494 weeks earlier. MacArthur later argued that Texas could not use an appealed conviction as a final enhancement predicate in the manner the State had attempted.
+
+The February 2026 Court of Appeals opinion restored the Mississippi appeal. That development supports the proposition that the appellate process had not simply vanished because I failed to pursue it. It does not retroactively decide every Texas enhancement issue or convert every contrary statement by an official into a knowing lie.
+
+That is the line this edition keeps.
+
+By February 24, 2026, then, the procedural record was no longer ambiguous about one central point: the Circuit Court dismissal was reversed, and my Justice Court appeal was alive again.
+
+The case returned to Lafayette County with a direction concerning appointed counsel if I remained indigent.
+
+That left the underlying misdemeanors for further proceedings rather than erasing them.
+
+And it left me with another open Mississippi case while the federal Louisiana conviction was moving toward sentencing and a separate series of events was beginning in Union County.
+
+The legal map had become crowded, but the chronology was now clearer than it had been for years.
+
+One court had corrected the excessive second-revocation sentence in January 2025 without vacating the underlying aggravated-stalking conviction.
+
+Another appellate court had reversed the dismissal of the Justice Court appeal in February 2026 without reversing those misdemeanor convictions.
+
+And the federal court in Louisiana had entered its own guilty judgment in January 2026, still subject to the federal review process.
+
+Three different proceedings. Three different procedural effects.
+
+Earlier drafts repeatedly collapsed those distinctions into the word **vindication**.
+
+This edition does not.
 
 
 # CHAPTER 36 — THE UNION COUNTY THREAD
@@ -2479,61 +3707,275 @@ That August 7 sentencing is the next chapter.
 
 # CHAPTER 38 — SENTENCING
 
-On Friday, August 7, 2026, I appeared by video for sentencing in United States v. Reardon, the federal misdemeanor case arising from my August 25, 2025 arrest at the John M. Shaw United States Courthouse in Lafayette, Louisiana.
+On **Friday, August 7, 2026**, I appeared by video for sentencing in *United States v. Reardon*, the federal misdemeanor case arising from my August 25, 2025 arrest at the John M. Shaw United States Courthouse in Lafayette, Louisiana.
 
-The court stated on the record that Judge Thomas P. LeBlanc was physically in chambers in Lake Charles, Louisiana. I was at Our Daily Bread in Galveston, Texas, which the court described as a missionary organization. Counsel participated by video as well. The video appearance had been requested by my attorney because my circumstances made a physical appearance an extreme hardship, and the court confirmed my consent before proceeding. I consented.
+The hearing was public enough that I livestreamed the lead-up to it.
 
-The government did not ask the court to send me back to jail. It acknowledged the thirty-day maximum term of imprisonment and argued instead for unsupervised probation. The prosecutor told the court that a Class C misdemeanor could support as much as five years of probation and recommended at least three years, with conditions directed at conduct in federal courthouses.
+The surviving video begins before I reached the room where I would join the court. I told viewers I was trying to get the hearing link because I had wanted to post it publicly. I was heading to the place that had agreed to host the video connection and was worried about being late for an 11:00 a.m. sentencing.
 
-I asked for a finite sentence instead. In my allocution I said I had already served about thirteen days and asked for time served—or, if the alternative was a long probationary term restricting courthouse access, the remaining portion of the thirty-day maximum instead.
+That place was **Our Daily Bread in Galveston, Texas**.
 
-I also used the allocution to put my view of the case into the public record. I discussed the June 2025 Marshals Service emails, the FOIA production that arrived three days before my arrest, the District Alert Notices and BOLO material, Judge Carol B. Whitehurst's later recusal, the protective-order litigation, my arrest, and my objections to the missing surveillance evidence.
+The transcript captures the practical awkwardness of appearing for federal sentencing from another state. I arrived with only minutes to spare, tried to get situated, and told the people helping me that I had an allocution prepared in large print. Once the connection was live, my attorney, **Dustin Talbot**, asked whether I had the statement printed or ready. I did not have the large-print copy physically in front of me and said I could pull it up on my phone.
 
-Some of what I said in that allocution needs to be corrected here against the documentary record.
+The written version now in the archive is twenty-nine large-print pages. Its first page contains delivery notes to myself: stand still, face the judge, do not pace, speak slowly, breathe between paragraphs, and aim for roughly nineteen to twenty minutes.
 
-First, I told the court that Deputy U.S. Marshal Hayden Nugent instructed me to move my equipment, that I complied, and that I was arrested while complying. That was my account at sentencing. The January 16 written findings after trial say otherwise. Judge LeBlanc found that Nugent directed me to move the tripod and camera to the far side of the barricades, that I responded that I was fine where I was, that Nugent warned I would be arrested, gave a three-second countdown, and arrested me after I did not comply. This book follows the court's written finding when describing what the court determined happened, while preserving my contrary account as exactly that—my account.
+The livestream shows that the statement was not merely a draft that never reached the court. At approximately **27:50** into the recording, I began delivering it, closely tracking the prepared text.
 
-Second, I described the government's October 15, 2025 protective-order motion as an effort to conceal communications between the Marshals Service and federal judges. That characterization was too broad. The actual motion sought to restrict dissemination of discovery material containing sensitive courthouse-security information, including communications between the Marshals Service and federal judges and between security officers at other courthouses and the Marshals Service. The motion is important because it expressly confirms that such communications were among the discovery materials. It does not, by itself, prove that the government was trying to hide misconduct or that those communications caused Judge Whitehurst's recusal.
+Before that happened, the court established the remote-hearing record.
 
-Third, I told the court that Nugent had slammed me to the ground and destroyed my camera, gimbal, and tripod. That was an allegation in my allocution, not a finding in the judgment. The equipment later existed as trial exhibits. My position is that the equipment was damaged and did not function afterward as it had before. I cannot accurately call it physically destroyed when the same equipment survived to be introduced at trial.
+Talbot confirmed that I was physically at Our Daily Bread in Galveston. The court stated that the attorneys were also participating by video and that **U.S. Magistrate Judge Thomas P. LeBlanc** was physically in chambers in **Lake Charles, Louisiana**.
 
-I also described what I said happened in the holding area, including physical pressure to my chest and a threat of a felony assault charge after I moved Nugent's arm away. I described paramedics recording a heart rate between 140 and 160 beats per minute and my later transfer to St. Martin Parish Jail. Those remain allegations from my own sentencing statement unless and until matched to independent medical, jail, or video records. They should not be read as findings made by the sentencing court.
+The video appearance had been requested because my circumstances made a physical trip to Louisiana an extreme hardship. LeBlanc explained that sentencing could proceed remotely only with my consent. I was placed under oath, and when asked whether I consented to proceed by video, I said yes.
 
-The same discipline applies to the sealed trial material. During allocution I referred publicly to the government's failure to preserve surveillance footage and to what I believed that missing footage would have shown. This book does not reproduce sealed testimony or purport to reveal material still subject to a sealing or protective order. Where the preservation issue is discussed, it is limited to what can be supported from public filings, public proceedings, and my own publicly delivered argument.
+The court then summarized the case. I had been charged by one-count Bill of Information under the federal-property disturbance regulation and, after a bench trial, found guilty. The operative conviction was the subsection (b) obstruction offense described in Chapters 30 and 31.
 
-The judge then imposed sentence.
+The government spoke before I did.
 
-At first, the court said it was sentencing me to the time I had already served and also imposing two years of unsupervised probation. The standard conditions included that I commit no new federal, state, or local crime; not unlawfully possess a controlled substance; and not possess firearms, ammunition, destructive devices, or dangerous weapons. The court suspended drug testing because it did not have information suggesting a significant drug-abuse risk.
+Its position was more measured than the version I sometimes gave when describing the case afterward.
 
-The special courthouse condition was stated this way in substance: I could not be physically present at the John M. Shaw Federal Courthouse in Lafayette, or at any other federal courthouse within Louisiana, or on adjacent federally owned or leased grounds, unless I had legitimate business with an occupant of the courthouse. If I did, I was required to notify the U.S. Marshals Service in that locality at least two business days in advance.
+The prosecutor acknowledged my military service and acknowledged that I believed I was asserting a legitimate First Amendment right. He said, in substance, that he was not angry at me for holding that belief; he disagreed with me on the law.
 
-The court expressly said the sentence was not intended to suppress my First Amendment activity. Judge LeBlanc said the sentence addressed the conduct for which I had been convicted on federal courthouse property.
+The government did **not** ask LeBlanc to send me back to jail.
 
-A later clarification during the same hearing changed an important part of how the sentence had first sounded. After a breakout discussion, Judge LeBlanc stated that the sentence was not "time served and a period of probation" as two separate punishments. Instead, I was being placed on two years of unsupervised probation. The time I had already spent in custody would be credited if the probation were later revoked and I were resentenced on the original offense.
+The prosecutor recognized that the maximum imprisonment for the Class C misdemeanor was thirty days and said he did not believe an additional prison sentence was necessary. Instead, he recommended unsupervised probation. He told the court that a Class C misdemeanor could support as much as five years of probation and argued for **at least three years**, with conditions directed at my conduct around federal courthouses.
 
-I pressed the court on what that would mean in practice. I asked directly whether I could ever be held longer than thirty days on the original offense. The court declined to answer the hypothetical and directed me to counsel. The prosecutor responded that possible future circumstances could create new charges and made a categorical answer impossible. The transcript therefore does not contain a judicial ruling resolving every future revocation scenario. It contains the court's clarification that I was on probation, that prior custody would be credited if revocation led to resentencing, and that resentencing would occur under the original offense's sentencing provisions.
+That was the recommendation I stood up—or, in this case, sat before a camera—to answer.
 
-No fine was imposed. The court also waived the special assessment after finding that the information before it did not show I was financially able to pay a fine or assessment.
+My prepared allocution opened by identifying who I believed I was in that proceeding:
 
-My attorney, Dustin Talbot, preserved an objection to the special courthouse condition. He argued that the requirement that I have "legitimate business" was vague. The government responded that I could do what similarly situated members of the public could do, subject to courthouse rules and regulations. Judge LeBlanc overruled the objection and found the phrase sufficiently clear.
+**“My name is Matthew Oliver Reardon. I am a United States Marine Corps veteran. I am an independent journalist. I am the founder and publisher of We The People News.”**
 
-I continue to disagree with that ruling. But the manuscript needs to distinguish the objection from an adjudicated result. The condition's Louisiana scope and its reference to adjacent federal grounds are stated in the transcript. Whether the condition is unconstitutionally vague or overbroad is an appellate legal argument, not a fact already decided in my favor.
+I then acknowledged the posture plainly. I was before the court convicted of a petty offense carrying a maximum statutory sentence of thirty days. I said I was not asking LeBlanc at sentencing to overturn the verdict. I wanted to explain why I had been on the courthouse steps, what federal personnel had done before August 25, and why I believed probation with courthouse restrictions would be unjust.
 
-The court then advised me that I could appeal the conviction and sentence to a United States district judge within fourteen days after entry of judgment. Because this petty-offense case was tried and sentenced by a magistrate judge, the first appellate step was to a district judge under Federal Rule of Criminal Procedure 58(g)(2), not directly to the Fifth Circuit.
+The speech then moved backward two months.
 
-That point matters because some earlier drafts described a direct Fifth Circuit appeal. They were wrong.
+I described the **June 24, 2025** U.S. Marshals Service email concerning me. I quoted the language instructing recipients to report **“any suspicious behavior no matter how small”** and emphasized that the email was distributed after the June 23 courthouse encounter, when no criminal charge had been filed against me.
 
-The sentencing hearing also put my larger concern on the record. I had already lived through probation and geographic restrictions in Mississippi, and I did not want another condition capable of becoming the basis for future incarceration. But I need to state that concern with the same precision applied elsewhere in this book. An arrest by itself does not automatically establish a federal probation violation. The government would still have to invoke the revocation process, and the court would still have to determine whether a violation occurred.
+I discussed the June 27 FOIA request and the Marshals Service response I received on **August 22**, three days before my arrest. I described the District Alert Notice, photographs, identifying information, and the inter-district communications discussed in Chapter 28.
 
-Nor can I fairly collapse every prior criminal case into the same category. The Galveston DWI charge was dismissed after the blood testing showed no alcohol and the case proceeded through substantial pretrial litigation; the Mississippi misdemeanor appeal was later restored by the Court of Appeals after the Circuit Court had dismissed it; and the New Orleans matter was later recorded in my case materials as refused by the prosecutor under the notation "LAW ENFORCEMENT ISSUE." Those are different procedural outcomes with different meanings.
+At sentencing I used stronger words than the evidentiary record permits this book to use as settled fact.
 
-I have not retained the earlier chapter's account of a later private call with Talbot because I have not located the underlying recording or transcript in the evidence set supporting this edition. That conversation may ultimately be recoverable and useful. Until it is, the public sentencing transcript and filed docket are the record this chapter can safely stand on.
+I told the court the government had **“surveilled me for protected activity,”** had **“prejudiced the judges of this Court against me,”** and had undertaken a **“campaign.”** Those were my conclusions and my advocacy at sentencing.
 
-The August 7 hearing ended with two years of unsupervised probation, the Louisiana federal-courthouse access condition, no fine, no special assessment, and an express right to seek review by a district judge.
+The FOIA records prove circulation of information, alert material, identifying data, photographs, and communications among federal security personnel. They do not, standing alone, prove that every recipient surveilled me, that every judge became prejudiced, or that an unlawful coordinated campaign existed.
 
-Three days later, in the separate Texas civil case, Judge Jeffrey Brown entered the order and final judgment discussed in the previous chapter.
+The distinction is not an effort to soften what I said. It is the reason the full allocution belongs in the evidentiary history while the narrator of this edition has to use more disciplined language.
 
-The legal fights were narrowing. The financial consequences were not.
+I then described the August 25 protest.
+
+I told LeBlanc that I had stood outside with a sign containing the words **“Fuck the U.S. Marshals Service.”** I invoked *Cohen v. California* and its famous recognition that the government cannot simply criminalize an offensive four-letter political message because listeners dislike the word.
+
+That part of the allocution was directed at speech.
+
+The conviction, however, was not for the wording on the sign.
+
+As the January written judgment makes clear, the conviction rested on what LeBlanc found I did with signs, my body, and a tripod at the courthouse entrance.
+
+That became the first major contradiction between my sentencing account and the trial court's findings.
+
+In the allocution, I told LeBlanc that Deputy Marshal **Hayden Nugent** told me he would seize my equipment if I did not move it, that I picked it up, began stepping backward away from the door, and was arrested **while complying**.
+
+The January 16 Reasons for Judgment say otherwise.
+
+LeBlanc found that Nugent directed me to move the tripod and camera to the far side of the metal barricades; that I said I was fine where I was; that Nugent warned me I would be arrested; that he gave a three-second countdown; and that I did not move the equipment as ordered before the arrest.
+
+Both records now exist.
+
+The allocution proves the account I put before the judge at sentencing.
+
+The written judgment proves what the trial judge had already found from the evidence.
+
+This book cannot collapse the two into a single version merely because I prefer mine.
+
+I made additional allegations about the arrest that day.
+
+I told the court Nugent slammed me to the ground and damaged my 4K camera, new gimbal, and tripod. I alleged that in the holding area he pressed his knuckles into my chest while I was having difficulty breathing and threatened me with a felony assault-on-a-federal-officer charge after I moved his arm away. I said my heart rate was between 140 and 160 beats per minute by the time paramedics were involved and that I believed medical assistance had been delayed.
+
+Those allegations were part of my publicly delivered allocution.
+
+They were **not findings LeBlanc made at sentencing**.
+
+The equipment also later existed as trial exhibits. For that reason, an earlier formulation saying the equipment was literally “destroyed” is too categorical unless a technical record establishes that it was rendered unusable. My position is that it was damaged and no longer functioned as it had before. That is the formulation this edition uses outside quotations from my sentencing argument.
+
+I then turned to the surveillance-footage dispute.
+
+The prepared allocution called that **“the most significant failure in this entire proceeding.”** I told the court that the government had failed to preserve courthouse lobby surveillance, argued that government cameras could have shown activity my own camera angle could not, and said I believed the missing material would have supported my contention that marshals had gestured for me to approach the building.
+
+I went farther in the speech. I characterized the preservation issue as deliberate concealment of exculpatory evidence and referred to matters I understood from a sealed portion of the trial.
+
+This book will not reproduce the sealed testimony.
+
+I made the argument publicly during sentencing, and the livestream establishes that I made it. But the publication rule for this edition is stricter: sealed testimony stays sealed unless the court later makes it public or a public filing independently establishes the same facts.
+
+Public docket material does establish that surveillance preservation had become a real discovery issue. A November 17 defense filing included a proposed order seeking production of all video and audio recordings of me at the John M. Shaw Courthouse from June 2025 forward and, if the footage no longer existed, a sworn explanation of whether it had been preserved, when it was lost or destroyed, and what preservation efforts followed my September request.
+
+A proposed order is not the same as a signed judicial finding. It proves what the defense was asking the court to compel, not that LeBlanc adopted every proposed finding.
+
+That is how the preservation dispute is treated here.
+
+The allocution then described my transfer after the arrest.
+
+I said I was shackled and taken to **St. Martin Parish Jail** and that when I asked what charge I was being booked on I was told there was only a U.S. Marshals hold. I argued in the speech that transporting and holding me without a new charge was unlawful and even used the word **kidnapping**.
+
+Again, that was my legal accusation, not an adjudication.
+
+The fact that a person is held under federal process without a newly announced local charge does not by itself establish the federal kidnapping offense I invoked. The manuscript preserves what I argued without converting my legal conclusion into a criminal finding against the officers.
+
+From there I returned to the federal communications.
+
+I quoted Magistrate Judge **Carol B. Whitehurst's November 12, 2025 recusal language**, including her statement that an objective and reasonable observer could believe she was predisposed to find me guilty and that avoiding the appearance of impropriety matters to public confidence in the judiciary.
+
+At sentencing I argued that Whitehurst had looked at what the Marshals Service had done and found that the pre-charge communications created an unacceptable appearance of bias.
+
+That formulation also requires qualification.
+
+Whitehurst's recusal is significant. It concerned the appearance surrounding **her own continued participation in the case**. It was not a merits judgment that the Marshals Service had illegally poisoned the entire Western District judiciary or that every recipient of an email was biased against me.
+
+I then cited the government's **October 15 protective-order motion**.
+
+The motion expressly identified discovery categories that included communications between the Marshals Service and federal judges at the John Shaw Courthouse and communications between other courthouse security personnel and the Marshals Service.
+
+During allocution I said the government had asked the court to **conceal** those communications from me.
+
+That was too broad.
+
+The motion sought restrictions on dissemination of sensitive discovery material. It did not seek to prevent defense counsel and me from reviewing all material that the protective order permitted us to use for the case. What the motion proves is that those categories of communications existed in the discovery universe and that the government regarded them as sensitive enough to seek restrictions on broader dissemination.
+
+That is already important without giving the filing a purpose it did not state.
+
+Then the allocution reached the issue that mattered most to me at sentencing: **probation itself**.
+
+The government was asking for years of supervision and restrictions connected to federal courthouses. I had already lived under banishment conditions in Mississippi.
+
+I told LeBlanc that I recognized what I called a **“banishment-style condition”** because I had already experienced one. I discussed the 2022 Lafayette County sentence, the five-year banishment term, the November revocation, and the custody that followed. I said I feared another geographic or courthouse-access condition could become a future **tripwire**.
+
+I also told the court that a son had been born by emergency cesarean section while I was confined and that I had been unable to be there. That statement is preserved here as part of my sworn/public sentencing account. This chapter does not use the allocution alone to add medical or family details elsewhere in the manuscript.
+
+My sentencing request was unusual.
+
+I had already spent approximately thirteen days in custody on the federal matter. The statutory imprisonment maximum was thirty days.
+
+I told the court I preferred a **finite sentence** to years of probation with a courthouse condition.
+
+The delivered speech clarified the request: time served if the court would end the matter there, or, if probation with the access restriction was the alternative, I would rather serve the remaining portion of the thirty-day maximum.
+
+I said:
+
+**“I would rather serve every remaining day of a finite sentence than accept an indefinite condition on my right to walk into a public building and do my job.”**
+
+That sentence captures why the government's recommendation felt more threatening to me than additional jail time.
+
+A jail sentence has an end date.
+
+Probation creates continuing jurisdiction and the possibility of a later revocation proceeding.
+
+My Mississippi history made that possibility concrete rather than theoretical in my mind.
+
+But even there the legal description needs precision. A probation condition is not a self-executing trap that automatically sends someone to prison the moment an officer alleges a violation. Revocation still requires process and a judicial determination. My fear was based on how I believed prior revocation proceedings had operated, not on a rule that every accusation becomes automatic incarceration.
+
+The allocution closed with a statement that tied the sentencing hearing directly to this manuscript.
+
+I told LeBlanc I was writing a book about the BOLO alerts, the emails, the arrest, the force allegations, the surveillance dispute, the holding cell, the jail, the protective order, the recusal, and the conviction.
+
+**“I do not say that as a threat,”** I said. **“I say it as a fact. I am a journalist. This is what I do.”**
+
+I also made my objection to probation explicit. I said I did not consent to a condition that I believed restricted my constitutional rights and wanted any such restriction imposed over my express objection rather than characterized as an agreement I had voluntarily accepted.
+
+The final lines were not subtle.
+
+I said I was a Marine and a journalist, that I intended to return to work after serving whatever sentence the court imposed, and thanked the judge.
+
+Then LeBlanc sentenced me.
+
+At approximately **57:44** on the livestream, the court initially described the sentence as time already served plus **two years of unsupervised probation**.
+
+The standard conditions included that I commit no new federal, state, or local crime; not unlawfully possess a controlled substance; and not possess firearms, ammunition, destructive devices, or dangerous weapons. The court suspended the drug-testing requirement because the information before it did not suggest a significant drug-abuse risk.
+
+The special courthouse condition was broader geographically than the John M. Shaw building alone but narrower than a nationwide ban.
+
+LeBlanc ordered that I not be physically present at the **John M. Shaw Federal Courthouse in Lafayette**, any other federal courthouse **within Louisiana**, or adjacent federally owned or leased grounds unless I had **legitimate business** with an occupant of the courthouse. If I did have such business, I was required to notify the U.S. Marshals Service in that locality at least **two business days in advance**.
+
+LeBlanc expressly said the sentence was not intended to suppress my First Amendment activity. He framed it as a response to the conduct for which I had been convicted on federal courthouse property.
+
+Then the hearing became procedurally unusual.
+
+After a breakout discussion requested by the government, the participants returned to the record and LeBlanc clarified that his earlier wording could be misunderstood.
+
+The final structure was **not** “time served” as one completed punishment **plus** two years of probation as a second punishment.
+
+Instead, I was being placed on **two years of unsupervised probation**. The approximately thirteen days I had already spent in custody would operate as credit if probation were later revoked and I were resentenced on the original offense.
+
+That clarification matters enough that the source notes and the manuscript both need to use it consistently. A shorthand description of “time served + two years probation” is incomplete after the judge's clarification.
+
+I immediately saw the problem I had been trying to avoid.
+
+I pressed LeBlanc for a yes-or-no answer to whether I could ever spend more than thirty total days in custody on the original petty offense if probation were later revoked.
+
+The judge declined to answer the hypothetical and directed me to counsel. The prosecutor explained that future circumstances could involve different legal permutations, including potentially new charges, making the categorical question unsuitable for an on-the-spot ruling.
+
+The hearing therefore does **not** contain a judicial holding answering every future revocation scenario.
+
+It contains something more limited:
+
+I was sentenced to two years of unsupervised probation.
+
+If the court later revoked that probation and resentenced me on the original offense, the custody already served would be credited.
+
+LeBlanc did not give me the broader advisory ruling I wanted about all possible future custody.
+
+The court imposed **no fine**.
+
+LeBlanc also **waived the special assessment**, explaining that the record did not show I was financially able to pay a fine or assessment.
+
+Talbot then put an objection to the special courthouse condition on the record.
+
+He argued that the phrase **“legitimate business”** was vague. The government responded that I could do what similarly situated members of the public could do so long as I complied with the rules, standing orders, and federal regulations governing the courthouse.
+
+LeBlanc overruled the objection. He found the reference to legitimate business with courthouse tenants or occupants sufficiently clear.
+
+I disagree with that ruling and have treated the condition as an appellate issue. But that is the procedural posture: objection preserved, government response made, objection overruled.
+
+Near the end of the hearing, LeBlanc advised me of the appeal route.
+
+I had **fourteen days after entry of judgment** to file a written notice of appeal. Because the petty-offense case had been tried and sentenced by a magistrate judge, the first appeal was to a **United States district judge** under Federal Rule of Criminal Procedure 58(g)(2), not directly to the Fifth Circuit.
+
+Earlier drafts that described a direct Fifth Circuit appeal were wrong.
+
+The hearing ended after approximately an hour and a half. LeBlanc said the court would prepare the written judgment, concluded the sentencing, and wished me good luck.
+
+The most revealing thing about the hearing is not that either side obtained everything it asked for.
+
+The government requested at least three years of unsupervised probation. LeBlanc imposed two.
+
+I asked for time served with no probation—or, failing that, said I preferred the remaining days of the thirty-day imprisonment ceiling. The court rejected that choice and imposed probation.
+
+I objected to the courthouse condition. The objection was preserved but overruled.
+
+And I put into the public record a long argument about federal information sharing, preservation of evidence, the Marshals Service, Whitehurst's recusal, my Mississippi history, and why I believed the prosecution fit a larger pattern.
+
+Some of those arguments remain central to how I understand what happened.
+
+Some were stated too categorically in the allocution and have been narrowed in this edition because the underlying documents do not prove the conclusion as strongly as I told the sentencing court they did.
+
+That difference is not something I want hidden from the reader.
+
+The August 7 allocution is evidence of my position at that moment.
+
+The court's judgments and orders are evidence of what the judiciary actually found.
+
+The FOIA records are evidence of what federal personnel actually wrote and distributed.
+
+The videos are evidence of what they show.
+
+And where those categories conflict, the conflict stays visible.
+
+That is the standard I am applying to this book even when it cuts against the story I once told about myself.
+
+Three days after sentencing, in the separate Texas civil case, Judge Jeffrey Brown entered the order and final judgment discussed in the previous chapter.
+
+The legal fights were narrowing.
+
+The financial consequences were not.
 
 
 # CHAPTER 39 — THE FINANCIAL COST OF THE FIGHT
