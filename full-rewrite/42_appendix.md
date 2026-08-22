@@ -1,227 +1,290 @@
 APPENDIX
 
-*A reference apparatus for the preceding chapters. Everything here traces to a primary-source document, a court record, or a recording in the evidence archive. Where a fact is my own account and nothing more, it is marked. Where a document is referenced but has not been obtained, it is listed in Section F rather than quietly omitted — an appendix that hides its gaps is worse than no appendix.*
+*A source-and-record guide to the preceding narrative. The purpose of this appendix is not to repeat every allegation in the book. It is to identify the principal proceedings, documents, recordings, unresolved source gaps, and corrections necessary to understand what the record actually establishes.*
 
 ---
 
 ## A. CASES AND CAUSE NUMBERS
 
-**Mississippi — Lafayette County**
+### Mississippi — Lafayette County
 
 | Cause | Court | Matter |
 |---|---|---|
-| CV2016-422(W) | Chancery | Paternity, custody and support. Joint complaint filed Aug 3, 2016; **resolved by agreed order, never tried** |
-| CV2017-217A | Chancery | *Robyn M. Tannehill and J. Rhea Tannehill Jr. v. Matthew Reardon* — TRO and permanent restraining order, filed and served May 22, 2017 |
-| LK17-295 | Circuit | Aggravated stalking (the Lynch matter). Guilty plea 2017; amended time-served order Feb 21, 2018 |
-| L17-233 | Circuit | **Habeas corpus / bail reduction**, filed June 8, 2017 by Kristian A. McCray, The Trout Law Firm. IFP granted June 7, 2017; dismissed stale Nov 30, 2018. *A separate matter — not an alternate number for LK17-295* |
-| LK20-316 | Circuit | Post-conviction relief |
-| 9291202 | Justice Court | **D.U.I. 1st Offense** — convicted Nov 24, 2021. Charged as a first offense because the Georgia offense preceded it by more than five years, Miss. Code Ann. § 63-11-30(2) |
-| 21-cv-494 | Circuit | **De novo appeal of 9291202.** Initiated Dec 3, 2021; dismissed **June 28, 2024** for "failing to timely perfect" |
-| L24-388 (36CI1:24cv00388JKL) | Circuit | **Post-conviction relief in LK22-358.** Granted Jan 21, 2025, State not opposing — two-year revocation sentence vacated, resentenced to 120 days, released, probation and banishment reinstated |
-| LK22-358 | Circuit | Aggravated stalking (2022). Guilty plea Sept 30, 2022 — five years' probation, banishment from Lafayette County; revocation motion Nov 1, 2022; bench warrant Aug 17, 2023 |
+| CV2016-422(W) | Chancery Court | Paternity, custody, and support litigation involving Phyllis Crowder and Matthew Reardon. |
+| CV2017-217A | Chancery Court | *Robyn M. Tannehill and J. Rhea Tannehill Jr. v. Matthew Reardon* — petition for temporary and permanent restraining relief filed May 22, 2017. |
+| LK17-295 | Circuit Court | 2017 aggravated-stalking prosecution involving Todd and Ashley Lynch. Guilty plea July 6, 2017; plea materials, Criminal Information, transcript, sentence, and covenant not to sue are preserved in the appellate record. |
+| L17-233 | Circuit Court | Habeas-corpus/bail-reduction proceeding filed during the 2017 detention; later dismissed as a stale case on November 30, 2018. |
+| L20-316 / LK20-316 | Circuit Court | Post-conviction proceedings challenging the 2017 plea and conviction. The file naming varies in later records; it is separate from LK17-295 itself. |
+| 9291202 | Justice Court | D.U.I. 1st Offense arising from the February 2021 stop; conviction entered November 24, 2021. |
+| 36CI1:21-cv-00494-JKL / L21-494 | Circuit Court | De novo appeal from Lafayette County Justice Court convictions. Initiated in December 2021; Circuit Court dismissed the appeal June 28, 2024 for failure to perfect. The Mississippi Court of Appeals later reversed that dismissal and remanded. |
+| LK22-358 | Circuit Court | 2022 aggravated-stalking prosecution. Guilty plea September 30, 2022; five-year suspended sentence/unsupervised probation, banishment, and no-contact terms. First revocation proceeding followed in November 2022; a second revocation proceeding followed in 2024. |
+| L24-388 / 36CI1:24-cv-00388-JKL | Circuit Court | Post-conviction relief concerning the 2024 revocation sentence in LK22-358. Order entered January 21, 2025 vacated the two-year revocation sentence, resentenced Reardon to 120 days for a technical violation, ordered immediate release because more than 120 days had been served, and reinstated the original probation and banishment terms. **The underlying 2022 aggravated-stalking conviction was not vacated.** |
+| 2024-KM-00839-COA | Mississippi Court of Appeals | *Matthew D. Reardon v. State of Mississippi*. Decision February 24, 2026 reversed the Circuit Court's dismissal of the Justice Court appeal and remanded. It did **not** reverse the underlying Justice Court convictions. The opinion directed appointment of counsel on remand if Reardon still qualified as indigent. |
 
-**Mississippi — other**
-
-| Cause | Court | Matter |
-|---|---|---|
-| LK2022-310MISC | Circuit, 3rd District (Holly Springs), Judge Kent E. Smith | Competency/commitment proceeding |
-| — | Olive Branch Municipal / DeSoto County | *State v. Crowder* — filing a false report of rape. **No contest plea**, Sept 2020; $1,200 fine, 30 days, jail waived on payment |
-| — | Olive Branch Municipal | Contempt of court, late Oct 2020. **Dismissed outright** |
-| — | Miss. Ct. App. | *Reardon v. State* |
-
-**Federal**
+### Mississippi — other proceedings
 
 | Cause | Court | Matter |
 |---|---|---|
-| 3:22-cv-00050-SA-JMV | N.D. Miss. | Civil rights. **Doc #74, filed 03/20/23 — the 48-page handwritten "Plaintiff's More Definitive Statement," a principal source for Parts I–II** |
-| 3:25-cv-00203 | N.D. Miss. | *Reardon v. Osteen*. M&R July 14, 2026 (Dkt 90); order adopting and final judgment Aug 10, 2026 (Dkt 93, 94) |
-| — | D. Utah | *Reardon v. Layton* |
-| — | N.D. Miss. | *Reardon v. State of Mississippi; City of Olive Branch* (2020) — dismissed, failure to state a claim |
-| 6:25-cr-00227 | W.D. La., Lafayette Div. | *United States v. Reardon*. 41 CFR § 102-74.390(b). Convicted Jan 16, 2026; sentenced Aug 7, 2026 — time served, two years' unsupervised probation, no fine |
+| LK2022-310MISC | Third Judicial District / Holly Springs | Competency/commitment-related proceeding referenced in the source archive. |
+| — | Olive Branch Municipal Court | Phyllis Crowder false-reporting prosecution. No-contest disposition September 22, 2020. The municipal order assesses a **$1,000 fine plus a $149.25 assessment, $1,149.25 total**. |
+| S2020-0024(CD) | DeSoto County Court | Crowder's appeal from the Olive Branch disposition. Formal appeal filed after the deadline; County Court dismissed it November 23, 2020 and returned the matter to Municipal Court for execution of judgment. |
+| — | Olive Branch Municipal Court | Contempt proceeding involving Reardon in October 2020; later dismissed. |
 
-**Texas**
-
-| Cause | Court | Matter |
-|---|---|---|
-| 23-CR-2981 | 56th District Court, Galveston County | *State of Texas v. Matthew O. Reardon.* Indicted Dec 7, 2023 for **"driving while intoxicated 3rd or more"**, offense date **Aug 11, 2023**, on two alleged priors. **Felony DUI dismissed May 24, 2024** |
-
-**Georgia**
+### Federal
 
 | Cause | Court | Matter |
 |---|---|---|
-| 13T15752 | Cobb County State Court | DUI. Offense **Dec 25, 2012**; convicted **Nov 3, 2014** |
+| 3:22-cv-00050-SA-JMV | N.D. Mississippi | *Reardon v. Lafayette County, Mississippi, et al.* Civil-rights action. The handwritten More Definitive Statement filed March 20, 2023 is a major source for the author's then-current allegations and chronology. The action was dismissed with prejudice June 28, 2023. |
+| 1:25-cv-00041 | District of Utah | *Reardon v. Layton City, et al.* Civil-rights case filed March 31, 2025. The author later sought voluntary dismissal without prejudice after relocating. |
+| 3:25-cv-00203 | S.D. Texas, Galveston Division | *Reardon v. Osteen, et al.* Magistrate Judge Andrew M. Edison's Memorandum Opinion, Order, and Recommendation entered July 14, 2026 (Dkt. 90); Judge Jeffrey V. Brown adopted the recommendation and entered final judgment August 10, 2026 (Dkts. 93–94). |
+| 6:25-cr-00227 | W.D. Louisiana | *United States v. Reardon*, 41 C.F.R. § 102-74.390(b). Guilty verdict entered January 16, 2026 after a bench trial. At sentencing August 7, 2026, the court imposed two years of unsupervised probation and clarified that prior custody would be credited if probation were later revoked and resentencing occurred; no fine was imposed and the special assessment was waived. |
+
+### Texas
+
+| Cause | Court | Matter |
+|---|---|---|
+| 23-CR-2981 | 56th District Court, Galveston County | Felony DWI-third-or-more prosecution arising from the August 11, 2023 stop. Indictment filed December 7, 2023. The State moved to dismiss and the court dismissed the felony case May 24, 2024; the later Mississippi PCR record quotes the stated reason as inability to prove the jurisdictional enhancements. |
+| MD-0417962 | Galveston County Court No. 3 | Later misdemeanor DWI matter arising from the same August 11, 2023 stop, identified in the February 25, 2025 defense motion requesting a *Franks* hearing. |
+
+### Georgia
+
+| Cause | Court | Matter |
+|---|---|---|
+| 13T15752 | Cobb County State Court | DUI offense dated December 25, 2012; conviction entered November 3, 2014. |
 
 ---
 
 ## B. PRINCIPAL PEOPLE
 
-**Named because their official conduct is at issue**
+The book names public officials and other adults when their conduct is documented in the record and relevant to the narrative. It does not treat being named as proof of wrongdoing.
 
-- **Deputy Timmy Pruitt** — Lafayette County SD. The May 1, 2017 arrest (Ch. 2).
-- **Chief Deputy Scott Mills, Major Alan Wilburn, Lt. Jarrett Bundren** — Lafayette County SD; **Joey East**, then Oxford police chief, later Sheriff. The four officers at the May 26, 2017 arrest.
-- **Deputy Courtney Dixon, Deputy Ethan Tidwell** — the December 28, 2020 parking-lot arrest. **Lt. Omar Ahmed** present.
-- **Deputy Jake Williford, Deputy Kandis Beavers** — the February 20, 2021 traffic stop and field sobriety test.
-- **Officer William Osteen** (I spell it *Olsteen* throughout my own sworn affidavit; the record spells it **Osteen**), **Sgt. Dougherty** — Galveston PD, August 2023. Osteen was the assisting, not the stopping, officer.
-- **Deputy U.S. Marshal Hayden Nugent** — the August 25, 2025 arrest. **Supervisory Deputy U.S. Marshal William Donald**, Oxford / N.D. Miss. — name and title confirmed by the Marshals Service; *no BOLO attribution is established.*
+**Lafayette County / Oxford:** Deputy Timmy Pruitt; Scott Mills; Alan Wilburn; Jared Bundren; Sheriff Joseph "Joey" East; Deputies Courtney Dixon, Ethan Tidwell, Jacob Williford, Kandis Beavers, Hoby James, and Joe Quarles; MBI Lt. Joey Mauney; OPD Chief Jeff McCutchen; Capt. Hildon Sessums; Lt. Kevin Parker; and other officials identified in the cited records.
 
-**Judicial officers**
+**Judicial officers:** Judge Carolyn Bell; Chancellor Glenn Alderson; Circuit Judges John Kelly Luther, Kent E. Smith, Gray Tollison, and others identified in the docket and transcripts; Olive Branch Municipal Judge Leslie Shumake.
 
-Judge Carolyn Bell (Justice Court); Judge Alderson (Chancery); Circuit Judge John Kelly Luther; Judge David Garrison (recused, Aug 11, 2021); Judge Mickey Avant (Justice Court, recused); Judge Kent E. Smith (Circuit, 3rd District); Judge Leslie Shumake (Olive Branch Municipal).
+**Attorneys:** J. Rhea Tannehill Jr.; Brennan Horan; Kristian A. McCray; Mitchell Driskell; Christi McCoy; Bela J. Chain III; Dustin Talbot; Benjamin Campagna; and Jacob W. Howard of the MacArthur Justice Center.
 
-**Attorneys**
+**Texas:** Galveston Police Officer Larry Murph, who initiated the August 11, 2023 traffic stop; Officer William Osteen, who conducted the DWI investigation and signed the blood-warrant affidavit; Sgt. Jack Doraty; and other participants identified in the Texas records.
 
-J. Rhea Tannehill Jr. (**Tannehill Law Firm**; husband of Mayor Robyn Tannehill; Crowder's counsel in the 2016 matter and co-petitioner in CV2017-217A); Andy Arant; Brennan Horan; T.R. Trout; Kristian A. McCray; Mitchell Driskell; Mona T. Pittman; Christi McCoy; Bela J. Chain; Dustin Talbot; **Jacob W. Howard, MacArthur Justice Center** — counsel who obtained the January 2025 vacatur.
+**Federal:** Deputy U.S. Marshal Hayden Nugent; Magistrate Judge Andrew M. Edison; District Judge Jeffrey V. Brown; Magistrate Judge Carol B. Whitehurst; and other federal officials identified in the public docket or produced records.
 
-**Public officials**
+**Private parties central to the record:** Phyllis "Liz" Crowder; Todd Lynch; Ashley Lynch; Robyn Tannehill; and J. Rhea Tannehill Jr. where acting as a private petitioner or attorney.
 
-Mayor Pat Patterson (Oxford, to 2017); Mayor Robyn Tannehill (Oxford, from July 1, 2017); AUSA Bob Norman; Mayor Pat Lamar (Oxford, 1997–2005).
-
-**Private parties**
-
-Phyllis Marie Crowder; Todd and Ashley Lynch; Det. Holliday and Maj. Cox (Olive Branch PD).
-
-**Deliberately unnamed**
-
-A woman serving twenty-four years under Mississippi's habitual-offender statute, whose case is discussed but whose identity is not mine to publish; the Union County Justice Court judge; the Mississippi state trooper of July 3, 2025, who declined to identify himself; a St. Martin Parish booking officer; Crowder's mother and her husband; a municipal court clerk; two Lafayette County bystanders; the private seller of a lawfully purchased rifle. **My children are not named, and no detail of their lives, health, or schooling appears in this book.**
+The author's children are identified by first name only where the dedication or chronology makes that identification necessary. Details about them are limited to information the author chose to include because it bears directly on the events being described; unrelated private information is omitted.
 
 ---
 
-## C. KEY DOCUMENTS
+## C. KEY DOCUMENTS AND RECORDINGS
 
-**Sworn or filed by me**
+### 2017 prosecution and related civil proceedings
 
-- *Plaintiff's More Definitive Statement*, 3:22-cv-00050, Doc #74, 48 pp. handwritten, filed March 20, 2023.
-- *Defendant's Sworn Affidavit*, 23-CR-2981, 5 pp., 25 paragraphs, notarized — sworn under penalty of perjury.
-- Objections to the magistrate's report and recommendation, *Reardon v. Osteen*.
+- Tannehill Petition for Emergency, Temporary Restraining Order and Permanent Restraining Order, filed May 22, 2017, with affidavits and exhibits.
+- Lafayette County Sheriff's Office May 24/May 30 narrative concerning the Lynch complaint.
+- Major John Hill's May 30, 2017 Sheriff's Office narrative documenting the post-hearing hallway confrontation with Rhea Tannehill.
+- Criminal Information in LK17-295 filed July 6, 2017, alleging aggravated stalking involving "an AR15 rifle" and the handwritten date "or before May 8, 2017."
+- July 6, 2017 plea and sentencing transcript.
+- Guilty-plea petition and sentence documents.
+- Signed Covenant Not To Sue, executed as a specific condition of the plea.
+- Private bill of sale dated May 20, 2017 for a Del-Ton AR-15, serial S086662, purchased from Larry D. Watkins for $550. The document dates that particular transaction; it does not by itself prove that no other AR-pattern rifle existed before that date.
 
-**Filed against me**
+### Crowder / Olive Branch
 
-- Petition for emergency TRO and permanent restraining order, CV2017-217A, with affidavits of Robyn M. Tannehill and J. Rhea Tannehill Jr., notarized by Tiffany S. Webb, and Exhibits H and I (Facebook captures — **Exhibit I's most violent language was written by two third parties, not by me**).
-- Grand jury indictment, LK22-358; motion to revoke probation, Nov 1, 2022; bench warrant, Aug 17, 2023.
-- Governor's warrant / request for interstate rendition, Reeves to Abbott, Nov 9, 2023.
+- Olive Branch Police Department investigation of Crowder's November 2018 rape allegation and the later false-reporting case.
+- September 22, 2020 Municipal Court order assessing $1,149.25 total.
+- DeSoto County Court order dismissing Crowder's untimely appeal November 23, 2020.
+- Chancery filings and communications in CV2016-422(W).
 
-**Official records**
+### 2021–2022 Lafayette proceedings
 
-- City of Oxford Minute Book 73 — June 6 and July 5, 2017 meetings.
-- Order of recusal, Judge David Garrison, Aug 11, 2021.
-- Order of dismissal–stale case, L17-233, Nov 30, 2018.
-- Memorandum opinion and recommendation (Dkt 90), order adopting (Dkt 93), final judgment (Dkt 94), *Reardon v. Osteen*.
-- Grand jury indictment, 23-CR-2981, filed Dec 7, 2023; **Order of Dismissal of the felony DUI, May 24, 2024**.
-- Order & Judgment granting post-conviction relief, L24-388, Jan 21, 2025.
-- Texas DPS Houston Crime Laboratory report **HOU-2308-10286**, Sept 6, 2023 — **"No alcohol detected."**
-- Certified transcript, second revocation hearing, **July 18, 2024**.
+- Justice Court orders, filings, and later Circuit Court record concerning the December 2021 appeal.
+- December 7, 2021 commitment writ and the author's contemporaneous recording of service.
+- Recorded call with Communicare employee Rachel Alcorn.
+- MBI Case No. 22-00000897, including the June 20, 2022 City Hall allegations, June 23 referral, and June 27 warrant process.
+- Lafayette County Sheriff's Office June 28, 2022 warrant-service report showing the MBI arrest warrant already existed when deputies encountered Reardon at Chancery Court.
+- LK22-358 plea/sentence records and November 2022 revocation transcript.
 
-**Recordings**
+### Galveston and later Mississippi revocation
 
-My own contemporaneous audio and video are a primary source throughout: the May 1, 2017 arrest; the December 2018 Olive Branch PD exchange; the December 28, 2020 parking-lot arrest, later synced to the one security video produced; the October 2020 courtroom contempt and the clerk's call the day before; the December 2020 Zoom initial appearance; the June 2021 doorstep; the August 10–11, 2023 Galveston livestream; and the August 25, 2025 broadcast. **Machine transcription is not a certified transcript, and quotations from these recordings are attributed as such.**
+- Osteen's August 11, 2023 blood-warrant affidavit/application and related DWI reports.
+- Texas DPS Houston laboratory report HOU-2308-10286: **"No alcohol detected."**
+- Separate confirmation analysis reporting methamphetamine at 0.13 mg/L.
+- July 18, 2024 certified Mississippi revocation transcript.
+- November 26, 2024 MacArthur Justice Center petition for post-conviction relief and exhibits.
+- January 21, 2025 Order & Judgment granting post-conviction relief as to the 2024 revocation sentence.
+- February 25, 2025 *Franks* motion filed by attorney Benjamin Campagna in the Texas misdemeanor case.
+
+### 2025–2026 federal and interstate record
+
+- U.S. Marshals Service FOIA/records production concerning alerts and inter-office communications.
+- Federal criminal docket in 6:25-cr-00227 and the August 7, 2026 sentencing recording/transcript source used in Chapter 38.
+- *Reardon v. Osteen* Dkt. 90, Dkt. 93, and Dkt. 94.
+- Mississippi appellate clerk notices concerning delinquent assembly of the record in the Justice Court appeal, including the October 2, 2024 delinquency notice and October 21, 2024 show-cause notice to Circuit Clerk Jeff Busby.
+- Mississippi Court of Appeals opinion of February 24, 2026 reversing the Circuit Court's dismissal and remanding.
+- New Orleans records concerning the November 2025 City Hall incident, NextRequest production, January 2026 booking, and April 2026 disposition.
+
+### Recordings
+
+Contemporaneous audio and video are primary sources throughout the book, including recordings of arrests, courthouse encounters, telephone calls, hearings where recording was permitted, and published livestreams. Machine transcription is used as a research aid, not automatically as a verbatim source. Quotations intended to be verbatim should be checked against the underlying audio or an official/certified transcript whenever available.
 
 ---
 
 ## D. CONDENSED CHRONOLOGY
 
-**2007** enlistment · **2011** discharge · **Dec 25, 2012** Georgia DUI offense (convicted Nov 3, 2014, Cobb County) · **Aug 19, 2014** Lydia born at 25 weeks, 1 lb 9 oz · **Aug 3, 2016** joint paternity complaint filed; settled by agreement · **Sept 2016** flag petition · **Apr 28, 2017** Escambia County, Florida · **May 1, 2017** Pruitt arrest · **May 16** Oxford City Hall · **May 19** Frank & Marlee's · **May 20** rifle purchased, dated bill of sale · **May 22** Tannehill petition filed and served · **May 24–25** AUSA Norman, then the FBI · **May 26** arrest, aggravated stalking · **May 30** $150,000 bond; Chancery hearing · **June–July 2017** habeas filed and abandoned; plea, banishment, covenant not to sue · **Aug 2017** Water Valley · **Nov 2017** marriage · **Nov–Dec 2018** false rape report; Olive Branch PD; phone seized under warrant · **Jan 2019** warrant for Crowder issued, unexecuted for a year · **Dec 2019** Le Bonheur; child-services complaint closed unfounded; warrant finally executed · **Jan 2020** probation terminated early, banishment ends · **Sept–Oct 2020** Crowder pleads no contest; contempt arrest; §1983 filed and dismissed · **Dec 27–28, 2020** emails to Sheriff East; parking-lot arrest · **Feb 20, 2021** ice-storm stop and DUI · **2021** all three Justice Court judges recuse · **June 2021** Father's Day doorstep · **Nov 24, 2021** convicted, D.U.I. 1st Offense · **Dec 3, 2021** appeal initiated · **Dec 2021** commitment · **June 2022** arrest, Case B · **Sept 30, 2022** plea, banishment · **Nov 2022** revocation motion · **Aug 11, 2023** Galveston · **Nov 2023** governor's warrant · **May 24, 2024** Texas felony DUI dismissed · **June 28, 2024** appeal of 9291202 dismissed · **July 18, 2024** second revocation hearing · **Jan 21, 2025** sentence vacated, released · **2025** Layton; the BOLO; July 3 Governor's Mansion; **Aug 25, 2025** Lafayette arrest · **Jan 16, 2026** conviction · **Aug 7, 2026** sentencing · **Aug 10, 2026** final judgment, *Reardon v. Osteen*.
+**2008** — Marine infantry-training period and the Camp Devil Dog event discussed in the Prologue.  
+**2011** — End of Marine Corps service.  
+**2012–2014** — Georgia DUI offense and later conviction.  
+**2016** — Paternity/custody proceeding begins; Mississippi flag petition.  
+**May 1, 2017** — Lafayette County sidewalk/flag arrest.  
+**May 20, 2017** — Dated private bill of sale for the Del-Ton AR-15.  
+**May 22, 2017** — Tannehill restraining-order petition filed.  
+**May 24, 2017** — Bundren begins Lynch investigation according to the surviving Sheriff's Office narrative.  
+**May 25, 2017** — FBI meeting; final Marine Corps legal demand later that day.  
+**May 26, 2017** — Marine Corps FOIA request receives full-grant disposition; Reardon arrested later that day for aggravated stalking.  
+**May 30, 2017** — Initial appearance; $150,000 bond; Tannehill Chancery hearing and the hallway confrontation documented by Major John Hill.  
+**June 2017** — Habeas/bail-reduction proceeding filed; Board of Aldermen agenda places Reardon on June 6 agenda while he remains jailed.  
+**July 6, 2017** — Criminal Information filed; guilty plea; banishment and covenant not to sue.  
+**2018–2020** — Crowder false rape allegation, investigation, false-reporting prosecution, and no-contest disposition; related family-court litigation.  
+**December 28, 2020** — Lafayette County parking-lot arrest.  
+**February 2021** — DUI stop during winter weather.  
+**November 24, 2021** — Justice Court convictions entered.  
+**December 2021** — Appeal initiated; first civil commitment.  
+**June 20, 2022** — Oxford City Hall visit later used in MBI stalking investigation.  
+**June 23–27, 2022** — OPD referral to MBI and warrant process.  
+**June 28, 2022** — Arrested on the preexisting MBI warrant while arriving at Chancery Court.  
+**September 30, 2022** — Guilty plea in LK22-358; suspended sentence, unsupervised probation, banishment, and no-contact terms.  
+**November 2022** — First revocation proceeding; one-year sentence imposed.  
+**August 1, 2023** — Released from Mississippi custody.  
+**August 11, 2023** — Galveston traffic stop and DWI investigation; blood warrant executed.  
+**August 17, 2023** — Rearrest/overlapping Mississippi revocation process.  
+**December 7, 2023** — Texas felony DWI indictment filed.  
+**May 24, 2024** — Texas felony DWI prosecution dismissed.  
+**June 28, 2024** — Lafayette Circuit Court dismisses Justice Court appeal.  
+**July 18, 2024** — Second Mississippi revocation hearing.  
+**January 21, 2025** — Two-year revocation sentence vacated; resentenced to 120 days; immediate release ordered; underlying probation/banishment reinstated.  
+**March 31, 2025** — Utah federal civil-rights complaint filed.  
+**June–August 2025** — U.S. Marshals/court-security alert and BOLO communications documented in later productions.  
+**August 25, 2025** — Arrest at John M. Shaw United States Courthouse in Lafayette, Louisiana.  
+**November 12, 2025** — New Orleans City Hall incident.  
+**January 16, 2026** — Guilty verdict in the federal petty-offense case.  
+**January 24–28, 2026** — Louisiana arrest and later Orleans Parish booking on the New Orleans warrant.  
+**February 24, 2026** — Mississippi Court of Appeals reverses dismissal of Justice Court appeal and remands.  
+**April 16, 2026** — New Orleans battery prosecution disposed of as "Refused — Law Enforcement Issue" in the produced case record.  
+**April–June 2026** — Union County/Aberdeen events described in Chapter 36.  
+**July 14, 2026** — Edison R&R entered in *Reardon v. Osteen*.  
+**August 7, 2026** — Federal sentencing: two years unsupervised probation; no fine; special assessment waived; prior custody addressed as credit in event of later revocation/resentencing.  
+**August 10, 2026** — District court adopts Edison R&R and enters final judgment in *Reardon v. Osteen*.
 
 ---
 
-## E. LEGAL AUTHORITIES
+## E. SELECTED LEGAL AUTHORITIES
 
-*Grouped by the question each authority answers, with the Legal Analysis section that discusses it. Citations verified against CourtListener where a reporter citation is given.*
+This list is a reader's guide, not an exhaustive table of authorities.
 
-**The right to record public officials — Analysis XI**
-*Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017) — controlling in Mississippi, Louisiana, and Texas; decided February 16, 2017 · *Glik v. Cunniffe*, 655 F.3d 78 (1st Cir. 2011) · *Fields v. City of Philadelphia*, 862 F.3d 353 (3d Cir. 2017) · *Cohen v. California*, 403 U.S. 15 (1971).
+**Retaliatory arrest:** *Nieves v. Bartlett*, 587 U.S. 391 (2019); *Gonzalez v. Trevino*, 602 U.S. 653 (2024).  
+**Right to record:** *Turner v. Driver*, 848 F.3d 678 (5th Cir. 2017).  
+**Qualified immunity:** *Harlow v. Fitzgerald*, 457 U.S. 800 (1982); *Pearson v. Callahan*, 555 U.S. 223 (2009); *Hope v. Pelzer*, 536 U.S. 730 (2002).  
+**Municipal liability / state action:** *Monell v. Department of Social Services*, 436 U.S. 658 (1978); *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982); *West v. Atkins*, 487 U.S. 42 (1988); *Will v. Michigan Department of State Police*, 491 U.S. 58 (1989).  
+**Judicial / prosecutorial immunity:** *Stump v. Sparkman*, 435 U.S. 349 (1978); *Mireles v. Waco*, 502 U.S. 9 (1991); *Imbler v. Pachtman*, 424 U.S. 409 (1976); *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993); *Kalina v. Fletcher*, 522 U.S. 118 (1997).  
+**Contempt and impartial adjudication:** *In re Murchison*, 349 U.S. 133 (1955); *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971).  
+**Blood-warrant affidavit:** *Franks v. Delaware*, 438 U.S. 154 (1978); *Missouri v. McNeely*, 569 U.S. 141 (2013); *Birchfield v. North Dakota*, 579 U.S. 438 (2016).  
+**Preservation / disclosure:** *Brady v. Maryland*, 373 U.S. 83 (1963); *California v. Trombetta*, 467 U.S. 479 (1984); *Arizona v. Youngblood*, 488 U.S. 51 (1988).  
+**Revocation process:** *Morrissey v. Brewer*, 408 U.S. 471 (1972); *Gagnon v. Scarpelli*, 411 U.S. 778 (1973); Miss. Code Ann. § 47-7-37.  
+**Favorable termination:** *Thompson v. Clark*, 596 U.S. 36 (2022).  
+**Release-dismissal agreements:** *Town of Newton v. Rumery*, 480 U.S. 386 (1987).  
+**Constitutional speedy trial:** *Barker v. Wingo*, 407 U.S. 514 (1972).
 
-**Retaliatory arrest and prosecution — Analysis I, XIV**
-*Nieves v. Bartlett*, 587 U.S. 391 (2019) — probable cause generally defeats a retaliatory-arrest claim, subject to the comparator exception · *Thompson v. Clark*, 596 U.S. 36 (2022) — favorable termination requires only that the prosecution ended without a conviction · *Hartman v. Moore*, 547 U.S. 250 (2006).
-
-**Immunities — Analysis II, IV, XV**
-*Stump v. Sparkman*, 435 U.S. 349 (1978) · *Mireles v. Waco*, 502 U.S. 9 (1991) · *Imbler v. Pachtman*, 424 U.S. 409 (1976) — absolute prosecutorial immunity for advocacy · *Buckley v. Fitzsimmons*, 509 U.S. 259 (1993) — only qualified immunity for investigative acts · *Kalina v. Fletcher*, 522 U.S. 118 (1997) — no absolute immunity where the prosecutor personally attests to facts · *Harlow v. Fitzgerald*, 457 U.S. 800 (1982) · *Pearson v. Callahan*, 555 U.S. 223 (2009).
-
-**Suing governments and private parties — Analysis III, XII**
-*Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978) — no respondeat superior; policy or custom required · *West v. Atkins*, 487 U.S. 42 (1988) — private contractor performing a delegated state function acts under color of law · *Lugar v. Edmondson Oil Co.*, 457 U.S. 922 (1982) — joint invocation of state process · *Will v. Michigan Dep't of State Police*, 491 U.S. 58 (1989) · U.S. Const. amend. XI.
-
-**Civil commitment — Analysis XIII**
-*O'Connor v. Donaldson*, 422 U.S. 563 (1975) · *Addington v. Texas*, 441 U.S. 418 (1979) — clear and convincing evidence · *Vitek v. Jones*, 445 U.S. 480 (1980) · *Zinermon v. Burch*, 494 U.S. 113 (1990).
-
-**Searches, seizures, and the blood draw — Analysis V**
-*Missouri v. McNeely*, 569 U.S. 141 (2013) · *Birchfield v. North Dakota*, 579 U.S. 438 (2016) — breath incident to arrest yes, blood no · *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) · *Riley v. California*, 573 U.S. 373 (2014) · *Franks v. Delaware*, 438 U.S. 154 (1978).
-
-**Evidence the State did not keep — Analysis XVII**
-*Brady v. Maryland*, 373 U.S. 83 (1963) · *California v. Trombetta*, 467 U.S. 479 (1984) · *Arizona v. Youngblood*, 488 U.S. 51 (1988) — bad faith required for failure to preserve potentially useful evidence.
-
-**Revocation, delay, and the courts — Analysis VIII, IX, XVIII**
-*Morrissey v. Brewer*, 408 U.S. 471 (1972) · *Gagnon v. Scarpelli*, 411 U.S. 778 (1973) · *Barker v. Wingo*, 407 U.S. 514 (1972) · *In re Murchison*, 349 U.S. 133 (1955) · *Mayberry v. Pennsylvania*, 400 U.S. 455 (1971).
-
-**Access to courts as an indigent litigant — Analysis II, IX**
-*Haines v. Kerner*, 404 U.S. 519 (1972) · *Griffin v. Illinois*, 351 U.S. 12 (1956) · *Burns v. Ohio*, 360 U.S. 252 (1959) · *Town of Newton v. Rumery*, 480 U.S. 386 (1987) — release-dismissal agreements.
-
-**Statutes and rules**
-Miss. Code Ann. §§ 47-7-37 (revocation), 63-11-30 (DUI), Title 41 ch. 19 (regional community mental health commissions — *status of Communicare not yet determined, see F*) · Tex. Penal Code § 49.09 (DWI enhancement) · 42 U.S.C. §§ 1983, 1985, 1986 · 41 C.F.R. § 102-74.390(b) · U.S. Const. amends. I, IV, V, VI, VIII, XI, XIV · Tex. Const. art. I, §§ 8, 9, 10, 13, 17, 19 · Miss. R. Crim. P.
-
-**A note on two authorities this book does *not* rely on.** Earlier drafts and filings of mine invoked Section 802 of the USA PATRIOT Act and 26 U.S.C. § 7214 against a county sheriff. Neither applies — § 7214 governs offenses by federal officers, and the domestic-terrorism definition is not a cause of action against a Mississippi sheriff. They are named here because I raised them publicly, and withdrawn here because they are wrong.
+Earlier drafts and filings also invoked legal theories that this edition withdraws. In particular, Section 802 of the USA PATRIOT Act is not a civil cause of action against a county sheriff, and 26 U.S.C. § 7214 concerns federal revenue officers rather than Mississippi county officials. Those theories are not relied upon here.
 
 ---
 
-## F. WHAT THIS BOOK DOES NOT HAVE
+## F. SOURCE GAPS AND DELIBERATE LIMITS
 
-*Listed so that no reader mistakes an assertion for a document.*
+The following are genuine gaps or publication limits. They should not be confused with documents that have now been located.
 
-1. **The May 2017 charging affidavit (LK17-295).** The "on or before May 8, 2017" date — which precedes both my purchase of the rifle and my quarrel with the Lynches — rests on my recollection alone. **The date-collision argument is not proved in these pages.**
-2. **The signed covenant not to sue, and the LK17-295 plea petition.** The term is described from memory; the instrument has never been produced.
-3. **The Texas DPS licence-suspension letter** stating I refused to provide a sample. Against a blood sample drawn under a warrant, this proves itself on paper — and it is not here.
-4. **The blood-draw warrant.** Officer Osteen testified under oath in July 2024 that he obtained one, signed by a judge. I was never shown it, and **the instrument itself has still never been produced.**
-5. **The recorded call** in which Crowder is said to admit the false report was a joint effort.
-6. **The Lafayette County records production** listing roughly fifteen reports filed by Crowder over four years.
-7. **The second security camera** from December 28, 2020; the sallyport and dashcam video from February 20, 2021.
-8. **Deputy John Hill's incident report**, May 30, 2017.
-9. **The Oxford municipal record** for the flag-removal measure. That Mayor Tannehill authored it is my account, twice given, and not yet a document.
-10. **The FOIA production** said to connect a named marshal to the BOLOs.
-11. **The full record of the appeal in 21-cv-494** — initiated nine days after conviction, dismissed thirty months later for failing to perfect, in a matter where a judge had already found me indigent.
-12. **The sealed record in the federal criminal case**, which is subject to a court order and is not discussed in this book beyond the public docket.
+1. **The original pre-arrest affidavit, complaint, or warrant application underlying the May 26, 2017 Lynch arrest has not been located in the present archive.** The July 6 Criminal Information and plea transcript independently establish the later "on or before May 8, 2017" allegation. The book therefore does not attribute that May 8 allegation to the May 26 arrest warrant unless the pre-arrest instrument is produced.
+2. **The signed Texas blood-warrant instrument itself has not been located in the present archive.** Osteen's affidavit/application and his later sworn testimony establish that a judge signed a blood warrant; the book therefore does not characterize the blood draw as warrantless.
+3. The project does not possess the FBI 302 from the May 25, 2017 meeting.
+4. Some audio/video sources survive only through published or archived copies and machine transcripts. Where exact wording matters, official transcripts or direct audio verification take precedence over ASR.
+5. Several recordings or camera angles requested in earlier proceedings were not produced or have not been located, including portions of the December 2020 and February 2021 video record. Their absence does not establish what they would have shown.
+6. Communicare's precise legal status for federal state-action purposes remains unresolved in the source archive.
+7. The sealed portions of the 2025–2026 federal criminal record are intentionally not reproduced or narrated beyond what the public docket and permitted sources establish.
+8. The book does not claim that an unidentified source, a missing recording, or an unproduced document proves a conspiracy merely because the record is incomplete.
+
+The following documents were once listed as missing but have now been located and are **not** source gaps: the July 2017 plea transcript, plea petition, signed covenant not to sue, and Major John Hill's May 30, 2017 Sheriff's Office report.
 
 ---
 
-## G. RECORDINGS, VIDEO, AND PRESERVED MEDIA
+## G. RECORDING AND TRANSCRIPTION METHOD
 
-*The evidentiary spine of this book is not paper. It is recordings, most of them mine, most of them published before anyone knew they would matter.*
+The manuscript uses contemporaneous recordings extensively. Their evidentiary value depends on how they are handled.
 
-**Preserved with checksums.** The August 25, 2025 livestream — the arrest this book's federal case arises from — is held locally as a checksummed copy of the published item, together with its caption tracks and metadata sidecars. It runs 1 hour 5 minutes 51 seconds. The archived resolution is 640×360, which was the only format available for retrieval; that is the resolution of the surviving stream, not a choice.
-
-**Frame extractions.** The final approach and arrest were extracted to individual frames at two frames per second, with contact sheets, permitting the frame-by-frame observations reported in Chapter 30 — the backward camera translation showing retreat, and the roughly seventeen seconds during which the image is unusable.
-
-**Recordings relied on elsewhere in the book.** The December 6, 2021 clerk's-office encounter and the sheriff's arrival outside it. The December 7, 2021 service of the commitment writ. The recorded call with Rachel Alcorn. The recorded call with a defense attorney about judicial reassignment. The October 19, 2020 interview with Sheriff East. Approximately 480 cleaned transcripts of published broadcasts spanning the period.
-
-**A standing caveat on quotation.** Some transcripts in this archive were produced by automatic speech recognition and have not been verified against the audio. ASR is reliable for locating a conversation and unreliable for its exact words — it routinely mangles proper names. Any quotation in this book drawn from an unverified machine transcript is marked **[ASR — pending audio verification]**. Those passages are accurate in substance and provisional in wording.
-
----
-
-## H. HOW TO CHECK THIS BOOK
-
-*A reader who wants to verify rather than trust should start here.*
-
-| Claim | Where in the book | What to check it against |
-| --- | --- | --- |
-| Sheriff's admission that sallyport video was not preserved | Chapters 9, 11 | His sworn testimony; Analysis XVII |
-| A federal magistrate's finding that an officer lied under oath | Chapter 24 | The magistrate's report and recommendation; Chapter 37 |
-| Judge reassignment on the public docket, August 2020 | Chapters 15, 25 | Delta Computer Systems docket history for the post-conviction matter |
-| The commitment writ served without its affidavit | Chapter 16 | The recording of the service; Analysis XIII |
-| Alcorn's stated basis for the commitment affidavit | Chapter 16 | The recorded call; the Calhoun County outpatient order (not yet obtained) |
-| What Deputy Beavers actually testified | Chapter 21 | Certified transcript, November 3, 2022, 25 pages |
-| The stated ground for revocation | Chapters 21, 22 | The written revocation order; Analysis XVI |
-| Two months of surveillance before the arrest | Chapter 28 | The BOLO and its distribution |
-| Conduct and language on the morning of the arrest | Chapter 30 | The livestream, published by the author |
-| The 2025 reversal | Chapter 35 | The appellate opinion; Analysis XIV |
+- An official or certified court transcript controls over an automatic transcript of the same proceeding.
+- A direct recording controls over later recollection where the two conflict.
+- Automatic speech recognition is treated as a search and drafting aid. It is not treated as verbatim merely because software produced quotation marks around it.
+- Proper names, dates, and legally significant quotations are checked against the underlying recording or another primary source whenever possible.
+- A gap in a recording is described as a gap. A camera that did not cover an event is not described as having "lost" footage of that event.
+- A document generated after an arrest is not described as the pre-arrest probable-cause instrument unless the record establishes that it served that function.
 
 ---
 
-## I. STANDING CORRECTIONS
+## H. HOW TO CHECK THE BOOK'S CENTRAL DOCUMENTARY CLAIMS
 
-*Claims this book previously made, and no longer makes. They are listed rather than deleted, because a book that silently revises itself is not a record.*
+| Claim | Principal record |
+|---|---|
+| The 2017 formal charging paper alleged an AR-15 offense "on or before May 8, 2017" | July 6, 2017 Criminal Information and plea transcript, LK17-295 |
+| The identified Del-Ton rifle was purchased May 20, 2017 | Dated private bill of sale for serial S086662 |
+| Major John Hill documented a threat by Rhea Tannehill after the May 30 Chancery hearing | Hill's May 30, 2017 Sheriff's Office narrative |
+| Crowder's false-reporting disposition totaled $1,149.25 | September 22, 2020 Olive Branch Municipal Court order |
+| Crowder's County Court appeal was untimely and dismissed | November 23, 2020 DeSoto County Court order |
+| The June 28, 2022 arrest warrant existed before Reardon arrived at Chancery Court | MBI file and Lafayette County Sheriff's Office June 28 warrant-service report |
+| What Beavers actually said at the November 2022 revocation hearing | Certified revocation transcript |
+| The Texas laboratory found no alcohol | Texas DPS report HOU-2308-10286 |
+| The same toxicology production separately reported methamphetamine at 0.13 mg/L | Confirmation analysis in the Texas/Mississippi exhibit record |
+| Osteen later testified alcohol had been detected | July 18, 2024 certified revocation transcript |
+| The January 2025 order corrected a revocation sentence, not the underlying conviction | January 21, 2025 L24-388 Order & Judgment |
+| The Mississippi Court of Appeals reversed the dismissal of the Justice Court appeal, not the convictions themselves | February 24, 2026 opinion in 2024-KM-00839-COA |
+| Edison wrote that "the record shows that Osteen lied to Judge Tollison" | July 14, 2026 Dkt. 90 in *Reardon v. Osteen* |
+| Edison also concluded that the complaint stated an unreasonable-seizure claim before recommending qualified immunity | Dkt. 90, read together with Dkts. 93–94 |
+| The New Orleans RTCC camera did not capture the actual altercation | Produced RTCC/NOPD records discussed in Chapters 32–33 |
+| The federal sentencing court imposed probation and later clarified the role of prior custody | August 7, 2026 sentencing recording/transcript source |
 
-1. **That Rachel Alcorn named Sheriff East as her source.** She did not. On the recording she says "local law enforcement." The identification of East is the author's inference, and his own federal pleading hedged it as "presumably."
-2. **That perjury at the revocation hearing sent the author to prison.** The State's witness conceded the central fact on cross-examination, and the court's ruling did not turn on the disputed point.
-3. **That the author was denied counsel at a revocation hearing.** He waived counsel on the record in 2022, and in 2024 the court raised the question unprompted and continued the hearing so counsel could be appointed.
-4. **That a docket irregularity implies ballot tampering.** No evidence connects them. The docket record stands on its own; the inference is withdrawn.
-5. **That a county sheriff violated the PATRIOT Act's domestic-terrorism provision.** Withdrawn as legally baseless. See E.
-6. **That emails following a 2017 FOIA request carried implied threats.** Withdrawn as unprovable.
-7. **That the author knew PFC Bradley Foust personally.** He did not, and did not know what Foust was facing. Earlier drafts implied otherwise.
-8. **That Communicare is a quasi-governmental body.** Its supervisor denies it; its actual status is undetermined and is treated as an open question. See Analysis XII.
+---
+
+## I. STANDING CORRECTIONS FROM EARLIER EDITIONS
+
+This section records claims that earlier drafts made too strongly or incorrectly. They remain listed because silent correction would defeat the archival purpose of the book.
+
+1. **Rachel Alcorn did not identify Sheriff Joey East by name as her source.** The recorded call refers to local law enforcement. Any attribution to a particular officer requires separate evidence.
+2. **The November 2022 revocation cannot accurately be summarized as "Beavers committed perjury and that sent me to prison."** Her testimony contained disputed and hearsay-based assertions, but she also confirmed that Reardon called the Sheriff's Department in advance, and the court's ruling rested on its interpretation of the banishment condition and Reardon's presence.
+3. **Reardon was not simply denied counsel at the 2022 revocation hearing.** The transcript shows a waiver of counsel after questioning by the court.
+4. **No evidence connects a docket-assignment irregularity to ballot tampering.** That inference is withdrawn.
+5. **The USA PATRIOT Act domestic-terrorism provision and 26 U.S.C. § 7214 theories previously asserted against county officials were legally misplaced.** They are withdrawn.
+6. **Emails following the 2017 Marine Corps records dispute do not establish implied threats merely because their timing was suspicious to the author.** That characterization is withdrawn absent direct evidence.
+7. **The author did not know PFC Bradley Foust personally.** The Prologue now separates the author's recollection of the training environment from Jay Andrews's independent affidavit and the Marine Corps records.
+8. **Communicare is not described as a proven governmental or quasi-governmental entity.** Its federal state-action status remains an unresolved legal and factual question.
+9. **The January 21, 2025 PCR order did not vacate the 2022 aggravated-stalking conviction.** It vacated the 2024 two-year revocation sentence, resentenced the technical violation to 120 days, ordered release, and reinstated the original probation/banishment terms.
+10. **The February 24, 2026 Mississippi Court of Appeals decision did not reverse the underlying Justice Court convictions.** It reversed the Circuit Court's dismissal of the appeal and remanded.
+11. **The New Orleans City Hall case does not contain proof that RTCC footage of the altercation was destroyed or "lost."** The produced camera material did not capture the altercation itself.
+12. **Magistrate Judge Edison's statement that Osteen "lied to Judge Tollison" is not a criminal adjudication of perjury.** The manuscript uses the judge's actual word and no stronger one.
+13. **Edison's unreasonable-seizure discussion was not a final merits judgment for Reardon.** The R&R said the complaint stated a constitutional claim, then recommended qualified immunity; the district court adopted the recommendation and entered judgment against Reardon.
+14. **The federal record does not establish that Circuit Clerk Jeff Busby personally transmitted the March 25, 2024 letter to Texas.** The R&R relied on evidence that Assistant District Attorney Steven Jubera transmitted it. Earlier claims of literal falsity in Busby's affidavit are withdrawn to the extent they depended on Busby personally sending the letter.
+15. **The August 7, 2026 federal sentence should not be described simply as "time served plus probation."** The judge clarified that Reardon was placed on two years of unsupervised probation and that prior custody would be credited if probation were later revoked and resentencing occurred.
+16. **The "on or before May 8, 2017" AR-15 allegation is documented, but not in a pre-arrest affidavit presently in the archive.** It appears in the July 6 Criminal Information and plea record. Earlier versions wrongly treated it as a fact sworn into the May 26 arrest warrant.
+17. **Major John Hill's May 30, 2017 report has been located.** It records Reardon's profanity, Rhea Tannehill approaching with a water bottle and saying "I'LL BASH YOUR HEAD IN," and Hill stepping in front of Rhea and telling him to leave. It does not say Hill physically restrained Rhea or that an assault occurred.
+18. **Brennan Horan and Rhea Tannehill are not established to have attended law school together.** A June 27, 2020 message from attorney Christi McCoy states that Brennan graduated roughly ten years before Rhea and that they were not in law school together. The contrary claim is withdrawn.
+19. **The Galveston toxicology did not establish "zero drugs."** It reported no alcohol and separately reported methamphetamine at 0.13 mg/L. The author disputes the significance and reliability of that result, but the laboratory result itself is not omitted.
+20. **The roughly eleven months of custody following the August 2023 Galveston arrest cannot be attributed solely to Osteen's affidavit or a single Texas bond.** Texas and Mississippi proceedings, including the Mississippi revocation hold, overlapped.
+
+---
+
+## J. SOURCE HIERARCHY USED FOR THIS EDITION
+
+When sources conflict, this edition uses the following order of confidence:
+
+1. Signed court orders, certified transcripts, filed pleadings, official agency records, laboratory reports, and authenticated public-record productions.
+2. Contemporaneous audio/video recordings and contemporaneous written communications.
+3. Later sworn statements and later recorded recollections, identified as such.
+4. The author's unsworn recollection where no stronger source exists.
+5. Secondary summaries, prior manuscript drafts, AI-generated analyses, news coverage, and internal timelines as research leads—not as substitutes for the underlying record.
+
+A later document can be more complete without being more trustworthy. A recent upload date does not make an old summary authoritative. Where the book cannot resolve a conflict from the source record, the conflict is left visible rather than silently reconciled.

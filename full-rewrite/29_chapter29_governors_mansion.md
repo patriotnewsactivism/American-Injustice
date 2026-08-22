@@ -1,159 +1,113 @@
 CHAPTER 29 — THE GOVERNOR'S MANSION
 
-Six weeks after the BOLO, and seven weeks before Lafayette, I stood on a public sidewalk in Jackson, Mississippi, outside the Governor's Mansion, holding a sign.
+On **July 3, 2025**, I stood outside the Mississippi Governor's Mansion in Jackson with a sign and a livestream running.
 
-It was **July 3, 2025** — the day before Independence Day, which I would like to tell you was deliberate and which I am fairly sure was. I was livestreaming. And I should say what I was actually there about, because "protesting" is a word that lets a reader skip past the substance.
+The sign said **FUCK THE GOVERNOR**.
 
-**Two days earlier, on July 1, a batch of new Mississippi laws had taken effect.** One of them required a person to pay **twenty-five dollars a day for a permit** — to panhandle. I had spent that morning talking about it with **Jeff Gray**, another auditor who works this same ground.
+I called the stream **"National Fuck the Governor Day."** There is no reason to clean that up after the fact. The recording exists, and the language is part of what happened.
 
-Think about what that statute is. The Supreme Court has held that **panhandling is protected First Amendment activity** — asking a stranger for help is speech. Mississippi's answer was not to ban it outright, because it cannot. Mississippi's answer was to put a **twenty-five-dollar-a-day price tag on it**, and charge that price to the one category of person in the state guaranteed not to have twenty-five dollars. A right you have to rent by the day, at a rate calibrated to the people least able to pay it, is not a right. It is a permission slip with a fee schedule.
+I was there for more than one reason.
 
-Tate Reeves signed it.
+Two days earlier, on July 1, Mississippi's **Safe Solicitation Act**, House Bill 1197, had taken effect. I described it on the livestream as a law forcing panhandlers to pay twenty-five dollars every day for a permit. The enacted text is more precise than that description.
 
-So that is the first reason I was on that sidewalk. There is a second one, and it is personal, and I will come to it — but I want the record to show that I did not drive to Jackson because of my own case. I drove there because of a law about homeless people.
+The statute defined covered "solicitation" as requesting money or something of value while positioned on specified roads, streets, highway medians, traffic islands, or highway intersections. It required a solicitation permit for the covered activity and authorized the relevant government authority to charge a permit fee **not exceeding $25**. It also limited permits by location and time and provided that only one permit would issue for an intersection on a given day.
 
-I called the stream **"National Fuck the Governor Day."** I am putting that in this book in my own words rather than letting someone else put it in theirs. It is exactly the register you think it is, and it tells you something true about how I was operating in the summer of 2025.
+So my livestream description — "$25 a day to panhandle" — captured what I believed the practical effect of the law to be, but it overstated the text. The law authorized a fee **up to** twenty-five dollars for the regulated roadside solicitation; it did not say every person asking for money anywhere in Mississippi must pay a flat twenty-five dollars every day.
 
-I want to be straightforward about the sign, because everything in this chapter turns on it and because being cute about it would be dishonest.
+I objected to the law on First Amendment grounds. The constitutional analysis belongs in the Legal Analysis section rather than being announced here as though the U.S. Supreme Court had already struck down this particular Mississippi statute. What matters to this chapter is that the law was one reason I chose to protest at the Governor's Mansion.
 
-The sign said **FUCK THE GOVERNOR.**
+The other reason was personal.
 
-Three words. No qualifier, no argument, no policy citation — just the plainest available statement that a citizen holds a public official in contempt. I am not going to dress that up as something more dignified than it was, and I am not going to apologize for it either, because the entire point of the First Amendment is that it does not exist to protect the signs everybody likes. A sign that everyone agrees with is not a test of anything.
+On **November 9, 2023**, Governor Tate Reeves signed a Request for Interstate Rendition addressed to Texas Governor Greg Abbott concerning me. The document is now in the evidence archive.
 
-There is a line here, and it is not a subtle one. *Kill the governor* is a threat and a crime and would have gotten me arrested by lunchtime in any state in the union. *Fuck the governor* is an opinion. In 1971 the Supreme Court decided *Cohen v. California* over a jacket that said **Fuck the Draft**, worn into a Los Angeles courthouse, and Justice Harlan wrote the sentence that has been doing the work in cases like mine for fifty-five years: *one man's vulgarity is another's lyric.* The state does not get to pick the register in which you are permitted to object to it.
+It says that the annexed papers were **"duly authenticated under Mississippi law"** and that I stood charged in Lafayette County with **violation of the terms of probation in connection with a conviction**, Cause No. **LK22-358**, with a bench warrant issued.
 
-That is what I was holding. That is all I was holding.
+That part needs correcting from what I said on the July 3 livestream.
 
-## The second reason
+On camera I called the cause number fictitious and the stated charge fictitious. They were not. LK22-358 was the actual cause number for the 2022 aggravated-stalking case, and violation of probation was the basis of the rendition request.
 
-Here is the personal part, and it is the reason I picked *that* sidewalk and not some other one.
+The supporting bench warrant contained the real defect.
 
-**Tate Reeves signed the governor's warrant that took me out of Texas.**
+The August 17, 2023 bench warrant in LK22-358 commanded that I be brought before the court to answer for a probation violation **"on the original charge of Possession of a controlled substance."** That was wrong. My underlying conviction in LK22-358 was aggravated stalking, not possession of a controlled substance.
 
-In 2023, sitting in the Galveston County Jail on the felony DWI charge that Chapters 22 and 23 take apart, I was extradited to Mississippi on a probation-revocation hold — **about two weeks before I was due to go to trial in Galveston.** The instrument that moved me was a governor's warrant, bearing the **seal of the State of Mississippi**, signed by the governor and countersigned by the Secretary of State, whose whole legal function is to certify that the supporting papers from the demanding state are **authentic**.
+The discrepancy was later confronted in open court. At the July 18, 2024 revocation hearing, Judge Grady Tollison acknowledged that the warrant should have referred to aggravated stalking and stated, to his knowledge, that I did not have a conviction for possession of a controlled substance.
 
-I have the document. It is one page, signed at the Capitol in Jackson on **November 9, 2023**, addressed to Governor Greg Abbott of Texas, with the **Great Seal of the State of Mississippi** on it. And I am going to do something here that I would like the State of Mississippi to try once, which is to read a document out loud and then correct my own account of it where the two do not match.
+That is enough. I do not need to call the entire rendition packet forged or fictitious, because the documents do not support that characterization.
 
-Here is the operative sentence:
+The Governor's request contains a second statement that does not fit the documented chronology cleanly. It says it had been represented to Reeves that I was in Mississippi at the time of the alleged offense, **"thereafter fled from Mississippi and has taken refuge"** in Texas, and was then in the Galveston County Jail.
 
-> *"I, Tate Reeves, Governor of the State of Mississippi, do hereby certify that **the annexed papers are duly authenticated under Mississippi law** and present that MATTHEW OLIVER REARDON... stands charged in CITY OF OXFORD, COUNTY OF LAFAYETTE, MISSISSIPPI, with the crime of VIOLATION OF THE TERMS OF HIS PROBATION IN CONNECTION WITH A CONVICTION in Cause No: LK22-358..."*
+The underlying probation allegation, however, arose from the August 11, 2023 Galveston DWI arrest. I had been released from Mississippi custody on August 1 and was arrested in Texas ten days later. By November 9, when Reeves signed the rendition request, I was already confined in the Galveston County Jail.
 
-And here is the one I have spent two years describing:
+I have described that recital as fraudulent. The documentary record establishes the mismatch; it does not establish who supplied the language, whether it was standardized extradition wording, or whether Reeves or Secretary of State Michael Watson knew it was inaccurate. I am therefore describing the discrepancy and stopping there.
 
-> *"It has been represented to me that the fugitive **was in Mississippi at the time of the alleged offense(s), and thereafter fled from Mississippi and has taken refuge in your State** and is presently in the custody of the GALVESTON COUNTY JAIL, 5700 AVENUE, GALVESTON, TEXAS 77551."*
+The rendition request appointed **Sheriff Joey East and/or his duly authorized agents** to receive me from Texas and convey me to Mississippi. A cover letter from the Governor's Office extradition coordinator likewise directed Texas authorities to notify East when I became available for release.
 
-I have said on camera, more than once, that this warrant carried a fictitious cause number, a fictitious charge, and a recital that I was on probation for possession of a controlled substance.
+Earlier versions of this chapter said Reeves and Watson "never read" the papers beneath the seal. I do not know that. Their signatures establish authentication of the request; they do not establish what either man personally reviewed before signing it.
 
-**Two of those three are wrong, and I am leaving the correction in the text.** The cause number on it is LK22-358, and that is the real number — it is the same one on the State's own motion to revoke. The charge on it is violation of probation, which is what I was actually taken back for. A book that demands the state show its work does not get to hide its own, so there it is: I overstated it.
+The record is strong enough without inventing their state of mind: a governor's rendition packet certified supporting papers that included a bench warrant falsely identifying the underlying conviction, and the request itself contained a flight-from-Mississippi recital that does not match the chronology reflected in the case records.
 
-**The third one is not wrong. It is worse than I said.**
+That was the personal grievance I carried to the Governor's Mansion on July 3.
 
-The governor's warrant is a cover sheet. Its entire legal function is to certify **the annexed papers** — the packet from Mississippi that Texas is being asked to rely on. So I went and got one of the annexed papers.
+The livestream records what happened there.
 
-Here is the **bench warrant**, Cause No. LK22-358, signed by a Lafayette County Circuit Court judge on **August 17, 2023**, commanding the Sheriff to bring me in:
+I was outside the mansion grounds when a Mississippi Highway Patrol trooper told me to move across the street. The exchange escalated quickly.
 
-> *"...to answer the charge of **Violation of Probation on the original charge of Possession of a controlled substance** filed by the District Attorney..."*
+The transcript captures the trooper telling me: **"Get your stuff and go the fuck across the street. You understand me?"**
 
-**I have never been charged with possession of a controlled substance in my life.** My original charge — the one everybody in this story knows, the one the State's own motion to revoke recites in its first paragraph — was **aggravated stalking**. There is no version of my record in which those two things are confusable.
+I asked whether I was under threat of arrest.
 
-So the sequence is this. A judge signed a bench warrant naming a crime I was never charged with. That warrant went into a packet. **Tate Reeves certified the packet as "duly authenticated under Mississippi law." Michael Watson, the Secretary of State, countersigned it. The Great Seal went on it.** And a Texas jail handed me over on the strength of it.
+He answered: **"Yeah, you under threat of arrest."**
 
-Not one of them read the paper underneath the seal. That is the finding, and it is narrower and more specific than "they forged a document" — which is exactly why it is harder to argue with.
+I asked whether he knew what the First Amendment was.
 
-And there is a second thing wrong with that page, independent of anything underneath it.
+His response began: **"I don't give a fuck what the first—"** before the exchange moved on.
 
-Read the fugitive recital against what actually happened. I did not flee anywhere. I walked out of Mississippi custody on August 1, 2023, drove to Texas in the open with a camera running, and was arrested there ten days later. By the time this warrant was signed I had been sitting in the Galveston County Jail — **at the address printed on the warrant itself** — for three months. There is no flight in this story. There is no refuge. Somebody filled in the blanks on a form built for a man who runs, and two officials put a seal on it without anyone noticing that the form does not describe the person it names.
+I demanded his name and badge number. I called him a tyrant. I repeatedly insisted that I was standing on the sidewalk and challenged him to act.
 
-That is the finding, and it is smaller than the one I have been making and harder to wave off. Not *the state forged a document*. **The state used a template, nobody read it, and the Great Seal of Mississippi went on a sentence that isn't true about me.**
+My own language became confrontational too. The recording contains profanity, taunts, and repeated challenges from me. At one point I told the trooper that if he came out and put his hands on me I would defend myself. That is part of the record and belongs here rather than being omitted to make me sound more restrained than I was.
 
-One more line worth sitting with. The warrant directs that I be delivered to a specific person, by name: **Sheriff Joey East, Lafayette County Sheriff's Department.** After everything in the preceding twenty-seven chapters, the instrument that took me out of Texas ends by handing me back to him personally.
+The most important correction in this chapter concerns physical contact.
 
-**What I still need, and do not have:** the rest of the annexed packet, and the September 30, 2022 Judgment itself. I have the bench warrant. I do not have everything that travelled with it.
+An earlier draft said the trooper punched me, knocked my camera phone off the gimbal, stepped on it, and later had to be physically restrained by three officers while trying to break loose and attack me again.
 
-Both of those things — a fee on the speech of the homeless, and a seal on a warrant nobody read — are the same act performed at different altitudes. Paperwork used as a weapon, by people who never expected anyone to actually read the paperwork.
+The preserved transcript does **not** support that account.
 
-## What happened
+When a supervisor arrived and asked me directly, **"Did he physically touch you?"** I answered: **"No, he didn't."** I then explained that my complaint was about what I perceived as a threat of violence and an attempted unlawful detention, not completed physical contact.
 
-A Mississippi Highway Patrol trooper came at me.
+That contemporaneous answer controls the manuscript unless another authenticated recording establishes a separate physical-contact event that the current source set does not show.
 
-Here is what he said, from my own live audio: **"Go the fuck across the street. You understand me?"**
+I therefore cannot accurately describe this incident as the trooper punching me, damaging my phone, or committing a completed battery. Those claims are removed.
 
-I asked whether that was under threat of arrest.
+What the recording does support is still serious enough to describe without embellishment: while I was protesting with a profane political sign, a state trooper ordered me across the street, expressly placed that command under threat of arrest, responded to my First Amendment question with profanity, declined to give me the identification I was demanding, and approached closely enough that I complained to his supervisor that I believed I was being threatened with physical seizure.
 
-**"Yeah, you're under threat of arrest."**
+The supervisor's response is also on the recording.
 
-I asked him if he knew what the First Amendment was.
+He asked what happened. I told him the trooper had tried to "aggress" me and had come within about an arm's length. The supervisor asked the critical factual question — whether the trooper had actually touched me — and I said no.
 
-**"I don't give a fuck what the first—"**
+I continued demanding that the matter be treated as misconduct. My delivery was angry. I complained about what I viewed as a double standard for police officers and insisted that the incident not be swept aside.
 
-He did not finish the sentence. He did not need to.
+That is a much more accurate account than calling it an assault-and-battery event already proven on video.
 
-Then he charged me. He knocked my camera phone off my gimbal, and he stepped on it.
+The livestream also preserves an important correction to my own rhetoric about the rendition packet. During the protest, I told viewers that Reeves had authenticated "fake documents," that the cause number was bogus, and that the charge was bogus. The source documents now available show that those two specific statements were wrong. I am correcting them here rather than repeating an accusation the records do not sustain.
 
-I asked for his name and badge number. He refused. I asked again. He refused again. I asked for a supervisor, and a supervisor came, and the supervisor did not take my name, did not take my complaint, and did not make him identify himself.
+What remains is narrower:
 
-I am not going to pretend I was gracious about it, because the recording exists and anyone can hear me. Here is what I sound like on that tape: **"What's your name and badge number? Tyrant."** And: **"I have a First Amendment right to be on the sidewalk. I'm on the fucking sidewalk. Do something about it."** And after he put his hands on me: **"Get the fuck off—"**
+The cause number was real.
 
-Then, over and over, six times: **"I want charges placed on him. I want charges on him. I want charges on him now."**
+The probation-violation proceeding was real.
 
-I stand by the demand and I am not especially proud of the delivery. Both of those things are in the recording and both of them belong in this book. A reader who hears me swearing at a state trooper for the first time in the government's brief, rather than here, has every reason to discount everything else I've told them.
+The **bench warrant's description of my original conviction as possession of a controlled substance was false**.
 
-## The part that matters
+And the interstate rendition request described me as having fled Mississippi and taken refuge in Texas even though the documented sequence is that Mississippi released me on August 1 and Galveston arrested me on August 11.
 
-The confrontation is not the story. The story is what happened next.
+Those are document-to-document comparisons. They do not depend on accepting my interpretation of anyone's motive.
 
-Two more troopers and the supervisor got hold of him. They had him — physically restrained, by his own colleagues, in front of a camera.
+I later sought accountability for the July 3 confrontation and publicly criticized the response I received from state and federal offices. Those requests and any agency responses need to be tied to the actual correspondence before the final publication master states that a particular office ignored, denied, or failed to investigate them. I am not treating my later commentary as proof of what an agency did internally.
 
-**And he tried to break loose and come at me again.**
+The same rule applies to legal conclusions. I believed the trooper's threat of arrest violated my First Amendment rights and that the confrontation could support civil-rights claims. No court adjudicated those questions. No prosecution arising from the encounter established a crime by the trooper. The current evidentiary record is the recording itself, my contemporaneous complaint, and the surrounding public documents.
 
-That is the sentence I want left standing. Not the profanity, not the sign, not who said what first. A sworn Mississippi Highway Patrol trooper, being held back by three other officers of his own agency, on video, in front of the Governor's Mansion, **fought them to get to a man with a camera.** It looked, and I have described it exactly this way ever since, like a football player coming through the line.
+That is what this chapter can prove.
 
-Whatever you think of my sign — and you are entitled to think it was crude, because it was — that is not a proportionate response to it. That is not any kind of response to it. That is a man who lost control of himself in public while wearing a badge, and whose own colleagues could see it clearly enough to grab him.
+By July 2025, I was publicly confronting state officials in Mississippi while federal court-security personnel in Mississippi and Louisiana were already circulating alerts concerning my courthouse activity. Seven weeks later I returned to the federal courthouse in Lafayette.
 
-## What I asked for, and what I got
-
-I made three demands publicly, and I made them by name.
-
-**To Governor Tate Reeves:** issue a statement. Say plainly that violence against peaceful protest is not Mississippi policy. I said then and I say now — *silence is complicity, and inaction is permission.*
-
-**To the Mississippi Attorney General:** I submitted a sworn criminal affidavit, under penalty of perjury, for assault and battery by a sworn officer of the state. Acknowledge it, or step aside and appoint a special counsel. As I put it: your job is not to defend the badge, it is to defend the law.
-
-**To the United States Department of Justice:** open a pattern-and-practice investigation, under federal law, into the Mississippi Highway Patrol.
-
-Here is what I got.
-
-I called the governor's office. I was told that any questions for the governor's office needed to be put in writing, by email, to their press people. I said what seemed obvious to me — that I am not only a member of the press but the actual victim of the thing I was calling about, and that I would like to speak to a human being. They would not do it. Everything in writing. Nothing live. Nothing that couldn't be routed, reviewed, and drafted by committee before anyone had to say a word out loud.
-
-From the Attorney General's office, nothing. That is not new. I have been to that office, by my own count, more times than I can usefully number over the preceding eight years, and I have never once gotten a substantive response. I have come to believe the reason is structural rather than personal: to act on any of it would require the state to concede it was wrong the first time, and states do not like to do that.
-
-From the Department of Justice, nothing. Not a denial. Not a case number. Not a returned call. I have left voicemails explaining why it mattered. I have never had one returned.
-
-## The day after
-
-On July 4 I did something that in hindsight I think was the most useful thing I did that week.
-
-I drove to a police department — not the Highway Patrol, a municipal department with no stake in any of this — and I asked them a hypothetical. I deliberately did not tell them the man in the story was a state trooper, or that it had happened outside the Governor's Mansion. I just described it: I'm filming on a public sidewalk, someone comes up, tells me to get off the sidewalk, charges at me, punches me, knocks the camera off my gimbal, steps on the phone. **What crimes is that?**
-
-The answer came back without hesitation, and it is worth setting out because it is what the law looks like when nobody knows whose ox is being gored:
-
-Mississippi has no separate battery charge. What it has is **aggravated assault** — a felony, depending on injury — and **simple assault**. On the facts as I described them, absent serious bodily injury, that is **simple assault**. The destruction of the phone is **malicious mischief**, because there was intent to destroy property. And the officer told me, plainly: *we would allow you to sign charges for the simple assault as well as sign charges for the malicious mischief.* From there it goes to a public-cause hearing in front of a judge; a felony would go to a grand jury.
-
-He also volunteered a charge I hadn't thought to ask about — **simple assault by physical fear**, which covers a person who comes at you with a balled fist and the stated intention of hurting you without necessarily landing the blow.
-
-So: a police department, given the facts and not the names, said there were two chargeable offenses and that they would let a citizen sign the affidavit.
-
-No charges were ever brought against that trooper.
-
-## What this does and does not establish
-
-I have to hold the line here the same way I have asked the state to hold it about me for eight years.
-
-**What is documented:** my own live audio, published by me, of a Mississippi trooper telling me to get off a public sidewalk under threat of arrest, saying he did not care what the First Amendment was, refusing to identify himself, and being physically restrained by three colleagues while trying to get back to me. That footage exists and it has been watched by a great many people — I have used the figure of close to a hundred thousand and I cannot document it precisely, so treat it as my estimate rather than an analytic.
-
-**What is not documented, here:** any incident report, any internal affairs file, any disciplinary outcome, and **the trooper's name.** He would not give it, nobody made him, and I have never learned it. I am not going to guess at it in print, and I would ask any reader who thinks they know it not to guess either. A man is entitled to be accused by name or not at all, and I do not have his name.
-
-**What no court has ever said:** anything. There was no prosecution, no civil suit filed on this incident, and no finding by anyone. A civil rights attorney I later interviewed read the footage as raising First, Fourth, and Fourteenth Amendment claims and pointed toward the federal side rather than the state, on the practical theory that state courts are, in her words, *"a little bit more biased toward their own."* That is one lawyer's opinion, offered on a podcast, expressly not as legal advice and expressly from outside Mississippi. It is not a ruling and I am not dressing it up as one.
-
-What I am left with is a video, a sworn affidavit nobody acknowledged, three demands nobody answered, and a police department in another town that looked at the same facts with the names filed off and said *yes, that's two crimes, you can sign the charges.*
-
-Seven weeks later I walked into a federal courthouse in Lafayette, Louisiana, and the next chapter is what happened there.
+That encounter would not end with the building closing.

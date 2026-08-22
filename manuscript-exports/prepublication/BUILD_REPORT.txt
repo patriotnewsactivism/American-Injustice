@@ -1,0 +1,9 @@
+American Injustice publication build
+Build date: 2026-08-22
+Source directory: full-rewrite/
+Source files assembled: 46
+Chapters: 39
+Approximate assembled word count: 78,920
+Minimum word-count guardrail: 75,000
+Assembled Markdown SHA-256: 5c4f26202f2f2178ab6673e24a03e09d90688fa8253ef5efc28916e81892aa0b
+QA: PASS

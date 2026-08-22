@@ -1,23 +1,173 @@
 CHAPTER 20 — THE GUILTY PLEA AND BANISHMENT
 
-On September 30, 2022, I pled guilty to the second aggravated stalking charge detailed in the previous chapter — Case B, the Tannehill-order case. The sentence: five years of suspended, unsupervised probation, and banishment from Lafayette County for the same five-year term, with forty-five days to vacate the county entirely. The deadline to leave was November 14, 2022.
+The second aggravated-stalking case moved from the July 6 preliminary hearing to the grand jury.
 
-It is worth sitting with the word "banishment" for a moment before moving past it, because it is not a word used loosely here, and it is not a word that appears often in ordinary American criminal sentencing. Exclusion orders — conditions barring a defendant from a specific geographic area as a term of probation — do exist in American law, and courts have upheld them in narrower circumstances, typically tied to a specific, ongoing safety concern involving an identifiable victim or location, and typically time-limited and proportional to that concern. A five-year, county-wide banishment, covering the entirety of Lafayette County rather than a specific address or a specific person's residence, is a considerably broader remedy than the ordinary exclusion-order case law contemplates, and it raises a question that cannot be resolved here as a matter of Mississippi sentencing law but is entitled to be flagged as unusual: banishing a man from an entire county, rather than restricting him from a specific person or property, functions less like a narrowly tailored protective measure and more like an exile — a punishment aimed at removing a person from a community's field of vision, not merely at protecting a specific individual from a specific risk.
+The indictment is now in the source set, and its wording adds detail that earlier versions of this chapter did not have.
 
-To understand the legal severity of banishment requires recognizing how rarely such sweeping geographic exclusions are sanctioned in modern American jurisprudence. Modern courts have traditionally viewed county-wide or state-wide banishment with deep skepticism, recognizing that expelling a citizen from an entire jurisdiction risks violating fundamental constitutional rights, including the right to travel, the right to association, and the right of access to local courts. While narrow probation conditions prohibiting a defendant from approaching a specific home, workplace, or school are standard tools of domestic protection, expelling a person from an entire county transforms a protective order into territorial expulsion. It effectively dumps the individual beyond the county border while cutting him off from the civic, commercial, and legal institutions necessary to conduct his daily life.
+The Lafayette County grand jury returned the indictment in Cause No. **LK22-358**, and the document was filed on **September 6, 2022**. It charged aggravated stalking under Mississippi Code § 97-3-107(2).
 
-I accepted this plea. The available record does not establish precisely what calculation went into that decision — whether it reflected a genuine acknowledgment of wrongdoing, a pragmatic assessment that a five-year suspended sentence with unsupervised probation was preferable to the risk of trial on an enhanced charge carrying real prison exposure, or some combination of both. Guilty pleas in the American criminal system are entered for all of these reasons simultaneously, far more often than popular understanding of "guilty" as a pure admission of factual wrongdoing would suggest, and my plea is not treated here as dispositive proof of anything beyond the fact that, in September 2022, facing the specific charge and exposure detailed in the previous chapter, I decided a plea was my best available option.
+The charging paragraph alleged that, **“on or about June 24, 2022,”** I purposefully engaged in a course of conduct directed at **Robyn Tannehill**, knew or should have known the conduct would cause a reasonable person to fear for her safety, and did so after having been convicted within the preceding seven years of aggravated stalking.
 
-When a defendant stands in a Mississippi courtroom facing an enhanced felony charge carrying years of potential state prison time, the pressure to negotiate is overwhelming. In my posture on September 30, 2022, accepting a five-year suspended sentence with unsupervised probation seemed to offer an immediate alternative to the catastrophic risk of trial under an enhancement statute that locked prior records and new presence together. Unsupervised probation meant I would not be subject to routine check-ins or drug screenings, and a suspended sentence meant I would avoid immediate prison walls. But the hidden sting of the agreement was the banishment clause. By embedding an entire county exclusion into the terms of probation, the court created a sentence that was structurally unstable from the moment it was entered—a legal setup where any presence within Lafayette County, no matter how necessary or legitimate, could be seized upon as a probation violation.
+The indictment then identified the earlier case by cause number: **LK17-295**, the 2017 aggravated-stalking conviction. It stated that I had been convicted on July 6, 2017 and identified the earlier offense as having occurred on **May 8, 2017**.
 
-Shortly after entering that plea, I filed — pro se, without a lawyer's help — a Motion to Withdraw Guilty Plea. I argued two things at once: that both attorneys appointed to represent me across the case had been ineffective, and that I was not, in fact, guilty of aggravated stalking. Weeks later, in a written order filed November 14, 2022 — the same day, as it happens, that my forty-five-day banishment window expired — Judge Kent E. Smith, the same judge who had taken my plea on September 30, denied the motion. He applied the standard set by Strickland v. Washington, the Supreme Court case governing ineffective-assistance claims, which requires a defendant to show both that his counsel's performance was deficient and that the deficiency prejudiced the outcome. Judge Smith found neither showing made. He pointed to the plea colloquy itself — the back-and-forth questioning a court conducts before accepting a guilty plea — in which I had told the court I understood the charges, had discussed my defenses with counsel, and was entering the plea voluntarily. He also noted that I had undergone a mental evaluation, stipulated to by my own counsel, that found me competent. The motion is worth including here not because it changes anything about the underlying facts of Case B, but because it documents something true and worth stating plainly: within weeks of pleading guilty, I was already trying to fight my way back out of it, through the correct legal channel, and a court engaged with that attempt seriously rather than ignoring it. The attempt failed. It is part of the record regardless.
+That is another way the disputed May 8 date from the first case became embedded in the architecture of the second prosecution.
 
-What followed the plea is where this chapter's real weight sits. Banishment from Lafayette County meant banishment from the place where my children lived, where the custody arrangements this entire saga has orbited around were centered, and where — as the reader has seen across seventeen chapters — nearly every significant event in my adult life had played out. A forty-five-day window to vacate an entire county is not a gentle transition; it is a forced, compressed relocation, imposed on me, whose ongoing custody disputes gave me concrete, practical reasons to need to remain physically near the county I was being told to leave.
+The indictment listed **Shane Fortner** and **Joey Mauney** as witnesses.
 
-For a father engaged in active domestic litigation over his children, county-wide banishment is a devastating blow. Lafayette County was not merely a set of municipal boundaries on a map; it was the precise geographic location where my children resided, where Chancery Court dockets held jurisdiction over my parental rights, and where every meaningful legal and personal tie I possessed had been rooted for years. To be ordered to leave Lafayette County was to be severed from physical proximity to my children and forced to conduct complex custody litigation from beyond the county line. The forty-five-day window provided by the court was presented as a grace period to wind down my affairs, but in practice, attempting to dismantle a life, arrange long-distance living accommodations, and settle pending court matters in six weeks under the constant threat of incarceration was a crushing, chaotic ordeal.
+There is also a date discrepancy that I will not smooth over.
 
-On October 28, 2022, roughly two weeks before the November 14 deadline, I visited the FBI's Oxford office — a visit I had, by my own account and by testimony detailed in the next chapter, notified relevant parties about beforehand. That visit would be treated, by the officials who prosecuted the revocation that followed, as a violation of the banishment order, despite the fact that the forty-five-day grace period had not yet technically expired. Whether a pre-notified visit to a federal law enforcement office, made within a grace period explicitly designed to allow for the practical business of winding down a life in a county before departing it, should have been treated as a violation at all is a question taken up directly in the next chapter — because the answer to that question turned, almost entirely, on the sworn testimony of a single deputy whose credibility has already been called into question once before, in Chapter 11, over her own contradictory account of a traffic stop eighteen months earlier.
+The MBI warrant affidavit discussed in Chapter 19 centers the new investigation on my **June 20** visit to Oxford City Hall and earlier online activity. The indictment alleges the aggravated-stalking offense occurred **“on or about June 24.”** Those are different dates in two official records. The phrase “on or about” is not necessarily limited to a single twenty-four-hour period, but the documents still do not use the same date, and this edition preserves that fact.
 
-The timing and nature of the October 28 FBI visit demonstrate the bad-faith, premature enforcement that characterized how local authorities managed my sentence. The court had explicitly established November 14, 2022, as the deadline to vacate Lafayette County, giving me a forty-five-day window to handle my affairs. When I walked into the FBI office in Oxford on October 28—a federal facility, to report matters involving law enforcement misconduct—I was operating squarely within that designated grace period, and I had taken the precaution of notifying authorities beforehand. Yet local law enforcement officials did not wait for the November 14 deadline to pass. Instead, they seized upon a pre-notified visit to federal authorities made two weeks prior to the expiration date, treating it as an immediate, criminal violation of my banishment terms. This eagerness to declare a violation before the grace period had even elapsed provides compelling evidence of premature, bad-faith enforcement—a rush to trigger revocation and send me to prison before I could even complete the forced departure from the county.
+The certified November revocation transcript later summarized the procedural sequence on the record: indictment on September 6 and guilty plea on **September 30** before Circuit Judge Kent E. Smith.
 
-That deputy is Kandi Beavers. The next chapter is about what she told a Mississippi court on November 3, 2022, and about the recorded phone call that stands here as evidence that what she told the court was false.
+That means the case did proceed beyond the MBI warrant stage. Judge Smith had found sufficient evidence at the July preliminary hearing; the matter went to the grand jury; an indictment followed; and the case ended by plea rather than trial.
+
+The September 30 sentencing order is direct.
+
+Judge Smith imposed **five years** in the custody of the Mississippi Department of Corrections, suspended all five years, ordered **zero years to serve immediately**, and placed me on **five years of unsupervised probation**.
+
+The money portion also needs precision.
+
+An earlier version of this chapter called **$842.50** “court costs.” The signed order breaks the figure down differently: **$592.50 in court costs** plus a **$250.00 fine**, for a **total of $842.50**.
+
+The total was right. The description was not.
+
+The special restrictions were what made the sentence unusual in my life.
+
+I was **banished from Lafayette County for five years**.
+
+I was prohibited from contacting the Tannehill family.
+
+The court retained a **365-day right of review**.
+
+And because I was still residing at an address inside Lafayette County, the order allowed time for me to relocate.
+
+The word **banish** is not my characterization. It appears in the sentencing record itself. A separate Notice of Criminal Disposition likewise records a five-year banishment, five years of unsupervised probation, forty-five days to move from the current Lafayette County address, and no contact with the victim.
+
+But the relocation period needs to be described accurately.
+
+An earlier version of this chapter treated the forty-five days as though Judge Smith had given me forty-five days of unrestricted movement throughout Lafayette County while I packed, worked, visited agencies, and wound down my affairs. The State's later revocation motion described the conditions much more narrowly.
+
+According to the State's recitation, the sentence allowed me to **enter and exit Lafayette County and travel directly to the residence where I was then staying until November 15, 2022**. It separately allowed me to enter for **court proceedings or scheduled court business**, provided I gave the Lafayette County Sheriff's Department one day's notice.
+
+Those were the exceptions the revocation court later applied.
+
+That means the forty-five-day relocation window was not a temporary suspension of banishment. It was an exception structured around the residence, plus another exception for court business.
+
+The difference became clear almost immediately.
+
+At the November 3 revocation hearing, Judge Tollison read from the State's allegations that I had violated the terms on the **same day I was sentenced, September 30**, and again on **October 3**. According to the motion, Assistant District Attorney Tiffany Kilpatrick contacted defense counsel after those incidents and asked that we return while Circuit Court was still in term so the court could remind me that I was not permitted unauthorized movement around Oxford or Lafayette County.
+
+The State expressly told the revocation court that **no revocation proceeding was initiated over those first two incidents**.
+
+That fact matters because it shows the later October 28 and October 31 allegations were not the first time the State believed I had misunderstood or exceeded the geographic restriction. Before the revocation motion was filed, the prosecutor's office says counsel had already been contacted and the restriction had already been reiterated.
+
+That earlier warning complicates the account I later gave of October 28. I was not operating against a blank slate. By the State's account, I had already been reminded that the relocation period did not authorize general movement through the county.
+
+The plea itself is also part of the record in a way I cannot write around.
+
+The sentencing order states that Judge Smith found me competent and found the plea voluntary, knowing, deliberate, and intelligent. When I later tried to withdraw the plea, Smith's November 14 order described the colloquy in more detail. He wrote that I told the court I had discussed the plea petition with counsel; understood the petition; had discussed the facts and possible defenses; was not forced or coerced; was satisfied with counsel; and was in fact guilty of aggravated stalking. The order also referenced a mental evaluation in the case and stated that counsel had stipulated to the competency findings.
+
+My later position was the opposite.
+
+I believed appointed counsel had not represented me adequately. I believed months of incarceration had put me under enormous pressure to accept a deal. I continued to dispute the underlying stalking theory and the use of political speech and the City Hall encounter to support it.
+
+Those beliefs explain why I filed what I did next. They do not erase the sworn plea record.
+
+On **October 31, 2022**, I filed a pro se Motion to Withdraw Guilty Plea. I alleged ineffective assistance by the appointed attorneys, asserted innocence, attacked the plea circumstances, and asked the Circuit Court to set the conviction aside.
+
+The timing immediately became part of my own theory about what followed. The State filed its revocation motion on **November 1**, one day after my motion to withdraw the plea. At the November 3 hearing I pointed that out directly. Judge Tollison acknowledged that the plea-withdrawal motion was in the file but told me it would be processed separately and was not the matter before him that day.
+
+That distinction was procedurally correct even though I regarded the timing as suspicious. The revocation court was deciding whether I had violated probation. Judge Smith later decided whether the guilty plea itself could be withdrawn.
+
+On **November 14**, Smith denied the withdrawal motion.
+
+Applying the ineffective-assistance framework from *Strickland v. Washington*, he concluded that I had not shown deficient performance by counsel or resulting prejudice. He also relied heavily on the plea colloquy. My later assertions that I was innocent and had been pressured, he wrote, contradicted the answers I gave under oath when the plea was accepted.
+
+The signed order states that immediately before the plea hearing the court had found me legally competent based on the mental-evaluation findings and that defense counsel stipulated to those findings.
+
+That creates a documentary conflict that stays visible throughout the book.
+
+My later account is that the plea was the product of confinement, inadequate representation, and pressure to get back to my family and out of the jail.
+
+The court record says that when Judge Smith accepted the plea I denied coercion, expressed satisfaction with counsel, acknowledged discussing defenses, and admitted guilt.
+
+A memoir may explain why I believe those sworn answers did not reflect the reality I felt. It cannot pretend the answers were never given.
+
+The sentencing structure also created a legal vulnerability that I did not fully appreciate on September 30.
+
+The five-year prison term was suspended, not erased. That meant a later probation violation could expose me to incarceration under the suspended sentence. I walked out with no immediate years to serve, but with five years hanging over the case.
+
+The banishment condition was the first place where that vulnerability became concrete.
+
+On **October 28**, before the relocation period expired, I wanted to go to the FBI office in Oxford to report what I believed was law-enforcement misconduct.
+
+I knew enough about the restriction to make calls first.
+
+The FBI call survives.
+
+I told the person who answered that I needed to provide evidence, explained that I was banished from Oxford, and said I needed some kind of time or permission structure so I could notify local authorities before entering the city. I asked, in substance, whether an appointment could be set.
+
+The staffer explained that the office handled **walk-ins rather than appointments** and told me that coming before noon would be preferable.
+
+I then called the Lafayette County Sheriff's Department.
+
+That call survives too.
+
+I told Deputy Kandace Beavers that I needed to come into Oxford to meet with the FBI and that I was calling because of the court restriction. I gave her the expected timing and destination. When she later called back asking what time my “appointment” was, I explicitly told her there was **not really an appointment** because the FBI did not handle visits that way; I had tried to set one and had instead been told to come before lunch.
+
+That recording is one of the cleanest pieces of evidence in this entire chronology because it captures what I told law enforcement **before** the disputed conduct rather than my recollection afterward.
+
+It establishes three things.
+
+I was not hiding the trip.
+
+I had tried to get a defined time from the FBI precisely because of the banishment condition.
+
+And I told Beavers the truth that there was no formal appointment.
+
+It does **not** establish a fourth proposition that I used to treat as automatic: that because I gave notice, the FBI visit was authorized by the sentencing order.
+
+The State's later description says the one-day-notice exception applied to **court proceedings or scheduled court business**. An FBI walk-in does not fit that language on its face. The relocation exception likewise concerned direct travel to and from the residence where I was still permitted to stay.
+
+I believed reporting allegations to the FBI was legitimate public business and should have been allowed. But that is not the same as the written sentence expressly permitting it.
+
+That difference is the heart of the October 28 dispute.
+
+The State's November 1 motion alleged another event on **October 31**. A witness said she saw me in a residential neighborhood identified in the transcript as Shelby's Place. I denied it outright. I told the revocation court I had no idea what the witness was talking about and emphasized that there was no photograph or recorded license plate establishing that the vehicle was mine.
+
+The witness would later testify that she believed she saw me driving slowly through the neighborhood with the interior light on and that her stepmother tried unsuccessfully to obtain the tag number.
+
+The court credited that testimony under a **preponderance-of-the-evidence** standard, not the beyond-a-reasonable-doubt standard of a criminal trial.
+
+That distinction matters because probation revocation is not a new criminal prosecution of the alleged conduct. Judge Tollison told me the State would have to show that it was more probable than not that I had violated the probation terms.
+
+The November 1 motion therefore put two October events before the court:
+
+**October 28:** the FBI visit, which I admitted making but argued was authorized because I had notified the Sheriff's Department and attempted to coordinate with the FBI.
+
+**October 31:** the Shelby's Place allegation, which I denied occurred at all.
+
+The State's theory was that both were unauthorized presence in the county.
+
+My theory was that the first had been handled openly and with notice and that the second was mistaken or false.
+
+The suspended sentence made that factual dispute carry enormous consequences.
+
+One month earlier, I had walked out of court with zero years immediately to serve.
+
+On November 1, the State asked the court to revoke that suspended sentence.
+
+On November 3, I would stand before Judge Gray Tollison without a lawyer—after the judge offered me one and I waived counsel—and cross-examine Beavers and the neighborhood witness myself.
+
+For years afterward I reduced that hearing to one line: Beavers lied and sent me to prison.
+
+The transcript is more complicated.
+
+The recovered calls make one part of Beavers's testimony deeply problematic. But Judge Tollison's stated ruling rested on the broader question of unauthorized presence under the banishment terms.
+
+One additional records problem belongs in this chronology because it illustrates why I now compare documents instead of trusting a date merely because it appears on a filed form.
+
+A later 2023 petition seeking another revocation states that I was sentenced on **September 20, 2022**. The signed sentencing order, Notice of Criminal Disposition, and November 2022 revocation transcript all identify the sentencing date as **September 30**. I therefore use September 30 as the verified date while preserving the later petition's September 20 entry as a clerical inconsistency rather than silently importing it into the timeline.
+
+The next chapter follows the November 3 transcript rather than the slogan.

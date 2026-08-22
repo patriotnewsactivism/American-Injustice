@@ -1,0 +1,171 @@
+name: Build publication edition
+
+on:
+  push:
+    branches:
+      - prepublication-red-team-2026-08-22
+    paths:
+      - 'full-rewrite/**'
+      - 'scripts/build_publication.py'
+      - '.github/workflows/build-publication.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'full-rewrite/**'
+      - 'scripts/build_publication.py'
+      - '.github/workflows/build-publication.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out publication branch
+        uses: actions/checkout@v4
+        with:
+          ref: prepublication-red-team-2026-08-22
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install publication tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc poppler-utils
+          python -m pip install --upgrade pip
+          python -m pip install weasyprint
+
+      - name: Assemble and validate manuscript
+        run: python scripts/build_publication.py
+
+      - name: Build HTML and print PDF
+        run: |
+          OUT='manuscript-exports/prepublication'
+          STEM='American_Injustice_PUBLICATION_2026-08-22'
+          pandoc "$OUT/$STEM.md" \
+            --from=markdown+raw_html \
+            --to=html5 \
+            --standalone \
+            --metadata title='American Injustice' \
+            --metadata author='Matthew Oliver Reardon, writing as Don Matthews' \
+            --css='publication.css' \
+            --output="$OUT/$STEM.html"
+          weasyprint "$OUT/$STEM.html" "$OUT/$STEM.pdf"
+          pdfinfo "$OUT/$STEM.pdf" | tee "$OUT/PDF_INFO.txt"
+
+      - name: Validate rendered PDF
+        run: |
+          set -euo pipefail
+          OUT='manuscript-exports/prepublication'
+          STEM='American_Injustice_PUBLICATION_2026-08-22'
+          PDF="$OUT/$STEM.pdf"
+          TXT="$RUNNER_TEMP/american-injustice-rendered.txt"
+          FLAT="$RUNNER_TEMP/american-injustice-rendered-flat.txt"
+          INFO="$OUT/PDF_INFO.txt"
+
+          grep -Fq 'Page size:       432 x 648 pts' "$INFO"
+          PAGES="$(awk '/^Pages:/ {print $2}' "$INFO")"
+          test -n "$PAGES"
+          test "$PAGES" -ge 200
+
+          pdftotext -layout "$PDF" "$TXT"
+          python - "$TXT" "$FLAT" <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+          import unicodedata
+
+          text = Path(sys.argv[1]).read_text(encoding='utf-8', errors='replace')
+          text = unicodedata.normalize('NFKC', text)
+          text = text.replace('—', '-').replace('–', '-').replace('©', ' copyright ')
+          text = re.sub(r'\s+', ' ', text).strip().lower()
+          Path(sys.argv[2]).write_text(text, encoding='utf-8')
+          PY
+
+          for required in \
+            'american injustice' \
+            'matthew oliver reardon' \
+            'dedication' \
+            'a note from the author' \
+            'prologue' \
+            'chapter 1' \
+            'chapter 39' \
+            'epilogue' \
+            'legal analysis' \
+            'appendix' \
+            'standing corrections from earlier editions'
+          do
+            grep -Fq "$required" "$FLAT"
+          done
+
+          grep -Fq '2026' "$FLAT"
+
+          if grep -Fq 'fully vacated my 2022 conviction' "$FLAT"; then
+            echo 'Rendered PDF contains obsolete vacatur wording.' >&2
+            exit 1
+          fi
+
+          echo "Rendered PDF QA PASS: ${PAGES} pages, 6x9 trim, required publication sections present."
+
+      - name: Build Word and EPUB editions
+        run: |
+          OUT='manuscript-exports/prepublication'
+          STEM='American_Injustice_PUBLICATION_2026-08-22'
+          pandoc "$OUT/$STEM.md" \
+            --from=markdown+raw_html \
+            --metadata title='American Injustice' \
+            --metadata author='Matthew Oliver Reardon, writing as Don Matthews' \
+            --output="$OUT/$STEM.docx"
+          pandoc "$OUT/${STEM}_EPUB_SOURCE.md" \
+            --from=markdown+raw_html \
+            --toc \
+            --toc-depth=1 \
+            --metadata title='American Injustice' \
+            --metadata subtitle='A Memoir of Constitutional Warfare' \
+            --metadata author='Matthew Oliver Reardon' \
+            --output="$OUT/$STEM.epub"
+
+      - name: Record checksums
+        run: |
+          cd manuscript-exports/prepublication
+          sha256sum \
+            American_Injustice_PUBLICATION_2026-08-22.md \
+            American_Injustice_PUBLICATION_2026-08-22.html \
+            American_Injustice_PUBLICATION_2026-08-22.pdf \
+            American_Injustice_PUBLICATION_2026-08-22.docx \
+            American_Injustice_PUBLICATION_2026-08-22.epub \
+            > SHA256SUMS.txt
+
+      - name: Upload publication artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: american-injustice-publication-2026-08-22
+          path: |
+            manuscript-exports/prepublication/American_Injustice_PUBLICATION_2026-08-22.md
+            manuscript-exports/prepublication/American_Injustice_PUBLICATION_2026-08-22.html
+            manuscript-exports/prepublication/American_Injustice_PUBLICATION_2026-08-22.pdf
+            manuscript-exports/prepublication/American_Injustice_PUBLICATION_2026-08-22.docx
+            manuscript-exports/prepublication/American_Injustice_PUBLICATION_2026-08-22.epub
+            manuscript-exports/prepublication/BUILD_REPORT.txt
+            manuscript-exports/prepublication/PDF_INFO.txt
+            manuscript-exports/prepublication/SHA256SUMS.txt
+
+      - name: Commit publication exports to branch
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add manuscript-exports/prepublication
+          if git diff --cached --quiet; then
+            echo 'No publication export changes to commit.'
+          else
+            git commit -m 'Build publication-ready manuscript exports'
+            git push origin HEAD:prepublication-red-team-2026-08-22
+          fi

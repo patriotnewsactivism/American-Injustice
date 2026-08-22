@@ -1,27 +1,127 @@
 CHAPTER 8 — CONVICTION AND CONTEMPT
 
-Nearly two years passed between the January 2019 false-reporting charge against Phyllis Crowder and her eventual conviction. On September 22, 2020, Crowder was convicted in Olive Branch Municipal Court, entering a plea of nolo contendere — no contest, an admission that carries the legal consequences of a guilty plea without requiring the defendant to formally admit the underlying facts. The sentence, according to a hard detail confirmed through a recorded 2020 call to a county court clerk rather than through my account alone, was thirty days in jail and a $129.25 fine, with the sentence stayed pending an appeal deadline the clerk referenced only as "the 27th."
+By September 2020, the false-reporting case that Detective Ashley Holladay had built from the 2018 rape allegation had reached judgment. On September 22, 2020, Phyllis Crowder entered a no-contest plea in Olive Branch Municipal Court to false reporting of a crime. The later DeSoto County order dismissing her appeal identifies that September 22 disposition as a conviction.
 
-Living through those twenty months between the initial charge in January 2019 and the conviction in September 2020 was a trial of patience and emotional endurance. In misdemeanor criminal cases, two years is an extraordinarily long time for a simple charge to work its way through a municipal court docket. During that extended interim, I was left waiting in legal uncertainty, watching calendar pages turn while knowing that the charge remained unresolved on the court calendar. Every delay added to the background anxiety, as the threat of renewed allegations or procedural maneuvering hovered constantly over my daily life and my family.
+The municipal-court paperwork matters because an earlier version of this book got the money wrong. The signed court order lists a $1,000 fine and $149.25 in assessments, for a total of $1,149.25. It also records thirty days of jail time. The order suspended execution of the jail time and fine for thirty days to allow an appeal. That is the record I should have used from the beginning; the $129.25 figure printed in an earlier draft was wrong.
 
-For a lay reader unfamiliar with Mississippi jurisprudence, understanding municipal court procedures provides essential context for what unfolded on September 22, 2020. In Mississippi, municipal courts operate as courts of limited jurisdiction handling misdemeanor offenses and city ordinance violations. They are non-record courts, meaning proceedings are typically informal and not transcribed by official court reporters. When Crowder entered her plea of nolo contendere — no contest — she chose a legal posture that allowed her to accept the conviction and penalty without entering a formal admission of factual guilt on the court record. While a nolo contendere plea results in an immediate criminal conviction and sentence, it shields the pleading party from having their plea used as a direct factual admission in subsequent civil proceedings. The sentence imposed by the court was explicit: thirty days in jail and a $129.25 fine. However, as is common when a defendant indicates an intent to appeal, the municipal judge stayed execution of the sentence pending an appeal deadline that the county clerk later identified as "the 27th."
+The significance of the conviction was not simply that a court had entered a judgment against Crowder. It was what the underlying police file said. Holladay's false-reporting affidavit states that Crowder reported that our November 25, 2018 sexual encounter was nonconsensual. I told Holladay that Crowder and I had planned the encounter through text messages and that the sex was consensual. I gave him printed screenshots and later surrendered my phone for examination. Holladay obtained a search warrant for the phone. He wrote that the downloaded contents matched the messages I had provided and supported my account that the encounter was consensual. He concluded that the rape allegation had been intentionally reported falsely.
 
-What happened next is where this chapter's title earns its second half. Crowder's appeal was filed late. When the matter came before DeSoto County Circuit Court, the county court denied it and remanded the case back to Olive Branch. The Olive Branch judge, for reasons the available record does not fully explain, then refused to enforce the sentence he himself had imposed.
+That distinction is important. I am not claiming that no encounter occurred. An earlier version of my story sometimes compressed the episode too far. The police record says an encounter occurred; the dispute was consent. The detective's examination of the messages is what led him to conclude that the rape report was false.
 
-The "filed late" characterization understates how irregular this appeal actually appears in the record. On October 30, 2020, in a recorded call to the DeSoto County Circuit Clerk's office, a clerk identified in the available record as Allison told me flatly: "there hasn't been anything filed in this office by that name." That statement — a circuit clerk's own office, on the record, stating that no appeal existed under Crowder's name — sits in direct tension with Olive Branch Municipal Court's own position that a last-minute appeal had been submitted before Crowder's surrender deadline. That tension cannot be resolved from the available record; it may reflect a filing that existed but hadn't yet been logged into the circuit clerk's system, a filing made in a different name or through a different mechanism than a standard circuit appeal, or something else entirely. What can be said is that the appeal process which ultimately allowed Crowder's thirty-day sentence to evaporate did not, on this specific piece of evidence, appear to follow the clean, verifiable paper trail that the words "filed an appeal" ordinarily imply.
+The chronology between the September 22 judgment and the November appeal is unusually well documented because the court clerks and Crowder's attorney communicated by email.
 
-To appreciate the depth of this procedural anomaly, it is helpful to examine standard appellate procedure in Mississippi misdemeanor cases. Under Mississippi law, appealing a misdemeanor conviction from a municipal court to a higher court requires strict compliance with statutory deadlines, typically governed by Rule 29 of the Mississippi Rules of Criminal Procedure. An appeal from a municipal court transfers the case to the County or Circuit Court for a trial de novo — a completely new trial as if no prior trial had occurred. However, filing a notice of appeal after the statutory deadline deprives the appellate court of jurisdiction. Ordinarily, when an appellate court determines that an appeal notice was filed late, the standard judicial action is a straightforward dismissal of the appeal for lack of jurisdiction. Such a dismissal immediately reinstates the finality of the lower court's judgment, returning the case to the municipal court solely for execution of the original sentence.
+On October 5, attorney Christi McCoy wrote to Olive Branch court personnel asking for a copy of Judge Shumake's order and specifically said she wanted to make sure she did not miss any appeal dates. Court employee Carla Johnson responded that she had reminded Judge Shumake and would forward the order when he provided it. The order was then transmitted by email on October 6.
 
-This is worth sitting with for a moment, because it is a genuinely unusual sequence, procedurally. A defendant convicted and sentenced; an appeal filed outside the window that would ordinarily preserve it; a reviewing court remanding rather than simply denying the late appeal outright, which sent the case back down rather than closing it; and then the sentencing court itself declining to carry out its own sentence once the case landed back in its hands. Late appeals in misdemeanor cases are ordinarily dismissed cleanly, not remanded into a kind of procedural limbo that leaves a validly imposed sentence sitting unenforced. Whether that irregularity reflects genuine judicial discretion exercised in Crowder's favor, administrative confusion, or something else cannot be said with certainty from the available record. What can be said is that a documented false-reporting conviction, obtained through the diligence of a police detective who took contemporaneous text evidence seriously, ultimately produced no consequence for Crowder at all.
+That date later became important because Crowder argued that she did not actually receive the written judgment until October 6.
 
-For a citizen who had endured years of conflict and survived a false sexual assault allegation, watching a validly imposed thirty-day jail sentence and $129.25 fine evaporate into procedural ambiguity was profoundly demoralizing. The legal system had functioned correctly when Detective Holladay investigated the facts and when the municipal court entered a conviction. Yet at the final hurdle — the actual enforcement of punishment — the machinery stalled. The complete absence of enforcement conveyed a devastating message: that even when a false report is formally investigated, charged, and convicted, the perpetrator faces no actual penalty, while the victim is left to carry the ongoing burden of the ordeal.
+On October 26, Olive Branch court clerk Samantha Brock emailed McCoy after receiving a notice of appeal in the mail. Brock noted that Crowder was on the municipal docket the next morning and asked McCoy to contact her. McCoy responded: “Yes. We appealed the decision. Judge Shumake gave us 30 days to do so.”
 
-I did not accept that outcome quietly, and what I did next is the second half of this chapter's title, and the point where the layered thesis running through everything I'm telling here becomes unavoidable. I was myself arrested for contempt in connection with my efforts to force enforcement of Crowder's sentence — specifically, in a records request where I referenced, in writing, that Crowder "falsely accused me of rape." A $500 bond followed. I subsequently filed a pro se lawsuit against the City of Olive Branch seeking $10 million in damages.
+The exchange continued minutes later.
 
-The psychological shift that occurred during this period was crucial. Refusing to accept that Crowder's sentence would vanish without explanation, I began submitting persistent public records requests and formal inquiries to court officials and municipal authorities. In my mind, stating in a written records request that Crowder "falsely accused me of rape" was not an act of defiance, but an assertion of documented, established fact — a truth verified by Detective Holladay's investigation and confirmed by Crowder's nolo contendere conviction. To be met not with cooperation or enforcement, but with an arrest for contempt of court and a $500 bond, was a surreal and destabilizing experience. Suddenly, I was the party in handcuffs, processed through the criminal justice apparatus over words written in pursuit of public records, while the individual convicted of filing a false felony report walked free without serving a day of her thirty-day sentence.
+Brock asked whether the appeal had already been filed in County Court and said she had not understood that it could be done without a cost bill. She explained that Judge Shumake had just signed the cost bill that day and attached a copy. McCoy replied that they had been waiting for it and would submit the required money that week.
 
-In response to what I perceived as systemic resistance and retaliation, I turned to the courts as a pro se litigant, filing a massive lawsuit against the City of Olive Branch seeking $10 million in damages. Navigating the legal system without legal representation is an arduous, overwhelming process. Drafted without benefit of counsel, pro se filings often blend formal legal claims with raw personal narrative and deep frustration. Seeking eight figures in damages was an expression of total alienation from the ordinary legal process — an attempt to force a municipal government to acknowledge the systemic breakdown by raising the stakes to an absolute extreme.
+Those emails are significant for two reasons.
 
-There is no way to write around what that sequence looks like from the outside, and no attempt is made to here. By this point in the timeline, having already spent three years absorbing one institutional setback after another, I was now the subject of a contempt arrest arising from my own pursuit of accountability for a conviction the system itself declined to enforce. Whether the contempt charge was itself justified — whether my conduct in pursuing enforcement crossed a genuine legal line, or whether it represents one more instance of a system responding disproportionately to a citizen who will not let a matter drop — is not a question the record available can resolve definitively. What can be said plainly is that a $10 million pro se lawsuit against a municipality, filed by a man representing himself without counsel, is not evidence of institutional persecution. It is evidence of how my relationship with the ordinary mechanisms of legal recourse had, by 2020, become adversarial in both directions — sometimes because those mechanisms failed me, and sometimes because I escalated past the point that a more patient litigant might have stopped.
+First, they show that appeal-related activity was underway in October. It would therefore be misleading to write that Crowder and her attorney simply did nothing until November 19.
 
-Both of those things sit in this chapter at once. A detective did his job in 2019. A court failed to enforce its own sentence in 2020. And as the person at the center of both of those facts, I responded to the second one with a lawsuit seeking eight figures in damages over a matter that, whatever its underlying merit, was never going to be worth anywhere near that sum in any court in Mississippi. The next chapter follows me into the record-keeping fight that grew out of this same period — the 2020 post-conviction relief motion, the judge swap from Kent Smith to Kelly Luther that I would spend years trying to explain, and the notary-fraud theory presented with its evidentiary limits clearly marked, because that theory, more than almost anything else I claim here, sits at the edge of what the available record can actually support.
+Second, the legal filing date still controlled.
+
+The formal de novo appeal in the County Court of DeSoto County was not filed until November 19, 2020. The county case was State of Mississippi/City of Olive Branch v. Phyllis Crowder, Cause No. S2020-0024(CD). The fee bill shows a $1,319.25 payment received that day for the appeal.
+
+Four days later, on November 23, DeSoto County Court employee Allison Pannell emailed Brock that the Notice of Appeal had been filed on November 19 and that she would forward a copy after processing. In a second email that morning, marked important, Pannell wrote: “This appeal is out of time, I will keep you advised if we need the court records and how our Judge moves forward.”
+
+The judge moved forward that same day.
+
+The County Court's November 23 Order of Dismissal did not treat the timing as a close question. The court acknowledged the correspondence showing that Crowder said she did not receive the municipal judgment until October 6. It then gave her the benefit of using October 6 as the operative date and calculated that the thirty-day appeal period expired on November 5.
+
+The order states: “Defendant's appeal is two weeks late.”
+
+The court cited Mississippi Rule of Criminal Procedure 29.1 and concluded that the untimely notice deprived it of jurisdiction to entertain the de novo appeal. It dismissed the appeal and returned the matter to the Olive Branch Municipal Court so execution of the municipal judgment could proceed.
+
+That wording corrects two mistakes from earlier versions of this manuscript.
+
+The reviewing court was the **County Court of DeSoto County**, not the Circuit Court.
+
+And the County Court did not hear the false-reporting case on its merits and then remand it. It dismissed the appeal as untimely because it lacked jurisdiction and returned the case so the municipal judgment could be executed.
+
+The paper trail after the dismissal continues.
+
+At 2:02 p.m. on November 23, Brock emailed McCoy that Olive Branch had received the County Court's dismissal and needed to put Crowder's case back on the municipal docket. Brock offered December 1, December 8, or December 15, morning or afternoon.
+
+A week later, on November 30, McCoy asked Brock to set the matter for December 8 in the afternoon “and get this done as quickly as possible.” Brock set it for December 8 at 2:00 p.m.
+
+Those emails eliminate any basis for saying the remand simply disappeared into silence. The municipal court received the dismissal, contacted defense counsel the same day, and put the case back on the calendar.
+
+What they do not answer is what ultimately happened to the suspended thirty-day jail sentence.
+
+That is where my own account and the surviving record diverge.
+
+I spent the period after the remand pressing for information about enforcement. I expected a late appeal that had been dismissed for lack of jurisdiction to result in execution of the original municipal judgment. I became convinced that Crowder was receiving treatment I would not have received in the same position.
+
+The documents currently in the publication archive do not contain an order stating that Judge Shumake refused to execute his own sentence. They also do not contain a later order explaining that the thirty days were formally eliminated. Without one of those records, I cannot responsibly convert my frustration into a finding about the judge's motive or intent.
+
+The strongest statement is narrower: the municipal judgment imposed thirty days and $1,149.25; execution was suspended for the appeal period; the formal County Court appeal was untimely and dismissed; the County Court returned the case for execution of the municipal judgment; Olive Branch promptly reset the matter for December 8; and the record presently before me does not explain why Crowder did not ultimately serve the thirty-day term in the manner I expected.
+
+The money figures also need to remain separated.
+
+The September 22 municipal judgment lists a $1,000 fine plus $149.25 in assessments, totaling $1,149.25.
+
+The later appeal cost bill is different. It reflects a $1,000 fine, $209.25 in assessments, and $110 in County Court costs, for an appeal-related total of $1,319.25. The receipt in the DeSoto County file shows the $1,319.25 payment on November 19.
+
+Those are not competing versions of a single sentence. They are figures generated at different procedural stages.
+
+The appeal correspondence contains one other revealing detail—not about the merits, but about the atmosphere surrounding the case.
+
+On November 23, Pannell wrote to Brock that Crowder's attorney had told her “the other Party involved in this case records your conversations and puts them on Social Media!!??” followed by “Wow.”
+
+I was that other party.
+
+By then recording public officials and publishing government interactions had become part of how I preserved evidence and applied public pressure. The email is not proof that anyone treated Crowder differently because I recorded people. It is evidence that the practice was known inside the court communications surrounding her appeal.
+
+That matters because I was becoming more aggressive about records at the same time.
+
+On November 19—the same date Crowder's County Court appeal was formally filed—I completed an Olive Branch public-records request seeking records associated with the false-reporting matter. I wanted the underlying reports, court documents, and evidence surrounding the prosecution. The fact that Holladay's investigation had supported me did not reduce my interest in the record. It increased it. For once, I had a police file in which the investigator had checked the electronic evidence and reached a conclusion favorable to me, and I wanted the paper trail preserved.
+
+My approach to government records during this period was not subtle. I called. I emailed. I recorded. I accused officials of misconduct when I believed records were being withheld. I published parts of those confrontations. Sometimes that pressure produced documents. Sometimes it made the relationship with officials more adversarial. Both consequences became part of what followed.
+
+The Crowder conviction also overlapped with my own family-court litigation. In late August and September 2020, new Chancery filings were being prepared and filed in the custody case. I believed some notarized material was being reused improperly and began developing what I later called a notary-fraud theory. As Chapter 9 explains, I do not have a disciplinary or judicial finding establishing notary fraud. What I had were documents I thought did not line up, and I started treating every unexplained irregularity as something that needed to be preserved and challenged.
+
+That mindset was reinforced by the contrast in the false-reporting case.
+
+Holladay had collected evidence rather than simply choosing a story. He compared the screenshots I supplied against the downloaded contents of my phone. His written finding followed that comparison. The municipal court entered a conviction. The County Court enforced its filing deadline against Crowder. The clerks documented what happened in emails with dates and times.
+
+That was what I increasingly wanted from every dispute: a record capable of being checked later.
+
+I did not leave the Olive Branch matter alone. My records demands became confrontational. A courtroom dispute eventually produced a contempt proceeding against me and a $500 bond. I later filed a pro se federal lawsuit against the City of Olive Branch seeking $10 million.
+
+Those decisions belong in this book without pretending that escalating every conflict was strategically wise. By late 2020 I had begun responding to institutional resistance by increasing the pressure—more records demands, more recordings, more public accusations, and more litigation. Some of what I was documenting was real and important. Some of the legal theories I attached to it were weak. The difference would take years for me to learn.
+
+The false-reporting case remains one of the clearest examples of why the distinction matters.
+
+The documented record is substantial enough on its own:
+
+Crowder reported rape.
+
+Holladay investigated.
+
+The phone download supported my account.
+
+He concluded the rape report was intentionally false.
+
+Crowder was charged.
+
+She entered a no-contest plea and was convicted.
+
+The municipal court imposed thirty days and $1,149.25.
+
+Her appeal-related communications began in October, but the formal County Court appeal was not filed until November 19.
+
+The County Court held it was two weeks late, dismissed it for lack of jurisdiction, and returned the matter for execution of judgment.
+
+Olive Branch put it back on the docket.
+
+What happened after that point is less completely documented, so that is where the certainty stops.
+
+At the same time, I was reopening my own 2017 conviction and demanding the records I believed had never been produced before I pleaded guilty.
+
+That fight is where the next chapter begins.

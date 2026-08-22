@@ -1,25 +1,95 @@
 CHAPTER 19 — THE JUNE 2022 ARREST: CASE B
 
-On June 28, 2022, I walked toward the entrance of the Lafayette County Chancery Court, expecting to attend a routine, scheduled child-custody hearing involving my children. I have described this building as "Oxford City Hall" in some earlier accounts, but the federal magistrate's report and recommendation in Reardon v. Osteen identifies it as the Chancery Court, and my own federal civil complaint, filed that same day, June 28, 2022, names "Lafayette County Chancery Court" specifically as a defendant — corroboration I did not have when I first wrote this scene. I am correcting the record to Chancery Court here. It does not change what happened next: I was arrested for aggravated stalking, a second time, five years after the first.
+On the morning of June 28, 2022, I went to the Lafayette County Chancery Court because I had a scheduled family-court matter. I did not walk into that building and commit a new felony. By the time I arrived, the felony arrest warrant already existed.
 
-To step out of a vehicle holding papers prepared for a domestic relations hearing and end up in handcuffs moments later is a disorienting collapse of legal categories. In my mind, June 28 was meant to be about my children and my parental rights—a continuation of the long family court struggle that had run parallel to my criminal cases for years. In the eyes of the law enforcement officers waiting for me, however, my physical presence near that building was not a father attending court, but the commission of a brand-new felony. The sudden transition from domestic litigant to criminal suspect, carried out in full view of court personnel, brought back the immediate, sickening shock of my original 2017 arrest. Five years after my first experience in a Lafayette County jail cell, I found myself placed under arrest once again, stripped of my freedom, and processed into custody on a fresh charge.
+That is the first correction this chapter requires.
 
-It is critical to establish at the outset what this new arrest represented: this was Case B, a second, entirely separate aggravated stalking prosecution, distinct from the original 2017 Lynch case detailed in Chapter 5. While the 2017 case had centered on allegations surrounding the Lynch family and the twelve-day rifle impossibility, Case B arose from a completely separate legal instrument and a different set of alleged contacts. The two cases were legally independent, with Case B carrying its own separate indictment, its own docket number, and its own severe sentencing exposure under Mississippi law.
+The Lafayette County Sheriff's Office report written by Deputy Hoby James records the sequence from the officers' side. At approximately 8:00 that morning, James received a call advising him that the Mississippi Bureau of Investigation had issued a warrant for me. He was told to meet officers at Chancery Court at 9:00 “because Matt had court today.” James wrote that he served the MBI arrest warrant at approximately 9:32 a.m., that I was arrested without incident, and that I was transported to the Lafayette County Detention Center.
 
-To understand why entering a building for a routine custody hearing produced a felony-adjacent arrest requires returning to a piece of paper already introduced twice: the 2017-CV-217 restraining order I signed, under my attorney Brennan Horan's advice, while in jail on the original Lynch stalking charge in Chapter 5. I signed that order without contesting its terms, understanding it, by my own account, as simply the fastest way out of a cell. I never substantively challenged it afterward. It sat on the books, largely dormant, for five years.
+The MBI file now gives a much fuller account of how the warrant reached that point.
 
-When I signed order 2017-CV-217 in 2017, I was locked inside a county cell, desperate to secure my release. My attorney, Brennan Horan, advised me that agreeing to the civil restraining order was the price of admission for my freedom. What Horan failed to disclose was his own family connection to the local political establishment, a clear conflict of interest that compromised his fidelity to my defense. More critically, Horan gave no warning whatsoever that by signing an uncontested civil order to end a temporary stay in jail, I was signing a document that would remain active on the court dockets indefinitely, quietly accumulating statutory weight until it could be deployed against me years down the road. For five years, order 2017-CV-217 remained passive, an unexploded shell sitting quietly in the background of my life while I attempted to rebuild my existence and pursue custody of my children.
+The case is M22-00000897. Its internal table of contents identifies the matter as a stalking/aggravated-stalking investigation and lists the supporting records MBI assembled: the arrest affidavit and warrant, the existing restraining order, an Oxford Police report, a written statement from Ashley Atkinson, criminal-history material, and other investigative documents. The file expressly says that it contains neither MBI's recommendation nor conclusions. That disclaimer matters. The file is an investigative packet, not a judicial finding that every allegation in it was true.
 
-The legal mechanism that turned that dormant order into a second felony arrest lies in the specific statutory architecture of Mississippi's criminal code. Mississippi's aggravated stalking statute contains an enhancement provision: a defendant with a qualifying prior stalking-related conviction or order within a lookback window — I describe this window as roughly seven years — faces an elevated charge for conduct that might otherwise be treated as a lesser offense, or not charged at all. The 2017 Lynch conviction sat on my record. The 2017-CV-217 Tannehill order sat, still nominally in force, alongside it. When I entered a building the order's terms restricted me from, or was perceived by the officials present to have done so, the combination of the standing order and the prior conviction transformed what might otherwise have been, at most, a minor contempt matter into a new, standalone aggravated stalking charge — Case B, distinct from the original 2017 Lynch case, and carrying its own sentencing exposure independent of anything that happened in 2017.
+MBI's first dated supplement is June 23.
 
-For a lay reader trying to grasp how the legal machinery operated against me on June 28, 2022, it helps to understand how stalking-enhancement statutes function as statutory ratchets. Under standard criminal law, entering a public building in technical violation of a civil restraining order might ordinarily constitute civil contempt or, at most, a minor misdemeanor trespass. However, Mississippi's enhancement framework functions like a set of interlocking legal gears. The statutory scheme takes three separate elements—a prior criminal conviction on the defendant's record, a standing civil protective order, and a new allegation of restricted physical presence or contact—and locks them together to automatically elevate the new conduct into a high-tier felony prosecution.
+At approximately 9:00 that morning, Lieutenant Joey Mauney wrote that Oxford Police Chief Jeff McCutchen contacted him seeking MBI assistance with an aggravated-stalking investigation involving Oxford's mayor. After the conversation, McCutchen requested guidance through MBI headquarters and Mauney's chain of command about further investigative action.
 
-In my situation, the statutory ratchet operated with mechanical precision. The first gear was the 2017 Lynch conviction, which established the required predicate of a prior stalking-related conviction within the seven-year statutory lookback window. The second gear was the 2017-CV-217 Tannehill restraining order, which provided the standing judicial restriction on my movements and presence. The third gear was my physical arrival at the building on June 28, 2022, for my scheduled custody hearing. The moment those three gears engaged, the statute automatically escalated what should have been, at absolute most, a civil boundary dispute or a minor contempt hearing into a brand-new, standalone felony charge of aggravated stalking. The legal framework did not require proof of new threats or violent behavior; the mere combination of the prior record, the standing order, and my physical presence was sufficient under the enhancement statute to expose me to years of potential prison time in a state penitentiary.
+Four days later, on Monday, June 27, Mauney was told to assist Oxford Police “in any way possible.” He met Detective Shane Fortner at approximately 9:00 a.m. to discuss the case. Around noon, Mauney and Master Sergeant Jason Roe gathered the investigative information from Fortner. The supplement identifies me as the person of interest. An arrest warrant was then prepared and emailed to Third Circuit Judge Kent E. Smith.
 
-It is worth stating plainly what this chapter's title signals, and what the narrative has been building toward since Chapter 5: the order that made this second arrest possible was signed under conditions already called duress here, on the advice of an attorney with an undisclosed family connection to the local political establishment, when I was told at the time that signing was simply the price of getting out of a cell. Nobody involved in that 2017 transaction — not Horan, not the court, not myself in the moment — appears to have contemplated, or at least documented contemplating, that an uncontested order signed to end a jail stay would become, five years later, the legal foundation for an entirely new felony-adjacent prosecution. If that consequence was foreseeable to anyone advising me in 2017, it was not foreseeable to me, and the record does not establish that Horan warned me of it.
+At approximately 3:00 p.m., Judge Smith contacted Mauney by FaceTime. Mauney wrote that Smith placed him under oath concerning the information in the warrant and then signed and issued it.
 
-This does not mean the June 2022 arrest was unlawful, or that the underlying statute's enhancement structure is itself improper — repeat-offense sentencing enhancements are a common, constitutionally unremarkable feature of stalking and domestic-violence statutes nationwide, designed precisely to escalate consequences for people who continue a pattern of conduct after an initial intervention. The argument here is narrower: applying that enhancement structure to an order obtained under the specific circumstances documented in Chapter 5 — a duress signature, no substantive contest, an attorney with an unaddressed conflict of interest — raises a fairness question distinct from whether the statute itself is sound. A sentencing enhancement premised on a defendant's knowing, voluntary acceptance of a prior order's terms functions very differently, as a matter of basic fairness, than one premised on an order signed under the kind of pressure documented since Chapter 5.
+So before I went to Chancery Court the following morning, the investigative sequence was already complete enough to produce a judicially signed arrest warrant.
 
-When a sentencing enhancement operates as intended by the legislature, it presumes that the defendant was fully warned during the prior proceeding, was represented by unconflicted counsel, and voluntarily accepted the terms of the protective order with full awareness of the legal consequences of a future violation. But when the predicate order was extracted from a jailed, unrepresented or conflict-encumbered defendant who signed merely to escape immediate incarceration, the enhancement mechanism is stripped of its moral and procedural integrity. In my case, using the 2017-CV-217 duress order as the statutory predicate for Case B meant that a coercive transaction forced upon me in a jail cell five years earlier was transformed into the primary legal engine used to threaten me with long-term felony imprisonment.
+The conduct MBI relied upon was not my June 28 arrival at Chancery Court. It centered on my **June 20 visit to Oxford City Hall** and on earlier social-media posts.
 
-The next chapter follows what happened after this second arrest: a guilty plea entered on September 30, 2022, five years of suspended probation, and a banishment order removing me from Lafayette County entirely — the harshest single consequence I would face across this entire timeline, and the one that set in motion the revocation examined against the certified transcript in Chapter 21, that would ultimately send me into roughly a year of Mississippi custody.
+Mauney's affidavit describes him reviewing Fortner's report and then going to my public Facebook page, where he found a link to a YouTube video. He wrote that the City Hall video ran twenty-three minutes and thirty-five seconds.
+
+The affidavit then gives timestamps.
+
+At approximately 3:53 in the video, I entered City Hall. I looked at a directory identifying departments and walked around the first floor recording. At roughly five minutes, I returned to the directory. I then went upstairs and approached the doors Mauney associated with the mayor's office.
+
+The affidavit says I stood there briefly, walked away, and returned. At approximately 7:49, Mauney wrote that I “attempt[ed] to enter the door by using the doorknob but was unsuccessful.”
+
+I dispute that characterization. My position has been that the video does not show an attempted unlawful entry into the mayor's office. The video itself, rather than either my description or Mauney's, is the best evidence of what my hand did at that door.
+
+Mauney's affidavit also records what happened immediately afterward. It says I walked away until I encountered a woman on the second floor and told her that I remembered the mayor's office being on the first floor when the prior mayor was in office.
+
+That detail is important because it shows the affidavit was not based on the door moment alone. Investigators were building a broader course-of-conduct theory.
+
+The affidavit says I had “continually violated parts” of the restraining order both in person and through social-media outlets including Twitter and YouTube. It listed dates of tweets—May 23, 2021; August 3, 2021; August 11; August 12; August 17; August 23; and September 1—as examples rather than reproducing every post in the affidavit itself.
+
+That is the State's actual investigative theory.
+
+An earlier version of this book described three automatic legal “gears”: a prior stalking conviction, an active protective order, and my physical presence, which supposedly combined mechanically to create aggravated stalking. That was wrong.
+
+The MBI affidavit alleges a **course of conduct**. It cites the June 20 City Hall video, the restraining order, and earlier online activity. My prior 2017 aggravated-stalking conviction was legally important to the felony charging theory, but the State still alleged new stalking conduct. The June 28 Chancery appearance was not the final gear that completed the crime. It was where officers knew they could find me to serve a warrant already signed the day before.
+
+The affidavit is also revealing for what it says about its own source base. Mauney wrote that it was based on his personal knowledge, information from other state and local law-enforcement officers, other sources he considered reliable, and his training and experience. That means not every factual assertion originated in something Mauney personally witnessed.
+
+On June 28, after the arrest, MBI also generated an Advice of Rights form. The form explains the right to remain silent, the right to counsel, the right to appointed counsel if indigent, and the right to stop answering questions. It contains a waiver section stating that the signer understands the rights and is willing to answer questions without a lawyer. That document is part of the case file and is another reason the chronology should be written from the record rather than reduced to the arrest itself.
+
+The warrant page contains a handwritten bond notation that appears to read **$12,000**. Whatever that notation initially meant, it did not determine the ultimate pretrial custody decision. The MBI file records what happened next.
+
+On **Wednesday, July 6, 2022**, at approximately 1:00 p.m., Mauney and Roe attended my preliminary hearing at the main courthouse in Oxford. Judge Kent Smith presided. Mauney's July 7 supplement says the hearing lasted several hours. After the hearing, Smith found sufficient evidence for the case to be presented to the Lafayette County grand jury during its August session.
+
+The supplement then records the consequence that mattered most to me: Judge Smith considered me a threat to the community and ordered me held **without bond** at the Lafayette County Detention Center pending the grand-jury date.
+
+That corrects another date that had drifted in earlier versions of my timeline. The MBI file says the preliminary hearing was **July 6**, not July 5.
+
+The distinction between the initial warrant notation and the preliminary-hearing order is important. The paper trail may show a bond figure on the warrant, but after several hours of hearing the Circuit Court ordered me held without bond. The book should not collapse those separate procedural moments into one number.
+
+By then this was no longer simply a dispute about access to City Hall.
+
+I was back in the same county jail where I had spent more than forty days in 2017. I was again facing an aggravated-stalking felony. The prior 2017 conviction—the case I had been trying to reopen through post-conviction litigation—was now part of the legal landscape of the second case. The standing Chancery restraining order also remained part of the file.
+
+But the two criminal cases were distinct and have to stay distinct in this book.
+
+The **2017 case** concerned Todd and Ashley Lynch. Its later Criminal Information alleged AR-15 conduct “on or before May 8, 2017.” It ended in the July 6, 2017 guilty plea, banishment, probation, and covenant not to sue.
+
+The **2022 case** concerned Mayor Robyn Tannehill. Its investigative record cited the June 20 City Hall visit, the standing protection order, earlier social-media posts, and the prior conviction. The MBI warrant was obtained June 27 and served June 28.
+
+The fact that both cases used the aggravated-stalking statute and both occurred in Lafayette County does not make them the same prosecution or allow evidence from one to be silently imported into the other.
+
+The constitutional argument is stronger when the factual theory is stated correctly.
+
+City Hall was a government building open to the public. I entered with a camera. Much of the older material investigators cited consisted of political expression about an elected official. Political speech receives powerful First Amendment protection. At the same time, constitutionally protected speech does not immunize otherwise criminal conduct, and a stalking statute can reach conduct satisfying its elements even where expression is involved.
+
+The question therefore is not whether every tweet was automatically protected or whether every approach toward a mayor's office was automatically stalking. It is whether the particular conduct assembled by Oxford Police and MBI lawfully satisfied the statute without treating protected petitioning, recording, or political criticism as criminal merely because it was unwanted.
+
+That is a legal dispute. The investigative facts come first.
+
+June 20: I recorded inside Oxford City Hall.
+
+June 23: McCutchen asked MBI to become involved.
+
+June 27: Mauney and Roe met with Fortner; MBI reviewed the video and other material; an affidavit and arrest warrant were prepared; Judge Smith swore Mauney by FaceTime and signed the warrant around 3:00 p.m.
+
+June 28: deputies knew I had Chancery Court, waited there, arrested me without incident at approximately 9:32 a.m., and transported me to jail.
+
+July 6: after a several-hour preliminary hearing, Judge Smith found sufficient evidence to send the case toward the grand jury and ordered me held without bond as a perceived threat to the community.
+
+Those dates now come directly from the MBI and Sheriff's records.
+
+The case later produced an indictment and a second guilty plea. The indictment itself would cite the 2017 conviction and identify the earlier offense date as May 8, 2017—showing how the disputed date from Case A became embedded in the charging architecture of Case B.
+
+That is where the next chapter begins: not with a new arrest, but with the pressure of fighting the second case from jail while the first conviction was being used as part of the State's theory against me.

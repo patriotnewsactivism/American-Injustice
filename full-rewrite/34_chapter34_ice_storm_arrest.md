@@ -1,41 +1,89 @@
-CHAPTER 34 — RETALIATORY ARREST IN AN ICE STORM
+CHAPTER 34 — THE ICE-STORM ARREST
 
-On January 28, 2026, severe winter weather paralyzed southern Louisiana. Sub-freezing temperatures and hazardous ice had transformed roads into dangerous hazards, driving residents indoors. I had traveled westward from New Orleans to Lafayette, seeking refuge from the bitter cold at a Red Cross emergency warming location. Inside the shelter, the atmosphere was dense with the quiet exhaustion of people seeking basic survival: unhoused citizens, stranded travelers, and local residents huddled together on folding chairs, surrounded by the smell of damp winter coats and hot coffee. It was a facility dedicated entirely to relief and protection from a dangerous natural element.
+On **January 24, 2026**, during severe winter weather in southern Louisiana, I went to an emergency warming shelter in Lafayette.
 
-That sanctuary was broken when law enforcement officers entered the shelter. They were not there to assist with disaster relief or check on shelter conditions. They were there for me. Surrounded by individuals seeking escape from freezing weather, I was confronted, ordered to stand, and placed in handcuffs in the middle of the shelter floor. The physical experience was a study in contrasts: the sudden bite of cold steel handcuffs against wrists already numb from freezing temperatures, and the emotional weight of being seized in a public refuge designed to keep vulnerable human beings safe from harm.
+The New Orleans warrant from the November 12 City Hall case was still active.
 
-To understand why officers appeared at a Red Cross shelter in Lafayette to execute a misdemeanor warrant from Orleans Parish, one must look at the broader mechanism of law enforcement tracking established months earlier. As detailed in Chapter 28, a BOLO ("Be On the Look Out") record had been generated and circulated across federal and local systems, ensuring my location was continuously monitored across parish lines. The promptness with which law enforcement identified my presence at an emergency weather shelter 135 miles from New Orleans demonstrates that this tracking apparatus was actively functioning. The timing was not accidental. Arresting a person at an emergency weather shelter for a months-old misdemeanor charge is not a routine public-safety response; it is the action of a system that knew where I was and chose that specific moment of physical vulnerability to execute an arrest.
+According to the factual account preserved in my later civil complaint, law-enforcement action at the shelter was triggered by an NCIC hit tied to arrest warrant **K-11205-25**. I was taken into custody in Lafayette on that warrant.
 
-This chapter uses the word "retaliatory" deliberately, where I have otherwise tried to reserve that designation for situations where the record actually supports it. Here, the cause-and-effect relationship connects directly back to the records cover-up detailed in Chapter 33. On November 17, 2025, five days after I was struck in the head with a metal flashlight by Allied Universal security guard Jerome Ard at New Orleans City Hall, I filed NextRequest 25-21253 seeking security video of the assault. On December 10, 2025, the city denied that request under Louisiana Revised Statute 44:3(1), citing an "active criminal investigation or prosecution." The active prosecution cited to withhold the video evidence was the simple battery charge sworn out by Officer Junious Grady — a charge built on the statements of Ard's own coworkers, turning the injured victim into the accused.
+That is the documented connection.
 
-The records denial in Chapter 33 and the ice-storm arrest in this chapter are two halves of the same institutional dynamic. The bogus charge was created to protect the security guard who split my scalp, the charge was then used as legal justification under LA R.S. 44:3(1) to withhold public records that would have exposed what happened at City Hall, and finally, that same shielded charge was held like a loaded weapon until law enforcement chose to deploy it against me during a winter storm in Lafayette. The prosecution created the cover-up, and the cover-up sustained the arrest.
+An earlier manuscript went further and attributed the arrest to the federal BOLO network described in Chapter 28. I still view the federal information-sharing history as important context, but I do not presently have a record establishing that a federal BOLO caused officers to find me at the warming shelter. The active Orleans Parish warrant is enough to explain the legal mechanism reflected in the source record.
 
-Following my arrest in Lafayette, I was held in local custody for approximately six days while extradition arrangements were processed across parish lines. Extradition during an ice storm carries its own physical and mental toll. Transferred between holding facilities and loaded into a law enforcement transport vehicle, I spent hours shackled at the wrists and ankles, traveling southeast along icy stretches of Interstate 10 across the Atchafalaya Basin back toward Orleans Parish. The physical discomfort of cold transport vans, steel restraints pressing against skin in sub-freezing weather, and the anxiety of being returned to the very jurisdiction whose police department had charged me for being assaulted created an atmosphere of intense isolation.
+The setting still mattered to me. I had gone to a warming shelter because of the weather. I left in custody on a misdemeanor warrant arising from the City Hall encounter I had been trying to challenge through records requests since November.
 
-Upon arrival in New Orleans, I was brought to the Orleans Parish Central Lockup facility at 2800 Perdido Street for formal booking. The booking process was conducted by Officer McIver, badge number 00625. I was fingerprinted, photographed, stripped of my personal belongings, and processed into the facility's system. Officer McIver recorded the formal charge: simple battery — the exact misdemeanor charge arising from the November 12, 2025 incident in which Allied Universal guard Jerome Ard had struck me with a flashlight, split my scalp open, destroyed my mobile phone, and required my transport to Tulane Medical Center.
+The dates have to remain separated because an earlier edition collapsed the Lafayette arrest and the Orleans Parish booking into one event.
 
-Judicial authorities set my bond at $100 cash. A $100 cash bond is a modest financial figure, representing the lowest monetary tier typically assigned in municipal misdemeanor cases. In the institutional language of the court system, setting a $100 bond is an explicit acknowledgement that the underlying offense is minor and that the defendant requires minimal financial incentive to return to court. I had cash available in my personal property intake to pay the $100 bond immediately, which should have resulted in my prompt release from custody following booking.
+They were not the same event.
 
-Instead, jail administration created an artificial barrier to my release. Facility personnel falsely informed me that I could not post the $100 cash bond or be discharged without presenting a valid Louisiana driver's license. Under Louisiana law and local court rules, presenting a state driver's license is not a mandatory legal prerequisite for posting a cash bond on a misdemeanor charge, particularly for an out-of-state resident or someone posting full cash bail. Yet jail staff insisted on this non-existent requirement.
+I was arrested in Lafayette on **January 24**.
 
-The human reality of being trapped behind a false administrative requirement is deeply frustrating. For two to three additional days beyond what the $100 cash bond required, I remained locked in a cell at 2800 Perdido Street while my money sat in a property envelope just beyond the bars. Every hour spent in a cold concrete cell under those conditions was entirely unnecessary — a period of forced detention created not by a judge's order or statutory mandate, but by jail personnel enforcing a rule that did not exist in law.
+The Orleans Parish paperwork shows a separate booking sequence on **January 28**.
 
-During my processing at 2800 Perdido Street, a formal pretrial risk assessment was conducted. For a lay reader, a pretrial risk assessment is an objective, algorithmic scoring tool — such as the Public Safety Assessment (PSA) or state risk evaluation rubrics — used by courts to evaluate a defendant's risk before trial. The tool analyzes objective background factors, including prior criminal history, court appearance record, age, and current charge severity, to place the defendant into a specific risk classification tier.
+The arrest register identifies Folder No. **2548390**, Arrest No. **12485172**, and Item No. **K1120525**. It lists the charge as **simple battery** under Louisiana Revised Statute 14:35. The register records the Orleans arrest/booking location as **2800 Perdido Street**, an arrest time of **7:00 p.m.**, and a booking time of **9:05 p.m.** on January 28.
 
-The assessment evaluated my background and placed me at Pretrial Risk Level 1 — the lowest risk tier available in the system. In practical terms, a Risk Level 1 rating is an official institutional certification that a defendant poses the lowest possible risk of failing to appear for court dates and the lowest possible risk of committing any new offense while awaiting trial. It is the system's own standardized tool declaring that the individual requires no special conditions, high bail, or extended detention to ensure public safety or court appearance.
+It identifies **P/O McIver**, badge 00625, as the arresting officer on that booking entry and **P/O Pierce**, badge 02137, as the transporting officer.
 
-The contradiction between this official classification and my actual treatment reveals how administrative systems operate in practice. On paper, the court system's validated risk-assessment tool rated me at Risk Level 1 — certifying that I was neither a flight risk nor a danger to the community. In reality, the jail administration kept me locked in a cell for two to three extra days based on a fabricated driver's license requirement. The system's objective evaluation declared I should be released, yet its frontline bureaucracy manufactured an informal pretext to keep me detained.
+The same register lists the bond amount as **$0.00**.
 
-When jail officials finally processed my release from 2800 Perdido Street, the physical ordeal was far from over. I walked out of the facility into the cold air with my personal property returned in a plastic bag, but I was completely stranded. My vehicle was parked in Lafayette — roughly 150 miles away — where I had been taken into custody six days earlier at the Red Cross warming shelter. Law enforcement had forcibly transported me across the state to Orleans Parish, but upon release, they provided no transportation, travel voucher, or assistance to return me to where I had been seized.
+That entry forced a correction to an older version of my account. I had previously described a $100 cash bond and an additional detention tied to a supposed Louisiana-driver's-license requirement. The primary Orleans arrest register now in the source set does not support that version. It shows zero dollars.
 
-Navigating from the lockup at 2800 Perdido Street required making my way to the Greyhound bus terminal at the Union Passenger Terminal in downtown New Orleans. Upon arriving at the station, I discovered the next available bus traveling west toward Lafayette would not depart for approximately six hours.
+Unless another primary record establishes a separate monetary condition and explains when it arose, I am not publishing the $100 story as fact.
 
-What followed was a six-hour wait in a drafty bus terminal, physically exhausted, shivering from the cold, and drained after days of continuous custody. Sitting on a wooden bench with my belongings, surrounded by bus announcements and passing commuters, the weight of the entire ordeal settled in. This logistical abandonment — leaving a released defendant 150 miles from his vehicle with no transit arrangements and a six-hour wait in a station — illustrates the cumulative, grinding character of institutional friction. Institutional harm is rarely defined solely by a single dramatic event like an assault or an arrest. It is equally defined by the accumulation of small, punitive burdens: an unfounded charge, a transfer across state highways, a fabricated documentation rule, and a cold six-hour wait on a station bench 150 miles from home.
+The Orleans packet contains another timing inconsistency that I am preserving rather than fixing by assumption.
 
-The charge was ultimately dismissed on April 16 and 17, 2026, in Orleans Parish Criminal District Court, case number M625048, by Assistant District Attorney Trishawn Payne-Jones. The disposition code recorded on the case: 433 — "Refused, Law Enforcement Issue."
+The sworn November 12 warrant affidavit says officers were dispatched to City Hall at about **9:23 a.m.** My November 17 records request sought records from 9:00 to 10:30 that morning. But the January arrest register records the offense time as **9:23 p.m.**
 
-That disposition code carries profound legal significance. In prosecutor case-tracking terminology, Disposition Code 433 is not a technical dismissal based on a missing witness or a speedy-trial deadline. It is an explicit administrative statement by the district attorney's office that prosecution is being formally refused because of underlying problems with law enforcement's handling of the case. In an eight-year history of navigating court dockets, this entry stands as one of the most direct official admissions in the public record: the prosecutor's office itself concluded that the problem with this prosecution was not my conduct, but law enforcement's handling of it.
+The documents therefore conflict on the a.m./p.m. designation. The sworn narrative and my contemporaneous request point to the morning; the later arrest register prints the evening. The manuscript will show the conflict instead of silently normalizing it.
 
-Read together, the three chapters devoted to the New Orleans matter — Chapter 32, Chapter 33, and Chapter 34 — trace a single continuous failure from beginning to end: a man struck with a flashlight, an investigation that protected my assailant, a records request denied using the resulting charge against me as pretext, and finally an arrest of that same wrongly-charged victim at an ice-storm shelter, before a prosecutor's own office quietly closed the file five months later with a disposition code amounting to an institutional shrug.
+The underlying warrant itself is straightforward.
 
-The next chapter turns to a different state entirely, and a different kind of confrontation — one that began, as so many have, with my exercising my right to speak on a public sidewalk, and ended with a federal courthouse arrest that a U.S. Marshal had predicted, almost to the month, a full year in advance.
+Judge Juana Marine Lombard signed the arrest warrant on November 12 at 3:34 p.m. after Grady's affidavit accused me of one count of misdemeanor simple battery. The warrant commanded peace officers to apprehend and book me and to keep me in custody until released according to law.
+
+By January 28, that paper had become an Orleans Parish booking record.
+
+On **January 29**, the Criminal District Court's Court Intervention Services, Pretrial Services Program prepared a **Public Safety Assessment**.
+
+For purposes of pretrial risk, the assessment classified me at **Risk Level 1** and identified the eligible supervision type as **Unsupervised Release**. It scored “New Criminal Activity” at 2 out of 6 and “Failure to Appear” at 2 out of 6. It marked “New Violent Criminal Activity” as no.
+
+The underlying risk-factor table recorded no current violent offense, no prior violent conviction, and no failure to appear in the preceding two years.
+
+Those entries are relevant because they show how the Orleans pretrial system evaluated me at that moment.
+
+They are **not** a reliable substitute for the full criminal history developed elsewhere in this book.
+
+In fact, the assessment itself contains information that does not match the broader documentary record. It marks **“Prior Felony Conviction: No.”** By January 2026, however, the September 30, 2022 Mississippi aggravated-stalking conviction existed. The assessment's criminal-history page lists only a **2014 Georgia DUI misdemeanor**, with one day of confinement and probation, and includes a note stating: **“Defendant has arrest in Lafayette with unknown disposition.”**
+
+That means the assessment appears incomplete as a comprehensive criminal-history source.
+
+I therefore use it for what it actually proves: Orleans Parish Pretrial Services assessed me as Risk Level 1 and recommended unsupervised release based on the information present in its system. I do not use its “no prior felony” box to rewrite the Mississippi record.
+
+That is exactly the kind of source conflict this book needs to preserve.
+
+One agency record can be authentic and still be incomplete.
+
+The January arrest completed a documentary chain that had begun more than two months earlier.
+
+On **November 12**, there was a physical confrontation at New Orleans City Hall. Officers arrived to find me bleeding from the back of the head. Allied security personnel told police that I had initiated contact and that Ard pushed me away. I maintained that Ard had struck me with a flashlight. The RTCC camera did not capture the physical altercation. Paz nevertheless concluded that I was the aggressor, and Grady obtained the warrant that afternoon.
+
+On **November 14**, I began calling New Orleans offices about victim assistance, evidence preservation, and civil liability.
+
+On **November 17**, I formally requested surveillance, 911, dispatch, body-camera, security, and incident records.
+
+On **December 10**, the City invoked the pending-criminal-litigation provision to withhold categories of RTCC and 911 material through the public-records process while offering an initial report for a fee.
+
+On **January 24**, the still-active warrant resulted in my arrest in Lafayette.
+
+On **January 28**, I was booked in Orleans Parish.
+
+On **January 29**, Pretrial Services classified me at Risk Level 1 and identified unsupervised release as the supervision type if eligible.
+
+That is the sequence the records support.
+
+I do not need to add a theory that officials timed the arrest to exploit the weather, because I do not have evidence proving that motive. Nor do I need to call execution of the warrant retaliatory as an established fact. The warrant existed, law enforcement encountered me, and the warrant was executed.
+
+The prosecution itself had not yet reached its final disposition. That would come later in the spring and belongs later in the chronology.
+
+For the moment, January ended with me back inside a criminal process over a confrontation in which I had initially regarded myself as the victim.
+
+The next major development came in Mississippi on **February 24, 2026**, when the Mississippi Court of Appeals ruled in the separate misdemeanor-appeal litigation that had been running in parallel for years.

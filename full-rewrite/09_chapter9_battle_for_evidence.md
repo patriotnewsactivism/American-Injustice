@@ -1,53 +1,139 @@
 CHAPTER 9 — THE BATTLE FOR EVIDENCE
 
-On July 7, 2020, I filed a post-conviction relief motion — docketed as L20-316 in the Circuit Court of Lafayette County — targeting my original 2017 Lynch aggravated stalking conviction, the criminal case built on the twelve-day impossibility detailed in Chapter 4. Under Mississippi’s Uniform Post-Conviction Collateral Relief Act, codified at Mississippi Code Annotated Section 99-39-1, a petitioner seeking to set aside an unlawful conviction faces a steep statutory climb. The law requires a petitioner to present sworn affidavits, documentary proof, and clear legal grounds showing that the underlying judgment suffered from a constitutional defect or newly discovered evidence that could not have been produced at trial. In my filing, I laid out the core factual contradiction that had haunted my defense from the beginning: the mathematical impossibility of the prosecution's timeline. Yet, on July 30, 2020, Circuit Court Judge John Kelly Luther denied the motion in a summary order without granting an evidentiary hearing. A subsequent Rule 59 motion for rehearing, which pressed the court to re-examine the factual omissions in the record, was denied on October 13, 2020.
+By 2020, I was no longer trying only to explain why I believed the 2017 conviction was wrong. I was trying to reopen it.
 
-The bare procedural facts of a denied post-conviction relief motion would not, on their own, merit extensive analysis here. Post-conviction motions are denied far more often than they are granted, in Mississippi and across every judicial district in the nation, and a summary denial without an evidentiary hearing is not automatically proof of administrative bias or official wrongdoing. It often reflects nothing more than a judge concluding, on the face of the moving papers alone, that the petitioner failed to overcome the formidable statutory hurdles required to open the courtroom doors for oral argument. What earns this episode its own place in the record is what I discovered during those summer months of 2020, and the procedural skirmishes that followed.
+The first problem was evidence.
 
-On August 12, 2020, I filed a formal motion to recuse Judge Luther. According to my recollection — framed explicitly as my personal observation, since the available court docket does not include independent administrative orders establishing precisely when or how judicial assignments were processed within the Third Circuit Court District — my case had originally been assigned to Circuit Court Judge Kent Smith. Without formal notice, written order, or recorded justification on the docket, the matter was transferred from Judge Smith to Judge Luther. I maintain that this was not an isolated or routine administrative adjustment. Rather, it was an unexplained judicial swap I observed happen twice in legal proceedings directly affecting my cases, with Judge Smith yielding to Judge Luther on both occasions without a single word of explanation entered into the public record.
+On May 20, 2020, I submitted a public-records request to the Lafayette County Sheriff's Department seeking the original affidavit or police report underlying the May 2017 aggravated-stalking case involving Todd and Ashley Lynch. On May 22, I received what I regarded as the wrong document: Bundren's May 30 reporting narrative, created after the May 26 arrest. I followed up on May 28 asking again for the initiating record.
 
-This is a serious assertion, and it must be weighed with care. In Mississippi circuit courts, judicial reassignment is a routine administrative function. Cases are shifted between sitting judges for completely mundane reasons every day — docket rebalancing, scheduling conflicts, judicial recusals, or rotational duties across multi-county circuits. A transfer from Judge Smith to Judge Luther, even when observed a second time, does not in itself constitute evidence of improper influence or judicial manipulation. The Third Circuit Court District spans seven counties — Benton, Calhoun, Chickasaw, Lafayette, Marshall, Tippah, and Union — and managing docket loads across such a vast geographic footprint requires constant administrative flexibility. A two-judge rotation could easily represent nothing more than standard operating procedure in a rural circuit district.
+That exchange is the origin of one of the most important source gaps in this book. I have the May 30 narrative. I have the later July 6 Criminal Information. I have the July 6 plea transcript. I do not have the original initiating affidavit, complaint, or warrant application that would let me compare, word for word, what was presented before the arrest with what the State formally charged later.
 
-There is one detail I can now put a date and a public source on, which I could not before.
+The distinction sounds technical until the dates are placed beside one another.
 
-Mississippi counties publish their dockets through a system called Delta Computer Systems. Anyone can look at it. I recorded myself going through my own case on it, and here is what I described seeing: on **August 12, 2020**, the judge listed of record was still **Kent Smith**. That is the same day I filed the motion to recuse Judge Luther. And when the clerk's office entered that motion — the 8/12 motion for recusal, with its exhibits — the assigned-judge field in the system **changed to John Kelly Luther**.
+The later Criminal Information alleged AR-15 conduct “on or before May 8, 2017.” My surviving bill of sale identifies the Del-Ton rifle I associated with the case as purchased May 20. If the pre-arrest instrument used the same allegation and the same rifle, that would be important. But the document that could establish that connection is exactly the one I was asking the Sheriff's Department to produce.
 
-If that is right, then the docketing of my motion to remove a judge is the same event that put the case in front of him.
+I did not understand all of those evidentiary limits in 2020. At the time I treated the date conflict as proof that the entire arrest had been fabricated around an impossible allegation. The records I now have support a narrower proposition: the later formal charge contained the May 8 date; the identified Del-Ton rifle was purchased May 20; and the initiating May 26 probable-cause document remains missing from my archive.
 
-I am labeling that carefully, because it is my reading of a screen and I have not pulled the certified docket history to prove it. But it is not the kind of claim that has to stay unresolved. Delta's records are public and the assertion is date-specific: pull the assigned-judge field for that cause before and after August 12, 2020, and either it changed that day or it did not. **I would rather someone check it than take my word for it**, which is more than I could say about most of what happens in this chapter.
+On June 1, 2020, I emailed Kathy Sturdivant, the court administrator for Circuit Judge John Kelly Luther, describing the problems I believed I had found in the 2017 case and asking how to obtain judicial review. Sturdivant responded the next day that Judge Luther had reviewed my emails and advised me to follow Mississippi's post-conviction procedures if I wanted to challenge the guilty plea.
 
-What transformed my suspicion from a passing concern into a formal recusal motion was the surrounding context. By August 2020, I had endured years of procedural anomalies, withheld records, and unaddressed factual contradictions. When a docket assignment shifted silently for the second time, I did not view it as routine court administration. Instead, in light of my prior experiences with local judicial authorities, I perceived it as another link in a chain of procedural irregularities. The recusal motion was ultimately unsuccessful; Judge Luther's July 30 denial remained in effect, and the October 13 order denying my motion for rehearing brought that specific post-conviction proceeding to a close.
+I began preparing to do exactly that.
 
-Yet, alongside the formal judicial orders, an unexplained anomaly emerged in the public administrative record during the precise window when this judicial conflict was unfolding [CLAIM]. In early August 2020 — in the brief interval between Judge Luther's summary denial on July 30 and my filing of the recusal motion on August 12 — the electronic docket record for case L20-316 was abruptly pulled from public online access through the Mississippi Electronic Courts portal for approximately one week. During those days, an ordinary user searching the online public access portal could no longer view the substantive docket entries, procedural orders, or filed motions associated with L20-316. Strikingly, however, my accompanying affidavit of poverty remained fully visible on the public site.
+One of the useful things about the 2020 archive is that it preserves my thinking before I filed the post-conviction motion. I was corresponding with attorney Christi McCoy, who was involved in Crowder's separate Olive Branch case. Those messages are not privileged advice to me in the ordinary attorney-client sense; McCoy repeatedly made clear that she was not my lawyer. They are valuable because she was a lawyer looking at pieces of my story while I was assembling it, and she sometimes told me directly when my theories were getting ahead of my proof.
 
-This temporary disappearance of the electronic case index is presented here as my own unverified assertion [CLAIM], as I do not possess internal logs from the administrative office of the courts to document the technical status of the web server during that specific week. Technical glitches, server maintenance, and database re-indexing occur regularly in public electronic court filing systems, and the temporary invisibility of a single case record can easily result from a routine software update or a temporary database sync failure. However, from my perspective at the time, the selective nature of the missing data — where the substantive legal filings detailing the challenge to my conviction disappeared while the document establishing my indigent financial status remained publicly exposed — felt deeply unsettling. It reinforced my growing conviction that the administrative infrastructure handling my cases was operating under rules that were neither transparent nor predictable.
+On June 27, I told McCoy that the 2017 Criminal Information alleged that “on or before May 8” I had put the Lynches in fear with an AR-15 and that I did not purchase the rifle until May 20. I also told her that I had pleaded under duress, that I had not been indicted, and that I believed discovery had never been properly pursued.
 
-The battle over post-conviction evidence was not confined to the electronic docket or the circuit judge's bench. On August 10, 2020, a phone call revealed another critical piece of information regarding the suppression of investigative records. That call established that attorney David O'Donnell was directly tied to the Lafayette County Sheriff's Department withholding crucial information concerning an earlier communication dated May 24, 2017. 
+McCoy did not simply endorse my theory.
 
-To understand the weight of that August 10 revelation, one must look back to May 24, 2017, during the initial investigative push that gave birth to the original stalking charges. On that day, Investigator Alex Bundren of the Lafayette County Sheriff's Department engaged in a telephone conversation during which he systematically reviewed my public Facebook page, scrutinizing my online posts, social connections, and public statements to assemble the evidentiary foundation for my arrest. That May 24 phone call was a pivotal moment in the investigation; it represented the exact point where law enforcement surveillance intersected with my digital footprint. Yet, despite repeated discovery requests and subpoenas issued throughout my criminal defense, all official logs, notes, and memorializations of that May 24, 2017 call were withheld by law enforcement authorities. The August 10, 2020 call exposed that David O'Donnell was actively involved in facilitating or supporting the Sheriff's Department's decision to keep those investigative records shielded from disclosure.
+She asked what information I had relied on when entering the plea and whether I had proceeded by information rather than indictment. When I described the covenant not to sue, she called it “a little unusual” in her experience and asked whether it had been part of a bargain in which the State would recommend no jail time if I signed the covenant. She also told me she was not sure the covenant or banishment was valid. Those were her contemporaneous impressions, not judicial rulings.
 
-The withholding of the May 24, 2017 investigative notes was far from a technical oversight. In criminal practice, police logs detailing real-time social media monitoring provide vital context regarding investigator bias, the sequence of evidence gathering, and whether law enforcement acted upon verified facts or external pressure. By tying O'Donnell to the suppression of those notes, the August 10 call highlighted a persistent pattern: whenever my defense sought to examine the foundational records of the 2017 prosecution, key documents were either declared non-existent, held behind attorney-client privilege claims, or quietly withheld by law enforcement officials working in tandem with local legal counsel.
+Her most useful advice came when I began treating every irregularity as part of the same conspiracy.
 
-It was during these same summer weeks of 2020 — specifically within a series of text messages exchanged between June 25 and June 27, 2020 — that I laid out to Christi McCoy, Phyllis Crowder's own attorney in the custody matter, a detailed theory that demands careful, cautious examination: the notary-fraud theory [CLAIM].
+On June 30, McCoy told me she had no desire to argue with me but wanted to correct one point: based on what she knew, this was not a §1983 case she would file under her own name. She said I might have a decent post-conviction claim but advised me that my best chance was to “stick with the facts and don't muddy the waters.”
 
-As I have described it, Crowder's attorney at the time, Mona Pittman, filed a false or materially incomplete Chancery Court custody petition on August 26, 2017. That filing was executed with extraordinary haste, lacking proper statutory summons served upon me, and was specifically timed to serve a tactical purpose outside the Chancery Court: reducing Crowder's immediate criminal sentencing exposure in a separate, pending false-reporting case in Olive Branch, DeSoto County. Facing potential incarceration or heavy penalties in DeSoto County, Crowder needed to demonstrate to the sentencing judge that she was an active, responsible mother actively pursuing legal custody of her child in Lafayette County Chancery Court. A stamped custody petition provided immediate documentary proof of an open family law proceeding. According to my claim, Pittman fast-filed the incomplete petition on August 26, 2017, to secure that essential court stamp for the Olive Branch court, and later filed a corrected, "true" version of the custody petition while re-using the identical notary stamp and jurat block from the original filing.
+That sentence reads differently to me now than it did then.
 
-This notary-fraud theory cannot be independently verified through a state bar disciplinary finding, an official notarial audit, or an explicit judicial ruling, and no such formal documentation exists within the public records available to me. It is included here, clearly labeled as an unverified claim [CLAIM], because an honest evaluation of this timeline requires examining the internal logic of the arguments raised during that period. What gives the notary theory its internal coherence is its precise alignment with external incentives and deadlines. The August 26, 2017 filing date directly corresponds with the critical window of Crowder's sentencing calendar in Olive Branch. The motive — establishing a legal custody footprint to mitigate criminal exposure in another jurisdiction — provides a rational explanation for expediting a defective filing without waiting for proper service of process. Re-using a previously executed notary block on a revised petition is a known procedural shortcut in busy law practices, even if it violates strict statutory notarization standards.
+At the time, I was frustrated by it. I believed I had finally assembled enough interconnected material to explain what had happened in 2017. I was talking about Sheriff Joey East, the old Pruitt arrest, the Lynches, the Tannehills, Crowder, court records, the FBI, the missing Sheriff's call, and the covenant as pieces of one design.
 
-At the same time, an alternative, benign explanation exists that must be given equal weight. Family law practices routinely encounter procedural defects in initial pleadings. Attorneys frequently file amended or supplemental petitions to cure technical errors, update factual assertions, or correct jurisdictional defects identified by court clerks. What I perceived as a deliberate, fraudulent scheme to manipulate court records and influence a criminal sentencing hearing could just as plausibly have been an ordinary administrative correction by a busy practitioner, viewed through the lens of a litigant who had developed a deep, justifiable skepticism toward every procedural anomaly in Lafayette County.
+McCoy was telling me that even if some pieces were important, joining all of them together could make the claim weaker rather than stronger.
 
-The reader is entitled to weigh that theory independently, with its limitations clearly stated. Yet, to fully comprehend why I viewed these judicial and administrative irregularities with such intense skepticism, one must look beyond the immediate boundaries of my individual case files and examine the broader institutional framework governing Lafayette County law enforcement and court administration — an institutional ecosystem frequently described by local observers as 'The Oxford Machine.'
+The advice became even more pointed in early July.
 
-In April 2026, investigative reporting published by wtpnews.org brought to light a major financial scandal that illustrates the entrenched, self-policing dynamics of this local establishment: the $34,000 Metro Narcotics Unit scandal. The Metro Narcotics Unit, a multi-jurisdictional drug enforcement entity operating in Lafayette County and Oxford, was funded through municipal and county taxpayer allocations under the oversight of local elected officials. According to the investigative reporting by wtpnews.org, the financial irregularities began around 2014, when approximately $4,000 first disappeared from the unit's secure lockbox maintained at the First National Bank of Oxford. The Federal Bureau of Investigation conducted an inquiry into the missing funds, but federal prosecutors ultimately concluded there was insufficient evidence to bring formal criminal charges against any individual officer or administrator.
+When I told her I expected an evidentiary hearing on my PCR, she warned me that trial courts often rule on post-conviction petitions without one. She asked what evidence I had that could not have been known on the day of the plea and told me to identify that clearly.
 
-The financial drain, however, did not cease with the initial FBI inquiry. In late 2015, during a formal change-of-command inventory within the agency, an additional $30,000 was discovered missing from the unit's lockbox, bringing the total stolen sum to $34,000 in cash. The individuals who conducted that inventory and uncovered the $30,000 shortage were incoming Oxford Police Chief Joey East and Chief Deputy Scott Mills.
+Then she addressed the May 8 date.
 
-Here lies the critical structural conflict exposed by the wtpnews.org investigation: Joey East was not merely an independent investigator stepping in to audit a compromised agency. He was himself an authorized signatory on the First National Bank of Oxford lockbox from which the $34,000 had vanished, AND he was one of only two individuals who "discovered" the second $30,000 shortage during the internal inventory. In any standard law enforcement structure, an individual with direct signature authority over a compromised bank account cannot conduct a neutral, objective investigation into missing cash from that same account. Yet in Lafayette County, East oversaw the internal accounting process, effectively creating a self-investigation conflict of interest that insulated key local figures from external accountability.
+Her response was not what I wanted to hear. She told me the date issue could be treated as a nonissue because **I knew when I bought the gun at the time of the plea**. Her question was straightforward: why had I not brought it up then? She contrasted that problem with two issues she thought were more favorable to me—the claimed lack of access to discovery and the very limited contact I said I had with counsel while I was in custody. She told me to document the number of days in custody, the number and duration of attorney visits, and the lack of discovery review.
 
-The institutional connections ran even deeper across county government. Joey East was the son of F.D. "Buddy" East, who served as the long-time Sheriff of Lafayette County for nearly four decades, building one of the most powerful political dynasties in North Mississippi. Before running for Sheriff himself, Joey East sat on the Metro Narcotics Control Board, the governing body responsible for overseeing the unit's operations and financial accounts. Following his father's passing, Joey East ran for Lafayette County Sheriff, won the election, and was officially sworn into office in January 2020.
+That exchange belongs in this edition because it exposes the weakness in the argument before a judge ever ruled on it.
 
-Simultaneously, Jeff Busby served for eight years as President of the Lafayette County Board of Supervisors, the primary county governing body responsible for approving municipal budgets and allocating local taxpayer funds to the Metro Narcotics Unit during the very years that the $34,000 went missing. In 2019, Busby ran for Circuit Clerk of Lafayette County — the chief administrative officer responsible for managing all Circuit Court records, dockets, and jury selection processes — and took office in January 2020, the exact same month Joey East assumed office as Sheriff.
+The July 6 plea transcript now makes McCoy's point sharper. Judge Luther stated the May 8 date to me. I asked him to repeat it. He repeated it. I admitted the charge. The transcript does not show me raising the May 20 receipt in response.
 
-This real, previously published reporting from wtpnews.org highlights the closed loop of authority that defined Lafayette County's legal and political landscape in 2020. The same public officials who funded law enforcement agencies as supervisors later managed the court records as Circuit Clerk; the same law enforcement figures who held signature authority over missing lockbox funds oversaw the internal audits and assumed the highest law enforcement office in the county. When I filed my post-conviction relief motion L20-316 in July 2020, challenged the unexplained judge swaps between Judge Smith and Judge Luther, questioned the disappearance of online docket entries, and confronted withheld police notes involving David O'Donnell and Investigator Alex Bundren, I was not operating in a vacuum. I was navigating a legal system governed by an interconnected political network where administrative discretion, court records, and law enforcement authority were tightly held within a small circle of long-tenured officials.
+That does not explain the date discrepancy. It does explain why a post-conviction court could view the discrepancy differently from the way I did. Evidence can be powerful and still be procedurally difficult if the defendant knew the underlying fact before pleading guilty.
 
-The next chapter shifts focus from the Circuit Court dockets and law enforcement leadership to a parallel, equally relentless pressure point: Child Protective Services, and a recurring series of anonymous allegations that Madelyn and I would confront directly during a recorded July 2020 home visit, describing them in our own words as happening "three years in a row."
+I filed the post-conviction motion on July 7, 2020, in the Circuit Court of Lafayette County. The new proceeding was Cause No. L20-316.
+
+That number needs to remain distinct from LK17-295, the underlying criminal case, and L17-233, the 2017 habeas matter. Earlier timelines sometimes blurred those files together. They were different proceedings with different procedural purposes.
+
+L20-316 attacked the guilty plea. I raised the missing initiating records, the rifle-purchase chronology, the circumstances of the detention and plea, alleged deficiencies in counsel's representation, and constitutional arguments challenging the judgment.
+
+On July 30, Judge Luther entered an order summarily denying post-conviction relief under Mississippi Code § 99-39-11(2). He did not grant the evidentiary hearing I expected.
+
+I filed for rehearing. I sought recusal. I tried to compel records. Later orders denied reconsideration and recusal and treated the motion to compel as moot.
+
+Those are the procedural facts.
+
+The judge-assignment dispute is less clean.
+
+In my 2020 filings I asserted that L20-316 had originally shown Judge Kent Smith and questioned why Judge Luther was deciding it. I later recorded public-docket information that I interpreted as showing an assignment change. I treated that as proof of manipulation.
+
+The present archive does not contain a certified administrative assignment history showing when the assignment changed, who changed it, or why. A docket field that changes does not tell me who made the change or whether it was improper. Multi-judge courts reassign cases for ordinary reasons. The fact that Luther signed the orders is established. My claim that someone fraudulently changed the assignment remains an allegation unless the administrative record proves it.
+
+That was not how I spoke about it at the time.
+
+The contemporary messages show me escalating quickly from discrepancy to accusation. I told people the judge had been changed “fraudulently.” I interpreted difficulty accessing the electronic case as evidence that the cause was being hidden. I connected the assignment to officials I was already accusing of misconduct.
+
+In hindsight, the evidentiary problem is obvious: a system display can show that something changed without showing why.
+
+The same problem affected my records fight with the Sheriff's Department.
+
+I made calls and sent demands trying to identify the source of the May 24, 2017 information that caused Investigator Jared Bundren to review my Facebook material. I wanted call logs, recordings, affidavits, notes, and the actual pre-arrest probable-cause paper. I accused county attorney David O'Donnell and Sheriff's officials of obstructing disclosure when the records I expected did not arrive.
+
+Those communications prove I was demanding the records. They do not prove O'Donnell ordered anyone to destroy or suppress them.
+
+The difference between those propositions is now one of the rules of this manuscript.
+
+A missing document is a missing document.
+
+A refusal or incomplete response can be documented if the correspondence shows it.
+
+A deliberate cover-up requires evidence of intent.
+
+I did not always maintain that distinction in 2020.
+
+The evidence fight also spilled into the Crowder custody litigation. I began comparing affidavits and Chancery filings and concluded that notarized material had been duplicated or reused improperly. The document at the center of that theory was notarized August 26, 2020. Other filings followed in September and October.
+
+I called the pattern notary fraud.
+
+No court, notary authority, or disciplinary body in the present record has made that finding. What I can prove is that I compared the filings, believed the jurats or sworn material were being reused, and raised the issue repeatedly. The documents themselves belong in the evidence archive where the reader can compare them. My conclusion about criminal intent does not become evidence merely because I wrote it in a motion.
+
+Another theory I developed was that new Chancery litigation had been timed to help Crowder in the false-reporting prosecution. The chronology fueled that suspicion: her municipal case was approaching judgment while the custody litigation became active again. But the correspondence I have reviewed does not contain a statement from Crowder, Pittman, McCoy, or a court official saying that the Chancery filings were designed to alter the criminal result. That causal allegation therefore cannot be printed as fact.
+
+By late 2020 my relationship with McCoy illustrates the larger problem.
+
+She was willing to point me toward potentially useful issues. She questioned the unusual covenant. She recognized that limited attorney contact and lack of discovery could matter. She also repeatedly told me that post-conviction relief was difficult and that I was weakening myself when I mixed stronger issues with sweeping theories.
+
+I did not always take the advice.
+
+I was convinced that if I could simply collect enough documents, the whole system would resolve into one explanation. Every new discrepancy seemed to validate the larger picture. That made me persistent. It also made me vulnerable to overclaiming.
+
+The present manuscript has the advantage I did not have in 2020: six more years of records.
+
+Some things I suspected turned out to have documentary support. Some did not. Some remain unresolved. Some of my own factual descriptions were wrong.
+
+That is why the absence of the May 2017 initiating affidavit remains so important. It is not proof that the affidavit was destroyed. It is not proof that it contained the later May 8 allegation. It is not proof that the arrest was fabricated.
+
+It is the missing record that would answer one of those questions.
+
+What I can prove about the post-conviction fight is already substantial:
+
+I requested the original initiating record on May 20, 2020.
+
+The Sheriff's Department produced the May 30 narrative instead.
+
+I followed up.
+
+I contacted Judge Luther's administrator and was directed to use the post-conviction process.
+
+I consulted informally with an attorney who warned me to separate facts from theories and identified discovery and attorney access as stronger issues than I wanted to admit.
+
+I filed L20-316 on July 7.
+
+Judge Luther denied it without an evidentiary hearing on July 30.
+
+I sought rehearing, recusal, and additional evidence.
+
+And the underlying pre-arrest document remained outside the archive.
+
+That was the environment in which the rest of 2020 unfolded: one criminal conviction I was trying to reopen, another criminal case in which the police had concluded that Crowder falsely accused me, renewed family litigation, and an increasing habit of recording and preserving every government interaction I could.
+
+The next chapter turns to the family reports that were occurring at the same time—and to the difference between a documented allegation, an unsubstantiated report, and a proven false report.

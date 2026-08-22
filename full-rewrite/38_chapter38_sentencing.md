@@ -1,37 +1,271 @@
 CHAPTER 38 — SENTENCING
 
-I was sentenced on Friday, August 7, 2026, in the federal courthouse case detailed across Chapters 27 through 29 — the case arising from my August 25, 2025 arrest at the John M. Shaw United States Courthouse in Lafayette, Louisiana, and the January 16, 2026 guilty verdict that followed my December 2025 bench trial. The hearing took place at the Lake Charles Division of the U.S. District Court for the Western District of Louisiana, conducted by video teleconference — I appeared from Our Daily Bread, a missionary organization in Galveston, Texas, that hosted the call for me that day.
+On **Friday, August 7, 2026**, I appeared by video for sentencing in *United States v. Reardon*, the federal misdemeanor case arising from my August 25, 2025 arrest at the John M. Shaw United States Courthouse in Lafayette, Louisiana.
 
-The government asked for unsupervised probation of up to five years, with a condition barring me from federal courthouses except when personally filing a lawsuit. I asked for the opposite: time served, or the full thirty-day statutory maximum in place of any probation at all. I told the court plainly that I would rather serve every remaining day of a finite sentence than accept an indefinite condition on my right to walk into a public building and do my job.
+The hearing was public enough that I livestreamed the lead-up to it.
 
-I delivered that argument myself, reading from a prepared allocution. I identified myself as a Marine Corps veteran and the founder of We the People News, and framed the case not as a dispute over a locked door but as the completion of a surveillance campaign that began two months before any charge existed. I read into the record the June 24 and June 26, 2025 emails a deputy U.S. marshal had sent to court-staff addresses under the subject line "First Amendment Auditor Matthew Rearen," and the results of the FOIA request that took the Marshals Service nearly two months to answer — fourteen redacted pages, delivered three days before my arrest, confirming that alert bulletins carrying my name, photograph, driver's license number, date of birth, height, and weight had circulated to marshals and court security officers in Mississippi and Louisiana. I read Magistrate Judge Carol B. Whitehurst's November 2025 recusal order into the record — "an objective and reasonable observer could believe the undersigned is predisposed to find Rearen guilty of the offense later charged" — and pointed out that the government had, weeks later, moved to seal the very communications that recusal order was based on. I argued that the government's own admission, on the sealed trial record, that it failed to preserve the courthouse lobby's surveillance footage meant the only video evidence used to convict me was the product of the First Amendment activity the case was ostensibly not about. I described the arrest itself — Deputy U.S. Marshal Hayden Nugent telling me to move my equipment, my complying, and being arrested anyway; the camera and gimbal destroyed on the ground; a knee or knuckles into my chest in the holding cell; a threatened felony charge when I pulled away; a heart rate paramedics clocked between 140 and 160 beats a minute, which marshals and paramedics on scene suggested I was faking to avoid custody. I described being shackled and driven to a parish jail booking desk where the deputy receiving me admitted, when asked, that there was no charge — only, in his words, a hold for the U.S. Marshals.
+The surviving video begins before I reached the room where I would join the court. I told viewers I was trying to get the hearing link because I had wanted to post it publicly. I was heading to the place that had agreed to host the video connection and was worried about being late for an 11:00 a.m. sentencing.
 
-I owe the record one clarification to my own allocution, made here rather than left standing uncorrected: "destroyed" overstated it, and I want to be precise instead of dramatic. The camera and gimbal were introduced at trial as government exhibits — meaning they existed intact enough to be logged, marked, and shown to the court, not smashed to pieces. The court's own findings after that two-day trial, with the arrest video in evidence, describe me refusing Deputy Nugent's order, being warned, and being arrested after a countdown — they make no finding of a fall, a struggle, or physical damage. But intact enough to sit on an evidence table is not the same as undamaged. A gimbal is a precision instrument built around sensitive stabilization sensors, and mine did not work correctly afterward — the kind of internal damage a chain-of-custody exhibit photo would never show. What I said in the moment, "destroyed on the ground," was my own overstatement under real physical and emotional stress; what I can actually stand behind is that the equipment was damaged and stopped functioning as it had before, on my own account, not the court's finding. I am printing both the overstatement and the correction rather than let either one stand alone.
+That place was **Our Daily Bread in Galveston, Texas**.
 
-I drew a direct line from that condition to the two banishments described in earlier chapters — the 2017 exclusion from Lafayette County and the 2022 exclusion that followed it, the second of which became the pretext for a revocation built on testimony I maintain was perjured, and cost me a year in custody and my presence at my son's birth. I told the court I recognized the pattern because I had already lived it, and that I would not give the government another chance to use a geographic-access condition as a trip wire. I stated for the record that I did not consent to any probation condition restricting my presence in public buildings, my recording, or my speech, and that if the court intended to impose one anyway, it would do so over my objection and without my consent.
+The transcript captures the practical awkwardness of appearing for federal sentencing from another state. I arrived with only minutes to spare, tried to get situated, and told the people helping me that I had an allocution prepared in large print. Once the connection was live, my attorney, **Dustin Talbot**, asked whether I had the statement printed or ready. I did not have the large-print copy physically in front of me and said I could pull it up on my phone.
 
-The court did not fully agree with me, but did not fully agree with the government either. The sentence imposed was time served — credited toward, not substituted for, a possible future revocation — plus two years of unsupervised probation. The courthouse-access condition survived, but narrower than the government's own request: barred from the John M. Shaw courthouse and any federal courthouse in the state of Louisiana specifically, not nationwide, unless conducting legitimate business, in which case two business days' notice to the U.S. Marshals Service is required. No fine was imposed and the special assessment was waived; the court found me financially unable to pay either.
+The written version now in the archive is twenty-nine large-print pages. Its first page contains delivery notes to myself: stand still, face the judge, do not pace, speak slowly, breathe between paragraphs, and aim for roughly nineteen to twenty minutes.
 
-The condition's own wording did the vagueness objection's work before Talbot ever spoke. The court barred me from the John M. Shaw courthouse, or any other federal courthouse within the state of Louisiana, or upon any grounds adjacent thereto owned or leased by the United States government or any of its departments or agencies — a sentence that opens narrow, widens to the whole state, and then widens again with a clause that drops the state limitation entirely before the exception clause finally narrows it back down. Read closely afterward, the most defensible interpretation ties that last clause back to the Louisiana courthouses specifically, not to federal property everywhere. Heard once, live, over a video link, in the middle of a ninety-minute hearing, it did not read that way at all — it read like a nationwide ban with a two-word Louisiana carve-out that might or might not still apply. Talbot objected on the record that "legitimate business" was impermissibly vague — the government's own answer, that the standard was the same one any accredited journalist already follows when declining to film inside courthouse corridors, was enough for the court to overrule the objection and let the language stand. But the deeper vagueness was never in "legitimate business" at all. It was in the sentence that came before it, and it was confusing enough that even careful, contemporaneous listening left me unsure, in the moment, what the condition actually covered — which is itself the plainest evidence that the objection Talbot made was the right one, whatever the court's ruling on it.
+The livestream shows that the statement was not merely a draft that never reached the court. At approximately **27:50** into the recording, I began delivering it, closely tracking the prepared text.
 
-A sidebar midway through the hearing produced the exchange that will likely matter most on appeal. The court's initial phrasing — sentencing me "to the time served thus far" and then, separately, imposing probation — reads, and was heard by me, as two sentences stacked on top of each other. Brought back on the record after a private conference, the court clarified that this was not the intent: the time-served credit only becomes operative if the probation is later revoked, at which point I would face resentencing on the original charge, capped at the same thirty-day statutory maximum, with credit for time already served against it. I pressed for a direct answer on whether the court could hold me longer than thirty days across a full violation-and-revocation cycle. The court declined to answer what it characterized as a hypothetical, and directed me to my attorney. The government's own explanation for why it would not answer — that my own conduct on the day of any future violation could expose me to entirely new charges, making any general answer impossible to give responsibly — was, on its own terms, reasonable. It was also, from my side of the video link, not an answer, and the record now shows me saying so plainly, on the record, before the hearing closed.
+Before that happened, the court established the remote-hearing record.
 
-Rule 58(g)(2)'s fourteen-day appeal clock began running at entry of the written judgment the court indicated would follow within days of the hearing. The plan documented in Chapter 37 — a Notice of Appeal paired with a motion to unseal the trial transcript and lift the protective order governing the marshal-communications testimony — proceeds from here, built around the same spoliation and structural due-process argument already laid out: not a request that a reviewing court resolve how much protection courthouse-lobby recording deserves, but whether I received a fair trial on a complete evidentiary record, when the record's own gaps are the government's making.
+Talbot confirmed that I was physically at Our Daily Bread in Galveston. The court stated that the attorneys were also participating by video and that **U.S. Magistrate Judge Thomas P. LeBlanc** was physically in chambers in **Lake Charles, Louisiana**.
 
-What the hearing did not resolve — what no one in that video call, including the court itself, appeared able to resolve in the moment — was how a two-year probationary period squares with a thirty-day statutory ceiling if it is ever tested. That unresolved question, more than the courthouse-access condition itself, is what I carry out of Lake Charles and into the appeal.
+The video appearance had been requested because my circumstances made a physical trip to Louisiana an extreme hardship. LeBlanc explained that sentencing could proceed remotely only with my consent. I was placed under oath, and when asked whether I consented to proceed by video, I said yes.
 
-A second, quieter worry sits underneath it. Standard federal probation carries a mandatory condition that the probationer commit no new federal, state, or local crime during the probationary term — required by statute for every person on federal probation, not something added because of who I am or what I do for a living. But I have spent the better part of a decade being arrested by state and local officers on charges that were later dismissed, reversed, or vacated outright — the 2017 Lynch case, the 2022 Union County arrests, the Galveston DWI that collapsed to a 0.00 blood-alcohol result, the New Orleans battery charge disposed of as a law-enforcement error, the Mississippi Court of Appeals reversal that came down as recently as February 2026. Given that record, and given the documented BOLO alerts already circulating my name to marshals and court security officers across two states before this case ever began, the fear that a future pretextual arrest anywhere could be used to trigger a federal probation violation is not an abstract one for me. It is the same fear, arrived at from a different angle, that produced my allocution in the first place: that an indefinite condition, once attached to my name, becomes a lever other people can pull. What actually limits that lever — a revocation still requires the government to prove, at a hearing, that a new offense was actually committed, not merely alleged — is real, but it is a legal safeguard I will have to rely on being enforced correctly by the same system that has, by my own experience and by several since-reversed dockets, not always gotten that right the first time.
+The court then summarized the case. I had been charged by one-count Bill of Information under the federal-property disturbance regulation and, after a bench trial, found guilty. The operative conviction was the subsection (b) obstruction offense described in Chapters 30 and 31.
 
-## The Call After
+The government spoke before I did.
 
-A few days after the hearing, my attorney Dustin Talbot called to walk me through what had actually landed in the official docket. He'd filed the Notice of Appeal. Because there was no district judge assigned to a case that had run its entire life before a magistrate, the clerk's office had to assign one for the appeal — and briefly assigned Judge David Joseph, sitting in the Lafayette courthouse. Judge Joseph recused himself without being asked. I told Talbot I was glad of that, and I meant it; whatever else is true about this case, a judge who steps aside on his own, before anyone raises the question, is doing something right. As of that call, no replacement judge had been assigned yet.
+Its position was more measured than the version I sometimes gave when describing the case afterward.
 
-Talbot also confirmed something I'd wanted on the record: he had ordered every transcript that matters — the spoliation hearing, both days of the bench trial, the First Amendment motion hearing, and the sentencing hearing itself. He told me the whole appellate process would likely run close to six months from there: transcripts first, then a briefing schedule from whichever district judge inherits the case, then his opening brief roughly three weeks after the transcripts are filed.
+The prosecutor acknowledged my military service and acknowledged that I believed I was asserting a legitimate First Amendment right. He said, in substance, that he was not angry at me for holding that belief; he disagreed with me on the law.
 
-That same call, Talbot read me the written judgment's special condition verbatim, and it matched — almost word for word — the language I'd struggled to pin down live on the video call at sentencing. It reads that I may not be physically present at the John M. Shaw Federal Courthouse in Lafayette, or any other federal courthouse in the state of Louisiana, or on any adjacent grounds owned or leased by the United States, unless I have "legitimate business" with an occupant of the courthouse, in which case I have to notify the U.S. Marshals Service at least two business days ahead of time. Talbot's own reading is that it's confined to Louisiana, that it reaches the land around a courthouse — parking lots, and by his account probably the public sidewalk out front, since that's routinely government-owned or leased — but that it stops there and doesn't extend to a federal building that isn't part of a courthouse complex. He was careful to tell me that's his best professional judgment, not a settled ruling, and that both "legitimate business" and the adjacent-grounds language are exactly what he intends to attack as unconstitutionally vague and overbroad on appeal. I asked him what happens if I ever wanted to sue the Marshals themselves — would I have to notify the people I'm suing that I'm coming to file against them? He confirmed: yes, the condition as written doesn't carve out an exception for that, and doesn't require their permission, only notice. I'll let the irony of that speak for itself.
+The government did **not** ask LeBlanc to send me back to jail.
 
-The most concrete new piece of the call was Talbot's answer to the question the judge wouldn't give me at sentencing — how a two-year probationary term squares with a thirty-day statutory maximum, if that maximum is ever actually tested. His answer: it can't, not lawfully. The underlying offense carries a hard thirty-day ceiling, full stop, no matter how the time gets divided across a case. If I'm ever revoked, his position is that the revocation itself ends the probation — there's no legal mechanism to sentence me a third time on the same charge once thirty total days, minus whatever credit I've already served, have been exhausted. He told me that at the sentencing sidebar, the judge himself had said, in essence, "I can't give him time served and probation" — then decided to impose probation anyway and said he'd "go back and clean it up" in the written order. Whether that cleanup actually resolved the tension, or just buried it in language that still doesn't add up on paper, is one of the questions this appeal exists to answer.
+The prosecutor recognized that the maximum imprisonment for the Class C misdemeanor was thirty days and said he did not believe an additional prison sentence was necessary. Instead, he recommended unsupervised probation. He told the court that a Class C misdemeanor could support as much as five years of probation and argued for **at least three years**, with conditions directed at my conduct around federal courthouses.
 
-Talbot flagged a real-world version of the same problem that has nothing to do with legal theory: if I'm ever arrested anywhere on an alleged violation, transport delays between jurisdictions — Galveston to Lake Charles is the exact route he named — could easily put me in custody past that thirty-day ceiling before I ever see a judge again. He called it "a real concern," the kind of gap where the Constitution says you're entitled to release and the actual machinery of moving a prisoner across two states doesn't care. I don't have a way to fix that in advance. I can only put it on the record now, the way Talbot suggested, so that if it happens, there's a written trail showing I said so first.
+That was the recommendation I stood up—or, in this case, sat before a camera—to answer.
 
-He closed the call comparing this case, petty offense or not, to *Cohen v. California* — a single-word T-shirt case from 1971 that nobody thought mattered until it became the law everyone cites. I don't know if history will treat this case the same way. I know the government spent real money and real institutional weight pursuing a man with a camera, and Talbot's read — shared, evidently, by the government's own conduct — is that they know exactly why a petty offense like this one is worth that much effort.
+My prepared allocution opened by identifying who I believed I was in that proceeding:
+
+**“My name is Matthew Oliver Reardon. I am a United States Marine Corps veteran. I am an independent journalist. I am the founder and publisher of We The People News.”**
+
+I then acknowledged the posture plainly. I was before the court convicted of a petty offense carrying a maximum statutory sentence of thirty days. I said I was not asking LeBlanc at sentencing to overturn the verdict. I wanted to explain why I had been on the courthouse steps, what federal personnel had done before August 25, and why I believed probation with courthouse restrictions would be unjust.
+
+The speech then moved backward two months.
+
+I described the **June 24, 2025** U.S. Marshals Service email concerning me. I quoted the language instructing recipients to report **“any suspicious behavior no matter how small”** and emphasized that the email was distributed after the June 23 courthouse encounter, when no criminal charge had been filed against me.
+
+I discussed the June 27 FOIA request and the Marshals Service response I received on **August 22**, three days before my arrest. I described the District Alert Notice, photographs, identifying information, and the inter-district communications discussed in Chapter 28.
+
+At sentencing I used stronger words than the evidentiary record permits this book to use as settled fact.
+
+I told the court the government had **“surveilled me for protected activity,”** had **“prejudiced the judges of this Court against me,”** and had undertaken a **“campaign.”** Those were my conclusions and my advocacy at sentencing.
+
+The FOIA records prove circulation of information, alert material, identifying data, photographs, and communications among federal security personnel. They do not, standing alone, prove that every recipient surveilled me, that every judge became prejudiced, or that an unlawful coordinated campaign existed.
+
+The distinction is not an effort to soften what I said. It is the reason the full allocution belongs in the evidentiary history while the narrator of this edition has to use more disciplined language.
+
+I then described the August 25 protest.
+
+I told LeBlanc that I had stood outside with a sign containing the words **“Fuck the U.S. Marshals Service.”** I invoked *Cohen v. California* and its famous recognition that the government cannot simply criminalize an offensive four-letter political message because listeners dislike the word.
+
+That part of the allocution was directed at speech.
+
+The conviction, however, was not for the wording on the sign.
+
+As the January written judgment makes clear, the conviction rested on what LeBlanc found I did with signs, my body, and a tripod at the courthouse entrance.
+
+That became the first major contradiction between my sentencing account and the trial court's findings.
+
+In the allocution, I told LeBlanc that Deputy Marshal **Hayden Nugent** told me he would seize my equipment if I did not move it, that I picked it up, began stepping backward away from the door, and was arrested **while complying**.
+
+The January 16 Reasons for Judgment say otherwise.
+
+LeBlanc found that Nugent directed me to move the tripod and camera to the far side of the metal barricades; that I said I was fine where I was; that Nugent warned me I would be arrested; that he gave a three-second countdown; and that I did not move the equipment as ordered before the arrest.
+
+Both records now exist.
+
+The allocution proves the account I put before the judge at sentencing.
+
+The written judgment proves what the trial judge had already found from the evidence.
+
+This book cannot collapse the two into a single version merely because I prefer mine.
+
+I made additional allegations about the arrest that day.
+
+I told the court Nugent slammed me to the ground and damaged my 4K camera, new gimbal, and tripod. I alleged that in the holding area he pressed his knuckles into my chest while I was having difficulty breathing and threatened me with a felony assault-on-a-federal-officer charge after I moved his arm away. I said my heart rate was between 140 and 160 beats per minute by the time paramedics were involved and that I believed medical assistance had been delayed.
+
+Those allegations were part of my publicly delivered allocution.
+
+They were **not findings LeBlanc made at sentencing**.
+
+The equipment also later existed as trial exhibits. For that reason, an earlier formulation saying the equipment was literally “destroyed” is too categorical unless a technical record establishes that it was rendered unusable. My position is that it was damaged and no longer functioned as it had before. That is the formulation this edition uses outside quotations from my sentencing argument.
+
+I then turned to the surveillance-footage dispute.
+
+The prepared allocution called that **“the most significant failure in this entire proceeding.”** I told the court that the government had failed to preserve courthouse lobby surveillance, argued that government cameras could have shown activity my own camera angle could not, and said I believed the missing material would have supported my contention that marshals had gestured for me to approach the building.
+
+I went farther in the speech. I characterized the preservation issue as deliberate concealment of exculpatory evidence and referred to matters I understood from a sealed portion of the trial.
+
+This book will not reproduce the sealed testimony.
+
+I made the argument publicly during sentencing, and the livestream establishes that I made it. But the publication rule for this edition is stricter: sealed testimony stays sealed unless the court later makes it public or a public filing independently establishes the same facts.
+
+Public docket material does establish that surveillance preservation had become a real discovery issue. A November 17 defense filing included a proposed order seeking production of all video and audio recordings of me at the John M. Shaw Courthouse from June 2025 forward and, if the footage no longer existed, a sworn explanation of whether it had been preserved, when it was lost or destroyed, and what preservation efforts followed my September request.
+
+A proposed order is not the same as a signed judicial finding. It proves what the defense was asking the court to compel, not that LeBlanc adopted every proposed finding.
+
+That is how the preservation dispute is treated here.
+
+The allocution then described my transfer after the arrest.
+
+I said I was shackled and taken to **St. Martin Parish Jail** and that when I asked what charge I was being booked on I was told there was only a U.S. Marshals hold. I argued in the speech that transporting and holding me without a new charge was unlawful and even used the word **kidnapping**.
+
+Again, that was my legal accusation, not an adjudication.
+
+The fact that a person is held under federal process without a newly announced local charge does not by itself establish the federal kidnapping offense I invoked. The manuscript preserves what I argued without converting my legal conclusion into a criminal finding against the officers.
+
+From there I returned to the federal communications.
+
+I quoted Magistrate Judge **Carol B. Whitehurst's November 12, 2025 recusal language**, including her statement that an objective and reasonable observer could believe she was predisposed to find me guilty and that avoiding the appearance of impropriety matters to public confidence in the judiciary.
+
+At sentencing I argued that Whitehurst had looked at what the Marshals Service had done and found that the pre-charge communications created an unacceptable appearance of bias.
+
+That formulation also requires qualification.
+
+Whitehurst's recusal is significant. It concerned the appearance surrounding **her own continued participation in the case**. It was not a merits judgment that the Marshals Service had illegally poisoned the entire Western District judiciary or that every recipient of an email was biased against me.
+
+I then cited the government's **October 15 protective-order motion**.
+
+The motion expressly identified discovery categories that included communications between the Marshals Service and federal judges at the John Shaw Courthouse and communications between other courthouse security personnel and the Marshals Service.
+
+During allocution I said the government had asked the court to **conceal** those communications from me.
+
+That was too broad.
+
+The motion sought restrictions on dissemination of sensitive discovery material. It did not seek to prevent defense counsel and me from reviewing all material that the protective order permitted us to use for the case. What the motion proves is that those categories of communications existed in the discovery universe and that the government regarded them as sensitive enough to seek restrictions on broader dissemination.
+
+That is already important without giving the filing a purpose it did not state.
+
+Then the allocution reached the issue that mattered most to me at sentencing: **probation itself**.
+
+The government was asking for years of supervision and restrictions connected to federal courthouses. I had already lived under banishment conditions in Mississippi.
+
+I told LeBlanc that I recognized what I called a **“banishment-style condition”** because I had already experienced one. I discussed the 2022 Lafayette County sentence, the five-year banishment term, the November revocation, and the custody that followed. I said I feared another geographic or courthouse-access condition could become a future **tripwire**.
+
+I also told the court that a son had been born by emergency cesarean section while I was confined and that I had been unable to be there. That statement is preserved here as part of my sworn/public sentencing account. This chapter does not use the allocution alone to add medical or family details elsewhere in the manuscript.
+
+My sentencing request was unusual.
+
+I had already spent approximately thirteen days in custody on the federal matter. The statutory imprisonment maximum was thirty days.
+
+I told the court I preferred a **finite sentence** to years of probation with a courthouse condition.
+
+The delivered speech clarified the request: time served if the court would end the matter there, or, if probation with the access restriction was the alternative, I would rather serve the remaining portion of the thirty-day maximum.
+
+I said:
+
+**“I would rather serve every remaining day of a finite sentence than accept an indefinite condition on my right to walk into a public building and do my job.”**
+
+That sentence captures why the government's recommendation felt more threatening to me than additional jail time.
+
+A jail sentence has an end date.
+
+Probation creates continuing jurisdiction and the possibility of a later revocation proceeding.
+
+My Mississippi history made that possibility concrete rather than theoretical in my mind.
+
+But even there the legal description needs precision. A probation condition is not a self-executing trap that automatically sends someone to prison the moment an officer alleges a violation. Revocation still requires process and a judicial determination. My fear was based on how I believed prior revocation proceedings had operated, not on a rule that every accusation becomes automatic incarceration.
+
+The allocution closed with a statement that tied the sentencing hearing directly to this manuscript.
+
+I told LeBlanc I was writing a book about the BOLO alerts, the emails, the arrest, the force allegations, the surveillance dispute, the holding cell, the jail, the protective order, the recusal, and the conviction.
+
+**“I do not say that as a threat,”** I said. **“I say it as a fact. I am a journalist. This is what I do.”**
+
+I also made my objection to probation explicit. I said I did not consent to a condition that I believed restricted my constitutional rights and wanted any such restriction imposed over my express objection rather than characterized as an agreement I had voluntarily accepted.
+
+The final lines were not subtle.
+
+I said I was a Marine and a journalist, that I intended to return to work after serving whatever sentence the court imposed, and thanked the judge.
+
+Then LeBlanc sentenced me.
+
+At approximately **57:44** on the livestream, the court initially described the sentence as time already served plus **two years of unsupervised probation**.
+
+The standard conditions included that I commit no new federal, state, or local crime; not unlawfully possess a controlled substance; and not possess firearms, ammunition, destructive devices, or dangerous weapons. The court suspended the drug-testing requirement because the information before it did not suggest a significant drug-abuse risk.
+
+The special courthouse condition was broader geographically than the John M. Shaw building alone but narrower than a nationwide ban.
+
+LeBlanc ordered that I not be physically present at the **John M. Shaw Federal Courthouse in Lafayette**, any other federal courthouse **within Louisiana**, or adjacent federally owned or leased grounds unless I had **legitimate business** with an occupant of the courthouse. If I did have such business, I was required to notify the U.S. Marshals Service in that locality at least **two business days in advance**.
+
+LeBlanc expressly said the sentence was not intended to suppress my First Amendment activity. He framed it as a response to the conduct for which I had been convicted on federal courthouse property.
+
+Then the hearing became procedurally unusual.
+
+After a breakout discussion requested by the government, the participants returned to the record and LeBlanc clarified that his earlier wording could be misunderstood.
+
+The final structure was **not** “time served” as one completed punishment **plus** two years of probation as a second punishment.
+
+Instead, I was being placed on **two years of unsupervised probation**. The approximately thirteen days I had already spent in custody would operate as credit if probation were later revoked and I were resentenced on the original offense.
+
+That clarification matters enough that the source notes and the manuscript both need to use it consistently. A shorthand description of “time served + two years probation” is incomplete after the judge's clarification.
+
+I immediately saw the problem I had been trying to avoid.
+
+I pressed LeBlanc for a yes-or-no answer to whether I could ever spend more than thirty total days in custody on the original petty offense if probation were later revoked.
+
+The judge declined to answer the hypothetical and directed me to counsel. The prosecutor explained that future circumstances could involve different legal permutations, including potentially new charges, making the categorical question unsuitable for an on-the-spot ruling.
+
+The hearing therefore does **not** contain a judicial holding answering every future revocation scenario.
+
+It contains something more limited:
+
+I was sentenced to two years of unsupervised probation.
+
+If the court later revoked that probation and resentenced me on the original offense, the custody already served would be credited.
+
+LeBlanc did not give me the broader advisory ruling I wanted about all possible future custody.
+
+The court imposed **no fine**.
+
+LeBlanc also **waived the special assessment**, explaining that the record did not show I was financially able to pay a fine or assessment.
+
+Talbot then put an objection to the special courthouse condition on the record.
+
+He argued that the phrase **“legitimate business”** was vague. The government responded that I could do what similarly situated members of the public could do so long as I complied with the rules, standing orders, and federal regulations governing the courthouse.
+
+LeBlanc overruled the objection. He found the reference to legitimate business with courthouse tenants or occupants sufficiently clear.
+
+I disagree with that ruling and have treated the condition as an appellate issue. But that is the procedural posture: objection preserved, government response made, objection overruled.
+
+Near the end of the hearing, LeBlanc advised me of the appeal route.
+
+I had **fourteen days after entry of judgment** to file a written notice of appeal. Because the petty-offense case had been tried and sentenced by a magistrate judge, the first appeal was to a **United States district judge** under Federal Rule of Criminal Procedure 58(g)(2), not directly to the Fifth Circuit.
+
+Earlier drafts that described a direct Fifth Circuit appeal were wrong.
+
+The hearing ended after approximately an hour and a half. LeBlanc said the court would prepare the written judgment, concluded the sentencing, and wished me good luck.
+
+The most revealing thing about the hearing is not that either side obtained everything it asked for.
+
+The government requested at least three years of unsupervised probation. LeBlanc imposed two.
+
+I asked for time served with no probation—or, failing that, said I preferred the remaining days of the thirty-day imprisonment ceiling. The court rejected that choice and imposed probation.
+
+I objected to the courthouse condition. The objection was preserved but overruled.
+
+And I put into the public record a long argument about federal information sharing, preservation of evidence, the Marshals Service, Whitehurst's recusal, my Mississippi history, and why I believed the prosecution fit a larger pattern.
+
+Some of those arguments remain central to how I understand what happened.
+
+Some were stated too categorically in the allocution and have been narrowed in this edition because the underlying documents do not prove the conclusion as strongly as I told the sentencing court they did.
+
+That difference is not something I want hidden from the reader.
+
+The August 7 allocution is evidence of my position at that moment.
+
+The court's judgments and orders are evidence of what the judiciary actually found.
+
+The FOIA records are evidence of what federal personnel actually wrote and distributed.
+
+The videos are evidence of what they show.
+
+And where those categories conflict, the conflict stays visible.
+
+That is the standard I am applying to this book even when it cuts against the story I once told about myself.
+
+Three days after sentencing, in the separate Texas civil case, Judge Jeffrey Brown entered the order and final judgment discussed in the previous chapter.
+
+The legal fights were narrowing.
+
+The financial consequences were not.

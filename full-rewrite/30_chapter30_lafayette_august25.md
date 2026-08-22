@@ -1,49 +1,101 @@
 CHAPTER 30 — LAFAYETTE: AUGUST 25
 
-On August 25, 2025, I was arrested at the John M. Shaw United States Courthouse in Lafayette, Louisiana — the same building where the two-month surveillance pattern detailed in Chapter 28 had begun. I was charged with violating 41 CFR § 102-74.390(b), a federal regulation governing conduct on General Services Administration property, arrested by Deputy U.S. Marshal Hayden Nugent. It was my fourth documented visit to that courthouse.
+On **August 25, 2025**, I returned to the John M. Shaw United States Courthouse in Lafayette, Louisiana.
 
-To understand the legal basis of the charge, a lay reader needs a clear explanation of what 41 CFR § 102-74.390(b) actually is and how it functions on federal property. Title 41 of the Code of Federal Regulations contains the administrative rules governing public contracts and property management across the federal government. Within Part 102-74, Subpart C outlines the specific rules of conduct enforced across all real property under the authority and custody of the General Services Administration. Section 102-74.390 addresses "Disturbances" on federal property. Subsection (b) prohibits any person from engaging in disorderly conduct, creating loud or unusual noise or nuisances, obstructing the usual use of entrances, foyers, lobbies, corridors, offices, elevators, stairways, or parking lots, or otherwise impeding or disturbing the proper performance of official duties by government employees.
+It was my **third** documented visit that summer, not my fourth. The first had been June 23. The second was June 26. By the third visit, U.S. Marshals personnel in Louisiana and Mississippi had already circulated the emails and alert material described in Chapter 28.
 
-In practice, 41 CFR § 102-74.390(b) is the primary federal misdemeanor tool used by U.S. Marshals and Federal Protective Service officers to enforce order inside federal courthouses and administrative complexes. Carrying criminal penalties of up to thirty days' imprisonment alongside monetary fines, the regulation grants federal law enforcement broad administrative discretion. When encounters with citizens recording in public lobbies escalate, officers frequently invoke subsection (b) as a flexible enforcement tool, converting administrative facility rules into federal misdemeanor charges by citing lobby obstruction, raised voices, or failure to comply with security instructions.
+I went back angry about that record and intending to protest the Marshals Service while continuing to assert what I believed was my right to record in the public portions of the courthouse.
 
-That is the charge. Before I describe how I came to be arrested under it, I have to describe what I was doing and saying that morning, because I broadcast all of it myself, live, and it is the single most damaging body of evidence in this book. If a reader learns it from the government's brief instead of from me, nothing else I say here deserves to be believed.
+That is not simply my reconstruction. The federal court later found that I returned on August 25 to exercise what I understood to be First Amendment rights and to express my "extreme discontent" with the U.S. Marshals Service after learning through FOIA that federal law-enforcement personnel had been communicating about me.
 
-I did not go to Lafayette that morning to quietly document a federal building. I opened the livestream by telling my audience they were "tuning in live for National Fuck the US Marshals Day." I returned to the phrase again and again through the broadcast. I signed off segments with it: "Happy National Fuck the US Marshals Day." That was my own name for the day — my framing, chosen in advance, announced to an audience, on the morning I was arrested at a federal courthouse.
+I brought cameras, a tripod, two smartphones, and handwritten protest signs containing profanity directed at the Marshals Service. My own recordings documented the encounter and were introduced at trial.
 
-The register did not improve from there. To a federal officer who told me what I could and could not do, I said: "What gives you the authority to tell me a damn thing? You need to keep on stepping. And I mean it, buddy. I ain't playing your games." I told an officer, repeatedly, "You might want to go 108" — radio code for returning to service. I was ordering a federal officer to leave. I said, of another, "I'm going to make you look like an idiot today."
+The criminal charge that followed has to be stated precisely.
 
-And I said this, on camera, to a federal officer, hours before I was taken into custody: "You put hands on me, I'm going to defend myself. I'm telling you that right now. All right. You're going to get sprayed down."
+The government charged me by Bill of Information with one count under **41 C.F.R. § 102-74.390(a)-(b)**, the federal regulation governing disturbances on federal property. Subsection (a) concerns loud or unusual noise or nuisance. Subsection (b) concerns conduct that unreasonably obstructs the usual use of entrances, foyers, lobbies, corridors, offices, elevators, stairways, or parking lots.
 
-I framed it conditionally. I framed it as self-defense — *if* you put hands on me. That framing is real and I am not going to pretend I said something I did not say. But it needs to be stated plainly for what it also was: a stated threat to deploy chemical force against a federal officer, made on a live broadcast, by a man who was about to be charged with a federal offense inside that officer's building. There is no reading of that sentence that makes it the language of a neutral observer. I said it. It is on my own recording. I published it myself.
+At trial, however, the government proceeded **only on subsection (b)** — obstruction of entrances. That was the theory on which I was ultimately convicted.
 
-That is the man who walked up to the courthouse that day. Now here is what happened when he got there — and the reason I have never been able to let this go.
+That distinction matters because an earlier draft described the case as though my profanity and confrontation were themselves the charged offense. They were part of the factual context and the court's mens-rea analysis, but the government's trial theory was obstruction.
 
-The doors had been locked to me. I said so out loud as it was happening: "But you locked the doors on me. But y'all lock the doors on me." And then, from the sidewalk, still streaming, I watched a marshal wave me in.
+The physical layout matters too.
 
-"Y'all want me to come in? Hey, they're trying to wave me in the courthouse. So, he just waved me in. Should I accept the invitation? I think I should accept the invitation."
+The courthouse's exterior entrance consists of several sets of glass double doors. The federal court's January 16, 2026 Reasons for Judgment identifies two center-area doors as emergency exits, EE-1 and EE-2, and another pair as the customary Entrance/Exit Door. The two emergency exits ordinarily remained locked from the outside but could be opened by court-security personnel when necessary.
 
-I accepted it. I walked through doors that had been closed to me, because a federal officer gestured me through them. The greeting inside was not a warning to leave. It was recognition: "Well, look who it is." And then, in terms, what the invitation had been for: "Hey, man. Look, I'm going tell you one time. Can't be in here to report — be arrested."
+When I arrived, I initially protested nearer the street and displayed my signs to people passing the courthouse.
 
-I walked back out. Seconds later, still on the recording, I named what I thought had just happened: "That's entrapment and violation of my First Amendment rights."
+At some point I saw a deputy marshal make a gesture from inside. On my livestream I interpreted the gesture as an invitation to enter and told my audience that I had been waved inside.
 
-I want to be careful here, because I am not a lawyer and entrapment is a legal term with a specific and demanding meaning that I was not applying with any precision in that moment. I said the word. I am quoting myself saying it. I am not asking the reader to accept it as a legal conclusion, and no court has ever found one.
+The later federal judgment is careful about that point. It does **not** find that a marshal actually invited me into the building. It says I observed a gesture that **I interpreted as an invitation**.
 
-But strip the label off and look at the sequence. A building whose doors were locked to me. An officer who waved me through them. A greeting that showed I was expected. And an immediate statement that being inside to report meant arrest. Whatever the correct legal name for that is, it is not a citizen wandering unbidden into a federal building and disrupting it.
+I gathered my equipment and moved toward the courthouse.
 
-I was audibly torn about what to do with it, and that is on the recording too — twice: "There's a big part of me that wants to go back in and take the arrest." And later, outside, all but daring them: "I'll take the arrest. I'll take the arrest right here. Yes, sir. Come on with it. Come on with it."
+I first tried two doors that were locked — the emergency exits. I then went through the ordinary Entrance/Exit Door with signs under my arm and a recording device operating.
 
-I went back. I carried my recording equipment in and set up a camera on a metal tripod in the lobby, near an entrance doorway and the security passageway leading toward the court screening station. I adjusted the legs to stabilize it and kept the livestream running. Deputy U.S. Marshal Hayden Nugent approached and told me to move the equipment, questioning my presence and my setup. I did not shift the tripod and I did not de-escalate. I turned to the camera and said the sentence that became the centerpiece of the government's case: "now they just asked for it."
+Deputy U.S. Marshal **Hayden Nugent**, who had been present during the prior courthouse encounters, met me as I approached the interior lobby. According to the court's findings, Nugent told me I had **not** been invited inside and that I would be arrested if I attempted to film inside the courthouse.
 
-Nugent moved in. He ordered me to turn around, took my arms, and secured handcuffs behind my back. Security personnel confiscated the camera gear and the tripod. Handcuffed in a public lobby in front of onlookers, I felt the steel close on my wrists — a sharp physical punctuation mark at the end of two months of surveillance I had not been able to see. I was walked past the metal detectors, through the security doors, and into the U.S. Marshals holding facility inside the courthouse.
+I believed I had been baited. I protested loudly, used profanity, and exited the building.
 
-This chapter demands the same discipline as every other episode in this book where institutional overreach and my own escalating conduct sit side by side, and it demands more of it here than anywhere else, because this is the arrest I was convicted on. The trial record — covered fully in the next chapter — establishes that what I did that day went well beyond recording in a public lobby. It shows a tripod positioned so that it blocked an emergency exit. It shows crude, confrontational language directed at a federal officer. It shows my own livestream, in my own words, framing the confrontation as something the government "asked for."
+That was not the arrest.
 
-And it sits alongside everything I said before I ever walked in: the name I gave the broadcast, the order to a federal officer to go back in service, the promise that he would get sprayed down.
+This is another significant correction from the prior manuscript. I was **not arrested inside the public lobby immediately after entering**. I went back outside to the covered portico and continued the protest.
 
-Both things are true at once, and I am not going to let either soften the other for the sake of a cleaner argument. A tripod blocking an emergency exit in a federal courthouse is a legitimate security concern, entirely independent of any question about the government's prior surveillance of me. Crude language directed at a federal officer is not a crime, but it is not admirable either. A stated threat of pepper spray, however conditional, is the kind of thing that makes an officer's caution reasonable rather than sinister. And "now they just asked for it" is not the language of a passive documentarian caught in an overreaching arrest. It is the language of a man who understood in the moment that he was pushing toward a confrontation, and who said so on tape.
+My own recording captures me saying, **"now they just asked for it,"** and later, **"there's a big part of me that wants to go back in and take the arrest."** I also said, **"They want it. They want it."**
 
-What none of that undercuts — what it cannot undercut — is the two-month documentary record set out in Chapter 28. A defendant's poor judgment at the moment of arrest does not retroactively justify, or even address, the question of why federal law enforcement across two states had already spent two months circulating my photograph, labeling me a "1st Amendment auditor," and predicting my movements before this incident existed to be predicted. Those are two separate questions, answered by two separate bodies of evidence, and both deserve an answer instead of one being used to bury the other. My conduct that day was not blameless. The government's response to me was shaped by an apparatus built and aimed at me well before August 25 gave it a specific incident to act on.
+Those statements were later cited by the court in assessing whether my actions were deliberate rather than accidental.
 
-There is one more parallel, flagged earlier in Chapter 12: the basic shape of what happened in Lafayette in August 2025 — a federal building, a camera, an escalating confrontation with federal personnel who chose engagement over de-escalation — had already played out once before, at the Oxford U.S. Attorney's Office in July 2021, four years earlier and four hundred miles away, with lower stakes and no arrest. That parallel does not prove a coordinated multi-year campaign against me. It does establish that this pattern of confrontation, traced now across two states and eight years, was new to neither side by 2025.
+I then began displaying the protest signs directly against or in front of the courthouse doors.
 
-I was found guilty following a bench trial roughly four months later. The next chapter covers that trial, the verdict, and the spoliation issue that stands as the strongest available ground for appeal.
+The federal court found that I held a roughly twenty-by-thirty-inch posterboard against or directly in front of the EE-1 emergency exit, the EE-2 emergency exit, and the customary Entrance/Exit Door. At one point I propped a poster on the handles of the ordinary Entrance/Exit Door for approximately twenty seconds, physically preventing that pair of doors from being used while the sign was there.
+
+I also moved my tripod.
+
+The court found that I positioned the tripod and mounted camera **directly in front of the EE-2 emergency-exit door**, with at least one tripod foot touching the door and the camera recording against the glass. I then moved away from the equipment to a statue platform at the far end of the landing and remained away from it for about twenty minutes.
+
+Those facts became the center of the federal case.
+
+After approximately twenty minutes, Nugent and another deputy marshal came outside. Nugent directed me to remove the camera from the emergency-exit door, told me it presented a hazard, and warned that the equipment would be seized if I did not move it.
+
+I refused.
+
+The federal judgment records my response to Nugent as: **"you need to suck my d**k!"**
+
+Nugent said he was going to seize the camera and tripod and began walking toward them. I quickly moved toward the equipment, warning him not to touch it.
+
+When we reached the tripod, Nugent directed me to move the camera to the far side of the metal barricades on the sidewalk below. I responded that I was **"fine right here."**
+
+Nugent told me I would be arrested if I refused. He gave a three-second countdown.
+
+I did not move the equipment as ordered.
+
+He arrested me.
+
+That is the arrest sequence the trial court found after hearing the evidence. It is materially different from the earlier version of this chapter, which placed the arrest inside the lobby and described Nugent simply moving in and handcuffing me after an argument about recording.
+
+The conviction was not based on the proposition that profanity toward a federal officer is itself unlawful. Nor was it based simply on my carrying a camera onto federal property.
+
+The January 2026 judgment found beyond a reasonable doubt that my conduct **unreasonably obstructed the usual use of the courthouse entrance**. The court relied on photographs and videos showing the tripod directly in front of the emergency exit, the signs against multiple doors, and the poster temporarily propped on the ordinary entrance-door handles.
+
+I testified at trial and acknowledged that I had placed my camera/tripod, signs, and at times my body against multiple doors. My legal position was that I was not obstructing a door's "usual use" when the door was locked or when nobody was actually trying to pass through it at that moment.
+
+The court rejected that interpretation.
+
+It held that an entrance system in a federal courthouse serves security, safety, emergency, and access functions beyond the instant physical passage of one visitor. On that reasoning, an emergency door did not have to be actively used at the exact second I placed the tripod against it for the obstruction to fall within subsection (b).
+
+The court also found the conduct intentional. It relied in part on my awareness of the courthouse's posted GSA Conduct Rules from the June visits, my statements about "taking the arrest," my decision to move the tripod from a position away from the doors to a position directly against an emergency exit, and my refusal to move it after Nugent expressly identified it as a hazard and warned me that refusal would lead to arrest.
+
+I disagree with aspects of the court's legal analysis and preserved issues for challenge. But this manuscript cannot describe me as a passive journalist arrested merely for standing in a lobby with a camera. The trial record does not permit that account.
+
+At the same time, the conviction does not erase what Chapter 28 establishes about the period before August 25. Federal personnel had already circulated my name, photograph, prior history, and courthouse activity; a Northern District of Mississippi alert had instructed personnel to monitor me closely; and a supervisory deputy had written that he expected me eventually to appear at the federal courthouses in Greenville or Aberdeen.
+
+Those earlier records are relevant history. They are not a defense that automatically negates what I did on August 25.
+
+The two questions have to remain separate.
+
+One is what federal officers knew and shared about me before the August confrontation.
+
+The other is whether, on August 25 itself, I knowingly obstructed a courthouse entrance within the meaning of 41 C.F.R. § 102-74.390(b).
+
+After a bench trial on **December 15 and 16, 2025**, the federal court answered the second question against me. On **January 16, 2026**, Magistrate Judge **Patrick J. LeBlanc** issued written Reasons for Judgment denying my renewed Rule 29 motion and adjudging me guilty.
+
+The next chapter is about that trial and what the court actually decided — including the evidence-preservation dispute that I believe remains one of the most important issues in the case.
