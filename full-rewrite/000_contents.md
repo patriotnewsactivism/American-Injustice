@@ -19,7 +19,7 @@
 <div class="e"><span class="n">3</span><span class="t">The Agenda</span></div>
 <div class="e"><span class="n">4</span><span class="t">The Setup: Twelve Days</span></div>
 <div class="e"><span class="n">5</span><span class="t">$150,000, and an Order Signed Under Duress</span></div>
-<div class="e"><span class="n">6</span><span class="t">Six Weeks, and the Form That Vanished</span></div>
+<div class="e"><span class="n">6</span><span class="t">Six Weeks and the Plea</span></div>
 <div class="part">PART II · THE CROWDER YEARS (2018–2021)</div>
 <div class="e"><span class="n">7</span><span class="t">A False Accusation Weaponized</span></div>
 <div class="e"><span class="n">8</span><span class="t">Conviction and Contempt</span></div>
@@ -57,7 +57,7 @@
 <div class="e"><span class="n">37</span><span class="t">Reardon v. Osteen: The Objections</span></div>
 <div class="e"><span class="n">38</span><span class="t">Sentencing</span></div>
 <div class="e"><span class="n">39</span><span class="t">The Financial Warfare of Constitutional Litigation</span></div>
-<div class="e f"><span class="n"></span><span class="t">Epilogue — The Fight Continues</span></div>
+<div class="e f"><span class="n"></span><span class="t">Epilogue — The Record</span></div>
 <div class="part">PART VI · SYSTEMIC ANALYSIS</div>
 <div class="e f"><span class="n"></span><span class="t">Legal Analysis</span></div>
 <div class="e f"><span class="n"></span><span class="t">Appendix</span></div>
