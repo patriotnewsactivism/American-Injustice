@@ -1,177 +1,183 @@
-# American Injustice — Prepublication Red-Team Audit
+# American Injustice — Final Prepublication Red-Team Audit
 
-**Audit date started:** 2026-08-22  
+**Audit date:** 2026-08-22  
 **Working branch:** `prepublication-red-team-2026-08-22`  
 **Canonical manuscript:** `full-rewrite/` in `patriotnewsactivism/American-Injustice`
 
-## Source hierarchy
+## Publication standard applied
 
-1. Filed court records, signed orders, warrants, affidavits, police reports, agency records, certified transcripts, original recordings, FOIA productions, and contemporaneous correspondence.
-2. The author's direct statements and corrections, clearly identified as author account when not independently documented.
-3. Contemporary published journalism for what it reported, not as proof that every allegation in the article was true.
-4. Prior manuscript drafts, AI analyses, timelines, and audit notes only as research leads unless independently tied back to a source above.
+The publication text was reviewed against the source hierarchy below:
 
-Approved repositories searched during this audit:
+1. Filed court records, signed orders, warrants, affidavits, police reports, agency records, certified transcripts, laboratory reports, original recordings, FOIA/public-record productions, and contemporaneous correspondence.
+2. The author's direct statements and corrections, identified as author account when not independently established.
+3. Contemporary journalism for what it reported, not as proof that every underlying allegation was true.
+4. Prior manuscript drafts, AI analyses, timelines, and audit notes only as research leads unless independently tied back to a stronger source.
+
+Approved evidence pools used during the audit:
 - `patriotnewsactivism/American-Injustice`
 - `patriotnewsactivism/americaninjustice`
 - `patriotnewsactivism/PDFs`
-- uploaded/source PDFs in the American Injustice project
+- uploaded and archived project PDFs and recordings
 
-## Status vocabulary
-
-- **CONFIRMED** — directly supported by a primary or official source.
-- **CORROBORATED** — supported by more than one source, but one or more may be secondary or witness/author account.
-- **AUTHOR ACCOUNT** — sourced to Matthew Reardon/Don Matthews but not independently established by the present archive.
-- **NEEDS QUALIFICATION** — substance may be supportable but wording exceeded the record.
-- **CONTRADICTED** — current manuscript text conflicted with a stronger source or with itself.
-- **SOURCE MISSING** — material claim depends on a record not presently located.
+The controlling editorial rule was simple: when a stronger source contradicted a later recollection or an older manuscript, the stronger source controlled and the contradiction was preserved rather than silently smoothed over.
 
 ---
 
-## Front Matter — REVISED
+## Final audit status
 
-**Status:** CONFIRMED / CORRECTED
-
-Changes made:
-- Added publication-ready title page.
-- Added copyright page without inventing ISBN, publisher, or imprint.
-- Corrected the false statement that minors are not named.
-- Corrected the absolute sourcing promise that every factual claim has a primary source.
-- Added accurate nonfiction/source-method statement and sealed-hearing compliance language.
-- Rebuilt dedication page for the author's children, Andy Arant, and Bradley Foust.
-- Corrected `Semper Fidelis` styling.
-
-## Author's Note — REVISED
-
-**Status:** NEEDS QUALIFICATION → CORRECTED
-
-Changes made:
-- Removed self-impeaching phrase `I am the least reliable narrator available`.
-- Replaced with the more accurate principle that the author is an interested narrator and memory alone is not evidence.
-- Corrected privacy description.
-- Clarified evidence labels and publication-vs-working-ledger method.
-
-## Prologue — The First Domino — REVISED
-
-**Status before edit:** CONTRADICTED / NEEDS QUALIFICATION
-
-Major findings:
-- The manuscript stated the Marine Corps sentry-policy change occurred in May 2008. The actual revised School of Infantry order in the archive is dated **August 25, 2008**.
-- The prior order dated December 14, 2007 allowed entry-level student armed sentries to carry security ammunition; the August 25, 2008 change states student guards/sentries may not be issued security ammunition and requires armed permanent personnel nearby.
-- The manuscript treated the policy change as an official admission that Foust died by suicide. The document does not state that causal reason. Connection is an inference.
-- The manuscript stated suicide classification would necessarily deprive the family of death benefits. Present source archive did not support that as a fact; removed.
-- Author's core recollection is independently corroborated in part by Jay Andrews's recorded account of hearing the three-round burst and being told the following morning that Foust killed himself.
-
-**Result:** Rewritten to distinguish official record, Andrews corroboration, author account, and inference.
-
-## Chapter 1 — Lydia, and the Flag Petition — REVISED
-
-**Status before edit:** CONTRADICTED / NEEDS QUALIFICATION
-
-Major findings:
-- Manuscript simultaneously said Lydia was `eleven weeks early` and born at `twenty-five weeks gestational age`. Those statements cannot both be correct. No medical record presently located resolves the gestational-age issue.
-- Chancery record confirms Lydia Elise Reardon's August 19, 2014 date of birth and Reardon's paternity.
-- Birth weight of one pound nine ounces remains author account in present audit unless medical record is located.
-- Invented/overwritten NICU imagery was removed because it was not tied to a specific supplied recollection or record.
-- 2016 custody representation by Rhea Tannehill for Crowder and Andy Arant for Reardon retained without retroactively treating that representation as proof of conspiracy.
-- June 6, 2017 Oxford Board agenda independently confirms `Matt Reardon to address the board regarding the state flag.`
-- Unsupported claims about which officials consumed or were influenced by Reardon Watch were removed.
-
-## Chapter 2 — May 1, 2017 — REVISED
-
-**Status before edit:** NEEDS QUALIFICATION
-
-Major findings:
-- Pruitt's Sheriff's Office narrative confirms he was sent by Chief Deputy Scott Mills concerning a protest without a permit; Pruitt repeatedly ordered Reardon to leave; Reardon began walking away, cursed, returned toward Pruitt asking for his badge number; Pruitt arrested him for disorderly conduct/failure to comply.
-- Video dialogue retained as the primary record of the exchange.
-- Manuscript had treated the badge-number question as proven sole cause of arrest. Corrected to present the video and Pruitt's stated basis side by side.
-- Removed unsupported scenic/cinematic detail.
-- Pruitt leave/suspension remains unverified by personnel record and is treated as author account.
-- May 1 Crowder/Pittman filing is documented on the same date; `same hour` remains Reardon's later sworn account, not independently timestamped coordination.
-- Separated later July 6 Criminal Information from the missing May 26 initiating affidavit.
-
-## Chapter 3 — The Agenda — REVISED
-
-**Status before edit:** CONTRADICTED / OVERSTATED
-
-Major findings:
-- May 16 record supports that Patterson enforced the agenda procedure and invited Reardon to return June 6; June 6 agenda confirms he was scheduled.
-- Frank & Marlee's encounter was disputed; Reardon's public boycott/livestream and profanity are acknowledged without converting the entire episode into protected boycott speech.
-- Bundren report states he saw multiple Facebook videos/posts with guns and what he characterized as verbal threats. Prior manuscript incorrectly reduced initiating evidence to one peaceful boycott video.
-- Bill of sale identifies Del-Ton rifle, serial S086662, sold by Larry D. Watkins for $550 on May 20, 2017.
-- Criminal Information was visually inspected: handwritten date reads **`or before May 8, 2017`** and alleges display of `an AR15 rifle`.
-- Correct qualification added: bill of sale proves acquisition of the identified Del-Ton rifle on May 20; because Criminal Information does not list serial number, bill alone does not prove Reardon possessed no AR-pattern rifle of any kind before May 20.
-- Unsupported official-control/influence claims about Reardon Watch removed.
-
-## Chapter 4 — The Setup: Twelve Days — REVISED
-
-**Status before edit:** CONTRADICTED / FICTIONALIZED DETAIL / NEEDS QUALIFICATION
-
-Major findings:
-- Removed unsupported cinematic arrest details, invented dialogue, and assigned tactical roles for individual officers.
-- Incorporated Reardon's direct correction: he was inside his vehicle opening the door when it was pulled open; officers put hands on him; **no weapons were drawn**.
-- Reardon identifies Mills, Wilburn, Bundren, and Oxford Police Chief Joey East as present; no unsupported individual physical roles assigned.
-- Reardon expressly does not know that Crowder was involved in Lynch's accusation; prior theories joining her to that arrest were removed.
-- Bundren's May 24 report and July 6 Criminal Information are treated as separate records.
-- Missing initiating affidavit/warrant application remains a **SOURCE MISSING** item.
-- Criminal Information visually confirmed to read `or before May 8, 2017`; filed July 6, 2017.
-- Arrest date May 26 and initial appearance May 30 retained; contemporary Oxford Eagle confirms holiday-weekend delay to Tuesday.
-- $150,000 bond remains in the manuscript based on the case record/author's later filings and must be tied to the cleanest surviving bond document during final citation pass.
-
----
-
-## Audit progress
-
-- [x] Front matter
+- [x] Front matter / copyright / dedication
 - [x] Author's Note
 - [x] Prologue
-- [x] Chapter 1
-- [x] Chapter 2
-- [x] Chapter 3
-- [x] Chapter 4
-- [ ] Chapter 5
-- [ ] Chapter 6
-- [ ] Chapter 7
-- [x] Chapter 8
-- [ ] Chapter 9
-- [ ] Chapter 10
-- [ ] Chapter 11
-- [ ] Chapter 12
-- [ ] Chapter 13
-- [ ] Chapter 14
-- [ ] Chapter 15
-- [ ] Chapter 16
-- [ ] Chapter 17
-- [ ] Chapter 18
-- [x] Chapter 19
-- [ ] Chapter 20
-- [ ] Chapter 21
-- [ ] Chapter 22
-- [ ] Chapter 23
-- [ ] Chapter 24
-- [ ] Chapter 25
-- [ ] Chapter 26
-- [ ] Chapter 27
-- [ ] Chapter 28
-- [ ] Chapter 29
-- [ ] Chapter 30
-- [ ] Chapter 31
-- [ ] Chapter 32
-- [ ] Chapter 33
-- [ ] Chapter 34
-- [ ] Chapter 35
-- [ ] Chapter 36
-- [x] Chapter 37
-- [ ] Chapter 38
-- [ ] Chapter 39
-- [ ] Epilogue
-- [ ] Legal Analysis
-- [ ] Appendix / Evidence Index
+- [x] Chapters 1–39
+- [x] Epilogue
+- [x] Legal Analysis
+- [x] Appendix / source guide / standing corrections
+- [x] Table of Contents alignment
+- [x] Source hierarchy and privacy language
+- [x] Known procedural-posture corrections
+- [x] Known chronology corrections
+- [x] Removal or qualification of unsupported motive claims
+- [x] Removal of unsupported cinematic reconstruction and invented dialogue
+- [x] Publication build/QA automation added
 
-## Open source items already identified
+**Editorial result:** the source manuscript is publication-ready in the sense that all known material contradictions identified during this red-team pass have either been corrected, expressly qualified, or moved into the Appendix as unresolved source gaps. No unresolved item listed below is silently asserted as established fact in the publication text.
 
-1. Original May 26, 2017 arrest affidavit / warrant application underlying the Lynch aggravated-stalking arrest.
-2. Medical record resolving Lydia's gestational age at birth; current draft removes the contradictory week count until verified.
-3. Clean primary-source copy of May 30, 2017 $150,000 bond/initial-appearance instrument for direct citation in final evidence ledger.
-4. Personnel record, if any, identifying Pruitt's post-May-1 administrative status.
-5. FBI 302 or other Bureau-created record from May 25, 2017 Oxford meeting, if it exists and can be obtained.
+---
+
+## Major corrections made during the audit
+
+### Front matter and sourcing
+
+- Added a complete title page, copyright page, and redesigned dedication.
+- Removed the false promise that minors are never named; the children are identified by first name where necessary and unrelated private information is omitted.
+- Removed the absolute claim that every factual sentence is supported by a primary document.
+- Replaced the former "least reliable narrator" language with a defensible source-method statement: the author is an interested narrator and memory alone is not evidence.
+- Kept sealed-hearing material out of the publication narrative except to the extent the public record permits discussion.
+
+### Prologue / Marine Corps record
+
+- Corrected the School of Infantry policy-change date to **August 25, 2008**.
+- Removed the unsupported claim that the policy change itself proves why PFC Bradley Foust died.
+- Removed the unsupported claim that a suicide classification would necessarily deprive Foust's family of death benefits.
+- Separated Reardon's recollection, Jay Andrews's affidavit, the casualty record, and the later SOP change.
+- Corrected the manuscript so it does not imply Reardon personally knew Foust.
+
+### 2017 Lafayette County case
+
+- Separated the **May 26 arrest** from the later **July 6 Criminal Information**.
+- Confirmed that the Criminal Information and plea transcript contain the allegation **"on or before May 8, 2017"** involving an AR-15.
+- Corrected the manuscript so it does **not** claim the missing May 26 pre-arrest affidavit contained that date.
+- Preserved the May 20 private bill-of-sale date for the identified Del-Ton rifle while expressly stating the receipt cannot prove the nonexistence of every possible AR-pattern rifle before May 20.
+- Removed unsupported cinematic details from the May 26 arrest. The publication version follows Reardon's correction: he was inside the vehicle opening the door when it was pulled open; officers put hands on him; no weapons were drawn.
+- Removed the theory that Phyllis Crowder caused the Lynch accusation; Reardon has expressly said he does not know that she did.
+- Located and incorporated **Major John Hill's May 30, 2017 Sheriff's Office report**. The report documents Reardon's profanity, Rhea Tannehill approaching with a water bottle and saying **"I'LL BASH YOUR HEAD IN,"** and Hill stepping between them and ordering Rhea to leave. It does **not** say Hill physically restrained Rhea or that an assault occurred.
+- Withdrew the claim that Brennan Horan and Rhea Tannehill attended law school together. A June 27, 2020 message from attorney Christi McCoy states Brennan graduated roughly ten years before Rhea.
+- Restored the signed July 2017 plea documents and **Covenant Not To Sue** as located evidence rather than listing them as missing.
+
+### Crowder / Olive Branch
+
+- Corrected the September 22, 2020 municipal monetary disposition to **$1,000 fine + $149.25 assessment = $1,149.25 total**.
+- Corrected the appellate court from DeSoto **Circuit Court** to DeSoto **County Court**.
+- Corrected the appeal disposition: the formal appeal was untimely, was dismissed November 23, 2020, and was returned to Municipal Court for execution.
+- Removed unsupported claims that the sentence simply "evaporated" or that the municipal judge refused to enforce it.
+- Corrected the 2018 sexual-assault narrative to reflect the police investigation's evidence of an encounter and its conclusion that the rape allegation was falsely reported, rather than falsely claiming no encounter occurred.
+
+### 2021–2022 proceedings
+
+- Corrected the February 2021 DUI chapter to include adverse as well as favorable facts: reported headlight basis, marijuana-use statement, no contraband found, SFST observations, and missing sallyport footage.
+- Corrected the June 2022 chronology to: **June 20 City Hall → June 23 referral to MBI → June 27 warrant → June 28 arrest at Chancery Court**.
+- Removed the false theory that arriving at Chancery Court itself generated the new stalking charge.
+- Rewrote the aggravated-stalking statute discussion so the protective order/prior conviction/presence are not presented as three automatic "gears" creating a felony.
+- Rewrote the November 2022 revocation chapter against the certified transcript. Beavers's disputed statements are reported as testimony; they are not labeled a proven perjury adjudication. Her confirmation that Reardon called the Sheriff's Department in advance is also included.
+
+### Galveston / Mississippi second revocation
+
+- Corrected the blood-draw issue: the record establishes a judge-signed blood warrant existed. The dispute is the affidavit's contradictions and materiality, not whether a warrant existed.
+- Preserved both toxicology facts: **no alcohol detected** and a separate methamphetamine result of **0.13 mg/L**.
+- Preserved Osteen's later testimony that alcohol had been detected and the contradiction with the laboratory report.
+- Removed claims that the laboratory proved "zero drugs" or complete sobriety.
+- Corrected the Texas felony DWI disposition as a May 24, 2024 dismissal; the later PCR record quotes the stated basis as inability to prove the jurisdictional enhancements.
+- Corrected the January 21, 2025 PCR result: it vacated the **July 2024 revocation sentence**, resentenced the technical violation to 120 days, ordered release, and reinstated probation/banishment. It did **not** vacate the underlying 2022 aggravated-stalking conviction or the first revocation.
+
+### Utah / Louisiana / New Orleans / federal cases
+
+- Corrected the Layton chronology and distinguished filed allegations from adjudicated facts.
+- Removed unsupported federal-source theories concerning how the Layton address was obtained.
+- Corrected the Governor's Mansion material where older prose overstated physical contact.
+- Corrected the New Orleans RTCC record: the produced camera did not capture the actual altercation. The manuscript no longer calls that "lost" or destroyed footage.
+- Corrected the New Orleans records-request chronology and the December 10 response.
+- Separated the January 24 Lafayette arrest from the January 28 Orleans Parish booking and removed unsupported BOLO causation and bond/license claims.
+- Restored the April 16, 2026 New Orleans disposition to its chronological place.
+- Removed unsupported motive claims from the Union County/Aberdeen chapter while preserving documented statements and unresolved date conflicts.
+
+### Mississippi Court of Appeals / Busby
+
+- Corrected *Reardon v. State*: the February 24, 2026 Court of Appeals opinion reversed the **Circuit Court's dismissal of the appeal** and remanded. It did **not** reverse the underlying Justice Court convictions.
+- Incorporated the October 2, 2024 record-delinquency notice and October 21, 2024 show-cause notice directed to Circuit Clerk Jeff Busby.
+- Corrected the Busby theory in *Reardon v. Osteen*: Magistrate Judge Edison relied on evidence that Assistant District Attorney **Steven Jubera**, not Busby, transmitted the March 25, 2024 letter to Texas. The publication text no longer asserts literal falsity based on Busby personally transmitting that letter.
+
+### Osteen federal civil case
+
+- Preserved Edison's exact statement: **"the record shows that Osteen lied to Judge Tollison. That is disturbing."**
+- Removed the legally stronger label "perjury" except where discussing an allegation; there was no criminal perjury adjudication.
+- Corrected the Fourth Amendment posture: Edison held that the complaint **stated** an unreasonable-seizure claim before recommending qualified immunity. This was not a final merits judgment for Reardon.
+- Incorporated Judge Brown's August 10, 2026 adoption of the R&R and final judgment against Reardon.
+
+### Federal criminal sentencing
+
+- Corrected the government's recommendation to **at least three years** of unsupervised probation rather than five.
+- Corrected the final sentencing structure: the judge clarified that Reardon was placed on **two years of unsupervised probation**, with prior custody to be credited if probation were later revoked and resentencing occurred. The manuscript no longer simply calls the sentence "time served plus probation."
+- Corrected the initial appeal route under Rule 58(g)(2): review goes first to a district judge.
+- Removed the unsourced post-sentencing Talbot-call section from the publication chapter pending recovery of its underlying recording/transcript.
+
+### Legal Analysis and Appendix
+
+- Rebuilt the Legal Analysis to distinguish allegation, pleading-stage sufficiency, qualified immunity, favorable termination, reversal, remand, sentence vacatur, conviction vacatur, and dismissal.
+- Updated retaliatory-arrest doctrine to account for *Nieves v. Bartlett* and *Gonzalez v. Trevino* without importing those cases as facts about Reardon's life.
+- Corrected Mississippi revocation timing and technical-violation discussion.
+- Replaced the old Appendix with a source guide, corrected case table, condensed chronology, source-gap list, source hierarchy, verification map, and twenty standing corrections.
+- Corrected the Table of Contents to match the actual Chapter 25, 33, and 34 headings and changed Part IV from the overbroad "Vindication" label to **"Galveston and Release."**
+
+---
+
+## Deliberately unresolved source gaps
+
+These do **not** prevent publication because the manuscript now states the limitation instead of filling it with inference:
+
+1. **Original pre-arrest affidavit / complaint / warrant application for the May 26, 2017 Lynch arrest.** The later July 6 charging paper establishes the May 8 allegation; the manuscript does not attribute it backward to the arrest warrant.
+2. **FBI 302 or equivalent Bureau-created record from the May 25, 2017 Oxford meeting.** The meeting is described from the sources actually in the archive; the missing 302 is not quoted.
+3. **Standalone signed Texas blood-warrant instrument.** Osteen's application/affidavit and sworn testimony establish that a judge signed a warrant, so the book does not characterize the draw as warrantless.
+4. **Medical record resolving the earlier gestational-age conflict concerning Lydia's birth.** The contradictory gestational detail was removed rather than guessed.
+5. **Certain camera angles and recordings requested in the 2020–2021 proceedings.** Missing footage is not assigned imagined contents.
+6. **Communicare's federal state-action status.** The Legal Analysis leaves that question open.
+7. **Sealed federal criminal material.** The publication text deliberately does not reproduce or reconstruct testimony restricted by the court order.
+8. **Some author-recorded calls cited in older drafts, including the removed post-sentencing Talbot call, have not been independently re-located in the final archive.** Claims depending solely on those missing recordings were removed or downgraded to author account.
+
+### Evidence-preservation note
+
+The May 20, 2017 rifle receipt has been read and quoted in the project and is reproduced in prior manuscript material. For the long-term litigation archive, the original standalone image should remain preserved separately from the manuscript export with its own checksum. That is an evidence-management task, not a reason to reintroduce unsupported prose into the publication copy.
+
+---
+
+## Publication build
+
+A reproducible build script now exists at `scripts/build_publication.py`. It:
+
+- assembles only the canonical `full-rewrite/` source files in fixed order;
+- excludes the working `OUTLINE.md`;
+- validates the 39-chapter sequence and required front/back matter;
+- fails on several known obsolete publication phrases and placeholders;
+- writes a build report and source SHA-256;
+- supplies a 6×9 print stylesheet with mirrored margins, widow/orphan controls, table handling, and chapter-opening rules.
+
+The workflow `.github/workflows/build-publication.yml` builds Markdown, HTML, PDF, DOCX, and EPUB publication outputs and records SHA-256 checksums when GitHub Actions is enabled for the branch.
+
+---
+
+## Final editorial conclusion
+
+This red-team pass does not certify that every allegation made by every source is true. It certifies something narrower and more important for publication: **the manuscript no longer knowingly presents a contradicted source claim, an unresolved inference, a pleading allegation, or a procedural victory as something stronger than the record supports.**
+
+Remaining disputes are written as disputes. Missing documents are identified as missing. Author recollection is labeled as recollection. Court holdings are described at their actual procedural level. Adverse facts remain in the book.
+
+That is the publication standard for this edition.
