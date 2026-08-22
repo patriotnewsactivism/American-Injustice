@@ -96,6 +96,6 @@ One is what federal officers knew and shared about me before the August confront
 
 The other is whether, on August 25 itself, I knowingly obstructed a courthouse entrance within the meaning of 41 C.F.R. § 102-74.390(b).
 
-After a bench trial on **December 15 and 16, 2025**, the federal court answered the second question against me. On **January 16, 2026**, Magistrate Judge Carol B. Whitehurst's successor in the matter, Magistrate Judge **Patrick J. LeBlanc**, issued written Reasons for Judgment denying my renewed Rule 29 motion and adjudging me guilty.
+After a bench trial on **December 15 and 16, 2025**, the federal court answered the second question against me. On **January 16, 2026**, Magistrate Judge **Patrick J. LeBlanc** issued written Reasons for Judgment denying my renewed Rule 29 motion and adjudging me guilty.
 
 The next chapter is about that trial and what the court actually decided — including the evidence-preservation dispute that I believe remains one of the most important issues in the case.
