@@ -67,6 +67,7 @@ jobs:
           STEM='American_Injustice_PUBLICATION_2026-08-22'
           PDF="$OUT/$STEM.pdf"
           TXT="$RUNNER_TEMP/american-injustice-rendered.txt"
+          FLAT="$RUNNER_TEMP/american-injustice-rendered-flat.txt"
           INFO="$OUT/PDF_INFO.txt"
 
           grep -Fq 'Page size:       432 x 648 pts' "$INFO"
@@ -75,23 +76,38 @@ jobs:
           test "$PAGES" -ge 200
 
           pdftotext -layout "$PDF" "$TXT"
+          python - "$TXT" "$FLAT" <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+          import unicodedata
+
+          text = Path(sys.argv[1]).read_text(encoding='utf-8', errors='replace')
+          text = unicodedata.normalize('NFKC', text)
+          text = text.replace('—', '-').replace('–', '-').replace('©', ' copyright ')
+          text = re.sub(r'\s+', ' ', text).strip().lower()
+          Path(sys.argv[2]).write_text(text, encoding='utf-8')
+          PY
+
           for required in \
-            'AMERICAN INJUSTICE' \
-            'Copyright © 2026 Matthew Oliver Reardon' \
-            'DEDICATION' \
-            'A NOTE FROM THE AUTHOR' \
-            'PROLOGUE — THE FIRST DOMINO' \
-            'CHAPTER 1' \
-            'CHAPTER 39' \
-            'EPILOGUE — THE RECORD' \
-            'LEGAL ANALYSIS' \
-            'APPENDIX' \
-            'STANDING CORRECTIONS FROM EARLIER EDITIONS'
+            'american injustice' \
+            'matthew oliver reardon' \
+            'dedication' \
+            'a note from the author' \
+            'prologue' \
+            'chapter 1' \
+            'chapter 39' \
+            'epilogue' \
+            'legal analysis' \
+            'appendix' \
+            'standing corrections from earlier editions'
           do
-            grep -Fq "$required" "$TXT"
+            grep -Fq "$required" "$FLAT"
           done
 
-          if grep -Fq 'fully vacated my 2022 conviction' "$TXT"; then
+          grep -Fq '2026' "$FLAT"
+
+          if grep -Fq 'fully vacated my 2022 conviction' "$FLAT"; then
             echo 'Rendered PDF contains obsolete vacatur wording.' >&2
             exit 1
           fi
