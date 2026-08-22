@@ -6,15 +6,13 @@ The court initially wanted to appoint counsel and continue the hearing. I waived
 
 I also told the court that I had filed a motion to withdraw my guilty plea on October 31 and that the State had filed the revocation motion the next day. Judge Tollison said the plea-withdrawal motion would be processed separately and was not the matter before him.
 
-The State's theory was straightforward. It alleged that I had violated the five-year banishment condition by being in Oxford for unauthorized purposes on October 28 and October 31. The October 28 incident was my visit to the FBI office. The October 31 allegation came from a witness who said she saw me driving through a residential neighborhood called Shelby's Place.
+The State alleged that I had violated the five-year banishment condition by being in Oxford for unauthorized purposes on October 28 and October 31. The October 28 incident was my visit to the FBI office. The October 31 allegation came from a witness who said she saw me driving through a residential neighborhood called Shelby's Place.
 
 I denied both violations. As to the FBI visit, I told the court I had contacted Deputy Kandace Beavers beforehand and had done what I believed the court required. As to Shelby's Place, I denied being there.
 
 Beavers was the State's first witness.
 
-Her testimony is narrower than the version I repeated publicly for years, and that distinction matters.
-
-She testified that I called the Sheriff's Department on October 28 and told her I needed to come into Oxford to meet with an FBI agent. In her words, I was "reporting that he was coming into the city." She said I told her the meeting needed to occur before lunch. She then reported the call to Sheriff Joey East, and somebody contacted the FBI office.
+She testified that I called the Sheriff's Department on October 28 and told her I needed to come into Oxford to meet with an FBI agent. In her words, I was "reporting that he was coming into the city." She said I told her the visit needed to occur before lunch. She then reported the call to Sheriff Joey East, and somebody contacted the FBI office.
 
 According to Beavers, the FBI said I did not have an appointment.
 
@@ -28,43 +26,65 @@ Beavers answered:
 
 I objected. Judge Tollison responded that the rules of evidence do not apply to a revocation proceeding.
 
-That exchange is in the certified transcript. But it needs to be read with the rest of the record, not isolated from it.
+For years I described that exchange from memory and from the certified transcript alone. The archive now contains something better: the recordings of the calls themselves, preserved in later video material and transcribed in the project files.
 
-First, Beavers did not testify that I failed to notify the Sheriff's Department. She testified to the opposite: I called before entering Oxford and told her where I was going.
+The first call was to the FBI.
 
-Second, the recovered transcript of my separate call to the FBI that morning explains why the FBI later told the Sheriff's Department I had no appointment. I called the Oxford FBI office, described evidence I wanted to provide concerning the Holly Springs Police Department, and explained that I had a special problem because I was banished from Oxford and needed permission to enter. I asked for a set time so I could notify Oxford or the Lafayette County Sheriff's Department.
+I told the Oxford FBI office that I wanted to provide evidence concerning the Holly Springs Police Department. I explained that I was banished from Oxford and needed permission to enter the city, then asked whether somebody could set a time so I could notify Oxford or the Lafayette County Sheriff's Department.
 
-The transcript of that recording renders the FBI staffer as saying, "Well we do walk-ins as opposed to phone calls." When I explained again that I needed a time because of the banishment restriction, the staffer gave me the office hours and said coming before noon "would be perfect." I then said I would load the evidence onto a jump drive and come to the office.
+The recording transcript renders the FBI staffer saying:
 
-That recovered call is important because it independently explains two details in Beavers's testimony: why I had no formal appointment and why I told her the visit needed to occur before lunch.
+> "Well we do walk-ins as opposed to phone calls."
 
-It does not prove the exact words I used when I later called Beavers. The Sheriff's Department call itself has not yet been located in the evidence archive. That is a real evidentiary gap, and I am not going to bridge it with my memory.
+I asked about office hours and whether lunch would create a problem. The staffer said the schedule varied and added:
 
-The transcript does establish one thing beyond dispute: Beavers acknowledged receiving advance notice of the FBI visit.
+> "I would say if you could come before 12 would be perfect."
 
-On cross-examination, I pressed her about what I had told her. She confirmed that I said I had business at the FBI building. The exchange also shows that she asked who the FBI agent was. My position was that the Sheriff's Department did not need to know the identity of the federal agent or the substance of the complaint I intended to make.
+I said I would put the evidence on a jump drive and come to the office.
 
-Earlier versions of my story turned that testimony into a broader accusation: that Beavers falsely told the court I had entered the FBI office without permission or without notifying the Sheriff's Department. The certified transcript does not support that formulation. She admitted I called ahead. The dispute was whether I had the kind of authorized purpose that fit the banishment order and whether I had truthfully characterized my intended FBI visit.
+Then I called the Lafayette County Sheriff's Department.
 
-The second witness was Emily Frye.
+The recovered conversation materially changes how the revocation testimony has to be evaluated. I told Beavers that I had just spoken with the FBI, that I needed to go there within roughly the next hour, and that I was calling to notify the Sheriff's Department. She asked when I expected to come through and took down the information.
+
+More importantly, Beavers later called back and asked what time my "appointment" was.
+
+My answer on the recording was explicit: the FBI **did not really do appointments**. I told her I had tried to set one, but the FBI staffer had instead told me to come before lunch. Beavers acknowledged that answer and continued documenting where I expected to go.
+
+That recording eliminates an evidentiary gap that existed in an earlier draft of this chapter. I no longer have to rely on my later description of what I told Beavers. The conversation itself survives in the project archive.
+
+And on the narrow question Kilpatrick put to her in court, it matters a great deal.
+
+When the prosecutor asked, "Okay, so he lied?" the premise was that the FBI said I had no appointment. But Beavers had already been told by me, on the recorded call before the trip, that there was no formal appointment because the FBI handled walk-ins. I had not represented to her that I possessed a scheduled appointment. I told her the opposite.
+
+The FBI call independently matches that account. I asked for an appointment; the FBI told me it handled walk-ins; the staffer gave me a before-noon window; and I then relayed that situation to Beavers.
+
+So the record supports a narrower and stronger conclusion than some of my later public accusations. Beavers did not falsely testify that I had given no notice. She admitted I called ahead. But her answer "Yes" to the prosecutor's conclusion that I had lied about an appointment is directly undercut by the recorded conversation she herself had with me before the visit. The recording shows that she had been told there was no formal appointment.
+
+I am deliberately not upgrading that contradiction into a criminal conclusion about perjury. The transcript and recording establish what was said. Questions of criminal intent belong to a tribunal with jurisdiction to decide them. What I can say from the source record is that the recorded call materially contradicts the factual premise of the "so he lied?" exchange.
+
+There is still a separate legal problem for me, and it cannot be edited away.
+
+The State's later written description of my sentence says that advance notice to the Sheriff's Department applied to **court proceedings or scheduled court business**. An FBI walk-in was not expressly listed as an exception. The other temporary exception allowed me to remain at and travel directly to the residence where I was staying while I relocated.
+
+So proving that I told Beavers the truth about the FBI visit does not automatically prove that the visit was authorized under the banishment order.
+
+That is the central distinction this chapter must preserve: the appointment accusation and the probation violation are not the same question.
+
+The second State witness was Emily Frye.
 
 Frye testified that she was at her father's home in Shelby's Place on Halloween night, October 31, around 7:40 p.m. She said she saw a black Chevrolet Equinox moving slowly through the neighborhood and identified me as the driver because the interior lights were on. On cross-examination, she acknowledged that she had no photograph and no recorded license-plate number. She said her stepmother tried to obtain the plate but could not because something covered part of it.
 
 I denied being there.
 
-After hearing Beavers and Frye, Judge Tollison took a short recess and then ruled. His reasoning is the most important correction in this chapter.
+After hearing Beavers and Frye, Judge Tollison took a short recess and then ruled. His reasoning is the most important limit on the Beavers issue.
 
-The judge did not say Beavers's "he lied" answer was the basis for revocation. He found, under the preponderance-of-the-evidence standard, that it was more probable than not that the two incidents described by Beavers and Frye occurred and that I had violated the banishment condition. The ruling rested on the State's proof of unauthorized presence in Lafayette County on October 28 and October 31.
+The judge did not say the "he lied" answer was the basis for revocation. He found, under the preponderance-of-the-evidence standard, that it was more probable than not that the two incidents described by Beavers and Frye occurred and that I had violated the banishment condition. His ruling rested on the State's proof of unauthorized presence in Lafayette County on October 28 and October 31.
 
 That means a line I repeated for years — that Beavers's perjury sent me to prison — is too broad and should not survive in this book.
 
-Her "Yes" to Kilpatrick's "so he lied?" question is troubling in context because the FBI recording shows the office itself told me it operated on a walk-in basis and gave me the before-noon window that Beavers later repeated. But Judge Tollison did not state that the appointment issue was necessary to his ruling. He found the banishment violated based on the two incidents themselves.
+The appointment testimony was part of the State's presentation, and the recovered calls materially contradict its implication that I had falsely claimed a formal FBI appointment. But Judge Tollison's stated ruling was broader: he found that I had been present in Lafayette County for purposes outside the exceptions in the sentence.
 
-There is another correction that cuts against my position. In the revocation hearing I told Judge Tollison that I had called Beavers "to ask permission" and that I had done exactly what the court required. But the State's later written description of the sentencing terms shows that notice to the Sheriff's Department was expressly tied to **court proceedings or scheduled court business**. The FBI visit was not identified in the order as an exception. Calling ahead therefore does not, by itself, prove the visit was authorized under the sentence.
-
-The recovered FBI call proves that I was trying to navigate the restriction openly. It proves that I asked the FBI for a set time because I needed to notify local authorities. It explains why there was no formal appointment. It supports my contention that I was not secretly slipping back into Oxford.
-
-It does not rewrite the actual exception in the sentencing terms.
+The October 28 recording helps me on credibility. It shows that I was trying to navigate the restriction openly, that I asked the FBI for a set time because I needed to notify local authorities, and that I told Beavers there was no formal appointment. It does not rewrite the wording of the banishment exceptions.
 
 The same distinction applies to October 31. I denied Frye's identification and pointed out the absence of a photograph or plate number. Judge Tollison nevertheless credited the State's proof under a preponderance standard, which is lower than the beyond-a-reasonable-doubt standard used at a criminal trial.
 
@@ -84,6 +104,6 @@ The record therefore has two distinct adverse rulings from this period. Judge To
 
 Those are the legal facts I carried into custody.
 
-I still believe the appointment testimony distorted what happened at the FBI. The recovered FBI call gives that belief substantial documentary support. But the accurate historical record is not "a deputy lied and a judge sent me to prison because of it." It is harder and more precise: the State introduced an adverse characterization of my honesty that the FBI recording materially undercuts, while the judge revoked me on a broader finding that I had been present in Lafayette County for purposes not authorized by the banishment order.
+The strongest correction in this chapter is not that the State's entire revocation case disappears. It does not. It is that the actual phone calls now let the reader separate two questions that earlier accounts blurred together. The recording supports my claim that I told Beavers the truth about the FBI's walk-in procedure. The court nevertheless revoked me because it found my physical presence in Lafayette County unauthorized under the terms of the sentence.
 
-That distinction matters because the next year of my life cannot be understood by starting from the wrong judgment.
+Both facts have to remain standing.
