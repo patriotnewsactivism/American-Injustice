@@ -2,9 +2,7 @@
 
 **Case:** United States v. Matthew Oliver Reardon, 6:25-CR-00227  
 **Source:** User-supplied 29-page PDF, `cd236cf3e_ALLOCUTION_large_print.pdf`  
-**Status:** PREPARED TEXT. This is not a substitute for the livestream or official court transcript when establishing what was actually spoken. Line breaks have been normalized for readability; wording is preserved except for obvious PDF character-encoding artifacts.
 
-> [Stand. Face the judge. Hands at your sides or on the podium. Do not pace. Speak slowly. Breathe between paragraphs. Target length: ~19-20 minutes.]
 
 Your Honor, my name is Matthew Oliver Reardon. I am a United States Marine Corps veteran. I am an independent journalist. I am the founder and publisher of We The People News. I stand before you convicted of a petty offense — obstructing the entrance to this building. The maximum statutory sentence is thirty days.
 
@@ -12,15 +10,11 @@ I am not here to ask the Court to overturn its verdict. That is not what this mo
 
 I ask the Court's patience. I will be brief. And I will be factual. Every claim I make today is documented — in FOIA records, in court filings, in video, and on this Court's own docket.
 
-> [Pause. Two seconds.]
-
 Your Honor, this case did not begin on August 25, 2025. It began two months earlier.
 
 On June 24, 2025, a deputy U.S. Marshal sent an email to multiple recipients at lawd-dot-uscourts-dot-gov addresses. That is the official email domain of this Court. It is used by federal judges, magistrate judges, law clerks, and chambers staff. The subject line read: "First Amendment Auditor Matthew Reardon."
 
 The email stated — and I am quoting from the FOIA record, word for word, exactly as the Marshal wrote it — "On yesterday Matthew Reardon a proclaimed First Amendment auditor was in the lobby near the CSO screening station recording and live streaming with his cellphone. I have attached a copy CSO report and a draft my report detailing the incident. Please pass this on to your staff and remind them to report any suspicious behavior no matter how small to any USMS personnel, CSO or outside guard."
-
-> [Pause. Let "suspicious behavior" land.]
 
 On June 26, 2025, a Supervisory Deputy U.S. Marshal forwarded additional reports about me to more court personnel. The subject line: "Forward: First Amendment Auditor Matthew Reardon."
 
@@ -78,8 +72,6 @@ On November 12, 2025, Magistrate Judge Carol B. Whitehurst recused herself from 
 
 She further wrote: "Avoiding the appearance of impropriety is as important in developing public confidence in our judicial system as avoiding impropriety itself."
 
-> [Pause. Deliver the next line slowly.]
-
 A federal judge looked at what the U.S. Marshals did — sending prejudicial information about me to judges two months before any charge was filed — and said it created an unacceptable appearance of bias. That ruling is on the docket. It is public. It is the law of this case.
 
 And yet the government, on October 15, 2025, filed a motion for a protective order explicitly seeking to restrict — and I quote the filing — "communications between the Marshal service and the Federal Judges at the John Shaw Courthouse." The government did not deny the communications existed. It asked the Court to conceal them. It asked the Court to prevent me from learning which judges received them, what was said, and whether any judge acted on them.
@@ -96,21 +88,15 @@ A condition that says "you may enter only to file a lawsuit" reduces the First A
 
 And if I am found in the lobby with a camera — doing my job — the government calls it a violation. And I am back in a cell. Not for thirty days. For as long as the process takes. I have seen how that process works. I have the recordings. I have the documents. I have the recusal order from this district. I know what happens when the government has a lever and a citizen who refuses to be quiet.
 
-> [Pause.]
-
 Your Honor, I want the Court to understand why I take a banishment-style condition so seriously, because I have already lived through what one becomes.
 
 In 2022, the State of Mississippi and Lafayette County imposed banishment from that county as a condition of my probation. I accepted that condition at the time. A little more than a year later, that same banishment condition became the hook used to find me in violation — based on testimony I maintain was perjured — and I was taken into custody for approximately one year. My son was born by emergency cesarean section while I was confined and could not be there. Mississippi and Lafayette County have gotten away with exactly this: imposing a geographic or access restriction as a probation condition, then later using that same condition to revoke, to incarcerate, and, in my case, to separate me from my children.
 
 I recognize this pattern because I have already lived it. I will not give the government another chance to do that to me.
 
-> [Pause. Look at the judge. Speak clearly and calmly.]
-
 I have already served approximately thirteen days in custody on this matter — in Lafayette, in New Orleans, and here. The statutory maximum is thirty days. I am asking the Court to impose the maximum. Not because I desire incarceration. But because thirty days ends. Probation with a speech restriction does not end the same way. It hangs. It waits. It gives the government a tripwire. And I will not accept a tripwire on my constitutional rights.
 
 I would rather serve every remaining day of a finite sentence than accept an indefinite condition on my right to walk into a public building and do my job.
-
-> [Pause.]
 
 Your Honor, I want the record to reflect that I believe this prosecution was brought not because I obstructed a door, but because I filed a FOIA request, received records exposing the U.S. Marshals' surveillance of my journalism, and then publicly protested that surveillance on the steps of this building. I believe the government's recommended probation condition — barring me from this courthouse — is designed not to protect the public, but to prevent me from documenting and publishing the government's own misconduct, which occurred in this building, which was communicated to the judges of this building, and which the government has sought to conceal through a protective order on this Court's own docket. I object to that condition as an unconstitutional prior restraint on my rights as a journalist under the First Amendment. I ask the Court to note my objection for the record.
 
