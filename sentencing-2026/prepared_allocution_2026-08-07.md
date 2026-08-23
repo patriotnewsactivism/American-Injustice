@@ -26,8 +26,6 @@ The Marshals Service stonewalled for nearly two months. They responded on August
 
 Three days after I received those records, I came to this building. I stood on the steps. I held a sign. And I was arrested.
 
-> [Pause. Look at the judge.]
-
 Your Honor, I want the Court to understand the sequence. The government surveilled me for protected activity. The government prejudiced the judges of this Court against me through ex parte communications. The government distributed my personal information across state lines. And when I protested that surveillance — on the steps of a public courthouse, in a traditional public forum, with a sign — the government arrested me, destroyed my camera equipment, assaulted me in a holding cell, and transferred me to a parish jail without charges.
 
 That is not law enforcement. That is a campaign. And the FOIA records prove it.
