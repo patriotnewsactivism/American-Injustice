@@ -2,11 +2,11 @@
 
 This intake note records five image sources supplied by the author on August 26, 2026. It does not elevate an image, allegation, or handwritten note beyond what the source itself establishes.
 
-## 1. Handwritten notes dated 6/28 — provenance not yet established
+## 1. Mitchell Driskell handwritten notes dated 6/28
 
 Uploaded filename: `Screenshot_20260502_013836_Drive.jpg`
 
-The page is headed with a handwritten `6/28` and `Matt Reardon` and contains notes concerning:
+The author has confirmed that the handwritten page was written by **Mitchell Driskell**. The page is headed with a handwritten `6/28` and `Matt Reardon` and contains notes concerning:
 
 - the 2017 aggravated-stalking conviction;
 - a preliminary/bond setting identified as `7/6/22`;
@@ -18,7 +18,9 @@ The page is headed with a handwritten `6/28` and `Matt Reardon` and contains not
 - an intended public-records request;
 - references to prior First Amendment-audit locations and recording devices.
 
-**Source limitation:** The image itself does not establish who wrote the notes or the capacity in which they were prepared. Do not attribute them to an attorney, investigator, judge, or other person until the author confirms provenance or a separate record establishes it.
+The OCR copy already preserved at `evidence-organized/03-Reardon-Criminal-23-CR-2981/RCR-000041_0000-00-00_Matthew-Reardon-Notes.pdf.txt` is therefore **misleadingly named as to authorship**. The filename is being preserved to avoid breaking existing references; provenance is corrected here.
+
+**Source limitation:** Driskell's authorship establishes who created the notes. The notes remain a contemporaneous record of what Driskell wrote down and do not, standing alone, prove the truth of each factual proposition recorded on the page. Where the notes reflect Reardon's account or defense position, the manuscript should identify them that way rather than converting them into an independent judicial or investigative finding.
 
 ## 2. Christi McCoy email — November 16, 2020
 
@@ -65,6 +67,6 @@ This transaction is already incorporated into Chapters 3, 4, and 9 and the Appen
 ## Publication handling
 
 - Treat the McCoy email and messages as contemporaneous communications and quote or paraphrase them only for what they actually say.
-- Do not use the June 28 handwritten-notes image as attributed evidence until authorship/provenance is confirmed.
+- Attribute the June 28 handwritten notes to Mitchell Driskell, while distinguishing Driskell's notes from an independent finding that every recorded proposition was true.
 - Continue to use the Watkins bill of sale narrowly: it proves the May 20 transaction for serial S086662.
 - Any broader claims of conspiracy, coordination, fraud, or motive require separate evidence and are not established by this packet alone.
