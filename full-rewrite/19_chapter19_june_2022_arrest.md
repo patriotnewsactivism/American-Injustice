@@ -32,6 +32,10 @@ The affidavit says I stood there briefly, walked away, and returned. At approxim
 
 I dispute that characterization. My position has been that the video does not show an attempted unlawful entry into the mayor's office. The video itself, rather than either my description or Mauney's, is the best evidence of what my hand did at that door.
 
+There is also a contemporaneous defense-side record of how I was describing the incident immediately after the arrest. A handwritten page dated **6/28**, which I identify as notes written by attorney **Mitchell Driskell**, records several points in shorthand: “Never asked for her,” “Never grabbed knob,” and “Never tried to go anywhere.” The same page records the stated reason for being there as a “First Am. Audit,” with a camera used to check publicly accessible areas and establish the right to video publicly available areas, and it notes that I was about to make a public-records request.
+
+Those notes matter because they show that the door-handle dispute and the First Amendment-audit explanation were not theories invented years later for this book. Driskell wrote them down on June 28. But the evidentiary limit remains important: they are Driskell's contemporaneous notes of the defense account. They do not independently prove that Mauney's description of the video was wrong. The video remains the best evidence of the physical act itself.
+
 Mauney's affidavit also records what happened immediately afterward. It says I walked away until I encountered a woman on the second floor and told her that I remembered the mayor's office being on the first floor when the prior mayor was in office.
 
 That detail is important because it shows the affidavit was not based on the door moment alone. Investigators were building a broader course-of-conduct theory.
@@ -84,11 +88,11 @@ June 23: McCutchen asked MBI to become involved.
 
 June 27: Mauney and Roe met with Fortner; MBI reviewed the video and other material; an affidavit and arrest warrant were prepared; Judge Smith swore Mauney by FaceTime and signed the warrant around 3:00 p.m.
 
-June 28: deputies knew I had Chancery Court, waited there, arrested me without incident at approximately 9:32 a.m., and transported me to jail.
+June 28: deputies knew I had Chancery Court, waited there, arrested me without incident at approximately 9:32 a.m., and transported me to jail. Driskell's handwritten notes from that date also preserve my contemporaneous defense account that I had not asked for the mayor, had not grabbed the knob, had not tried to go anywhere, and was conducting a First Amendment audit.
 
 July 6: after a several-hour preliminary hearing, Judge Smith found sufficient evidence to send the case toward the grand jury and ordered me held without bond as a perceived threat to the community.
 
-Those dates now come directly from the MBI and Sheriff's records.
+Those dates now come directly from the MBI and Sheriff's records, with the June 28 defense position separately preserved in Driskell's handwritten notes.
 
 The case later produced an indictment and a second guilty plea. The indictment itself would cite the 2017 conviction and identify the earlier offense date as May 8, 2017—showing how the disputed date from Case A became embedded in the charging architecture of Case B.
 
